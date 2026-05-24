@@ -75,6 +75,25 @@ function escapeHtml(value) {
     .replaceAll('"', "&quot;");
 }
 
+function renderInlineText(value) {
+  const source = String(value);
+  const urlPattern = /https:\/\/kaivormusic\.ai(?:\/[^\s<>"']*)?/g;
+  let output = "";
+  let lastIndex = 0;
+
+  for (const match of source.matchAll(urlPattern)) {
+    const rawUrl = match[0];
+    const url = rawUrl.replace(/[.,;:!?。），、]+$/, "");
+    const trailing = rawUrl.slice(url.length);
+    output += escapeHtml(source.slice(lastIndex, match.index));
+    output += `<a href="${escapeHtml(url)}" rel="noopener">${escapeHtml(url)}</a>${escapeHtml(trailing)}`;
+    lastIndex = match.index + rawUrl.length;
+  }
+
+  output += escapeHtml(source.slice(lastIndex));
+  return output;
+}
+
 function normalizeBasePath(value) {
   if (!value || value === "/") return "";
   return value.startsWith("/") ? value.replace(/\/$/, "") : `/${value.replace(/\/$/, "")}`;
@@ -182,7 +201,7 @@ function renderHome(language) {
 function renderPost(language, post) {
   const translation = post.translations[language.code];
   const pathname = postPath(language.code, post);
-  const paragraphs = translation.body.map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`).join("");
+  const paragraphs = translation.body.map((paragraph) => `<p>${renderInlineText(paragraph)}</p>`).join("");
   const keywords = [...new Set([site.name, ...site.brandKeywords, ...post.keywords])].join(", ");
 
   return layout({
