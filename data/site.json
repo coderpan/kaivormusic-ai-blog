@@ -1,6 +1,8 @@
 {
   "name": "kaivorMusic.AI",
-  "url": "https://kaivormusic.ai",
+  "publicUrl": "https://coderpan.github.io/kaivormusic-ai-blog",
+  "basePath": "/kaivormusic-ai-blog",
+  "productUrl": "https://kaivormusic.ai",
   "tagline": "AI music creation for songs, demos, voices, and production-ready ideas.",
   "defaultLocale": "en",
   "brandKeywords": [

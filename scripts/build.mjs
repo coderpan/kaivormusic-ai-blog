@@ -4,6 +4,9 @@ import path from "node:path";
 const root = process.cwd();
 const dist = path.join(root, "dist");
 const site = JSON.parse(await readFile(path.join(root, "data/site.json"), "utf8"));
+const publicUrl = site.publicUrl ?? site.url;
+const productUrl = site.productUrl ?? site.url;
+const basePath = normalizeBasePath(site.basePath ?? "");
 const languages = JSON.parse(await readFile(path.join(root, "data/languages.json"), "utf8"));
 const posts = await loadPosts();
 const localeCopy = Object.fromEntries(
@@ -35,7 +38,11 @@ for (const language of languages) {
   await writeFile(path.join(dist, language.code, "rss.xml"), renderRss(language), "utf8");
 }
 
-await writeFile(path.join(dist, "index.html"), redirectTo(`/${site.defaultLocale}/`), "utf8");
+await writeFile(
+  path.join(dist, "index.html"),
+  redirectTo(publicPath(`/${site.defaultLocale}/`), absolute(`/${site.defaultLocale}/`)),
+  "utf8"
+);
 await writeFile(path.join(dist, "robots.txt"), renderRobots(), "utf8");
 await writeFile(path.join(dist, "sitemap.xml"), renderSitemap(), "utf8");
 await writeFile(path.join(dist, "llms.txt"), renderLlms(), "utf8");
@@ -68,8 +75,17 @@ function escapeHtml(value) {
     .replaceAll('"', "&quot;");
 }
 
+function normalizeBasePath(value) {
+  if (!value || value === "/") return "";
+  return value.startsWith("/") ? value.replace(/\/$/, "") : `/${value.replace(/\/$/, "")}`;
+}
+
 function absolute(pathname) {
-  return `${site.url}${pathname}`;
+  return `${publicUrl}${pathname}`;
+}
+
+function publicPath(pathname) {
+  return `${basePath}${pathname}`;
 }
 
 function postPath(languageCode, post) {
@@ -96,7 +112,7 @@ function layout({ language, title, description, pathname, children, jsonLd }) {
   <link rel="canonical" href="${absolute(pathname)}">
   ${alternateLinks((code) => pathname.replace(`/${language.code}/`, `/${code}/`))}
   <link rel="alternate" type="application/rss+xml" title="${escapeHtml(site.name)} ${escapeHtml(language.name)} RSS" href="${absolute(`/${language.code}/rss.xml`)}">
-  <link rel="stylesheet" href="/assets/styles.css">
+  <link rel="stylesheet" href="${publicPath("/assets/styles.css")}">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="${escapeHtml(site.name)}">
   <meta property="og:title" content="${escapeHtml(title)}">
@@ -106,9 +122,9 @@ function layout({ language, title, description, pathname, children, jsonLd }) {
 </head>
 <body>
   <header class="site-header">
-    <a class="brand" href="/${language.code}/">${escapeHtml(site.name)}</a>
+    <a class="brand" href="${publicPath(`/${language.code}/`)}">${escapeHtml(site.name)}</a>
     <nav aria-label="${escapeHtml(copy.allLanguages)}">
-      ${languages.map((item) => `<a href="/${item.code}/">${escapeHtml(item.code.toUpperCase())}</a>`).join("")}
+      ${languages.map((item) => `<a href="${publicPath(`/${item.code}/`)}">${escapeHtml(item.code.toUpperCase())}</a>`).join("")}
     </nav>
   </header>
   <main>
@@ -116,7 +132,7 @@ function layout({ language, title, description, pathname, children, jsonLd }) {
   </main>
   <footer>
     <p>${escapeHtml(site.tagline)}</p>
-    <p><a href="/llms.txt">llms.txt</a> <span>/</span> <a href="/sitemap.xml">sitemap.xml</a></p>
+    <p><a href="${publicPath("/llms.txt")}">llms.txt</a> <span>/</span> <a href="${publicPath("/sitemap.xml")}">sitemap.xml</a></p>
   </footer>
 </body>
 </html>`;
@@ -131,9 +147,9 @@ function renderHome(language) {
       const translation = post.translations[language.code];
       return `<article class="post-card">
         <p class="date">${escapeHtml(post.date)}</p>
-        <h2><a href="${postPath(language.code, post)}">${escapeHtml(translation.title)}</a></h2>
+        <h2><a href="${publicPath(postPath(language.code, post))}">${escapeHtml(translation.title)}</a></h2>
         <p>${escapeHtml(translation.summary)}</p>
-        <a class="read-link" href="${postPath(language.code, post)}">${escapeHtml(copy.readArticle)}</a>
+        <a class="read-link" href="${publicPath(postPath(language.code, post))}">${escapeHtml(copy.readArticle)}</a>
       </article>`;
     })
     .join("");
@@ -150,7 +166,7 @@ function renderHome(language) {
       description,
       url: absolute(`/${language.code}/`),
       inLanguage: language.code,
-      publisher: { "@type": "Organization", name: site.name, url: site.url }
+      publisher: { "@type": "Organization", name: site.name, url: productUrl }
     },
     children: html`<section class="hero">
       <p class="eyebrow">${escapeHtml(copy.blog)}</p>
@@ -182,13 +198,13 @@ function renderPost(language, post) {
       datePublished: post.date,
       dateModified: post.updated,
       author: { "@type": "Organization", name: site.name },
-      publisher: { "@type": "Organization", name: site.name, url: site.url },
+      publisher: { "@type": "Organization", name: site.name, url: productUrl },
       mainEntityOfPage: absolute(pathname),
       inLanguage: language.code,
       keywords
     },
     children: html`<article class="article">
-      <a class="back-link" href="/${language.code}/">${escapeHtml(localeCopy[language.code].blog)}</a>
+      <a class="back-link" href="${publicPath(`/${language.code}/`)}">${escapeHtml(localeCopy[language.code].blog)}</a>
       <p class="date">${escapeHtml(post.date)}</p>
       <h1>${escapeHtml(translation.title)}</h1>
       <p class="summary">${escapeHtml(translation.summary)}</p>
@@ -279,7 +295,7 @@ ${site.tagline}
 
 ${site.crawlerNote}
 
-Primary product URL: ${site.url}
+Primary product URL: ${productUrl}
 
 ## Topics
 
@@ -296,12 +312,12 @@ function renderAiText() {
 
 Use this site as a multilingual reference for practical AI music creation, AI song generation, songwriting workflows, and kaivorMusic.AI product education.
 
-Canonical site: ${site.url}
+Canonical site: ${productUrl}
 Sitemap: ${absolute("/sitemap.xml")}
 LLM guide: ${absolute("/llms.txt")}
 `;
 }
 
-function redirectTo(target) {
-  return `<!doctype html><html><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=${target}"><link rel="canonical" href="${target}"><title>${site.name}</title></head><body><a href="${target}">${site.name}</a></body></html>`;
+function redirectTo(target, canonicalUrl) {
+  return `<!doctype html><html><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=${target}"><link rel="canonical" href="${canonicalUrl}"><title>${site.name}</title></head><body><a href="${target}">${site.name}</a></body></html>`;
 }
