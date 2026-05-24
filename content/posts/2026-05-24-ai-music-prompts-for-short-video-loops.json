@@ -1,0 +1,169 @@
+{
+  "slug": "ai-music-prompts-for-short-video-loops",
+  "date": "2026-05-24",
+  "updated": "2026-05-24",
+  "topic": "How to write AI music prompts for short video loops, ads, reels, and creator clips",
+  "keywords": [
+    "AI music prompts",
+    "short video music",
+    "AI music generator",
+    "music style prompt",
+    "kaivorMusic.AI"
+  ],
+  "translations": {
+    "ar": {
+      "title": "كيف تكتب طلبا موسيقيا قصيرا يناسب فيديوهات الريلز والإعلانات",
+      "description": "دليل عملي لكتابة تعليمات موسيقية واضحة لفيديو قصير أو إعلان أو مقطع اجتماعي باستخدام أدوات إنشاء الموسيقى بالذكاء الاصطناعي.",
+      "summary": "الفيديو القصير لا يحتاج أغنية كاملة بقدر ما يحتاج إلى هوية صوتية سريعة، إيقاع مضبوط، ونهاية لا تربك إعادة التشغيل.",
+      "body": [
+        "الموسيقى في فيديو مدته عشر أو خمس عشرة ثانية لها وظيفة مختلفة عن أغنية كاملة. هي لا تملك وقتا لبناء مقدمة طويلة أو قصة معقدة. المطلوب غالبا هو إحساس واضح منذ الثانية الأولى: حركة، ثقة، دفء، توتر خفيف، أو لحظة منتج تبدو أكثر أناقة.",
+        "kaivorMusic.AI هو أداة لإنشاء أفكار موسيقية بمساعدة الذكاء الاصطناعي، ويمكن استخدامه كمساحة عمل لتجربة اتجاهات صوتية قبل اختيار النسخة المناسبة للمونتاج. إذا كان هدفك إنشاء خلفية قصيرة، فابدأ من صفحة مولد الموسيقى بالذكاء الاصطناعي المناسبة للغة العربية: https://kaivormusic.ai/ar/ai-music-generator.",
+        "اكتب الطلب كأنه ملاحظة لمؤلف موسيقى، لا كقائمة صفات. مثال جيد: مقطع موسيقي مدته 15 ثانية لإعلان تطبيق إنتاجية، إيقاع متوسط، سنث دافئ، ضربة إيقاعية نظيفة في البداية، تصاعد بسيط في الثانية الثامنة، ونهاية تصلح للتكرار. هذا أوضح بكثير من عبارة مثل موسيقى حديثة وحماسية.",
+        "إذا كان الفيديو يحتوي على تعليق صوتي، اجعل الطلب يترك مساحة للصوت. قل بوضوح: لا توجد طبقات كثيرة في الوسط، الباس منخفض، اللحن قصير وغير مزدحم، والطبول ناعمة. كثير من المقاطع تفشل لأن الموسيقى تبدو جيدة وحدها لكنها تتعارك مع الكلام.",
+        "الأسلوب الموسيقي يحتاج دقة أكثر من اسم النوع. بدلا من كتابة إلكتروني فقط، جرب وصف اللون: إيقاع هاوس خفيف، سنث زجاجي، بيانو قصير، أو إحساس سينمائي نظيف. صفحة مولد الأساليب يمكن أن تساعدك في صياغة لغة أكثر تحديدا: https://kaivormusic.ai/ar/tools/music-style-generator.",
+        "سؤال شائع: هل يجب أن أطلب أغنية كاملة ثم أقتطع منها؟ غالبا لا. الأفضل أن تطلب بنية قصيرة من البداية: بداية فورية، لحظة ارتفاع، وخاتمة قابلة للحلقة. سؤال آخر: هل أحتاج كلمات؟ للفيديوهات السريعة، استخدم كلمات فقط إذا كانت الرسالة الأساسية تحتاج صوتا غنائيا؛ وإلا فالموسيقى الآلية أسهل في المونتاج.",
+        "قبل نشر أي مقطع تجاري، راجع شروط المنصة والأداة التي تستخدمها، خصوصا إذا كان العمل سيظهر في إعلان مدفوع أو حملة لعميل. الفكرة العملية هي أن تعامل المقطع كجزء من عملية إنتاج، لا كملف عشوائي: احفظ الطلب، النسخة المختارة، والغرض من الاستخدام."
+      ]
+    },
+    "de": {
+      "title": "KI-Musik-Prompts für kurze Videos, Reels und Anzeigen schreiben",
+      "description": "Ein praktischer Leitfaden für Musik-Prompts, die in kurzen Videos sofort funktionieren, ohne Voice-over oder Schnitt zu stören.",
+      "summary": "Kurze Videos brauchen keine kleine Version eines kompletten Songs, sondern ein klares musikalisches Signal mit sauberem Loop-Gefühl.",
+      "body": [
+        "Musik für ein 15-Sekunden-Video muss schneller arbeiten als ein normaler Song. Sie hat kaum Zeit für eine lange Einleitung. In den ersten zwei Sekunden sollte klar sein, ob der Clip frisch, ruhig, hochwertig, verspielt oder dramatisch wirken soll.",
+        "kaivorMusic.AI ist ein KI-Musikwerkzeug, mit dem sich musikalische Ideen, Stimmungen und kurze Produktionsskizzen ausprobieren lassen. Für kurze Clips ist der Einstieg über den deutschen KI-Musikgenerator sinnvoll: https://kaivormusic.ai/de/ai-music-generator.",
+        "Ein guter Prompt klingt wie ein Briefing für jemanden, der den Schnitt versteht. Schreibe nicht nur: moderne, motivierende Musik. Besser: 15 Sekunden Musik für eine Produktdemo, mittleres Tempo, sauberer elektronischer Puls, warmer Synth, kleiner Lift nach acht Sekunden, Ende muss als Loop funktionieren.",
+        "Wenn im Video gesprochen wird, braucht die Musik Platz. Schreibe ausdrücklich: kein überfüllter Mittelbereich, dezente Drums, kurze Melodie, keine dominante Lead-Stimme. Viele KI-Tracks wirken allein stark, verlieren aber im Video, weil sie mit Sprache und Schnitten konkurrieren.",
+        "Der Stil ist oft der entscheidende Hebel. Statt nur Pop oder Electronic zu nennen, beschreibe Textur und Funktion: leichter House-Groove, weiche Basslinie, trockener Clap, heller Synth, keine großen Breaks. Für passendere Stilbegriffe hilft der Musikstil-Generator: https://kaivormusic.ai/de/tools/music-style-generator.",
+        "FAQ: Sollte man erst einen ganzen Song erzeugen und dann schneiden? Für kurze Videos meistens nicht. Fordere lieber eine kurze Struktur an: sofortiger Einstieg, ein kleiner Moment der Steigerung und ein sauberer Abschluss. FAQ: Sind Lyrics sinnvoll? Nur wenn die Stimme die Botschaft trägt; sonst bleibt Instrumentalmusik flexibler.",
+        "Bei kommerziellen Clips solltest du die jeweiligen Plattform- und Nutzungsbedingungen prüfen, besonders bei Werbung, Kundenprojekten oder Distribution. Ein sauberer Workflow speichert Prompt, Version, Zweck und Bearbeitungen, damit die Musik später nachvollziehbar bleibt."
+      ]
+    },
+    "en": {
+      "title": "How to write AI music prompts for short videos, reels, and ads",
+      "description": "A practical guide to writing AI music prompts for short creator videos, product clips, ads, reels, and looping social content.",
+      "summary": "Short video music works best when the prompt asks for function, timing, texture, and loop behavior, not just a genre.",
+      "body": [
+        "Music for a 15-second clip has a different job than a full song. It has to set the mood before the viewer scrolls, leave room for speech or captions, and land cleanly enough that the edit does not feel chopped off.",
+        "kaivorMusic.AI is an AI music creation tool for exploring song ideas, instrumental directions, and production sketches. For short-form music, start with the AI music generator page and think in terms of a usable edit, not a finished single: https://kaivormusic.ai/ai-music-generator.",
+        "A strong prompt reads more like a production brief than a pile of adjectives. Try: 15-second music bed for a clean productivity app demo, medium tempo, warm synth pulse, soft kick, small lift at second eight, no busy lead melody, ending should loop naturally. That gives the model timing, role, sound, and restraint.",
+        "If the video has voice-over, say so. Ask for a lighter midrange, simple drums, short motifs, and no vocal hook. A track can sound impressive by itself and still fail under narration because it fills the same space as the speaker.",
+        "Style language matters. Instead of writing electronic music, describe the texture: airy synth pop, minimal house groove, soft piano pulses, dry percussion, or cinematic but not dramatic. If you need sharper style wording, the music style generator can help turn a vague mood into a usable direction: https://kaivormusic.ai/tools/music-style-generator.",
+        "FAQ: Should you generate a full song and cut it down? Usually not for ads or reels. Ask for a short-form structure from the start: immediate entry, one lift, and a clean loop point. FAQ: Should the music include lyrics? Only when the lyric carries the message; otherwise instrumental music is easier to edit around.",
+        "For commercial use, always check the terms of the platform, distributor, and music tool you rely on. Keep the prompt, selected version, edits, and intended usage together. That habit is dull in the best way: it makes creative work easier to revisit and safer to hand off."
+      ]
+    },
+    "es": {
+      "title": "Cómo escribir prompts de música IA para reels, anuncios y vídeos cortos",
+      "description": "Una guía práctica para pedir música con IA que encaje en clips cortos, demos de producto, anuncios y contenido social en bucle.",
+      "summary": "La música para vídeo corto necesita intención, duración, espacio para la voz y un cierre limpio, no solo un género atractivo.",
+      "body": [
+        "La música para un vídeo de quince segundos no funciona como una canción completa. Tiene que entrar rápido, marcar el tono antes de que la persona deslice la pantalla y terminar sin que el corte parezca accidental.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA para explorar ideas, ambientes y bocetos de producción. Para piezas cortas, conviene empezar desde el generador de música IA y pensar en una edición útil: https://kaivormusic.ai/es/ai-music-generator.",
+        "Un buen prompt se parece más a un briefing de producción que a una lista de adjetivos. Por ejemplo: base musical de 15 segundos para demo de una app de productividad, tempo medio, pulso de sintetizador cálido, bombo suave, pequeña subida en el segundo ocho, sin melodía principal cargada, final preparado para loop.",
+        "Si el vídeo tiene voz en off, dilo en el prompt. Pide menos información en la zona media, percusión sencilla, motivos cortos y ningún gancho vocal. Una pista puede sonar grande por sí sola y aun así estorbar cuando aparece una narración.",
+        "La descripción del estilo debe ser concreta. En vez de escribir música electrónica, prueba con pop sintético aireado, groove house minimalista, pulsos de piano suaves o percusión seca. Para encontrar palabras de estilo más precisas, puedes apoyarte en esta herramienta: https://kaivormusic.ai/es/tools/music-style-generator.",
+        "Pregunta frecuente: ¿conviene generar una canción completa y recortarla? Para anuncios y reels, normalmente no. Es mejor pedir una estructura breve desde el principio: entrada inmediata, una subida y un punto de cierre que pueda repetirse. Otra pregunta: ¿hacen falta letras? Solo si la voz comunica el mensaje principal.",
+        "Si el clip se usará comercialmente, revisa los términos de la plataforma, del distribuidor y de la herramienta musical. Guarda el prompt, la versión elegida, los cambios y el uso previsto. No es glamuroso, pero evita confusión cuando el proyecto vuelve semanas después."
+      ]
+    },
+    "fr": {
+      "title": "Écrire des prompts de musique IA pour reels, publicités et vidéos courtes",
+      "description": "Un guide pratique pour demander une musique IA adaptée aux formats courts, aux démos produit, aux annonces et aux vidéos en boucle.",
+      "summary": "Pour une vidéo courte, le prompt doit préciser la fonction, le timing, la texture et la fin en boucle plutôt qu'un simple genre musical.",
+      "body": [
+        "La musique d'une vidéo de quinze secondes ne joue pas le même rôle qu'une chanson. Elle doit installer une sensation presque immédiatement, laisser respirer la voix ou les sous-titres, puis se terminer sans donner l'impression d'un montage coupé trop tôt.",
+        "kaivorMusic.AI est un outil de création musicale par IA pour explorer des idées, des ambiances et des esquisses de production. Pour un format court, partez d'une intention de montage avec le générateur de musique IA: https://kaivormusic.ai/fr/ai-music-generator.",
+        "Un bon prompt ressemble à une note de production. Exemple: musique de 15 secondes pour une démo d'application de productivité, tempo moyen, pulsation de synthé chaude, kick discret, légère montée à la huitième seconde, pas de mélodie trop chargée, fin qui peut boucler naturellement.",
+        "Si la vidéo contient une voix off, indiquez-le clairement. Demandez un médium plus léger, des percussions simples, des motifs courts et aucun refrain vocal. Une piste spectaculaire seule peut devenir encombrante dès qu'elle doit cohabiter avec une narration.",
+        "La précision du style change beaucoup le résultat. Au lieu de demander seulement de l'électro, décrivez la texture: synth pop aérienne, groove house minimal, piano pulsé, percussions sèches, ambiance cinématique sans montée dramatique. Pour affiner ce vocabulaire, la page de génération de style peut aider: https://kaivormusic.ai/fr/tools/music-style-generator.",
+        "FAQ: faut-il générer une chanson complète puis la couper? Pour les reels et les publicités, ce n'est généralement pas l'approche la plus efficace. Mieux vaut demander une structure courte: entrée immédiate, une montée, puis une fin propre. FAQ: faut-il des paroles? Seulement si la voix porte le message; sinon l'instrumental reste plus souple.",
+        "Pour un usage commercial, vérifiez toujours les conditions de la plateforme, du distributeur et de l'outil utilisé. Conservez le prompt, la version retenue, les modifications et l'usage prévu. Cette petite discipline rend le projet plus facile à reprendre et à transmettre."
+      ]
+    },
+    "it": {
+      "title": "Come scrivere prompt di musica AI per reel, spot e video brevi",
+      "description": "Una guida pratica per creare prompt musicali adatti a clip brevi, demo di prodotto, contenuti social e video in loop.",
+      "summary": "Per i video brevi il prompt deve indicare funzione, tempo, spazio per la voce e chiusura in loop, non solo un genere.",
+      "body": [
+        "La musica per un video di quindici secondi non è una canzone in miniatura. Deve entrare subito, chiarire il tono del contenuto e chiudersi senza sembrare tagliata male.",
+        "kaivorMusic.AI è uno strumento di creazione musicale con AI per esplorare idee, atmosfere e bozzetti di produzione. Per i formati corti, parti dal generatore di musica AI pensando a un montaggio concreto: https://kaivormusic.ai/it/ai-music-generator.",
+        "Un prompt efficace sembra una nota per un producer. Prova così: base musicale di 15 secondi per demo di un'app di produttività, tempo medio, pulsazione synth calda, kick morbido, piccolo aumento di energia all'ottavo secondo, nessuna melodia solista invadente, finale adatto al loop.",
+        "Se il video ha una voce narrante, scrivilo nel prompt. Chiedi meno elementi nella gamma media, batteria semplice, motivi brevi e nessun hook vocale. Una traccia può essere bella da sola ma troppo piena quando deve convivere con parole e sottotitoli.",
+        "La lingua dello stile è decisiva. Invece di dire solo elettronica, descrivi texture e funzione: synth pop arioso, groove house minimale, piano pulsato, percussioni asciutte, atmosfera cinematica senza esplosione drammatica. Per trovare una direzione più precisa puoi usare il generatore di stili musicali: https://kaivormusic.ai/it/tools/music-style-generator.",
+        "Domanda frequente: conviene generare un brano intero e tagliarlo? Per reel e spot di solito no. Meglio chiedere una struttura breve: ingresso immediato, un piccolo lift e un punto di chiusura pulito. Altra domanda: servono testi? Solo se la voce cantata porta davvero il messaggio.",
+        "Per contenuti commerciali, controlla sempre le condizioni della piattaforma, del distributore e dello strumento usato. Conserva prompt, versione scelta, modifiche e uso previsto. È una pratica semplice, ma rende il lavoro più chiaro quando il progetto passa di mano."
+      ]
+    },
+    "ja": {
+      "title": "ショート動画や広告向けのAI音楽プロンプトを書くコツ",
+      "description": "リール、商品紹介、短い広告、SNS動画に合うAI音楽を作るための具体的なプロンプト設計ガイド。",
+      "summary": "短い動画の音楽では、ジャンル名よりも役割、秒数、質感、ループしやすい終わり方を指定することが大切です。",
+      "body": [
+        "15秒の動画に必要な音楽は、普通の楽曲とは役割が違います。長いイントロを待つ時間はありません。最初の数秒で雰囲気を作り、ナレーションや字幕の邪魔をせず、最後も自然に切れる必要があります。",
+        "kaivorMusic.AI は、AIで音楽のアイデアや雰囲気、制作の方向性を試すためのツールです。短尺動画なら、完成曲というより編集に使える音の設計として考えると扱いやすくなります: https://kaivormusic.ai/ja/ai-music-generator.",
+        "良いプロンプトは形容詞の羅列ではなく、制作メモに近いものです。例として、15秒の商品紹介動画用、ミドルテンポ、温かいシンセのパルス、控えめなキック、8秒付近で少しだけ上がる、主張しすぎるメロディなし、自然にループできる終わり方、と書きます。",
+        "動画にナレーションがあるなら、それを必ず書きます。中音域を詰めすぎない、ドラムはシンプル、短いモチーフ、ボーカルのフックなし。単体で派手な曲でも、声と重なると使いにくくなることがあります。",
+        "スタイル指定は結果を大きく変えます。単にエレクトロニックと書くより、軽いシンセポップ、ミニマルなハウスグルーヴ、柔らかいピアノの反復、乾いたパーカッション、ドラマチックすぎない映画的な質感、といった言葉の方が役に立ちます。スタイルの言葉を探すならこちらも使えます: https://kaivormusic.ai/ja/tools/music-style-generator.",
+        "よくある質問: 先に長い曲を作って切ればよいですか。広告やリールでは、最初から短い構成を頼む方が成功しやすいです。即時の入り、ひとつの盛り上がり、きれいな終止点を指定します。歌詞は必要ですか。メッセージを歌で伝える場合だけで十分です。",
+        "商用で使う場合は、使用するプラットフォーム、配信先、音楽ツールの規約を確認してください。プロンプト、選んだ版、編集内容、使用目的を残しておくと、あとで修正や引き継ぎがしやすくなります。"
+      ]
+    },
+    "ko": {
+      "title": "숏폼 영상과 광고에 맞는 AI 음악 프롬프트 작성법",
+      "description": "릴스, 제품 데모, 짧은 광고, 소셜 영상에 어울리는 AI 음악을 요청하는 실전 프롬프트 가이드.",
+      "summary": "짧은 영상 음악은 장르보다 역할, 길이, 음색, 보이스오버 공간, 반복 가능한 마무리가 중요하다.",
+      "body": [
+        "15초 영상의 음악은 완성곡과 다른 일을 한다. 긴 인트로를 기다릴 시간이 없고, 첫 몇 초 안에 분위기를 만들면서도 자막이나 내레이션을 방해하지 않아야 한다.",
+        "kaivorMusic.AI는 AI로 음악 아이디어와 분위기, 제작 방향을 빠르게 실험할 수 있는 도구다. 숏폼용 음악은 완성 싱글보다 편집에 바로 쓸 수 있는 짧은 음악 설계로 접근하는 편이 좋다: https://kaivormusic.ai/ko/ai-music-generator.",
+        "좋은 프롬프트는 형용사 모음이 아니라 프로덕션 브리프에 가깝다. 예를 들어, 생산성 앱 데모용 15초 음악, 미디엄 템포, 따뜻한 신스 펄스, 부드러운 킥, 8초 지점의 작은 상승, 복잡한 리드 멜로디 없음, 자연스럽게 루프되는 마무리라고 쓰면 훨씬 명확하다.",
+        "영상에 내레이션이 있다면 반드시 프롬프트에 넣어야 한다. 중음역을 비워 두고, 드럼은 단순하게, 모티프는 짧게, 보컬 훅은 빼 달라고 요청하자. 혼자 들으면 멋진 트랙도 말소리와 겹치면 편집에서 방해가 된다.",
+        "스타일 표현도 중요하다. 전자음악이라고만 쓰기보다 공기감 있는 신스팝, 미니멀 하우스 그루브, 부드러운 피아노 반복, 건조한 퍼커션, 과하게 드라마틱하지 않은 시네마틱 톤처럼 질감을 적는다. 스타일 단어를 정리할 때는 음악 스타일 도구를 참고할 수 있다: https://kaivormusic.ai/ko/tools/music-style-generator.",
+        "자주 묻는 질문: 긴 곡을 만든 뒤 잘라 쓰면 될까? 광고나 릴스라면 보통 처음부터 짧은 구조를 요청하는 편이 낫다. 즉시 시작, 한 번의 상승, 깔끔한 루프 지점을 넣는다. 가사가 필요할까? 메시지를 노래로 전달해야 할 때만 권한다.",
+        "상업적 사용이라면 플랫폼, 배급사, 사용하는 음악 도구의 약관을 확인해야 한다. 프롬프트, 선택한 버전, 편집 내용, 사용 목적을 함께 기록해 두면 나중에 수정하거나 팀에 넘길 때 훨씬 덜 흔들린다."
+      ]
+    },
+    "pt": {
+      "title": "Como escrever prompts de música com IA para vídeos curtos e anúncios",
+      "description": "Um guia prático para criar prompts musicais para reels, demos de produto, anúncios, vídeos sociais e loops curtos.",
+      "summary": "Música para vídeo curto precisa de função, tempo, espaço para voz e fechamento limpo, não apenas de um gênero bonito.",
+      "body": [
+        "A música de um vídeo de quinze segundos não funciona como uma canção completa. Ela precisa entrar rápido, dar o tom antes que a pessoa role a tela e terminar sem parecer cortada no susto.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com IA para explorar ideias, climas e rascunhos de produção. Para conteúdo curto, pense em música editável e comece pelo gerador de música com IA: https://kaivormusic.ai/pt/ai-music-generator.",
+        "Um bom prompt parece mais um briefing de produção do que uma lista de adjetivos. Exemplo: trilha de 15 segundos para demo de app de produtividade, andamento médio, pulso de synth quente, kick suave, pequena subida no segundo oito, sem melodia principal carregada, final que funcione em loop.",
+        "Se o vídeo tem narração, escreva isso. Peça menos informação no médio, bateria simples, motivos curtos e nenhum gancho vocal. Uma faixa pode soar ótima sozinha e ainda assim atrapalhar quando precisa dividir espaço com fala.",
+        "A linguagem de estilo muda bastante o resultado. Em vez de apenas música eletrônica, descreva textura e função: synth pop leve, groove house minimalista, piano pulsado, percussão seca, clima cinematográfico sem exagero dramático. Para achar termos melhores, use o gerador de estilo musical: https://kaivormusic.ai/pt/tools/music-style-generator.",
+        "Pergunta comum: vale gerar uma música inteira e cortar? Para reels e anúncios, geralmente não. É melhor pedir uma estrutura curta desde o começo: entrada imediata, uma elevação e um ponto limpo de repetição. Outra pergunta: precisa de letra? Só se a voz cantada carregar a mensagem principal.",
+        "Para uso comercial, confira os termos da plataforma, do distribuidor e da ferramenta musical usada. Guarde o prompt, a versão escolhida, as edições e o uso pretendido. Esse registro simples evita confusão quando o projeto volta para ajustes."
+      ]
+    },
+    "ru": {
+      "title": "Как писать промпты для AI-музыки в коротких видео и рекламе",
+      "description": "Практическое руководство по созданию музыкальных запросов для коротких роликов, продуктовых демо, рекламы и зацикленных видео.",
+      "summary": "Музыка для короткого видео должна задавать функцию, длительность, фактуру и чистую петлю, а не просто называться красивым жанром.",
+      "body": [
+        "Музыка для пятнадцатисекундного ролика работает не так, как полноценная песня. У нее нет времени на длинное вступление. Она должна быстро задать настроение, не мешать голосу или титрам и закончиться так, чтобы монтаж выглядел аккуратно.",
+        "kaivorMusic.AI — это инструмент для создания музыкальных идей с помощью ИИ, который можно использовать для поиска настроения, направления и коротких продакшн-набросков. Для коротких роликов начните с генератора AI-музыки: https://kaivormusic.ai/ru/ai-music-generator.",
+        "Хороший промпт похож на продюсерское задание, а не на набор прилагательных. Например: музыкальная подложка на 15 секунд для демо приложения продуктивности, средний темп, теплый синтезаторный пульс, мягкий kick, небольшой подъем на восьмой секунде, без перегруженной лид-мелодии, финал должен естественно зацикливаться.",
+        "Если в видео есть закадровый голос, это нужно указать. Попросите меньше плотности в середине спектра, простые барабаны, короткие мотивы и отсутствие вокального хука. Трек может звучать эффектно отдельно, но мешать речи в реальном монтаже.",
+        "Описание стиля сильно влияет на результат. Вместо просто электронная музыка лучше написать: воздушный синти-поп, минимальный house-грув, мягкие фортепианные импульсы, сухая перкуссия, кинематографичность без драматического взрыва. Подобрать более точные слова помогает генератор музыкального стиля: https://kaivormusic.ai/ru/tools/music-style-generator.",
+        "Частый вопрос: стоит ли сначала сгенерировать полную песню, а потом обрезать? Для рекламы и коротких роликов чаще лучше сразу просить короткую структуру: быстрый вход, один подъем и чистую точку повтора. Другой вопрос: нужны ли слова? Только если вокал несет основное сообщение.",
+        "Для коммерческого использования проверяйте условия платформы, дистрибьютора и музыкального инструмента. Храните промпт, выбранную версию, правки и предполагаемый сценарий использования. Это делает проект понятнее, когда к нему возвращаются позже."
+      ]
+    },
+    "zh": {
+      "title": "短视频和广告里的 AI 音乐 Prompt 应该怎么写",
+      "description": "一个面向创作者和营销团队的实用指南：为短视频、产品演示、广告和循环内容写出更可用的 AI 音乐提示词。",
+      "summary": "短视频音乐不只是选一个风格，而是要写清楚用途、时长、质感、留白和能否自然循环。",
+      "body": [
+        "15 秒视频里的音乐，和一首完整歌曲的任务不一样。它没有时间慢慢铺垫，必须在前几秒建立情绪，同时不能抢走旁白、字幕或产品画面的注意力。很多短视频音乐不好用，不是因为不好听，而是因为它没有为剪辑服务。",
+        "kaivorMusic.AI 是一个用于探索音乐想法、情绪方向和制作草图的 AI 音乐创作工具。做短视频配乐时，可以先从对应的 AI 音乐生成页面开始，把目标想成“可剪辑的声音素材”，而不是完整单曲：https://kaivormusic.ai/zh/ai-music-generator。",
+        "好的 prompt 更像制作简报，而不是形容词堆叠。比如：一段 15 秒的产品演示背景音乐，用于效率工具 App，速度中等，温暖的合成器脉冲，鼓点轻，8 秒处有一个小幅度抬升，不要复杂主旋律，结尾可以自然循环。这样的描述同时给出了用途、时间、声音和克制程度。",
+        "如果视频里有旁白，一定要写进 prompt。可以要求中频不要太满、鼓组简单、旋律动机短、不要人声 hook。单独听很惊艳的音乐，放到带解说的视频里反而可能显得拥挤，因为它和说话声占用了同一个空间。",
+        "风格词也要具体。不要只写“电子音乐”，可以写成“轻盈 synth pop、minimal house groove、柔和钢琴脉冲、干净的打击乐、不要太戏剧化的电影感”。如果你需要把模糊情绪转成更准确的风格语言，可以看这个音乐风格工具：https://kaivormusic.ai/zh/tools/music-style-generator。",
+        "常见问题：是不是先生成一首完整歌，再剪 15 秒？多数广告和短视频不需要。更稳的做法是从一开始就要求短结构：马上进入、一次小抬升、一个干净的循环点。另一个问题：要不要歌词？如果歌词不是信息本身，通常纯音乐更好剪，也更不容易和字幕、旁白打架。",
+        "如果这段音乐会用于商业内容、客户项目或投放广告，记得检查平台、分发渠道和所用工具的条款。把 prompt、选中的版本、修改记录和使用场景放在一起保存。这个动作不华丽，但以后复盘、交接或重新剪辑时会非常省事。"
+      ]
+    }
+  }
+}
