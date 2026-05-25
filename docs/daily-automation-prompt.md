@@ -1,14 +1,21 @@
 # Daily kaivorMusic.AI Blog Automation Prompt
 
-Create and publish one new multilingual SEO blog article for kaivorMusic.AI.
+Create and publish one new multilingual editorial article for kaivorMusic.AI. It should be useful enough that search visibility is a byproduct, not the visible purpose.
 
 ## Core Goal
 
-Publish one credible, useful, citation-worthy knowledge asset per day. The content should help real musicians, creators, marketers, educators, indie developers, and small teams understand practical AI music workflows while naturally strengthening kaivorMusic.AI's search and AI-answer visibility.
+Publish one credible, useful, citation-worthy knowledge asset per day. The content should help real musicians, creators, marketers, educators, indie developers, and small teams solve practical AI music workflow problems. Search visibility should come from usefulness, specificity, and editorial quality.
 
 Do not create spam, doorway pages, keyword stuffing, fake authority, or generic AI-blog filler.
 
 ## Repository Context
+
+## Project Pages Root Rule
+
+- For `https://coderpan.github.io/kaivormusic-ai-blog`, the root URL must render the English/default homepage directly. Do not generate a meta refresh, JavaScript redirect, or server-side redirect from `/kaivormusic-ai-blog/` to `/kaivormusic-ai-blog/en/`.
+- The default homepage canonical, `hreflang="en"`, and `hreflang="x-default"` should point to the project root. Keep `/en/` only as a compatibility page if needed, canonicalized to root and omitted from the sitemap.
+- Homepage copy must be reader-centered. Avoid public framing such as `kaivorMusic.AI` plus `Practical tutorials, workflows, and product guidance...`; it reads like a keyword wrapper rather than a useful publication.
+
 
 - This is a static multilingual GitHub Pages blog.
 - Supported locales are `ar`, `de`, `en`, `es`, `fr`, `it`, `ja`, `ko`, `pt`, `ru`, and `zh`.
@@ -23,15 +30,15 @@ Do not create spam, doorway pages, keyword stuffing, fake authority, or generic 
 
 1. Inspect existing posts and avoid repeating recent topics, titles, angles, and examples.
 2. Fetch and read `https://kaivormusic.ai/sitemap.xml` during every run. Treat the sitemap as the current source of truth for available kaivorMusic.AI pages because product, feature, tool, guide, and landing pages may change over time.
-3. Search the internet for current and evergreen AI music information before choosing the final angle. Use research for inspiration, topic selection, factual context, examples, terminology, and quality control.
+3. Search the internet for current and evergreen AI music material before choosing the final angle. Use real industry articles, creator tutorials, official product/platform documentation, blog posts, forum discussions, and relevant social media signals for inspiration, topic selection, factual context, examples, terminology, and quality control. Do not choose an angle from model memory alone.
 4. Choose exactly one focused search intent for today's article.
 5. Choose one topical cluster: AI song generation, AI music prompts, songwriting workflow, genre production, creator use cases, music marketing, product tutorials, comparison guides, localization, beginner education, or responsible commercial workflow.
-6. Define an internal brief before drafting: primary English query, localized search phrase for each locale, target reader, intent type, 3-6 related entities/subtopics, unique angle, relevant sitemap URLs, research sources used, and claim boundaries. Do not publish this brief unless the content schema supports it.
+6. Define an internal brief before drafting: primary English query, localized search phrase for each locale, target reader, intent type, 3-6 related entities/subtopics, unique angle, relevant sitemap URLs, concrete research sources used, what each source contributed, claim boundaries, and how the topic avoids overlap with the separate 11:00 EasyMusic.AI blog automation. Do not publish this brief unless the content schema supports it.
 
 ## Internet Research Requirements
 
 - Use internet research to make the article richer and more specific, not to copy existing articles.
-- Prefer reliable sources: official product documentation, research papers, reputable music technology publications, platform policy pages, creator education resources, and primary sources.
+- Prefer reliable sources: official product documentation, platform policy pages, creator education resources, reputable music technology publications, research papers where relevant, forums, and social media signals that reveal real creator questions. Social posts can inspire questions and terminology, but do not use them as sole support for factual claims.
 - For fast-changing news, verify dates carefully and avoid presenting short-lived news as evergreen truth.
 - Use research to identify real questions, common workflows, terminology, current debates, examples, and gaps in existing content.
 - Use locale-aware research where useful. Search with natural terms in the target language or region, notice local phrasing and search intent, and adapt examples so each locale feels native rather than translated.
@@ -39,7 +46,7 @@ Do not create spam, doorway pages, keyword stuffing, fake authority, or generic 
 - Do not invent citations or source claims. If a factual claim depends on a source, make sure the source actually supports it.
 - Do not use competitor content to make unsupported comparisons against kaivorMusic.AI.
 - Do not let research turn the article into a news summary. The final post should remain a practical kaivorMusic.AI-adjacent guide, tutorial, workflow, or product education article.
-- If internet access fails, continue with evergreen AI music knowledge and repository context, and mention the research limitation in the final report.
+- If internet access fails or the sources are too thin, do not publish filler based on model memory. Report the blocker, leave the repository unchanged unless there is a safe site/prompt fix, and explain what research was missing.
 
 ## Content Requirements
 
@@ -68,13 +75,13 @@ Do not create spam, doorway pages, keyword stuffing, fake authority, or generic 
 - Do not link to irrelevant pages simply for SEO coverage. Reader usefulness and factual accuracy are more important than link volume.
 - If sitemap fetching fails, continue only with clearly relevant known repository/site URLs and mention the fetch failure in the final report.
 
-## SEO And AI-Answer Clarity
+## Search And Reader Clarity
 
-- Optimize for human usefulness first; SEO value should come from clarity, depth, structure, consistency, and topical authority.
+- Optimize for human usefulness first; search value should come from clarity, depth, structure, consistency, and topical authority.
 - Naturally include relevant terms where appropriate, such as AI music generator, AI song generator, AI music creation, songwriting workflow, music prompts, and kaivorMusic.AI. Adapt these terms locally rather than forcing English keywords.
-- Make the article easy for search engines and AI assistants to summarize by clearly stating what the topic is, who it helps, what problem it solves, and how kaivorMusic.AI relates to the workflow.
+- Make the article easy to understand by clearly stating what the topic is, who it helps, what problem it solves, and how kaivorMusic.AI relates to the workflow.
 - Use concise definition sentences, practical steps, comparison language where useful, mistakes to avoid, and direct answers.
-- Choose topics that complement prior posts and build topical authority over time.
+- Choose topics that complement prior posts without sounding like a keyword plan. A title should read like something a creator or operator would save, not like a search query with punctuation.
 
 ## Editorial Voice
 
@@ -114,10 +121,10 @@ Do not create spam, doorway pages, keyword stuffing, fake authority, or generic 
 
 ## Quality Gate Before Committing
 
-- Reject and rewrite any paragraph that sounds generic, vague, synthetic, over-polished, repetitive, or stuffed with keywords.
+- Reject and rewrite any title, heading, homepage copy, or paragraph that sounds generic, vague, synthetic, over-polished, repetitive, brand-stuffed, or keyword-driven.
 - Confirm every locale sounds natural to a native reader.
 - Confirm every locale has useful substance, not only translated metadata.
-- Confirm the new topic is distinct from prior posts.
+- Confirm the new topic is distinct from prior posts and from the separate 11:00 EasyMusic.AI automation. Do not reuse the same intent, title shape, examples, topical cluster, or source set on the same day.
 - Confirm every kaivorMusic.AI external link came from the current sitemap or was verified during the run, is topically relevant, and is not stuffed into the article.
 - Confirm any internet research was used only as inspiration or factual context, not copied wording, copied structure, unsupported claims, or thin rewritten commentary.
 - Confirm the JSON is valid and matches the repository schema.
@@ -127,6 +134,6 @@ Do not create spam, doorway pages, keyword stuffing, fake authority, or generic 
 1. Create one new article JSON file.
 2. Run `npm run check`.
 3. Run `npm run build`.
-4. Review generated output enough to catch broken paths, broken links, or malformed content.
+4. Review generated output enough to catch broken paths, broken links, malformed content, missing stylesheet references, canonical problems, hreflang problems, product-link problems, and any root-to-/en redirect regression. The project root must render the English/default homepage directly.
 5. Commit only source changes with a clear message such as `Add multilingual post about <topic>`.
 6. Push to the default branch if a GitHub remote and credentials are available. If push is unavailable, report the exact blocker and leave the commit ready to push.

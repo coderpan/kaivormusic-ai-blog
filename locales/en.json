@@ -4,5 +4,9 @@
   "latest": "Latest articles",
   "readArticle": "Read article",
   "allLanguages": "All languages",
-  "metaDescription": "Practical tutorials, workflows, and product guidance for AI music creation with kaivorMusic.AI."
+  "metaDescription": "Practical notes on briefs, prompts, revisions, and release checks for AI-assisted music work.",
+  "homeTitle": "Song Draft Notes - English",
+  "heroEyebrow": "Briefs, drafts, and release checks",
+  "heroTitle": "Start with a brief you can actually revise",
+  "heroDescription": "A practical notebook for creators and small teams turning rough music ideas into clearer prompts, cleaner drafts, and better publishing decisions."
 }

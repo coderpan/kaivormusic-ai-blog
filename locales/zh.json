@@ -4,5 +4,9 @@
   "latest": "最新文章",
   "readArticle": "阅读全文",
   "allLanguages": "全部语言",
-  "metaDescription": "围绕 kaivorMusic.AI 的 AI 音乐创作教程、工作流和产品指南。"
+  "metaDescription": "关于 AI 辅助音乐工作中的 brief、prompt、修改和发布前检查的实用笔记。",
+  "homeTitle": "Song Draft Notes - 中文",
+  "heroEyebrow": "Brief、草稿和发布前检查",
+  "heroTitle": "先写一个真的能修改的音乐 brief",
+  "heroDescription": "给创作者和小团队看的实践笔记：把粗糙的音乐想法变成更清楚的 prompt、更干净的草稿，以及更稳妥的发布判断。"
 }

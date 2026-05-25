@@ -1,9 +1,9 @@
 {
-  "name": "kaivorMusic.AI",
+  "name": "Song Draft Notes",
   "publicUrl": "https://coderpan.github.io/kaivormusic-ai-blog",
   "basePath": "/kaivormusic-ai-blog",
   "productUrl": "https://kaivormusic.ai",
-  "tagline": "AI music creation for songs, demos, voices, and production-ready ideas.",
+  "tagline": "Notes on briefs, prompts, revisions, and release checks for AI-assisted music work.",
   "defaultLocale": "en",
   "brandKeywords": [
     "AI music generator",
@@ -13,5 +13,5 @@
     "songwriting tool",
     "kaivorMusic.AI"
   ],
-  "crawlerNote": "This site provides human-written style guides, product education, and music AI workflows for search engines and AI assistants."
+  "crawlerNote": "Editorial notes for practical AI music workflows, with product references kept factual and restrained."
 }

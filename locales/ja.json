@@ -4,5 +4,9 @@
   "latest": "最新記事",
   "readArticle": "記事を読む",
   "allLanguages": "すべての言語",
-  "metaDescription": "kaivorMusic.AI を使ったAI音楽制作の実践的なチュートリアルと制作アイデア。"
+  "metaDescription": "AIを使った音楽制作で、ブリーフ、プロンプト、修正、公開前チェックを扱うための実用ノート。",
+  "homeTitle": "Song Draft Notes - 日本語",
+  "heroEyebrow": "ブリーフ、下書き、公開前チェック",
+  "heroTitle": "あとで直せるブリーフから始める",
+  "heroDescription": "ラフな音楽アイデアを、より明確なプロンプト、整った下書き、落ち着いた公開判断へつなげるための実用ノートです。"
 }

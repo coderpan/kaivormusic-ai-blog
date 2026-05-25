@@ -38,11 +38,8 @@ for (const language of languages) {
   await writeFile(path.join(dist, language.code, "rss.xml"), renderRss(language), "utf8");
 }
 
-await writeFile(
-  path.join(dist, "index.html"),
-  redirectTo(publicPath(`/${site.defaultLocale}/`), absolute(`/${site.defaultLocale}/`)),
-  "utf8"
-);
+const defaultLanguage = languages.find((language) => language.code === site.defaultLocale) ?? languages[0];
+await writeFile(path.join(dist, "index.html"), renderHome(defaultLanguage), "utf8");
 await writeFile(path.join(dist, "robots.txt"), renderRobots(), "utf8");
 await writeFile(path.join(dist, "sitemap.xml"), renderSitemap(), "utf8");
 await writeFile(path.join(dist, "llms.txt"), renderLlms(), "utf8");
@@ -107,17 +104,23 @@ function publicPath(pathname) {
   return `${basePath}${pathname}`;
 }
 
+function localeHomePath(languageCode) {
+  return languageCode === site.defaultLocale ? "/" : `/${languageCode}/`;
+}
+
 function postPath(languageCode, post) {
   return `/${languageCode}/blog/${post.slug}/`;
 }
 
 function alternateLinks(pathBuilder) {
-  return languages
-    .map((language) => `<link rel="alternate" hreflang="${language.hreflang}" href="${absolute(pathBuilder(language.code))}">`)
-    .join("\n");
+  const links = languages.map(
+    (language) => `<link rel="alternate" hreflang="${language.hreflang}" href="${absolute(pathBuilder(language.code))}">`
+  );
+  links.push(`<link rel="alternate" hreflang="x-default" href="${absolute(pathBuilder(site.defaultLocale))}">`);
+  return links.join("\n");
 }
 
-function layout({ language, title, description, pathname, children, jsonLd }) {
+function layout({ language, title, description, pathname, children, jsonLd, alternatePath }) {
   const copy = localeCopy[language.code];
   const dir = language.dir;
   return html`<!doctype html>
@@ -129,7 +132,7 @@ function layout({ language, title, description, pathname, children, jsonLd }) {
   <meta name="description" content="${escapeHtml(description)}">
   <meta name="robots" content="index, follow, max-image-preview:large">
   <link rel="canonical" href="${absolute(pathname)}">
-  ${alternateLinks((code) => pathname.replace(`/${language.code}/`, `/${code}/`))}
+  ${alternateLinks(alternatePath ?? ((code) => pathname.replace(`/${language.code}/`, `/${code}/`)))}
   <link rel="alternate" type="application/rss+xml" title="${escapeHtml(site.name)} ${escapeHtml(language.name)} RSS" href="${absolute(`/${language.code}/rss.xml`)}">
   <link rel="stylesheet" href="${publicPath("/assets/styles.css")}">
   <meta property="og:type" content="website">
@@ -141,9 +144,9 @@ function layout({ language, title, description, pathname, children, jsonLd }) {
 </head>
 <body>
   <header class="site-header">
-    <a class="brand" href="${publicPath(`/${language.code}/`)}">${escapeHtml(site.name)}</a>
+    <a class="brand" href="${publicPath(localeHomePath(language.code))}">${escapeHtml(site.name)}</a>
     <nav aria-label="${escapeHtml(copy.allLanguages)}">
-      ${languages.map((item) => `<a href="${publicPath(`/${item.code}/`)}">${escapeHtml(item.code.toUpperCase())}</a>`).join("")}
+      ${languages.map((item) => `<a href="${publicPath(localeHomePath(item.code))}">${escapeHtml(item.code.toUpperCase())}</a>`).join("")}
     </nav>
   </header>
   <main>
@@ -159,8 +162,9 @@ function layout({ language, title, description, pathname, children, jsonLd }) {
 
 function renderHome(language) {
   const copy = localeCopy[language.code];
-  const title = `${site.name} ${copy.blog}`;
+  const title = copy.homeTitle ?? `${site.name} ${copy.blog}`;
   const description = copy.metaDescription;
+  const pathname = localeHomePath(language.code);
   const cards = posts
     .map((post) => {
       const translation = post.translations[language.code];
@@ -177,20 +181,21 @@ function renderHome(language) {
     language,
     title,
     description,
-    pathname: `/${language.code}/`,
+    pathname,
+    alternatePath: localeHomePath,
     jsonLd: {
       "@context": "https://schema.org",
       "@type": "Blog",
       name: title,
       description,
-      url: absolute(`/${language.code}/`),
+      url: absolute(pathname),
       inLanguage: language.code,
       publisher: { "@type": "Organization", name: site.name, url: productUrl }
     },
     children: html`<section class="hero">
-      <p class="eyebrow">${escapeHtml(copy.blog)}</p>
-      <h1>${escapeHtml(site.name)}</h1>
-      <p>${escapeHtml(description)}</p>
+      <p class="eyebrow">${escapeHtml(copy.heroEyebrow ?? copy.blog)}</p>
+      <h1>${escapeHtml(copy.heroTitle ?? site.name)}</h1>
+      <p>${escapeHtml(copy.heroDescription ?? description)}</p>
     </section>
     <section class="post-list" aria-label="${escapeHtml(copy.latest)}">
       ${cards}
@@ -209,6 +214,7 @@ function renderPost(language, post) {
     title: `${translation.title} | ${site.name}`,
     description: translation.description,
     pathname,
+    alternatePath: (code) => postPath(code, post),
     jsonLd: {
       "@context": "https://schema.org",
       "@type": "Article",
@@ -251,7 +257,7 @@ function renderRss(language) {
 <rss version="2.0">
 <channel>
   <title>${escapeHtml(site.name)} ${escapeHtml(language.name)}</title>
-  <link>${absolute(`/${language.code}/`)}</link>
+  <link>${absolute(localeHomePath(language.code))}</link>
   <description>${escapeHtml(localeCopy[language.code].metaDescription)}</description>
   <language>${language.code}</language>
   ${items}
@@ -260,9 +266,11 @@ function renderRss(language) {
 }
 
 function renderSitemap() {
-  const urls = [];
+  const urls = [{ loc: absolute("/"), lastmod: posts[0]?.updated }];
   for (const language of languages) {
-    urls.push({ loc: absolute(`/${language.code}/`), lastmod: posts[0]?.updated });
+    if (language.code !== site.defaultLocale) {
+      urls.push({ loc: absolute(`/${language.code}/`), lastmod: posts[0]?.updated });
+    }
     for (const post of posts) {
       urls.push({ loc: absolute(postPath(language.code, post)), lastmod: post.updated });
     }
@@ -337,6 +345,3 @@ LLM guide: ${absolute("/llms.txt")}
 `;
 }
 
-function redirectTo(target, canonicalUrl) {
-  return `<!doctype html><html><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=${target}"><link rel="canonical" href="${canonicalUrl}"><title>${site.name}</title></head><body><a href="${target}">${site.name}</a></body></html>`;
-}
