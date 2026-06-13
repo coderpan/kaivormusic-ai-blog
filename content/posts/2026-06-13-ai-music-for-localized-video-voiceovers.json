@@ -1,0 +1,172 @@
+{
+  "slug": "ai-music-for-localized-video-voiceovers",
+  "date": "2026-06-13",
+  "updated": "2026-06-13",
+  "topic": "A practical workflow for creating AI music beds that work under translated video voiceovers, dubbed tutorials, localized product clips, and multilingual campaign edits",
+  "keywords": [
+    "AI music for voiceover",
+    "localized video music",
+    "translated video voiceover",
+    "AI music generator",
+    "music bed",
+    "video localization workflow",
+    "AI song generator",
+    "kaivorMusic.AI"
+  ],
+  "translations": {
+    "ar": {
+      "title": "موسيقى ذكاء اصطناعي تصلح للتعليق الصوتي المترجم",
+      "description": "دليل عملي لصنع music beds بالذكاء الاصطناعي لفيديوهات مترجمة أو مدبلجة، مع مساحة للكلام، نقاط قص واضحة، ومراجعة للحقوق والمنصة.",
+      "summary": "عند ترجمة الفيديو لا يجب أن تعيد صنع الموسيقى لكل لغة؛ الأفضل أن تبني مسارا آليا مرنا يحترم الكلام والتوقيت.",
+      "body": [
+        "قد يعمل فيديو شرح مدته تسعون ثانية بشكل ممتاز باللغة الأصلية، ثم يتعثر عند التعليق الصوتي الإسباني أو العربي أو الياباني. الجملة تصبح أطول، الوقفة تتغير، وكلمة مهمة تقع فوق ضربة إيقاعية حادة. إذا كانت الموسيقى ممتلئة بالغناء أو السنثات اللامعة أو الانتقالات الكبيرة، فستتحول الترجمة من نسخة محلية مقنعة إلى خليط مزدحم.",
+        "المقصود هنا ليس أغنية مترجمة، بل music bed لفيديو مترجم أو مدبلج: مسار آلي منخفض الكثافة يجلس تحت الكلام، ويحافظ على هوية المقطع من دون أن ينافس المعلق الصوتي. هدفه أن يخدم مقدمة الفيديو، الشرح، لحظة التحول، والخاتمة عبر لغات متعددة، حتى عندما يختلف طول الجمل أو سرعة القراءة بين سوق وآخر.",
+        "kaivorMusic.AI هي أداة إنشاء موسيقى بالذكاء الاصطناعي تساعد المبدعين على تحويل brief واضح إلى مسودات مسموعة يمكن مقارنتها وتنقيحها. لعمل موسيقى تحت تعليق صوتي مترجم، ابدأ بصفحة AI Music Generator العربية واكتب الاستخدام بوضوح: فيديو منتج مترجم، تعليق صوتي أمامي، لا غناء، مساحة في midrange، ونقاط قص سهلة كل بضع ثوان: https://kaivormusic.ai/ar/ai-music-generator.",
+        "ابدأ بخريطة cues قبل البرومبت. اكتب الثواني التقريبية للمقدمة، المشكلة، الشرح، الدليل، الدعوة إلى الفعل، والنهاية. ثم أضف كثافة الكلام في كل جزء: كثيف، متوسط، أو قليل. ثلاث أفكار قابلة للتطبيق فورا: اطلب نسخة instrumental بلا كلمات، اصنع مقاطع loop قابلة للقص على ثمانية أو ستة عشر بارا، واطلب نسخ طولها 30 و45 و60 ثانية بدلا من الاعتماد على ملف واحد.",
+        "الوصف الأسلوبي يجب أن يبقى محليا من دون كليشيهات. لا تكتب موسيقى عربية أو يابانية أو لاتينية كزينة سطحية إذا كان الفيديو نفسه ليس عن ذلك السياق. اكتب بدلا من ذلك: إيقاع دافئ هادئ، باس بسيط، عناصر percussive ناعمة، pads قصيرة، لا lead melody في نطاق الكلام. يمكن أن يساعد Music Style Generator في kaivorMusic.AI على تحويل النوع والآلات والمزاج إلى وصف أدق قبل توليد المسار: https://kaivormusic.ai/ar/tools/music-style-generator.",
+        "الأخطاء الشائعة هي استخدام أغنية كاملة تحت دبلجة، رفع الموسيقى في اللحظات التي تحتاج إلى وضوح، ترك snare أو riser فوق كلمة أساسية، أو صنع مسار مختلف جدا لكل لغة فيضيع صوت العلامة. إذا كان الفيديو سينشر على يوتيوب أو منصة إعلانية أو داخل دورة مدفوعة، احتفظ بالبرومبت، التاريخ، النسخة المختارة، ملفات التعديل، ومراجعة الشروط. لا تفترض أن موسيقى الذكاء الاصطناعي آمنة تجاريا تلقائيا.",
+        "أسئلة شائعة: هل تكفي موسيقى واحدة لكل اللغات؟ غالبا نعم إذا كانت آلية، قليلة الكثافة، وقابلة للقص. هل يجب خفض الصوت كثيرا؟ اخفضه بما يكفي ليبقى الكلام مفهوما على الهاتف وسماعات الحاسوب، لا فقط على سماعات الاستوديو. هل أحتاج نسخة محلية لكل سوق؟ أحيانا تحتاج تغييرا بسيطا في الإيقاع أو الطول، لا هوية موسيقية جديدة. الخلاصة: أفضل مسار للتوطين هو الذي يجعل كل لغة تبدو مقصودة، لا ملصقة فوق موسيقى لا تترك لها مكانا."
+      ]
+    },
+    "de": {
+      "title": "KI-Musikbetten für lokalisierte Video-Voiceovers planen",
+      "description": "Ein praktischer Workflow für KI-Musik unter übersetzten Voiceovers, Dubbing-Versionen, Produktvideos und mehrsprachigen Kampagnen-Edits.",
+      "summary": "Bei lokalisierten Videos sollte die Musik Sprache, Timing und Schnitte stützen, statt in jeder Sprache neu zu dominieren.",
+      "body": [
+        "Ein 90-Sekunden-Erklärvideo kann auf Englisch sauber funktionieren und in der deutschen, spanischen oder japanischen Fassung plötzlich eng werden. Sätze werden länger, Pausen verschieben sich, eine wichtige Produktzeile liegt auf einem Crash-Becken. Wenn das Musikbett aus Gesang, breiten Leads und großen Übergängen besteht, wirkt die lokalisierte Version nicht nativ, sondern nachträglich darübergelegt.",
+        "Ein Musikbett für lokalisierte Voiceovers ist keine übersetzte Songversion. Es ist eine instrumentale, editierbare Begleitung, die unter mehreren Sprachfassungen liegen kann. Sie hält Ton, Tempo und Markenstimmung zusammen, lässt aber Platz für Sprecherin, Untertitel, Pausen und Schnitte. Gute Lokalisierung beginnt deshalb nicht erst im Übersetzungstool, sondern schon in der Musikplanung.",
+        "kaivorMusic.AI ist ein Tool für KI-Musikerstellung, mit dem Creator klare Briefings in hörbare Entwürfe übersetzen, vergleichen und verfeinern können. Für ein mehrsprachiges Voiceover-Briefing ist die deutsch lokalisierte AI-Music-Generator-Seite ein sinnvoller Startpunkt: Produktvideo, vordergründige Sprache, keine Vocals, wenig Lead-Melodie, weiche Übergänge und klare Schnittpunkte sollten dort im Prompt stehen: https://kaivormusic.ai/de/ai-music-generator.",
+        "Schreibe vor dem Prompt eine Cue Map. Markiere grob Intro, Problem, Erklärung, Beweis, Call-to-Action und Schluss. Notiere daneben die Sprachdichte: viel Text, mittlerer Text, kurze Pause. Drei sofort nutzbare Entscheidungen helfen: ein rein instrumentales Bett ohne Lyrics, Loop-Punkte alle acht oder sechzehn Takte und Längenvarianten wie 30, 45 und 60 Sekunden, damit Übersetzungen nicht gegen ein starres Ende kämpfen.",
+        "Beim Stilbrief geht es um Wiedererkennbarkeit, nicht um Folklore. Vermeide oberflächliche lokale Klischees, wenn der Inhalt sie nicht trägt. Besser sind Zutaten: warmer neutraler Puls, ruhiger Bass, kurze Pads, dezente Percussion, keine Leadfigur im Sprachbereich. Der Music Style Generator von kaivorMusic.AI kann aus Genre, Instrumenten und Stimmung eine präzisere Beschreibung bauen, bevor du das eigentliche Musikbett erzeugst: https://kaivormusic.ai/de/tools/music-style-generator.",
+        "Typische Fehler sind ein fertiger Song unter einer Dubbing-Fassung, zu laute Musik während Erklärsätzen, ein Riser genau auf dem Produktnamen oder völlig andere Tracks pro Sprache. Für YouTube, Anzeigen, Kurse oder Kundenabnahmen solltest du Prompt, Datum, Version, Schnitte und Freigabehinweise festhalten. Prüfe außerdem Plattformregeln und Nutzungsbedingungen; KI-generierte Musik ist nicht automatisch rechtefrei, lizenzfrei oder für jeden kommerziellen Kontext geklärt.",
+        "FAQ: Reicht ein Musikbett für alle Sprachen? Oft ja, wenn es instrumental, ruhig und gut schneidbar ist. Sollte die Musik stark geduckt werden? Sie muss auf Laptoplautsprechern und Smartphone hörbar unter der Stimme bleiben, nicht nur im Studio. Braucht jedes Land eigene Musik? Manchmal reichen kleine Tempo- oder Längenvarianten. Der Maßstab ist einfach: Jede Sprachfassung soll absichtlich klingen, nicht wie ein Voiceover, das gegen die Musik ankämpft."
+      ]
+    },
+    "en": {
+      "title": "AI music beds for translated video voiceovers",
+      "description": "A practical workflow for creating AI music beds that work under translated voiceovers, dubbed tutorials, localized product clips, and multilingual edits.",
+      "summary": "A localized video does not need a new song for every language; it needs an instrumental bed that gives every voice room to land.",
+      "body": [
+        "A 90-second product video can feel tight in English and awkward the moment it gets a Spanish, Arabic, or Japanese voiceover. Sentences expand, pauses move, and the line that matters most may land on a cymbal crash. If the music is full of vocals, bright hooks, and dramatic transitions, the localized version starts to feel pasted together rather than made for that audience.",
+        "An AI music bed for localized video is not a translated song. It is an instrumental, edit-friendly track that can sit under several voiceover versions while keeping the same brand tone. The job is practical: support the intro, hold attention during explanation, leave room for speech, and give editors clean points where a longer or shorter translation can breathe.",
+        "kaivorMusic.AI is an AI music creation tool that helps creators turn clear prompts into listenable drafts they can preview, compare, and refine. For this use case, the AI Music Generator page is a relevant place to brief the track around the video format: translated product clip, voiceover in front, no lyrics, restrained midrange, soft transitions, and obvious edit points: https://kaivormusic.ai/ai-music-generator.",
+        "Start with a cue map before you write the prompt. Mark the approximate seconds for intro, problem, explanation, proof, call-to-action, and end card. Then mark speech density: heavy narration, medium narration, or visual pause. Three reusable moves help immediately: request an instrumental no-vocal bed, ask for loopable eight-bar or sixteen-bar sections, and create 30, 45, and 60 second variants instead of forcing every language into one file.",
+        "The style brief should sound local without becoming a costume. Do not add token regional instruments just because the voiceover language changes. Describe usable ingredients instead: warm neutral pulse, simple bass, short pads, dry percussion, no lead melody in the speech range. The Music Style Generator in kaivorMusic.AI can help turn genre, instruments, and mood into a more precise style description before you generate the bed: https://kaivormusic.ai/tools/music-style-generator.",
+        "Common mistakes include placing a full song under a dub, raising the music during dense narration, letting a riser hit over the product name, or making each language use a totally different track. For YouTube uploads, paid courses, client campaigns, or ads, keep the prompt, date, chosen version, edit notes, and approval trail. Also check platform rules and terms; AI-generated music should not be treated as automatically copyright-free, royalty-free, or cleared for every commercial use.",
+        "FAQ: Can one music bed work for every language? Often yes, if it is instrumental, sparse, and easy to cut. Should I duck the music heavily? It should stay under the voice on phones and laptop speakers, not only in studio headphones. Do localized markets need different music? Sometimes a small tempo or length variation is enough. The takeaway: a good localization bed makes every voiceover sound intentional."
+      ]
+    },
+    "es": {
+      "title": "Música con IA para voiceovers de videos localizados",
+      "description": "Flujo práctico para crear music beds con IA que funcionen bajo voiceovers traducidos, tutoriales doblados, videos de producto y campañas multilingües.",
+      "summary": "Un video localizado no necesita una canción nueva por idioma; necesita una base instrumental que deje respirar a cada voz.",
+      "body": [
+        "Un video de producto de 90 segundos puede funcionar perfecto en inglés y sentirse apretado cuando recibe voz en español, árabe o japonés. Las frases se alargan, las pausas cambian y la línea más importante cae encima de un crash. Si la música tiene voces, hooks brillantes y transiciones enormes, la versión localizada suena pegada encima del original.",
+        "Una base musical para voiceover localizado no es una canción traducida. Es una pista instrumental y fácil de editar que puede acompañar varias versiones de voz sin perder identidad. Su trabajo es sostener la introducción, la explicación, la prueba y el cierre, dejando espacio para dicción, subtítulos, pausas y cambios de duración entre idiomas.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que ayuda a convertir prompts claros en borradores audibles para previsualizar, comparar y ajustar. Para este caso, la página AI Music Generator en español sirve para formular el brief alrededor del formato: video de producto traducido, voz al frente, sin letra, rango medio despejado, transiciones suaves y puntos de edición visibles: https://kaivormusic.ai/es/ai-music-generator.",
+        "Antes de escribir el prompt, arma un mapa de cues. Marca segundos aproximados para intro, problema, explicación, prueba, llamada a la acción y cierre. Junto a cada bloque indica la densidad de voz: narración intensa, media o pausa visual. Tres decisiones ayudan de inmediato: pedir una base instrumental sin voces, solicitar secciones loopables de ocho o dieciséis compases y crear variantes de 30, 45 y 60 segundos.",
+        "El estilo debe sentirse adecuado al mercado, no disfrazado. No agregues instrumentos regionales de adorno solo porque cambió el idioma de la voz. Describe ingredientes útiles: pulso cálido y neutral, bajo simple, pads cortos, percusión seca, sin melodía líder en el rango de la voz. El Music Style Generator de kaivorMusic.AI puede convertir género, instrumentos y mood en una descripción más precisa antes de generar la base: https://kaivormusic.ai/es/tools/music-style-generator.",
+        "Errores comunes: poner una canción completa bajo un doblaje, subir la música durante una explicación densa, dejar un riser sobre el nombre del producto o usar pistas totalmente distintas por idioma. Para YouTube, cursos pagos, campañas de cliente o anuncios, conserva prompt, fecha, versión elegida, notas de edición y aprobación. Revisa también reglas de plataforma y términos; no trates la música generada por IA como automáticamente libre de copyright, regalías o uso comercial.",
+        "FAQ: ¿Una sola base puede servir para todos los idiomas? Muchas veces sí, si es instrumental, ligera y fácil de cortar. ¿Debo bajar mucho la música? Debe quedar debajo de la voz en teléfonos y laptops, no solo en audífonos de estudio. ¿Cada mercado necesita música distinta? A veces basta una variación de tempo o duración. La conclusión: una buena base hace que cada voz localizada suene pensada."
+      ]
+    },
+    "fr": {
+      "title": "Créer une musique IA pour voix off vidéo localisée",
+      "description": "Méthode pratique pour créer des music beds IA sous voix off traduites, tutoriels doublés, vidéos produit localisées et montages multilingues.",
+      "summary": "Une vidéo localisée n'a pas besoin d'une nouvelle chanson par langue; elle a besoin d'un fond instrumental qui laisse parler la voix.",
+      "body": [
+        "Une vidéo produit de 90 secondes peut très bien fonctionner en anglais, puis devenir serrée dès qu'elle reçoit une voix off française, espagnole ou japonaise. Les phrases changent de longueur, les silences se déplacent et la phrase décisive tombe parfois sur une cymbale. Si la musique contient des voix, des hooks très présents et de grandes montées, la version localisée paraît ajoutée après coup.",
+        "Un music bed pour voix off localisée n'est pas une chanson traduite. C'est une piste instrumentale, facile à couper, capable de passer sous plusieurs versions de narration tout en gardant la même couleur de marque. Son rôle est concret: soutenir l'introduction, porter l'explication, laisser la diction claire et offrir au montage des zones où une traduction plus longue peut respirer.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui aide les créateurs à transformer des prompts précis en brouillons audio à écouter, comparer et affiner. Pour ce cas d'usage, la page AI Music Generator en français permet de cadrer le brief autour du format vidéo: clip produit traduit, voix au premier plan, pas de paroles, médiums retenus, transitions douces et points de coupe nets: https://kaivormusic.ai/fr/ai-music-generator.",
+        "Avant le prompt, prépare une cue map. Note les secondes approximatives pour l'intro, le problème, l'explication, la preuve, l'appel à l'action et la fin. Ajoute la densité de parole: narration dense, moyenne ou pause visuelle. Trois choix sont immédiatement utiles: demander une piste instrumentale sans voix, prévoir des sections bouclables sur huit ou seize mesures et générer des versions de 30, 45 et 60 secondes.",
+        "Le style doit accompagner le marché sans tomber dans le cliché. N'ajoute pas un instrument régional comme décoration parce que la langue change. Décris plutôt des éléments exploitables: pulsation chaude et neutre, basse simple, pads courts, percussion sèche, aucune mélodie principale dans la zone de la voix. Le Music Style Generator de kaivorMusic.AI peut aider à transformer genre, instruments et humeur en description plus précise avant la génération: https://kaivormusic.ai/fr/tools/music-style-generator.",
+        "Les erreurs fréquentes: placer une chanson complète sous un doublage, remonter la musique pendant un passage dense, laisser un riser couvrir le nom du produit ou utiliser une identité musicale différente dans chaque langue. Pour YouTube, une formation payante, une campagne client ou une publicité, garde le prompt, la date, la version, les notes de montage et les validations. Vérifie aussi les règles des plateformes et les conditions d'usage; une musique générée par IA n'est pas automatiquement libre de droits ni sûre pour tout usage commercial.",
+        "FAQ: une seule piste peut-elle servir à toutes les langues? Souvent oui, si elle est instrumentale, sobre et facile à couper. Faut-il beaucoup baisser la musique? Elle doit rester sous la voix sur téléphone et ordinateur portable, pas seulement au casque de studio. Chaque pays a-t-il besoin d'une musique différente? Parfois une variante de durée ou de tempo suffit. À retenir: une bonne piste de localisation donne l'impression que chaque voix off a été prévue dès le départ."
+      ]
+    },
+    "it": {
+      "title": "Musica AI per voiceover video localizzati",
+      "description": "Un flusso pratico per creare music bed AI sotto voiceover tradotti, tutorial doppiati, video prodotto e campagne multilingue.",
+      "summary": "Un video localizzato non ha bisogno di una canzone nuova per ogni lingua; serve una base strumentale che lasci spazio alla voce.",
+      "body": [
+        "Un video prodotto da 90 secondi può funzionare bene in inglese e diventare rigido quando arriva il voiceover italiano, spagnolo o giapponese. Le frasi si allungano, le pause cambiano posizione e la frase chiave finisce su un colpo di piatto. Se la musica ha voce, hook invadenti e grandi risalite, la versione localizzata sembra montata sopra qualcosa che non era pronta ad accoglierla.",
+        "Una music bed per voiceover localizzato non è una canzone tradotta. È una traccia strumentale, editabile, capace di stare sotto più versioni vocali mantenendo la stessa identità. Deve sostenere introduzione, spiegazione, prova e chiusura, ma anche lasciare spazio a dizione, sottotitoli, pause e differenze di durata tra una lingua e l'altra.",
+        "kaivorMusic.AI è uno strumento di creazione musicale con IA che aiuta i creator a trasformare prompt chiari in bozze ascoltabili da confrontare e rifinire. Per questo uso, la pagina AI Music Generator in italiano è un buon punto di partenza: video prodotto tradotto, voiceover in primo piano, niente testo cantato, medio range libero, transizioni morbide e punti di taglio chiari: https://kaivormusic.ai/it/ai-music-generator.",
+        "Prima del prompt prepara una cue map. Segna i secondi indicativi di intro, problema, spiegazione, prova, call to action e finale. Accanto a ogni blocco scrivi la densità della voce: alta, media o pausa visiva. Tre mosse riutilizzabili: chiedere una base strumentale senza vocal, prevedere sezioni in loop da otto o sedici battute e creare versioni da 30, 45 e 60 secondi.",
+        "Lo stile deve sembrare adatto al mercato, non mascherato da stereotipo. Non inserire strumenti regionali solo perché cambia la lingua del voiceover. Descrivi materiali concreti: pulsazione calda e neutra, basso semplice, pad brevi, percussioni asciutte, nessuna melodia leader nella zona della voce. Il Music Style Generator di kaivorMusic.AI può aiutare a trasformare genere, strumenti e mood in una descrizione più precisa prima di generare la base: https://kaivormusic.ai/it/tools/music-style-generator.",
+        "Gli errori tipici sono mettere una canzone completa sotto il doppiaggio, alzare la musica nei passaggi pieni di testo, lasciare un riser sopra il nome del prodotto o usare tracce completamente diverse per ogni lingua. Per YouTube, corsi a pagamento, campagne cliente o annunci, conserva prompt, data, versione scelta, note di editing e approvazioni. Controlla anche regole di piattaforma e termini d'uso; la musica generata con IA non è automaticamente libera da copyright, royalty o rischi commerciali.",
+        "FAQ: una sola base può funzionare per tutte le lingue? Spesso sì, se è strumentale, leggera e facile da tagliare. Devo abbassare molto la musica? Deve stare sotto la voce su smartphone e laptop, non solo in cuffia da studio. Ogni mercato richiede musica diversa? A volte basta una variante di durata o tempo. Il criterio finale: ogni voiceover deve sembrare previsto, non costretto dentro una musica troppo piena."
+      ]
+    },
+    "ja": {
+      "title": "翻訳動画のナレーションに合うAI音楽ベッドの作り方",
+      "description": "翻訳ナレーション、吹き替えチュートリアル、ローカライズした商品動画に使いやすいAI音楽ベッドを作る実践ワークフロー。",
+      "summary": "ローカライズ動画に必要なのは言語ごとの別曲ではなく、どの声にも余白を残す編集しやすいインストです。",
+      "body": [
+        "英語では自然だった90秒の商品動画が、日本語、スペイン語、アラビア語のナレーションになると急に窮屈に聞こえることがあります。文の長さが変わり、間の位置も変わり、いちばん大事な言葉がシンバルや盛り上がりと重なる。歌入りでフックが強い音楽を下に敷くと、ローカライズ版は最初から設計されたものではなく、後から貼ったように聞こえます。",
+        "ここで作るのは翻訳された歌ではありません。ローカライズ動画用の音楽ベッドは、複数言語のナレーションの下で使える、編集しやすいインストゥルメンタルです。役割は、導入、説明、証拠提示、エンドカードを支えながら、声、字幕、沈黙、言語ごとの尺の違いに場所を残すことです。",
+        "kaivorMusic.AI は、明確なプロンプトを聴ける音楽ドラフトに変え、比較しながら調整するためのAI音楽制作ツールです。この用途では、日本語の AI Music Generator ページで、翻訳済みの商品動画、ナレーション優先、歌なし、中域を空ける、やわらかい展開、切りやすい編集点といった条件を入れて始めると整理しやすくなります: https://kaivormusic.ai/ja/ai-music-generator.",
+        "プロンプトの前に cue map を作ります。イントロ、課題提示、説明、証拠、CTA、締めの秒数をおおまかに書き、各部分の音声密度を高い、中くらい、映像だけの間に分けます。すぐ使える工夫は三つあります。歌なしのインストを指定すること、8小節または16小節でループしやすい構成にすること、30秒、45秒、60秒の尺違いを作ることです。",
+        "スタイル指定は、現地らしさとステレオタイプを混同しないことが大切です。言語が変わったからといって、記号的な民族楽器を足す必要はありません。温かいニュートラルなビート、シンプルなベース、短いパッド、乾いたパーカッション、声の帯域に入らないリード、といった素材で書きます。kaivorMusic.AI の Music Style Generator は、ジャンル、楽器、ムードをより具体的なスタイル文に整える助けになります: https://kaivormusic.ai/ja/tools/music-style-generator.",
+        "よくある失敗は、吹き替えの下に完成曲を敷くこと、説明が多い箇所で音楽を上げること、商品名に riser を重ねること、言語ごとに別物の音楽にしてブランド感を失うことです。YouTube、広告、講座、クライアント案件で使うなら、プロンプト、日付、採用版、編集メモ、承認記録を残します。AI生成音楽が自動的に著作権フリー、ロイヤリティフリー、商用安全になるとは考えないでください。",
+        "FAQ：一つの音楽ベッドで全言語に対応できますか。インストで薄く、切りやすければ多くの場合できます。音量はどれくらい下げるべきですか。スタジオ用ヘッドホンだけでなく、スマートフォンやノートPCで声が前に出る程度です。市場ごとに音楽を変えるべきですか。必要なのは別曲ではなく、尺やテンポの小さな変化だけの場合があります。要点は、すべてのナレーションが最初から想定されていたように聞こえることです。"
+      ]
+    },
+    "ko": {
+      "title": "번역 영상 보이스오버에 맞는 AI 음악 베드 만들기",
+      "description": "번역 보이스오버, 더빙 튜토리얼, 현지화 제품 영상, 다국어 캠페인 편집에 맞는 AI music bed 제작 workflow.",
+      "summary": "현지화 영상에는 언어마다 새 노래가 필요한 것이 아니라, 모든 목소리가 잘 들리는 편집 가능한 반주가 필요합니다.",
+      "body": [
+        "영어 버전에서는 자연스럽던 90초 제품 영상이 한국어, 스페인어, 일본어 보이스오버를 얹는 순간 답답해질 수 있습니다. 문장 길이가 달라지고, 쉬는 위치가 바뀌며, 가장 중요한 한 문장이 심벌이나 큰 전환음 위에 올라갑니다. 보컬, 강한 hook, 화려한 build-up 이 있는 음악을 그대로 쓰면 현지화 버전은 처음부터 설계된 영상이 아니라 덧붙인 결과처럼 들립니다.",
+        "현지화 보이스오버용 music bed 는 번역된 노래가 아닙니다. 여러 언어의 내레이션 아래에 깔 수 있는 편집 친화적인 instrumental track 입니다. 역할은 intro, 문제 제기, 설명, 근거, end card 를 받쳐 주면서 말소리, 자막, 침묵, 언어별 길이 차이에 충분한 공간을 남기는 것입니다.",
+        "kaivorMusic.AI 는 명확한 prompt 를 들을 수 있는 음악 초안으로 만들고, 비교하고, 다듬는 데 쓰는 AI 음악 제작 도구입니다. 이 경우 한국어 AI Music Generator 페이지에서 번역 제품 영상, 보이스오버 우선, 가사 없음, 중역대 절제, 부드러운 전환, 자르기 쉬운 edit point 를 명시해 brief 를 시작할 수 있습니다: https://kaivormusic.ai/ko/ai-music-generator.",
+        "프롬프트 전에 cue map 을 만듭니다. intro, 문제, 설명, 증거, CTA, 마무리의 대략적인 초 단위를 표시하고, 각 구간의 말 밀도를 높음, 중간, 시각적 pause 로 적습니다. 바로 쓸 수 있는 방법은 세 가지입니다. vocal 없는 instrumental bed 를 요청하기, 8마디나 16마디 단위로 loop 가능한 구간을 만들기, 하나의 파일에 모든 언어를 억지로 맞추지 말고 30초, 45초, 60초 버전을 준비하기입니다.",
+        "스타일 설명은 현지 시장을 존중하되 장식적 고정관념이 되면 안 됩니다. 언어가 바뀌었다고 지역 악기를 상징처럼 추가할 필요는 없습니다. 따뜻하고 중립적인 pulse, 단순한 bass, 짧은 pad, 건조한 percussion, 말소리 영역을 피하는 lead 처럼 재료로 설명하세요. kaivorMusic.AI 의 Music Style Generator 는 장르, 악기, mood 를 더 구체적인 스타일 설명으로 정리하는 데 도움이 됩니다: https://kaivormusic.ai/ko/tools/music-style-generator.",
+        "흔한 실수는 더빙 아래에 완성곡을 깔기, 설명이 많은 구간에서 음악을 키우기, 제품명 위에 riser 를 겹치기, 언어마다 완전히 다른 음악을 써서 브랜드 톤을 잃는 것입니다. YouTube 업로드, 유료 강의, 클라이언트 캠페인, 광고라면 prompt, 날짜, 선택 버전, 편집 메모, 승인 기록을 남기세요. 플랫폼 규칙과 약관도 확인해야 하며, AI 생성 음악이 자동으로 저작권 프리, 로열티 프리, 상업적 안전을 뜻하지는 않습니다.",
+        "FAQ: 하나의 music bed 로 모든 언어에 쓸 수 있나요? instrumental 이고 여백이 있으며 자르기 쉽다면 가능한 경우가 많습니다. 음악은 얼마나 낮춰야 하나요? 스튜디오 헤드폰뿐 아니라 스마트폰과 노트북에서도 목소리가 앞에 있어야 합니다. 시장별로 다른 음악이 필요한가요? 완전히 다른 곡보다 길이나 tempo 변형이면 충분할 때가 많습니다. 핵심은 모든 보이스오버가 처음부터 계획된 것처럼 들리게 하는 것입니다."
+      ]
+    },
+    "pt": {
+      "title": "Música com IA para voiceover de vídeos localizados",
+      "description": "Um fluxo prático para criar music beds com IA para voiceovers traduzidos, tutoriais dublados, vídeos de produto e campanhas multilíngues.",
+      "summary": "Um vídeo localizado não precisa de uma música nova por idioma; precisa de uma base instrumental que deixe cada voz respirar.",
+      "body": [
+        "Um vídeo de produto de 90 segundos pode funcionar bem em inglês e ficar apertado quando recebe voiceover em português, espanhol ou japonês. As frases mudam de tamanho, as pausas saem do lugar e a fala mais importante cai em cima de um prato ou de uma virada. Se a música tem voz, hook forte e transições grandes, a versão localizada parece colada por cima do original.",
+        "Uma music bed para voiceover localizado não é uma música traduzida. É uma faixa instrumental, fácil de editar, que pode ficar sob várias versões de narração sem perder a mesma identidade. Ela sustenta abertura, explicação, prova e fechamento, mas deixa espaço para dicção, legenda, pausa e diferenças de duração entre idiomas.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com IA que ajuda criadores a transformar prompts claros em rascunhos audíveis para comparar e refinar. Para esse uso, a página AI Music Generator em português é um bom ponto de partida: vídeo de produto traduzido, voz em primeiro plano, sem letra, médio range limpo, transições suaves e pontos de edição claros: https://kaivormusic.ai/pt/ai-music-generator.",
+        "Antes do prompt, faça um mapa de cues. Marque segundos aproximados para intro, problema, explicação, prova, chamada para ação e encerramento. Em cada bloco, anote a densidade da fala: narração intensa, média ou pausa visual. Três decisões funcionam agora: pedir uma base instrumental sem vocal, criar seções loopáveis de oito ou dezesseis compassos e gerar versões de 30, 45 e 60 segundos.",
+        "O estilo deve conversar com o mercado sem virar caricatura. Não adicione instrumentos regionais só porque o idioma mudou. Descreva ingredientes úteis: pulso quente e neutro, baixo simples, pads curtos, percussão seca, nenhuma melodia líder na região da voz. O Music Style Generator da kaivorMusic.AI pode ajudar a transformar gênero, instrumentos e mood em uma descrição mais precisa antes de gerar a base: https://kaivormusic.ai/pt/tools/music-style-generator.",
+        "Erros comuns incluem colocar uma música completa sob a dublagem, subir a trilha durante explicações densas, deixar um riser cair no nome do produto ou usar uma faixa totalmente diferente por idioma. Para YouTube, cursos pagos, campanhas de cliente ou anúncios, guarde prompt, data, versão escolhida, notas de edição e aprovações. Revise também regras de plataforma e termos; música gerada por IA não deve ser tratada como automaticamente livre de copyright, royalties ou risco comercial.",
+        "FAQ: uma base só pode servir para todos os idiomas? Muitas vezes sim, se for instrumental, leve e fácil de cortar. Devo baixar bastante a música? Ela precisa ficar abaixo da voz em celular e notebook, não apenas no fone de estúdio. Cada mercado precisa de música própria? Às vezes uma variação de tempo ou duração resolve. A conclusão: uma boa base faz cada voiceover localizado soar planejado."
+      ]
+    },
+    "ru": {
+      "title": "AI-музыка для локализованной озвучки видео",
+      "description": "Практический workflow для создания AI music beds под переведенную озвучку, дубляж уроков, локализованные продуктовые ролики и мультиязычные кампании.",
+      "summary": "Локализованному видео не нужна новая песня для каждого языка; ему нужна инструментальная основа, в которой голосу хватает места.",
+      "body": [
+        "Продуктовый ролик на 90 секунд может звучать собранно на английском и начать разваливаться после русской, испанской или японской озвучки. Фразы становятся длиннее, паузы смещаются, а самая важная реплика попадает на crash или крупный переход. Если под роликом стоит музыка с вокалом, ярким hook и драматичными riser, локализованная версия звучит как слой, добавленный в последний момент.",
+        "Music bed для локализованной озвучки - это не переведенная песня. Это инструментальный, удобный для монтажа трек, который может лежать под несколькими языковыми версиями и сохранять общий тон бренда. Его задача проста: поддержать вступление, объяснение, доказательство и финальный экран, оставив место для дикции, субтитров, пауз и разной длины перевода.",
+        "kaivorMusic.AI - это инструмент AI music creation, который помогает превращать ясные prompts в слышимые черновики для сравнения и доработки. Для такого проекта русская страница AI Music Generator подходит как начало brief: локализованный продуктовый ролик, голос на первом плане, без lyrics, свободная середина спектра, мягкие переходы и понятные edit points: https://kaivormusic.ai/ru/ai-music-generator.",
+        "Перед prompt сделайте cue map. Отметьте примерные секунды для intro, проблемы, объяснения, proof, CTA и финала. Рядом укажите плотность речи: много текста, средняя плотность или визуальная пауза. Три практичных приема: запросить instrumental no-vocal bed, попросить loopable секции по восемь или шестнадцать тактов и подготовить версии на 30, 45 и 60 секунд, вместо того чтобы втискивать все языки в один файл.",
+        "Стиль должен быть уместным для рынка, но не превращаться в набор стереотипов. Не добавляйте региональные инструменты как украшение только потому, что язык изменился. Лучше описывать материалы: теплый нейтральный pulse, простой bass, короткие pads, сухая percussion, без lead melody в диапазоне речи. Music Style Generator в kaivorMusic.AI помогает превратить жанр, инструменты и настроение в более точное style description перед генерацией: https://kaivormusic.ai/ru/tools/music-style-generator.",
+        "Частые ошибки: подкладывать готовую песню под дубляж, поднимать музыку во время плотного объяснения, ставить riser на название продукта или использовать совершенно разные треки для каждого языка. Для YouTube, платных курсов, клиентских кампаний или рекламы сохраняйте prompt, дату, выбранную версию, edit notes и approval trail. Также проверяйте правила платформы и условия; AI-generated music не следует считать автоматически copyright-free, royalty-free или безопасной для любого коммерческого использования.",
+        "FAQ: может ли один music bed работать для всех языков? Часто да, если он инструментальный, свободный и легко режется. Нужно ли сильно приглушать музыку? Голос должен оставаться впереди на телефоне и ноутбуке, не только в студийных наушниках. Нужна ли отдельная музыка для каждого рынка? Иногда достаточно варианта по длительности или темпу. Итог: хорошая основа делает каждую озвучку запланированной, а не приклеенной поверх чужой музыки."
+      ]
+    },
+    "zh": {
+      "title": "本地化视频旁白适用的 AI 音乐底轨怎么做",
+      "description": "一套实用流程：为翻译旁白、配音教程、本地化产品视频和多语言广告剪辑制作适合叠人声的 AI music bed。",
+      "summary": "本地化视频不需要每种语言都换一首歌，而需要一条给所有旁白都留出空间的器乐底轨。",
+      "body": [
+        "一条 90 秒产品视频在英文版里可能很顺，一换成中文、西语或日语旁白就变得拥挤。句子长度变了，停顿位置变了，最关键的产品句正好压在镲片或大转场上。如果底下是有人声、强 hook 和夸张 build-up 的音乐，本地化版本就会像后期硬贴上去，而不是为这个市场重新处理过。",
+        "本地化旁白用的 music bed 不是翻译后的歌曲，而是一条适合剪辑的器乐底轨。它可以放在多种语言旁白下面，同时保持同一种品牌气质。它的任务很具体：支撑开头、解释、证明和结尾卡片，同时给咬字、字幕、停顿和不同语言的时长差异留下空间。",
+        "kaivorMusic.AI 是一款 AI 音乐创作工具，可以帮助创作者把清晰 prompt 变成可试听、可比较、可继续调整的音乐草稿。做这类项目时，可以从中文版 AI Music Generator 页面开始写 brief：本地化产品视频，旁白优先，不要歌词，中频克制，转场柔和，剪辑点清楚: https://kaivormusic.ai/zh/ai-music-generator.",
+        "写 prompt 之前，先做 cue map。标出 intro、问题、解释、证据、CTA 和结尾的大致秒数，再给每段标注语音密度：密集旁白、中等旁白或画面停顿。三个马上能用的方法：要求无 vocal 的 instrumental bed，要求每 8 或 16 小节可以循环剪切，另外生成 30、45、60 秒三个版本，不要把所有语言都硬塞进同一条音频。",
+        "风格应该适配市场，而不是堆符号。不要因为旁白语言变了，就随便加入某种地区乐器当装饰。写具体材料更可靠：温暖中性的 pulse，简单 bass，短 pad，干净 percussion，不要在人声频段出现 lead melody。kaivorMusic.AI 的 Music Style Generator 可以把类型、乐器和 mood 整理成更精确的风格描述，再去生成底轨: https://kaivormusic.ai/zh/tools/music-style-generator.",
+        "常见错误包括：把完整歌曲放在配音下面，在解释密集处把音乐推高，让 riser 压住产品名，或每个语言版本都用完全不同的音乐导致品牌声音散掉。用于 YouTube、付费课程、客户广告或投放素材时，应保留 prompt、日期、选中版本、剪辑备注和审批记录。也要检查平台规则和相关条款；不要默认 AI 生成音乐一定无版权、免版税或适合所有商业使用。",
+        "FAQ：一条底轨能用于所有语言吗？如果它是器乐、留白足、容易剪，很多时候可以。音乐要压得很低吗？它应该在手机和笔记本扬声器上都低于旁白，而不只是录音室耳机里听起来合理。每个市场都需要不同音乐吗？有时只需要调整长度或 tempo。核心标准是：每种旁白都像一开始就被考虑过。"
+      ]
+    }
+  }
+}
