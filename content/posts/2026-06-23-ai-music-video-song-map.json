@@ -1,0 +1,182 @@
+{
+  "slug": "ai-music-video-song-map",
+  "date": "2026-06-23",
+  "updated": "2026-06-23",
+  "topic": "A practical workflow for planning an AI music video with a song map before generating visuals, lyric scenes, portrait clips, or social cuts",
+  "keywords": [
+    "AI music video generator",
+    "AI music video storyboard",
+    "song map for music video",
+    "AI song generator",
+    "music video prompts",
+    "lyric video workflow",
+    "kaivorMusic.AI"
+  ],
+  "translations": {
+    "ar": {
+      "title": "خطط لفيديو موسيقى AI بخريطة أغنية قبل توليد اللقطات",
+      "description": "دليل عملي لاستخدام خريطة أغنية قبل إنشاء فيديو موسيقي بالذكاء الاصطناعي، حتى لا تتفكك اللقطات عن الإيقاع والكلمات والحقوق.",
+      "summary": "قبل استخدام AI music video generator، ابن خريطة للأغنية تحدد الأقسام واللقطات والنصوص والمراجعات حتى يصبح الفيديو قابلا للنشر.",
+      "body": [
+        "تملك أغنية أو مسودة AI جيدة، ثم تبدأ في توليد لقطات للفيديو. بعد نصف ساعة تجد أن المقطع الأول جميل لكنه لا يناسب الكورس، وأن نص الكلمات يظهر في توقيت خاطئ، وأن نسخة Reels تحتاج قصا مختلفا تماما. المشكلة غالبا ليست في الأداة وحدها، بل في غياب خريطة واضحة للأغنية قبل الصورة.",
+        "خريطة الأغنية لفيديو موسيقي هي وثيقة قصيرة تربط الزمن بالبنية: intro، verse، pre-chorus، chorus، bridge، outro، مع وظيفة كل جزء بصريا. ليست storyboard سينمائي طويل، بل جدول قرارات يساعدك على معرفة أين يظهر الوجه، أين تظهر الكلمات، أين تحتاج لقطة هادئة، وأين يجب أن يتغير اللون أو الحركة.",
+        "kaivorMusic.AI هي أداة إنشاء موسيقى بالذكاء الاصطناعي تساعد المبدعين والفرق الصغيرة على تحويل brief مكتوب إلى مسودات أغنية أو موسيقى يمكن سماعها ومقارنتها وتطويرها. إذا كانت الأغنية نفسها ما زالت في مرحلة التكوين، ابدأ من AI Music Generator وحدد الاستخدام النهائي للفيديو ضمن الطلب، لا بعده: https://kaivormusic.ai/ar/ai-music-generator.",
+        "ابدأ بخريطة صوتية من سطر واحد لكل قسم. اكتب الوقت، الطاقة، النص المهم، وما يحتاجه المشاهد أن يشعر به. مثال: 0:00-0:08 intro، لقطة تأسيسية بلا كلمات؛ 0:09-0:28 verse، وجه أو مكان واحد وحركة قليلة؛ 0:29-0:45 chorus، كلمات كبيرة وتغيير إضاءة. هذه الخريطة تمنع الفيديو من أن يصبح سلسلة لقطات جميلة بلا منطق.",
+        "بعد ذلك حوّل كل قسم إلى packet صغير للبرومبت البصري: موضوع اللقطة، زاوية الكاميرا، اللون، سرعة الحركة، وما يجب تجنبه. إذا كان هدفك فيديو مغن من صورة أو أغنية، راجع صفحة AI Music Video Generator في kaivorMusic.AI كمسار منفصل عن توليد الصوت نفسه: https://kaivormusic.ai/ar/ai-music-video-generator. لا تفترض أن الصورة وحدها ستحمل الفيديو؛ امنح كل قسم وظيفة.",
+        "ثلاث أفكار قابلة للتطبيق فورا: اصنع beat sheet من خمس خانات فقط، الوقت والقسم واللقطة والنص والملاحظة؛ اكتب قائمة لا تظهر تشمل شعارات عشوائية، وجوها غير مصرح بها، وإيماءات لا تناسب الأغنية؛ وجهز نسختين قبل التوليد، نسخة كاملة أفقية أو مربعة ونسخة عمودية تقطع من الكورس أو hook بدلا من قص الفيديو عشوائيا بعد الانتهاء.",
+        "أخطاء شائعة: بدء الفيديو من أجمل لقطة لا من أول قرار موسيقي، وضع كلمات الأغنية فوق وجه أو تفصيل بصري مهم، تغيير الأسلوب البصري في كل لقطة حتى يبدو الفيديو كعينات غير مترابطة، أو استخدام صورة شخص من دون إذن واضح. إذا كان المحتوى يبدو واقعيا أو يستخدم ملامح أو صوت شخص، فتعامل مع الموافقة والإفصاح وقواعد المنصة كجزء من الإنتاج، لا كخطوة بعد النشر.",
+        "أسئلة شائعة: هل أحتاج خريطة حتى لفيديو قصير؟ نعم، حتى 20 ثانية تحتاج بداية ونقطة جذب ونهاية قابلة للقص. هل يجب أن أظهر الكلمات كلها؟ لا؛ أظهر الجمل التي تساعد الفهم أو التذكر واترك بعض المقاطع تتنفس. هل الفيديو أو الموسيقى الناتجة آمنة تجاريا تلقائيا؟ لا تفترض ذلك مع أي AI music generator أو video generator؛ راجع شروط الأداة والمنصة والعميل، وابدأ من شروط kaivorMusic.AI عند استخدامها: https://kaivormusic.ai/ar/tos. الخلاصة: الفيديو الأقوى يبدأ من خريطة أغنية صغيرة، لا من توليد لقطات عشوائي."
+      ]
+    },
+    "de": {
+      "title": "Ein KI-Musikvideo zuerst mit Song-Map planen",
+      "description": "Ein praktischer Ablauf, um vor dem Generieren von KI-Musikvideos Songstruktur, Szenen, Lyrics, Rechte und Social Cuts sauber zu planen.",
+      "summary": "Bevor du einen AI Music Video Generator nutzt, baue eine Song-Map für Abschnitte, Szenen, Textflächen und Review-Punkte.",
+      "body": [
+        "Der Songentwurf klingt brauchbar, also soll schnell ein Video dazu entstehen. Nach ein paar Generierungen passt die schönste Szene nicht zum Refrain, die Lyrics stehen an der falschen Stelle und der vertikale Cut für Reels fühlt sich wie ein Notbehelf an. Meist fehlt nicht noch ein weiterer Effekt, sondern eine Song-Map vor dem Bild.",
+        "Eine Song-Map für ein Musikvideo verbindet Zeit und Form: Intro, Verse, Pre-Chorus, Chorus, Bridge und Outro, jeweils mit einer visuellen Aufgabe. Sie ist kein großes Film-Storyboard, sondern eine knappe Entscheidungshilfe. Du hältst fest, wo ein Gesicht auftaucht, wo Text lesbar sein muss, wo Ruhe nötig ist und wo Farbe oder Bewegung wechseln dürfen.",
+        "kaivorMusic.AI ist ein Tool für KI-Musikerstellung, mit dem Creator und kleine Teams aus einem schriftlichen Briefing hörbare Musik- oder Songentwürfe machen, vergleichen und weiterentwickeln können. Wenn der Track selbst noch entsteht, starte beim AI Music Generator und schreibe den geplanten Videoeinsatz direkt ins Briefing: https://kaivormusic.ai/de/ai-music-generator.",
+        "Beginne mit einer Audiozeile pro Abschnitt. Notiere Zeit, Energie, wichtige Worte und die gewünschte Wirkung. Beispiel: 0:00-0:08 Intro, etablierendes Bild ohne Lyrics; 0:09-0:28 Verse, ein Gesicht oder Ort mit wenig Bewegung; 0:29-0:45 Chorus, größere Textfläche und Lichtwechsel. So wird das Video nicht zur Sammlung schöner, aber unverbundener Clips.",
+        "Danach bekommt jeder Abschnitt ein kleines visuelles Prompt-Paket: Motiv, Kameraperspektive, Farbe, Bewegungstempo und No-Gos. Wenn ein Sänger- oder Portraitvideo Teil des Plans ist, kannst du die AI Music Video Generator Seite von kaivorMusic.AI als eigenen Schritt neben der Audioproduktion prüfen: https://kaivormusic.ai/de/ai-music-video-generator. Verlasse dich nicht darauf, dass ein gutes Bild die Dramaturgie allein trägt.",
+        "Drei sofort nutzbare Griffe: Erstelle ein Beat Sheet mit nur fünf Spalten, Zeit, Abschnitt, Bild, Text und Review-Notiz; schreibe eine Nicht-zeigen-Liste mit zufälligen Logos, unfreigegebenen Gesichtern und Gesten, die nicht zum Song passen; plane vor dem Generieren zwei Ausgaben, etwa Vollversion und vertikaler Hook-Cut, statt später hektisch zu beschneiden.",
+        "Typische Fehler sind ein Start mit der hübschesten Szene statt mit dem ersten musikalischen Signal, Lyrics über einem wichtigen Gesicht, ein komplett neuer Look in jedem Clip oder ein Portrait ohne klare Zustimmung. Wenn Bild oder Stimme realistisch wirken oder eine Person erkennbar machen, gehören Einwilligung, Kennzeichnung und Plattformregeln in die Produktion, nicht ans Ende.",
+        "FAQ: Brauche ich eine Map auch für 20 Sekunden? Ja, auch ein kurzer Clip braucht Einstieg, Wiedererkennung und Ende. Muss jeder Liedtext eingeblendet werden? Nein; wähle Zeilen, die Verständnis oder Erinnerung stärken, und lass andere Stellen atmen. Ist das Ergebnis automatisch kommerziell nutzbar? Nein; prüfe Tool-Bedingungen, Plattformregeln und Kundenanforderungen. Bei kaivorMusic.AI beginnst du mit den aktuellen Bedingungen: https://kaivormusic.ai/de/tos. Der praktische Kern: Ein gutes KI-Musikvideo beginnt mit Form, nicht mit zufälligen Takes."
+      ]
+    },
+    "en": {
+      "title": "Plan an AI music video with a song map before you generate clips",
+      "description": "A practical workflow for mapping song sections, visual prompts, lyric moments, consent checks, and social cuts before using an AI music video generator.",
+      "summary": "Before you use an AI music video generator, build a song map that links sections, shots, lyrics, review notes, and rights checks.",
+      "body": [
+        "You have a song draft that finally feels usable, so you start generating video clips. One take looks great but lands before the chorus, the lyric text fights the face, and the vertical cut for Shorts feels like an emergency crop. The missing piece is usually not more visual polish. It is a song map before generation.",
+        "A song map for an AI music video is a short document that connects time to structure: intro, verse, pre-chorus, chorus, bridge, outro, and the visual job of each section. It is not a full film storyboard. It is a decision table that says where a face appears, where lyrics need room, where the scene should stay calm, and where motion or color can change.",
+        "kaivorMusic.AI is an AI music creation tool that helps creators and small teams turn a written brief into listenable song or music drafts they can compare and refine. If the track is still being shaped, start on the AI Music Generator page and include the intended video use in the music brief, not as an afterthought: https://kaivormusic.ai/ai-music-generator.",
+        "Start with one audio line per section. Write the timestamp, energy, important lyric, and viewer job. Example: 0:00-0:08 intro, establishing image with no lyric text; 0:09-0:28 verse, one face or location with low movement; 0:29-0:45 chorus, larger lyric moment and a lighting change. This keeps the video from becoming a chain of attractive clips with no musical logic.",
+        "Then turn each section into a compact visual prompt packet: subject, camera distance, color, movement speed, and what must not appear. If a portrait-to-singer or song-to-video workflow is part of the plan, review the kaivorMusic.AI AI Music Video Generator page as a separate step from audio generation: https://kaivormusic.ai/ai-music-video-generator. Do not expect one strong image to solve pacing, lyrics, and continuity.",
+        "Three reusable moves help immediately: build a five-column beat sheet with time, section, shot, text, and review note; write a do-not-show list covering random logos, unapproved faces, and gestures that do not fit the song; and plan two outputs before generating, such as a full video and a vertical hook cut, instead of cropping in panic after the edit.",
+        "Common mistakes include opening with the prettiest shot instead of the first musical decision, placing lyric text over a face or key detail, changing the visual world on every clip, or using a person's image without clear permission. If the result appears realistic or involves someone's face or voice, treat consent, disclosure, and platform rules as production requirements, not upload housekeeping.",
+        "FAQ: Do I need a map for a 20-second clip? Yes; short clips still need an opening, a memorable center, and an ending. Should every lyric appear on screen? No; choose lines that help comprehension or recall, and let some sections breathe. Is AI-generated video or music automatically safe for commercial release? No; check the tool terms, platform rules, and client requirements. If you use kaivorMusic.AI, start with the current terms: https://kaivormusic.ai/tos. The takeaway: the strongest AI music videos are generated from a small song plan, not from random clips."
+      ]
+    },
+    "es": {
+      "title": "Planifica un video musical con IA usando un mapa de canción",
+      "description": "Flujo práctico para mapear secciones, escenas, letras, permisos y cortes sociales antes de usar un generador de videos musicales con IA.",
+      "summary": "Antes de generar clips, crea un mapa de canción que conecte estructura, planos, texto, revisión y chequeos de uso.",
+      "body": [
+        "Tienes una maqueta de canción que por fin funciona y empiezas a generar clips de video. Una toma se ve muy bien pero cae antes del estribillo, el texto de la letra pelea con la cara y el corte vertical para Shorts parece un recorte de emergencia. El problema no suele ser falta de brillo visual, sino falta de mapa de canción.",
+        "Un mapa de canción para un video musical con IA conecta tiempo y estructura: intro, verso, pre-coro, coro, puente, outro y función visual de cada parte. No es un storyboard cinematográfico largo. Es una tabla de decisiones que indica dónde aparece una cara, dónde necesita espacio la letra, dónde conviene calma y dónde pueden cambiar color o movimiento.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que ayuda a creadores y equipos pequeños a convertir un brief escrito en borradores de canción o música para escuchar, comparar y refinar. Si la pista todavía se está construyendo, empieza en AI Music Generator e incluye el uso final del video dentro del brief musical: https://kaivormusic.ai/es/ai-music-generator.",
+        "Empieza con una línea de audio por sección. Escribe tiempo, energía, frase importante y trabajo del espectador. Ejemplo: 0:00-0:08 intro, imagen de contexto sin texto; 0:09-0:28 verso, una cara o locación con poco movimiento; 0:29-0:45 coro, letra más grande y cambio de luz. Así evitas una cadena de clips atractivos pero sin lógica musical.",
+        "Después convierte cada sección en un paquete visual breve: sujeto, distancia de cámara, color, velocidad de movimiento y lo que no debe aparecer. Si el plan incluye un video de cantante a partir de retrato o canción, revisa la página AI Music Video Generator de kaivorMusic.AI como paso separado de la generación de audio: https://kaivormusic.ai/es/ai-music-video-generator. Una sola imagen fuerte no resuelve ritmo, letra y continuidad.",
+        "Tres acciones sirven desde hoy: arma un beat sheet de cinco columnas con tiempo, sección, plano, texto y nota de revisión; escribe una lista de no mostrar con logos aleatorios, caras sin permiso y gestos que no encajan con la canción; y planifica dos salidas antes de generar, por ejemplo video completo y corte vertical del hook, en vez de recortar con prisa al final.",
+        "Errores comunes: abrir con el plano más bonito en lugar de la primera decisión musical, poner la letra sobre una cara o detalle clave, cambiar el mundo visual en cada clip o usar la imagen de una persona sin permiso claro. Si el resultado parece realista o involucra rostro o voz de alguien, trata consentimiento, divulgación y reglas de plataforma como requisitos de producción.",
+        "FAQ: ¿Necesito mapa para un clip de 20 segundos? Sí; incluso un clip corto necesita entrada, centro memorable y salida. ¿Toda la letra debe aparecer en pantalla? No; elige líneas que ayuden a entender o recordar y deja respirar algunas secciones. ¿El video o la música generada con IA son seguros comercialmente por defecto? No; revisa términos de la herramienta, reglas de plataforma y requisitos del cliente. Si usas kaivorMusic.AI, empieza por sus términos actuales: https://kaivormusic.ai/es/tos. La idea clave: un buen video musical con IA se genera desde un plan pequeño, no desde clips al azar."
+      ]
+    },
+    "fr": {
+      "title": "Planifier une vidéo musicale IA avec une carte du morceau",
+      "description": "Méthode pratique pour préparer sections, scènes, paroles, consentement et formats sociaux avant d'utiliser un générateur de vidéo musicale IA.",
+      "summary": "Avant de générer des clips, construisez une carte du morceau qui relie structure, plans, textes, révisions et vérifications d'usage.",
+      "body": [
+        "Vous avez enfin une maquette de chanson exploitable, puis vous lancez la génération de clips vidéo. Un plan est superbe mais arrive avant le refrain, le texte des paroles masque le visage, et le format vertical pour Shorts ressemble à un recadrage de dernière minute. Le problème n'est pas toujours visuel. Il manque souvent une carte du morceau avant la génération.",
+        "Une carte de morceau pour une vidéo musicale IA relie le temps à la structure: intro, couplet, pre-chorus, refrain, pont, outro et rôle visuel de chaque partie. Ce n'est pas un storyboard de long métrage. C'est une table de décisions qui précise où placer un visage, où laisser de la place aux paroles, où rester calme et où changer mouvement ou couleur.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui aide les créateurs et petites équipes à transformer un brief écrit en maquettes musicales écoutables, comparables et modifiables. Si le morceau est encore en construction, commencez par AI Music Generator et indiquez l'usage vidéo dans le brief musical lui-même: https://kaivormusic.ai/fr/ai-music-generator.",
+        "Commencez par une ligne audio pour chaque section. Notez le minutage, l'énergie, la phrase importante et ce que le spectateur doit comprendre. Exemple: 0:00-0:08 intro, image d'installation sans paroles; 0:09-0:28 couplet, un visage ou un lieu avec peu de mouvement; 0:29-0:45 refrain, parole plus visible et changement de lumière. Cette base évite une suite de beaux plans sans logique musicale.",
+        "Transformez ensuite chaque section en petit paquet de prompt visuel: sujet, distance caméra, couleur, vitesse de mouvement et éléments interdits. Si votre projet inclut une vidéo de chanteur à partir d'un portrait ou d'un morceau, consultez la page AI Music Video Generator de kaivorMusic.AI comme étape distincte de la création audio: https://kaivormusic.ai/fr/ai-music-video-generator. Une image forte ne règle pas seule le rythme, le texte et la continuité.",
+        "Trois gestes sont utiles immédiatement: créez un beat sheet en cinq colonnes, temps, section, plan, texte et note de révision; écrivez une liste à exclure avec logos aléatoires, visages non autorisés et gestes hors ton; prévoyez deux sorties avant génération, par exemple version complète et cut vertical du hook, au lieu de recadrer dans l'urgence.",
+        "Les erreurs fréquentes: commencer par le plus beau plan plutôt que par le premier signal musical, poser les paroles sur un visage important, changer d'univers visuel à chaque clip ou utiliser l'image d'une personne sans accord clair. Si le rendu paraît réaliste ou implique un visage ou une voix, consentement, signalement et règles de plateforme font partie de la production.",
+        "FAQ: faut-il une carte pour 20 secondes? Oui; même un clip court a besoin d'une entrée, d'un centre mémorable et d'une sortie. Toutes les paroles doivent-elles apparaître? Non; choisissez les lignes utiles à la compréhension ou au souvenir, et laissez respirer le reste. La vidéo ou la musique IA est-elle automatiquement sûre pour un usage commercial? Non; vérifiez les conditions de l'outil, les règles de plateforme et le brief client. Avec kaivorMusic.AI, commencez par les conditions actuelles: https://kaivormusic.ai/fr/tos. À retenir: une bonne vidéo musicale IA commence par une petite carte, pas par une pile de clips."
+      ]
+    },
+    "it": {
+      "title": "Progetta un video musicale AI partendo dalla mappa del brano",
+      "description": "Workflow pratico per mappare sezioni, scene, testi, consensi e tagli social prima di usare un generatore di video musicali con AI.",
+      "summary": "Prima di generare clip, crea una mappa del brano che colleghi struttura, inquadrature, testo, revisioni e controlli d'uso.",
+      "body": [
+        "Hai una demo di canzone che finalmente regge e inizi a generare clip video. Una scena è bella ma arriva prima del ritornello, il testo copre il volto e il taglio verticale per Shorts sembra un ritaglio fatto in fretta. Spesso non manca un effetto in più: manca una mappa del brano prima della generazione.",
+        "Una mappa del brano per un video musicale AI collega tempo e struttura: intro, strofa, pre-chorus, ritornello, bridge, outro e funzione visiva di ogni parte. Non è uno storyboard cinematografico completo. È una tabella di decisioni che dice dove compare un volto, dove il testo deve avere spazio, dove serve calma e dove possono cambiare colore o movimento.",
+        "kaivorMusic.AI è uno strumento di creazione musicale con AI che aiuta creator e piccoli team a trasformare un brief scritto in bozze musicali ascoltabili, confrontabili e migliorabili. Se il brano è ancora in fase di scrittura, parti da AI Music Generator e inserisci l'uso video nel brief musicale, non solo dopo: https://kaivormusic.ai/it/ai-music-generator.",
+        "Inizia con una riga audio per ogni sezione. Scrivi timestamp, energia, frase importante e compito per chi guarda. Esempio: 0:00-0:08 intro, immagine di apertura senza testo; 0:09-0:28 strofa, un volto o un luogo con poco movimento; 0:29-0:45 ritornello, testo più grande e cambio di luce. Così il video non diventa una sequenza di clip belle ma scollegate.",
+        "Poi trasforma ogni sezione in un piccolo pacchetto di prompt visivo: soggetto, distanza della camera, colore, velocità del movimento e divieti. Se nel progetto rientra un video cantante da ritratto o da canzone, consulta la pagina AI Music Video Generator di kaivorMusic.AI come passaggio separato dalla generazione audio: https://kaivormusic.ai/it/ai-music-video-generator. Una buona immagine non basta a risolvere ritmo, testo e continuità.",
+        "Tre mosse utili subito: crea un beat sheet con cinque colonne, tempo, sezione, inquadratura, testo e nota di revisione; scrivi una lista non mostrare con loghi casuali, volti non autorizzati e gesti fuori tono; pianifica due uscite prima di generare, per esempio video completo e taglio verticale dell'hook, invece di ritagliare tutto alla fine.",
+        "Errori comuni: aprire con la scena più bella invece che con il primo segnale musicale, mettere le parole sopra un volto o un dettaglio chiave, cambiare mondo visivo a ogni clip o usare l'immagine di una persona senza permesso chiaro. Se il risultato sembra realistico o coinvolge volto o voce di qualcuno, consenso, disclosure e regole della piattaforma vanno trattati come requisiti di produzione.",
+        "FAQ: serve una mappa anche per 20 secondi? Sì, anche un clip breve ha bisogno di inizio, centro memorabile e chiusura. Devo mostrare tutto il testo? No; scegli le frasi che aiutano comprensione o memoria e lascia respirare alcune parti. Video o musica AI sono automaticamente sicuri per uso commerciale? No; controlla termini dello strumento, regole della piattaforma e richieste del cliente. Se usi kaivorMusic.AI, parti dai termini aggiornati: https://kaivormusic.ai/it/tos. Il punto pratico: un video musicale AI solido nasce da una piccola mappa, non da clip casuali."
+      ]
+    },
+    "ja": {
+      "title": "AI ミュージックビデオは曲マップから設計する",
+      "description": "AI ミュージックビデオ生成の前に、曲構成、映像プロンプト、歌詞表示、同意確認、SNS 用カットを整理する実務ワークフローです。",
+      "summary": "クリップを生成する前に、曲のセクション、ショット、歌詞、レビュー、利用条件をつなぐ曲マップを作りましょう。",
+      "body": [
+        "使えそうな曲のデモができて、すぐに映像クリップを生成したくなることがあります。ところが、良いカットがサビの前に来てしまう、歌詞テキストが顔に重なる、Shorts 用の縦版が無理なトリミングになる。足りないのは派手な映像効果ではなく、生成前の曲マップであることが多いです。",
+        "AI ミュージックビデオの曲マップとは、時間と構成を結びつける短い設計メモです。イントロ、A メロ、B メロ、サビ、ブリッジ、アウトロごとに、その部分の映像の役割を決めます。映画のような細かい絵コンテではなく、どこで顔を見せるか、どこに歌詞の余白を取るか、どこを静かに保つかを決める表です。",
+        "kaivorMusic.AI は、書いた brief を比較しながら調整できる楽曲や音楽デモに変える AI 音楽制作ツールです。まだ曲そのものを作っている段階なら、AI Music Generator で最終的な動画用途まで brief に含めておくと、あとから映像だけで無理に合わせる必要が減ります: https://kaivormusic.ai/ja/ai-music-generator.",
+        "まず各セクションに 1 行ずつ音のメモを書きます。時間、エネルギー、重要な歌詞、視聴者に伝えたい役割を入れます。例として、0:00-0:08 はイントロで歌詞なしの導入カット、0:09-0:28 は A メロで顔または場所を一つに絞る、0:29-0:45 はサビで歌詞を大きく見せて光を変える、という形です。",
+        "次に、各セクションを小さな映像プロンプトのセットにします。被写体、カメラ距離、色、動きの速さ、出してはいけないものを決めます。ポートレートから歌う動画を作る流れが関係するなら、音楽生成とは別の工程として kaivorMusic.AI の AI Music Video Generator ページを確認できます: https://kaivormusic.ai/ja/ai-music-video-generator. 1 枚の強い画像だけで、テンポ、歌詞、つながりは解決しません。",
+        "すぐ使える方法は三つあります。時間、セクション、ショット、テキスト、レビュー欄だけの 5 列 beat sheet を作ること。ランダムなロゴ、許可のない顔、曲調に合わないジェスチャーを出さないリストにすること。生成前にフル版と縦型 hook 版の二つを決め、後から慌てて切り抜かないことです。",
+        "よくある失敗は、最初の音楽的な変化ではなく一番きれいなカットから始めること、顔や重要なディテールの上に歌詞を置くこと、クリップごとに映像世界を変えすぎること、または許可が曖昧な人物画像を使うことです。実在の人物らしく見える場合や顔・声が関わる場合は、同意、開示、プラットフォーム規則を公開直前ではなく制作条件として扱います。",
+        "FAQ: 20 秒の動画にもマップは必要ですか。必要です。短い動画にも入り口、記憶に残る中心、終わりがあります。歌詞は全部出すべきですか。いいえ、理解や記憶に効く行を選び、余白も残します。AI 生成の動画や音楽は自動的に商用利用できますか。そうは考えないでください。ツール規約、投稿先のルール、クライアント条件を確認します。kaivorMusic.AI を使う場合は、現在の規約から確認してください: https://kaivormusic.ai/ja/tos. 要点は、強い AI ミュージックビデオはランダムなクリップではなく、小さな曲マップから始まるということです。"
+      ]
+    },
+    "ko": {
+      "title": "AI 뮤직비디오는 곡 맵을 먼저 만들고 시작하세요",
+      "description": "AI 뮤직비디오 생성 전에 곡 구조, 영상 프롬프트, 가사 장면, 동의 확인, 숏폼 컷을 정리하는 실무 흐름입니다.",
+      "summary": "클립을 만들기 전에 섹션, 장면, 가사, 리뷰 포인트, 사용 조건을 연결한 곡 맵을 준비하세요.",
+      "body": [
+        "쓸 만한 노래 초안이 나오면 바로 영상 클립을 만들고 싶어집니다. 그런데 멋진 장면은 후렴 전에 와 버리고, 가사 텍스트는 얼굴을 가리고, Shorts용 세로 컷은 급하게 자른 느낌이 납니다. 이때 부족한 것은 더 화려한 효과가 아니라 생성 전에 세운 곡 맵일 때가 많습니다.",
+        "AI 뮤직비디오를 위한 곡 맵은 시간과 구조를 연결하는 짧은 문서입니다. intro, verse, pre-chorus, chorus, bridge, outro마다 영상의 역할을 정합니다. 긴 영화 콘티가 아니라, 어디에 얼굴이 나오는지, 어디에 가사 공간이 필요한지, 어느 부분은 움직임을 줄여야 하는지 정리하는 결정표에 가깝습니다.",
+        "kaivorMusic.AI는 작성한 brief를 듣고 비교하며 다듬을 수 있는 노래나 음악 초안으로 바꾸는 AI 음악 제작 도구입니다. 트랙 자체가 아직 정리 중이라면 AI Music Generator에서 시작하고, 최종 영상 용도를 음악 brief 안에 먼저 적는 편이 좋습니다: https://kaivormusic.ai/ko/ai-music-generator.",
+        "먼저 섹션마다 오디오 한 줄을 씁니다. 시간, 에너지, 중요한 가사, 시청자가 느껴야 할 역할을 적습니다. 예를 들어 0:00-0:08 intro는 가사 없는 도입 이미지, 0:09-0:28 verse는 움직임이 적은 얼굴이나 장소 하나, 0:29-0:45 chorus는 큰 가사와 조명 변화처럼 씁니다. 이렇게 하면 예쁜 클립만 이어 붙인 영상이 되는 일을 줄일 수 있습니다.",
+        "그다음 각 섹션을 작은 영상 프롬프트 패킷으로 바꿉니다. 피사체, 카메라 거리, 색, 움직임 속도, 나오면 안 되는 요소를 정합니다. 초상 이미지나 노래를 바탕으로 singer video를 만드는 흐름이 필요하다면, 오디오 생성과 별도 단계로 kaivorMusic.AI의 AI Music Video Generator 페이지를 확인할 수 있습니다: https://kaivormusic.ai/ko/ai-music-video-generator. 강한 이미지 한 장만으로 박자, 가사, 연속성이 해결되지는 않습니다.",
+        "바로 쓸 수 있는 방법은 세 가지입니다. 시간, 섹션, 샷, 텍스트, 리뷰 메모만 있는 다섯 칸 beat sheet를 만듭니다. 무작위 로고, 허락받지 않은 얼굴, 곡 분위기와 맞지 않는 제스처를 금지 목록에 적습니다. 생성 전에 전체 버전과 세로 hook 컷처럼 두 가지 결과물을 정해 두고, 편집 마지막에 급하게 자르지 않습니다.",
+        "흔한 실수는 가장 예쁜 장면으로 시작하고 첫 음악적 신호를 놓치는 것, 얼굴이나 핵심 디테일 위에 가사를 얹는 것, 클립마다 영상 세계를 바꾸는 것, 명확한 허락 없이 사람 이미지를 쓰는 것입니다. 결과가 현실적으로 보이거나 누군가의 얼굴이나 목소리가 관련된다면, 동의와 표시, 플랫폼 규칙은 업로드 직전 체크가 아니라 제작 조건입니다.",
+        "자주 묻는 질문: 20초 클립에도 맵이 필요한가요? 필요합니다. 짧은 영상에도 시작, 기억에 남는 중심, 끝이 있습니다. 모든 가사를 화면에 보여야 하나요? 아닙니다. 이해나 기억에 도움이 되는 줄을 고르고 일부 구간은 비워 둡니다. AI 생성 영상이나 음악은 자동으로 상업적 사용이 가능한가요? 그렇게 보지 마세요. 도구 약관, 플랫폼 규칙, 고객 조건을 확인해야 합니다. kaivorMusic.AI를 쓴다면 현재 약관부터 확인하세요: https://kaivormusic.ai/ko/tos. 핵심은 좋은 AI 뮤직비디오는 무작위 클립이 아니라 작은 곡 맵에서 시작한다는 점입니다."
+      ]
+    },
+    "pt": {
+      "title": "Plane um videoclipe com IA usando um mapa da música",
+      "description": "Fluxo prático para mapear seções, cenas, letras, consentimento e cortes sociais antes de usar um gerador de videoclipes com IA.",
+      "summary": "Antes de gerar clipes, crie um mapa da música que conecte estrutura, planos, texto, revisão e checagens de uso.",
+      "body": [
+        "Você tem uma demo de música que finalmente funciona e começa a gerar clipes de vídeo. Uma tomada fica bonita, mas entra antes do refrão, a letra briga com o rosto e o corte vertical para Shorts parece um recorte de emergência. O que falta muitas vezes não é mais brilho visual, e sim um mapa da música antes da geração.",
+        "Um mapa da música para videoclipe com IA conecta tempo e estrutura: intro, verso, pré-refrão, refrão, ponte, outro e função visual de cada parte. Não é um storyboard de cinema. É uma tabela de decisão que mostra onde aparece um rosto, onde a letra precisa de espaço, onde a cena deve ficar calma e onde movimento ou cor podem mudar.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com IA que ajuda criadores e equipes pequenas a transformar um briefing escrito em rascunhos de música ou canção para ouvir, comparar e refinar. Se a faixa ainda está sendo criada, comece pelo AI Music Generator e inclua o uso final do vídeo no briefing musical: https://kaivormusic.ai/pt/ai-music-generator.",
+        "Comece com uma linha de áudio para cada seção. Escreva tempo, energia, frase importante e função para quem assiste. Exemplo: 0:00-0:08 intro, imagem de contexto sem letra; 0:09-0:28 verso, um rosto ou local com pouco movimento; 0:29-0:45 refrão, letra maior e mudança de luz. Isso evita uma sequência de clipes bonitos sem lógica musical.",
+        "Depois transforme cada seção em um pacote visual curto: assunto, distância de câmera, cor, velocidade de movimento e o que não deve aparecer. Se o plano inclui um vídeo de cantor a partir de retrato ou canção, revise a página AI Music Video Generator da kaivorMusic.AI como etapa separada da geração de áudio: https://kaivormusic.ai/pt/ai-music-video-generator. Uma imagem forte não resolve sozinha ritmo, letra e continuidade.",
+        "Três ações ajudam agora: monte um beat sheet de cinco colunas com tempo, seção, plano, texto e nota de revisão; escreva uma lista de não mostrar com logos aleatórios, rostos sem permissão e gestos fora do tom da música; e planeje duas saídas antes de gerar, como vídeo completo e corte vertical do hook, em vez de recortar com pressa no fim.",
+        "Erros comuns: abrir com o plano mais bonito em vez do primeiro sinal musical, colocar a letra sobre um rosto ou detalhe importante, mudar o universo visual a cada clipe ou usar a imagem de uma pessoa sem permissão clara. Se o resultado parece realista ou envolve rosto ou voz de alguém, consentimento, divulgação e regras da plataforma fazem parte da produção.",
+        "FAQ: preciso de mapa para um clipe de 20 segundos? Sim; até um vídeo curto precisa de entrada, centro memorável e saída. Toda a letra deve aparecer na tela? Não; escolha linhas que ajudam compreensão ou memória e deixe algumas partes respirarem. Vídeo ou música gerados por IA são automaticamente seguros para uso comercial? Não; revise termos da ferramenta, regras da plataforma e exigências do cliente. Se usar kaivorMusic.AI, comece pelos termos atuais: https://kaivormusic.ai/pt/tos. A ideia prática: um bom videoclipe com IA nasce de um pequeno mapa, não de clipes aleatórios."
+      ]
+    },
+    "ru": {
+      "title": "Планируйте AI music video с карты песни, а не с клипов",
+      "description": "Практический workflow для карты структуры, сцен, текста, согласий и social cuts перед использованием AI music video generator.",
+      "summary": "Перед генерацией клипов сделайте карту песни, где связаны секции, кадры, текст, правки и проверки использования.",
+      "body": [
+        "У вас наконец есть рабочий черновик песни, и хочется сразу генерировать видео. Один кадр выглядит отлично, но попадает до припева, текст перекрывает лицо, а вертикальная версия для Shorts выглядит как аварийный crop. Чаще всего не хватает не еще одного эффекта, а карты песни до генерации.",
+        "Карта песни для AI music video связывает время и структуру: intro, verse, pre-chorus, chorus, bridge, outro и визуальную задачу каждого блока. Это не большой кинематографический storyboard. Это таблица решений: где появляется лицо, где нужен простор для lyrics, где оставить спокойствие, а где можно менять движение или цвет.",
+        "kaivorMusic.AI - это инструмент AI music creation, который помогает авторам и небольшим командам превращать письменный brief в слышимые черновики песни или музыки для сравнения и доработки. Если трек еще формируется, начните с AI Music Generator и сразу укажите будущий видеоформат в музыкальном брифе: https://kaivormusic.ai/ru/ai-music-generator.",
+        "Начните с одной аудиостроки для каждой секции. Запишите время, энергию, важную фразу и задачу для зрителя. Например: 0:00-0:08 intro, establishing image без текста; 0:09-0:28 verse, одно лицо или место с небольшим движением; 0:29-0:45 chorus, более крупный текст и смена света. Так видео не превращается в цепочку красивых, но случайных клипов.",
+        "Затем превратите каждую секцию в короткий пакет visual prompt: объект, дистанция камеры, цвет, скорость движения и запреты. Если в план входит singer video из портрета или песни, проверьте страницу AI Music Video Generator от kaivorMusic.AI как отдельный шаг рядом с аудио: https://kaivormusic.ai/ru/ai-music-video-generator. Одна сильная картинка не решит темп, текст и связность.",
+        "Три приема можно использовать сразу: сделайте beat sheet из пяти колонок, время, секция, кадр, текст и заметка для ревью; напишите список не показывать, включая случайные логотипы, лица без разрешения и жесты не в настроении песни; до генерации запланируйте две версии, например full video и вертикальный hook cut, а не обрезайте все в последний момент.",
+        "Частые ошибки: начинать с самого красивого кадра вместо первого музыкального решения, класть текст поверх лица или важной детали, менять визуальный мир в каждом клипе или использовать изображение человека без ясного разрешения. Если результат выглядит реалистично или связан с чьим-то лицом или голосом, согласие, раскрытие и правила платформы являются частью производства.",
+        "FAQ: нужна ли карта для 20 секунд? Да; короткому клипу тоже нужны вход, запоминающийся центр и выход. Нужно ли показывать весь текст? Нет; выбирайте строки, которые помогают понять или запомнить, и оставляйте паузы. Можно ли автоматически использовать AI-видео или музыку коммерчески? Нет; проверьте условия инструмента, правила платформы и требования клиента. Если используете kaivorMusic.AI, начните с актуальных условий: https://kaivormusic.ai/ru/tos. Вывод: сильный AI music video начинается с небольшой карты песни, а не со случайных клипов."
+      ]
+    },
+    "zh": {
+      "title": "生成 AI 音乐视频前，先做一张歌曲地图",
+      "description": "在使用 AI 音乐视频生成工具前，先梳理歌曲段落、画面提示词、歌词呈现、授权同意和短视频剪辑版本。",
+      "summary": "先用歌曲地图连接段落、镜头、字幕、审核意见和使用检查，再开始生成音乐视频片段。",
+      "body": [
+        "你已经有了一版能用的歌曲草稿，于是开始生成音乐视频片段。某个镜头很好看，却落在副歌之前；歌词压住了脸；给 Shorts 或短视频平台的竖版剪辑像是最后匆忙裁出来的。很多时候，缺的不是更多特效，而是生成前的一张歌曲地图。",
+        "AI 音乐视频的歌曲地图，是把时间和结构连起来的小文档：intro、verse、pre-chorus、chorus、bridge、outro，以及每一段的画面任务。它不是完整电影分镜，而是一张决策表，说明哪里出现人物，哪里要给歌词留空间，哪里保持安静，哪里可以改变动作或颜色。",
+        "kaivorMusic.AI 是一款 AI 音乐创作工具，帮助创作者和小团队把书面 brief 变成可以试听、比较和修改的歌曲或音乐草稿。如果歌曲本身还在打磨，建议先从 AI Music Generator 开始，把最终视频用途写进音乐 brief，而不是等音乐完成后再硬套画面: https://kaivormusic.ai/zh/ai-music-generator.",
+        "先给每个段落写一行音频说明。记录时间、能量、重要歌词和观众任务。例如：0:00-0:08 intro，用无歌词的建立画面；0:09-0:28 verse，用一个人物或地点，动作少一点；0:29-0:45 chorus，歌词更大，并改变灯光。这样视频就不会变成一串好看但没有音乐逻辑的片段。",
+        "然后把每个段落改写成一个小型视觉提示词包：主体、镜头距离、颜色、动作速度，以及不能出现的元素。如果你要做从人像或歌曲生成歌手视频的流程，可以把 kaivorMusic.AI 的 AI Music Video Generator 页面作为音频生成之外的单独步骤来查看: https://kaivormusic.ai/zh/ai-music-video-generator. 一张强图不能自动解决节奏、歌词和连续性。",
+        "三个方法可以马上用：做一张五列表格，只写时间、段落、镜头、文字和审核备注；写一份不要出现清单，包括随机 logo、没有授权的人脸、和歌曲气质不符的手势；生成前先规划两个输出，比如完整版和竖版 hook 剪辑，而不是最后再临时裁切。",
+        "常见错误包括：用最漂亮的镜头开场，却没有对齐第一个音乐变化；把歌词放在人脸或关键细节上；每个片段都换一种视觉世界；或者在没有明确许可的情况下使用人物图像。如果结果看起来很真实，或涉及某个人的脸和声音，就要把同意、披露和平台规则当成制作要求，而不是上传前的小检查。",
+        "FAQ：20 秒短片也需要地图吗？需要，短片也有开头、记忆点和结尾。歌词一定要全部上屏吗？不需要，选择帮助理解或记忆的句子，给部分段落留白。AI 生成的视频或音乐可以自动商用吗？不要这样假设，请检查工具条款、平台规则和客户要求。如果使用 kaivorMusic.AI，可以先看当前条款: https://kaivormusic.ai/zh/tos. 关键是：好的 AI 音乐视频来自小而清晰的歌曲地图，而不是随机生成的片段。"
+      ]
+    }
+  }
+}
