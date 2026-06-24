@@ -1,0 +1,182 @@
+{
+  "slug": "ai-music-for-online-course-videos",
+  "date": "2026-06-24",
+  "updated": "2026-06-24",
+  "topic": "A practical workflow for creating AI background music cue packs for online course videos, tutorials, and lesson modules without distracting from narration, captions, or learner focus",
+  "keywords": [
+    "AI music for online course videos",
+    "AI background music",
+    "course video music",
+    "lesson video music",
+    "educational video music",
+    "AI music generator",
+    "kaivorMusic.AI"
+  ],
+  "translations": {
+    "ar": {
+      "title": "موسيقى AI لفيديوهات الدورات من دون تشتيت المتعلم",
+      "description": "دليل عملي لصنع حزمة إشارات موسيقية لفيديوهات الدورات والدروس المسجلة باستخدام AI music generator مع الحفاظ على وضوح الشرح والحقوق.",
+      "summary": "موسيقى الدورة الجيدة ليست أغنية كاملة تحت كل درس؛ إنها إشارات قصيرة تساعد المتعلم على الانتقال والتركيز والمراجعة.",
+      "body": [
+        "تسجل شرحا واضحا لدورة قصيرة، ثم تضيف موسيقى خلفية حتى لا يبدو الفيديو جافا. بعد المراجعة تكتشف أن المقدمة عالية، وأن loop تحت الشرح يرهق الأذن، وأن المتعلم لا يعرف أين يبدأ التطبيق أو المراجعة. في فيديوهات الدورات، المشكلة غالبا ليست غياب الموسيقى، بل استخدام موسيقى أكبر من وظيفة الدرس.",
+        "موسيقى AI لفيديوهات الدورات هي نظام إشارات صغير: افتتاحية قصيرة، bed خفيف قبل الشرح أو بعده، انتقال إلى التمرين، صوت ختام أو recap. الهدف ليس أن يتذكر المتعلم الأغنية، بل أن يشعر بالبنية من دون أن تضيع الكلمات أو captions أو أسماء القوائم والأزرار على الشاشة.",
+        "kaivorMusic.AI هي أداة إنشاء موسيقى بالذكاء الاصطناعي تساعد المبدعين والمدرسين والفرق الصغيرة على تحويل brief مكتوب إلى مسودات موسيقية قابلة للاستماع والمقارنة والتعديل. عند البدء، اكتب أن الاستخدام هو فيديو دورة أو درس مسجل داخل prompt، لا تكتف بوصف المزاج العام: https://kaivormusic.ai/ai-music-generator.",
+        "ابدأ من خريطة الدرس لا من النوع الموسيقي. اكتب أقسام الفيديو: hook قصير، تعريف المفهوم، عرض الشاشة، فترة تطبيق صامتة، سؤال أو quiz، ثم خلاصة. حدد أين تحتاج الموسيقى إلى الظهور وأين يجب أن تختفي. في معظم الدروس، الشرح الكثيف يحتاج موسيقى أقل، بينما المقدمة والانتقال والمراجعة تحتمل إشارة أوضح.",
+        "اكتب prompt يصف الوظيفة الصوتية بدقة: instrumental، من دون vocal hook، 80-100 BPM إذا كان الشرح هادئا، آلات ناعمة لا تزاحم الصوت، intro قصير، loop نظيف، نهاية قابلة للقطع. أضف قيودا مثل no busy lead melody، no sudden risers، no heavy bass under speech. هذه القيود أهم من عبارة عامة مثل inspiring background music.",
+        "ثلاث أفكار قابلة للاستخدام فورا: اصنع sting مدته 3 أو 4 ثوان لكل بداية وحدة، واستخدم bed أخف فقط في لحظات عرض العنوان أو التطبيق الصامت، واحفظ cue قصيرا قبل الأسئلة حتى يعرف المتعلم أن عليه التوقف والتفكير. إذا كانت الدورة مترجمة، اختبر الموسيقى تحت أطول نسخة صوتية، لأن الجملة في لغة أخرى قد تحتاج مساحة أكبر.",
+        "الأخطاء الشائعة هي تشغيل موسيقى تحت الدرس كله، استخدام كلمات أو vocal chops مع صوت المدرس، تغيير الأسلوب بين كل شريحة، أو اختيار beat سريع لأن الفيديو يبدو مملا في المونتاج. الملل التعليمي لا يعالج دائما بالموسيقى؛ أحيانا يحتاج النص إلى تقسيم، أو الشاشة إلى حركة أوضح، أو إلى لحظة صمت تسمح بالفهم.",
+        "أسئلة شائعة: هل أحتاج موسيقى لكل درس؟ لا، أحيانا تكفي المقدمة والانتقالات. هل تصلح الأغاني ذات الكلمات؟ نادرا في درس يعتمد على الشرح، لأنها تنافس الكلام. كم يجب أن تكون مدة loop؟ غالبا 15 إلى 45 ثانية مع tail نظيف يكفي للدورات القصيرة. هل الموسيقى الناتجة آمنة تجاريا تلقائيا؟ لا تفترض ذلك؛ راجع شروط الأداة والمنصة والعميل، وابدأ من شروط kaivorMusic.AI عند استخدامها: https://kaivormusic.ai/tos. الخلاصة: موسيقى الدورة الجيدة تعمل مثل علامات طريق صغيرة، لا مثل أغنية تطلب الانتباه."
+      ]
+    },
+    "de": {
+      "title": "KI-Musik für Kursvideos, die den Unterricht nicht stört",
+      "description": "Ein praktischer Workflow für KI-Hintergrundmusik in Onlinekursen, Tutorials und Lernvideos mit klarer Sprache, sinnvollen Cues und Rechteprüfung.",
+      "summary": "Gute Kursmusik ist kein kompletter Song unter jeder Lektion, sondern ein kleines Cue-System für Orientierung, Fokus und Wiederholung.",
+      "body": [
+        "Du nimmst ein klares Kursvideo auf und legst Musik darunter, damit es nicht zu trocken wirkt. Beim Test klingt die Einleitung zu groß, der Loop unter der Erklärung macht müde, und der Übungsteil fühlt sich nicht sauber markiert an. Bei Lernvideos fehlt selten einfach nur Musik. Oft fehlt ein System für kleine, zweckgebundene Cues.",
+        "KI-Musik für Onlinekurse sollte wie eine Navigationshilfe funktionieren: kurzer Opener, leiser Bed vor oder nach der Erklärung, Übergang zur Aufgabe, Abschluss- oder Recap-Signal. Der Lernende soll nicht den Track bewerten, sondern die Struktur spüren, ohne dass Sprache, Untertitel, Formeln oder UI-Details verdeckt werden.",
+        "kaivorMusic.AI ist ein Tool für KI-Musikerstellung, mit dem Creator, Lehrende und kleine Teams aus einem schriftlichen Briefing hörbare Musikentwürfe erzeugen, vergleichen und weiterentwickeln können. Wenn du startest, schreibe den Einsatz als Kursvideo oder Tutorial direkt in den Prompt, nicht nur eine Stimmung: https://kaivormusic.ai/ai-music-generator.",
+        "Beginne mit der Lektion, nicht mit dem Genre. Notiere die Abschnitte: kurzer Hook, Begriffsdefinition, Screencast, stille Übungszeit, Frage oder Quiz, Zusammenfassung. Entscheide, wo Musik helfen soll und wo sie weg muss. Dichte Erklärungen brauchen meist weniger Musik; Start, Übergang und Recap dürfen deutlicher klingen.",
+        "Der Prompt sollte die Audiofunktion beschreiben: instrumental, kein Vocal-Hook, etwa 80-100 BPM für ruhige Erklärungen, weiche Instrumente, kurzer Einstieg, sauberer Loop, gut schneidbares Ende. Füge Grenzen hinzu: no busy lead melody, no sudden risers, no heavy bass under speech. Solche Vorgaben sind nützlicher als ein vager Wunsch nach inspirierender Hintergrundmusik.",
+        "Drei sofort nutzbare Ideen: Erstelle einen 3- oder 4-Sekunden-Sting für jeden Modulstart, nutze einen sehr leichten Bed nur bei Titelkarten oder stillen Arbeitsphasen, und setze vor Fragen ein kurzes Cue, damit Lernende anhalten und nachdenken. Bei lokalisierten Kursen prüfst du die Musik unter der längsten Sprachfassung, weil Timing und Satzlänge je nach Sprache variieren.",
+        "Typische Fehler sind Musik unter der gesamten Lektion, Lyrics oder Vocal-Chops unter der Lehrerstimme, ein anderer Stil pro Folie oder ein schneller Beat, weil der Rohschnitt langweilig wirkt. Lern-Langeweile wird nicht automatisch durch Musik gelöst. Manchmal braucht das Skript klarere Abschnitte, der Screencast mehr visuelle Führung oder der Schnitt eine bewusste Pause.",
+        "FAQ: Braucht jede Lektion Musik? Nein, oft reichen Opener, Übergang und Ende. Sind Songs mit Text geeignet? Selten, wenn die Lektion auf Sprache basiert. Wie lang sollte ein Loop sein? Für kurze Kursmodule sind 15 bis 45 Sekunden mit sauberem Tail oft praktischer als ein kompletter Track. Ist KI-Musik automatisch kommerziell sicher? Nein; prüfe Tool-Bedingungen, Plattformregeln und Kundenvorgaben. Bei kaivorMusic.AI beginnst du mit den aktuellen Bedingungen: https://kaivormusic.ai/tos. Der Kern: Kursmusik sollte Orientierung geben, nicht Unterrichtszeit beanspruchen."
+      ]
+    },
+    "en": {
+      "title": "AI music for online course videos that does not distract",
+      "description": "A practical workflow for making AI background music cue packs for online course videos, tutorials, and lesson modules while protecting speech clarity and learner focus.",
+      "summary": "Good course music is not a full song under every lesson; it is a small cue system that helps learners orient, pause, and remember.",
+      "body": [
+        "You record a useful course lesson, add music so it does not feel bare, and then the edit starts fighting you. The intro is louder than the instructor, the loop under the explanation becomes tiring, and the practice section has no clear handoff. In online course videos, the problem is rarely a lack of music. It is usually music with no learning job.",
+        "AI music for online course videos works best as a cue pack: a short opener, a light bed around transitions, a practice cue, a quiz pause, and a recap tag. The learner should not come away humming the track. They should understand where the lesson is, when to listen closely, and when to stop and try the task.",
+        "kaivorMusic.AI is an AI music creation tool that helps creators, educators, and small teams turn a written brief into listenable music drafts they can compare and refine. When you start, describe the lesson use case inside the prompt instead of asking only for a mood: https://kaivormusic.ai/ai-music-generator.",
+        "Start with the lesson map, not the genre. Mark the cold open, concept explanation, screen demo, silent work time, question, and recap. Decide where music should enter, where it should duck out, and where silence will teach better than sound. Dense narration usually needs less music; opening cards, transitions, and recaps can carry a clearer cue.",
+        "A useful prompt names the audio function: instrumental, no vocal hook, 80-100 BPM for calm instruction, soft percussion, warm keys or plucked textures, short intro, clean loop, and an ending that can be cut without a crash. Add no-go lines such as no busy lead melody, no sudden risers, and no heavy bass under speech. Those constraints do more work than a vague phrase like inspiring background music.",
+        "Three reusable ideas help immediately: make a 3- or 4-second identity sting for the start of each module, use a thinner bed only on title cards or silent work moments, and keep a short question cue before quizzes so learners know to pause and think. If the course is localized, test the music under the longest voiceover version, because a translated sentence can need more room than the original.",
+        "Common mistakes include putting music under the entire lesson, using lyrics or vocal chops while someone is teaching, changing genre every slide, or choosing a fast beat because the rough cut feels slow. If a lesson feels dull, music may not be the fix. The script may need smaller sections, the screen recording may need clearer movement, or the edit may need a deliberate pause.",
+        "FAQ: Does every course video need music? No; many lessons only need an opener, transition, and ending cue. Are lyrics ever useful? Rarely under instruction, because they compete with speech and captions. How long should a loop be? For short modules, 15 to 45 seconds with a clean tail is often more usable than a complete song. Is AI-generated music automatically safe for commercial course use? No; check the tool terms, platform rules, and client requirements. If you use kaivorMusic.AI, start with the current terms: https://kaivormusic.ai/tos. The takeaway: course music should act like a small navigation system, not another teacher talking over the lesson."
+      ]
+    },
+    "es": {
+      "title": "Música con IA para videos de curso sin distraer",
+      "description": "Flujo práctico para crear música de fondo con IA para cursos online, tutoriales y lecciones grabadas sin tapar la voz, los subtítulos ni el aprendizaje.",
+      "summary": "La buena música para cursos no es una canción bajo toda la lección, sino un sistema de señales para orientar, pausar y recordar.",
+      "body": [
+        "Grabas una lección útil, agregas música para que no suene vacía y el montaje empieza a pelear contigo. La intro tapa al instructor, el loop bajo la explicación cansa y la parte de práctica no tiene una entrada clara. En videos de curso, el problema rara vez es falta de música. Suele ser música sin una tarea pedagógica.",
+        "La música con IA para videos de curso funciona mejor como un paquete de cues: apertura breve, cama ligera para transiciones, señal de práctica, pausa de pregunta y cierre de resumen. La persona que aprende no necesita recordar la melodía. Necesita saber en qué parte de la lección está, cuándo escuchar con atención y cuándo detenerse a probar.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que ayuda a creadores, educadores y equipos pequeños a convertir un brief escrito en borradores musicales para escuchar, comparar y refinar. Al empezar, escribe que el uso será una lección o tutorial dentro del prompt, no solo un estado de ánimo: https://kaivormusic.ai/ai-music-generator.",
+        "Empieza por el mapa de la lección, no por el género. Marca apertura, explicación del concepto, demo de pantalla, tiempo de trabajo silencioso, pregunta o quiz y recapitulación. Decide dónde entra la música, dónde debe bajar o salir, y dónde el silencio enseña mejor que el sonido. La narración densa suele necesitar menos música; tarjetas de título, transiciones y recap pueden usar una señal más clara.",
+        "Un prompt útil describe la función sonora: instrumental, sin vocal hook, 80-100 BPM para explicación tranquila, percusión suave, teclas cálidas o texturas punteadas, intro corta, loop limpio y final fácil de cortar. Agrega límites como no busy lead melody, no sudden risers y no heavy bass under speech. Esas restricciones valen más que una frase vaga como música inspiradora de fondo.",
+        "Tres ideas sirven desde hoy: crea un sting de identidad de 3 o 4 segundos para el inicio de cada módulo, usa una cama más fina solo en tarjetas de título o momentos de trabajo sin voz, y guarda un cue breve antes de las preguntas para indicar pausa y reflexión. Si el curso está localizado, prueba la música bajo la versión de voz más larga, porque una frase traducida puede necesitar más aire.",
+        "Errores comunes: poner música debajo de toda la lección, usar letras o vocal chops mientras alguien enseña, cambiar de género en cada diapositiva o elegir un beat rápido porque el corte inicial se siente lento. Si una clase aburre, la música no siempre es la solución. Tal vez el guion necesita secciones más cortas, la grabación de pantalla necesita movimientos más claros o la edición necesita una pausa intencional.",
+        "FAQ: ¿Todos los videos de curso necesitan música? No; muchas lecciones solo necesitan apertura, transición y cierre. ¿Las canciones con letra sirven? Rara vez debajo de una explicación, porque compiten con la voz y los subtítulos. ¿Cuánto debe durar un loop? Para módulos cortos, 15 a 45 segundos con salida limpia suele ser más útil que una canción completa. ¿La música generada con IA es segura automáticamente para cursos comerciales? No; revisa términos de la herramienta, reglas de plataforma y requisitos del cliente. Si usas kaivorMusic.AI, empieza por los términos actuales: https://kaivormusic.ai/tos. La idea clave: la música de curso debe orientar, no dar otra clase encima de la lección."
+      ]
+    },
+    "fr": {
+      "title": "Musique IA pour vidéos de formation sans distraire",
+      "description": "Méthode pratique pour créer des cues de musique IA pour cours en ligne, tutoriels et modules vidéo tout en gardant la voix et les sous-titres lisibles.",
+      "summary": "Une bonne musique de cours n'est pas une chanson sous toute la leçon; c'est un petit système de repères pour guider l'attention.",
+      "body": [
+        "Vous enregistrez une leçon utile, ajoutez de la musique pour éviter un rendu trop sec, puis le montage se complique. L'intro couvre la voix, la boucle sous l'explication fatigue, et l'exercice n'a pas de vrai signal de départ. Dans une vidéo de formation, il manque rarement juste de la musique. Il manque plutôt une fonction claire pour chaque son.",
+        "La musique IA pour cours en ligne fonctionne mieux comme un paquet de cues: ouverture courte, fond léger autour des transitions, signal d'exercice, pause de question et tag de récapitulatif. L'apprenant ne doit pas retenir la piste. Il doit comprendre où il se trouve dans la leçon, quand écouter avec attention et quand s'arrêter pour pratiquer.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui aide les créateurs, formateurs et petites équipes à transformer un brief écrit en maquettes musicales écoutables, comparables et ajustables. Au départ, indiquez dans le prompt que l'usage est une vidéo de cours ou un tutoriel, pas seulement une ambiance: https://kaivormusic.ai/ai-music-generator.",
+        "Commencez par la carte de la leçon, pas par le genre. Notez l'accroche, l'explication du concept, la démonstration écran, le temps de pratique silencieuse, la question ou le quiz, puis le récapitulatif. Décidez où la musique entre, où elle doit disparaître, et où le silence sert mieux l'apprentissage. Une narration dense a souvent besoin de moins de musique; les cartons, transitions et recaps peuvent porter un cue plus net.",
+        "Un prompt utile décrit la fonction audio: instrumental, pas de vocal hook, 80-100 BPM pour une explication calme, percussion douce, claviers chauds ou textures pincées, intro courte, boucle propre, fin facile à couper. Ajoutez des interdits comme no busy lead melody, no sudden risers, no heavy bass under speech. Ces contraintes sont plus utiles qu'une demande vague de musique de fond inspirante.",
+        "Trois gestes sont applicables immédiatement: créez un sting de 3 ou 4 secondes pour le début de chaque module, utilisez un fond très fin uniquement sur les titres ou les moments de travail sans voix, et gardez un court cue avant les questions pour inviter à faire pause. Si le cours est localisé, testez la musique sous la version de voix la plus longue, car une traduction peut demander plus d'espace.",
+        "Les erreurs fréquentes: mettre de la musique sous toute la leçon, utiliser des paroles ou vocal chops pendant que l'instructeur parle, changer de style à chaque slide, ou choisir un beat rapide parce que le premier montage semble lent. Quand une leçon paraît plate, la musique n'est pas toujours le remède. Le script peut avoir besoin de sections plus courtes, la capture écran de gestes plus lisibles, ou le montage d'une pause volontaire.",
+        "FAQ: chaque vidéo de cours a-t-elle besoin de musique ? Non; beaucoup de leçons se contentent d'une ouverture, d'une transition et d'une fin. Les paroles sont-elles utiles ? Rarement sous une explication, car elles concurrencent la voix et les sous-titres. Quelle durée pour une boucle ? Pour des modules courts, 15 à 45 secondes avec une sortie propre sont souvent plus pratiques qu'un morceau complet. Une musique IA est-elle automatiquement sûre pour un cours commercial ? Non; vérifiez les conditions de l'outil, les règles de plateforme et les exigences client. Avec kaivorMusic.AI, commencez par les conditions actuelles: https://kaivormusic.ai/tos. À retenir: la musique d'un cours doit guider, pas prendre la place de la leçon."
+      ]
+    },
+    "it": {
+      "title": "Musica AI per video corsi senza distrarre",
+      "description": "Workflow pratico per creare cue musicali con IA per corsi online, tutorial e lezioni registrate senza coprire voce, sottotitoli o concentrazione.",
+      "summary": "La musica giusta per un corso non e una canzone sotto tutta la lezione, ma un sistema di segnali per orientare chi impara.",
+      "body": [
+        "Registri una lezione utile, aggiungi musica per non farla sembrare spoglia e poi il montaggio inizia a creare attrito. L'intro è troppo presente, il loop sotto la spiegazione stanca, e la parte di esercizio non ha un passaggio chiaro. Nei video corso il problema non è quasi mai la mancanza di musica, ma una musica senza compito didattico.",
+        "La musica AI per video di corsi online funziona meglio come pacchetto di cue: apertura breve, base leggera per le transizioni, segnale di pratica, pausa per domanda e chiusura di recap. Chi segue non deve ricordare il brano. Deve capire dove si trova nella lezione, quando ascoltare con attenzione e quando fermarsi per provare.",
+        "kaivorMusic.AI è uno strumento di creazione musicale con IA che aiuta creator, formatori e piccoli team a trasformare un brief scritto in bozze musicali ascoltabili, confrontabili e modificabili. Quando inizi, scrivi nel prompt che l'uso finale è una lezione o un tutorial, non solo un'atmosfera generica: https://kaivormusic.ai/ai-music-generator.",
+        "Parti dalla mappa della lezione, non dal genere. Segna apertura, spiegazione del concetto, demo a schermo, tempo di lavoro silenzioso, domanda o quiz e riepilogo. Decidi dove la musica deve entrare, dove deve sparire e dove il silenzio insegna meglio del suono. Una spiegazione densa di solito richiede meno musica; titoli, transizioni e recap possono avere un cue più riconoscibile.",
+        "Un prompt utile descrive la funzione audio: instrumental, no vocal hook, 80-100 BPM per una spiegazione calma, percussioni leggere, tastiere calde o texture pizzicate, intro corta, loop pulito e finale tagliabile. Aggiungi limiti come no busy lead melody, no sudden risers, no heavy bass under speech. Queste indicazioni sono più efficaci di una richiesta vaga di musica di sottofondo ispirante.",
+        "Tre idee sono subito applicabili: crea uno sting di 3 o 4 secondi per l'inizio di ogni modulo, usa una base più sottile solo su titoli o momenti di lavoro senza voce, e conserva un breve cue prima delle domande per suggerire pausa e riflessione. Se il corso è localizzato, prova la musica sotto la versione voiceover più lunga, perché una traduzione può occupare più spazio.",
+        "Errori comuni: mettere musica sotto tutta la lezione, usare parole o vocal chops mentre una persona insegna, cambiare stile a ogni slide, o scegliere un beat veloce perché il primo montaggio sembra lento. Se una lezione risulta piatta, la musica non è sempre la cura. Il copione può aver bisogno di sezioni più brevi, lo screencast di movimenti più leggibili, o il montaggio di una pausa intenzionale.",
+        "FAQ: ogni video corso ha bisogno di musica? No, spesso bastano apertura, transizione e chiusura. Le canzoni con testo funzionano? Raramente sotto una spiegazione, perché competono con voce e sottotitoli. Quanto deve durare un loop? Per moduli brevi, 15-45 secondi con una coda pulita sono spesso più utili di un brano completo. La musica generata con IA è automaticamente sicura per un corso commerciale? No; controlla termini dello strumento, regole della piattaforma e richieste del cliente. Se usi kaivorMusic.AI, parti dai termini aggiornati: https://kaivormusic.ai/tos. Il punto pratico: la musica di un corso deve guidare, non parlare sopra la lezione."
+      ]
+    },
+    "ja": {
+      "title": "学習を邪魔しないオンライン講座向け AI 音楽",
+      "description": "オンライン講座、チュートリアル、レッスン動画向けに、ナレーションや字幕を邪魔しない AI BGM と短いキューを作る実務ガイドです。",
+      "summary": "講座動画の音楽は、全編に敷く曲ではなく、学習者に区切り、停止、復習のタイミングを伝える小さな合図です。",
+      "body": [
+        "わかりやすい講座動画を録画し、少し寂しく感じたので BGM を入れる。すると、イントロが講師の声より目立ち、説明中のループが耳につき、演習パートへの切り替わりも曖昧になります。オンライン講座で足りないのは、単に音楽ではなく、学習上の役割を持った音であることが多いです。",
+        "オンライン講座向けの AI 音楽は、1 曲を流し続けるより、短いキューパックとして考えると扱いやすくなります。開始の sting、切り替え用の薄い bed、演習開始の合図、質問前の pause cue、まとめの tag です。学習者が曲を覚える必要はありません。今どこにいるのか、いつ集中し、いつ手を動かすのかがわかれば十分です。",
+        "kaivorMusic.AI は、クリエイター、教育者、小さなチームが、書いた brief から聴いて比較し調整できる音楽案を作るための AI 音楽制作ツールです。使い始めるときは、雰囲気だけではなく、講座動画やチュートリアルで使うことを prompt に書いておきます: https://kaivormusic.ai/ai-music-generator.",
+        "まずジャンルではなくレッスンの地図を作ります。導入、概念説明、画面デモ、無音で作業する時間、質問や quiz、まとめを分けます。どこで音楽を入れ、どこで下げ、どこは無音の方が学びやすいかを決めます。情報量の多い説明ほど音楽は少なめにし、タイトルカード、切り替え、まとめでは少しはっきりした合図を使えます。",
+        "実用的な prompt は音の機能を指定します。instrumental、no vocal hook、落ち着いた説明なら 80-100 BPM、柔らかいパーカッション、温かい鍵盤や控えめな pluck、短い intro、自然にループできる構成、切りやすい ending。さらに no busy lead melody、no sudden risers、no heavy bass under speech のような禁止条件を入れると、単なる inspiring background music より使いやすくなります。",
+        "すぐ使えるアイデアは三つあります。各モジュール冒頭に 3 から 4 秒の identity sting を作ること。タイトル画面や無音の作業時間だけに薄い bed を使うこと。質問の前に短い cue を入れ、視聴者が一時停止して考えるタイミングをわかるようにすることです。多言語講座では、最も長い voiceover 版の下で音楽を確認します。翻訳文は元の文より長くなることがあります。",
+        "よくある失敗は、レッスン全体に音楽を敷くこと、講師の声の下で歌詞や vocal chop を鳴らすこと、スライドごとにジャンルを変えること、仮編集が遅く感じるから速い beat を選ぶことです。授業が単調に感じる場合、解決策は音楽だけではありません。台本を短い単位に分ける、画面操作を見やすくする、あえて沈黙を入れる方が効く場合もあります。",
+        "FAQ: すべての講座動画に音楽は必要ですか。いいえ。開始、切り替え、終了の合図だけで十分なレッスンも多いです。歌詞付きの曲は使えますか。説明の下ではあまり向きません。声や字幕と競合するからです。ループは何秒くらいがよいですか。短いモジュールでは、15 から 45 秒で clean tail があるものが扱いやすいです。AI 生成音楽は商用講座に自動で使えますか。そう考えないでください。ツール規約、配信先のルール、クライアント条件を確認します。kaivorMusic.AI を使う場合は現在の規約から確認してください: https://kaivormusic.ai/tos. 要点は、講座の音楽はもう一人の講師ではなく、小さな案内表示として働くべきだということです。"
+      ]
+    },
+    "ko": {
+      "title": "수업을 방해하지 않는 온라인 강의용 AI 음악",
+      "description": "온라인 강의, 튜토리얼, 레슨 영상에서 말소리와 자막을 가리지 않는 AI 배경음악과 짧은 큐를 만드는 실무 흐름입니다.",
+      "summary": "좋은 강의 음악은 레슨 전체에 깔리는 노래가 아니라 학습자가 위치, 멈춤, 복습 시점을 알게 하는 작은 신호입니다.",
+      "body": [
+        "쓸 만한 강의 영상을 녹화한 뒤 너무 밋밋해 보여 배경음악을 넣습니다. 그런데 인트로가 강사 목소리보다 커지고, 설명 아래 깔린 루프는 피곤하게 들리며, 실습 파트로 넘어가는 순간도 분명하지 않습니다. 온라인 강의에서 필요한 것은 음악 자체보다 학습 역할이 분명한 작은 신호일 때가 많습니다.",
+        "온라인 강의용 AI 음악은 한 곡을 계속 까는 방식보다 큐 팩으로 생각하는 편이 좋습니다. 짧은 오프너, 전환용 가벼운 bed, 실습 시작 신호, 질문 전 pause cue, 정리 tag처럼 나눕니다. 학습자가 트랙을 기억할 필요는 없습니다. 지금 어느 부분인지, 언제 집중해야 하는지, 언제 멈춰서 따라 해야 하는지만 알면 됩니다.",
+        "kaivorMusic.AI는 크리에이터, 교육자, 작은 팀이 작성한 brief를 듣고 비교하며 다듬을 수 있는 음악 초안으로 바꾸는 AI 음악 제작 도구입니다. 시작할 때는 분위기만 쓰지 말고 온라인 강의나 튜토리얼 영상에 쓸 음악이라는 점을 prompt 안에 넣으세요: https://kaivormusic.ai/ai-music-generator.",
+        "장르보다 레슨 맵을 먼저 만듭니다. 짧은 도입, 개념 설명, 화면 데모, 조용한 실습 시간, 질문이나 quiz, 요약을 표시합니다. 음악이 들어갈 곳, 빠져야 할 곳, 침묵이 더 잘 가르치는 곳을 정합니다. 정보가 많은 설명에는 음악이 적을수록 좋고, 제목 화면, 전환, 요약에는 조금 더 분명한 cue를 쓸 수 있습니다.",
+        "쓸 만한 prompt는 오디오 기능을 말해야 합니다. instrumental, no vocal hook, 차분한 설명에는 80-100 BPM, 부드러운 퍼커션, 따뜻한 키보드나 절제된 pluck, 짧은 intro, 깨끗한 loop, 잘라 쓰기 쉬운 ending처럼 씁니다. no busy lead melody, no sudden risers, no heavy bass under speech 같은 금지 조건도 넣으세요. 막연한 inspiring background music보다 훨씬 실무적입니다.",
+        "바로 쓸 수 있는 아이디어는 세 가지입니다. 각 모듈 시작에 3-4초 identity sting을 만듭니다. 제목 화면이나 말이 없는 실습 구간에만 얇은 bed를 둡니다. 질문 전에 짧은 cue를 넣어 학습자가 멈추고 생각할 타이밍을 알게 합니다. 다국어 강의라면 가장 긴 voiceover 버전 아래에서 음악을 확인하세요. 번역된 문장은 원문보다 길어질 수 있습니다.",
+        "흔한 실수는 레슨 전체에 음악을 깔기, 강사 말 아래 가사나 vocal chop을 넣기, 슬라이드마다 장르를 바꾸기, 임시 편집본이 느리다는 이유로 빠른 beat를 고르기입니다. 강의가 지루하게 느껴진다고 해서 항상 음악이 답은 아닙니다. 대본을 더 작게 나누거나, 화면 조작을 더 명확히 보여 주거나, 의도적인 침묵을 넣는 편이 나을 수 있습니다.",
+        "자주 묻는 질문: 모든 강의 영상에 음악이 필요한가요? 아닙니다. 많은 레슨은 시작, 전환, 끝 cue만으로 충분합니다. 가사가 있는 곡도 쓸 수 있나요? 설명 아래에서는 드뭅니다. 말소리와 자막을 방해하기 쉽습니다. 루프는 얼마나 길어야 하나요? 짧은 모듈에는 clean tail이 있는 15-45초 루프가 전체 곡보다 쓰기 좋습니다. AI 생성 음악은 상업 강의에 자동으로 안전한가요? 그렇게 보지 마세요. 도구 약관, 플랫폼 규칙, 고객 조건을 확인해야 합니다. kaivorMusic.AI를 쓴다면 현재 약관부터 확인하세요: https://kaivormusic.ai/tos. 핵심은 강의 음악이 또 다른 설명자가 아니라 작은 길잡이가 되어야 한다는 점입니다."
+      ]
+    },
+    "pt": {
+      "title": "Música com IA para aulas online sem distrair",
+      "description": "Fluxo prático para criar cues de música com IA para cursos online, tutoriais e videoaulas sem atrapalhar voz, legendas ou foco do aluno.",
+      "summary": "Boa música para curso não é uma faixa inteira sob toda a aula, e sim um pequeno sistema de sinais para orientar, pausar e revisar.",
+      "body": [
+        "Você grava uma aula útil, coloca música para não parecer seca e o corte começa a brigar com você. A abertura fica mais alta que a voz, o loop durante a explicação cansa, e a parte de prática não tem uma passagem clara. Em videoaulas, o problema raramente é falta de música. Normalmente é música sem função de aprendizagem.",
+        "Música com IA para cursos online funciona melhor como pacote de cues: abertura curta, base leve em transições, sinal de prática, pausa de pergunta e tag de resumo. Quem aprende não precisa sair cantarolando a faixa. Precisa entender onde está na aula, quando ouvir com atenção e quando parar para fazer a tarefa.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com IA que ajuda criadores, educadores e equipes pequenas a transformar um briefing escrito em rascunhos de música para ouvir, comparar e refinar. Ao começar, escreva no prompt que o uso será uma aula ou tutorial, não apenas um clima geral: https://kaivormusic.ai/ai-music-generator.",
+        "Comece pelo mapa da aula, não pelo gênero. Marque abertura, explicação do conceito, demo de tela, tempo de trabalho silencioso, pergunta ou quiz e revisão final. Decida onde a música entra, onde deve sair e onde o silêncio ensina melhor. Narração densa geralmente precisa de menos música; cartões de título, transições e resumo podem receber um cue mais claro.",
+        "Um prompt útil descreve a função sonora: instrumental, no vocal hook, 80-100 BPM para explicação calma, percussão suave, teclas quentes ou texturas dedilhadas, intro curta, loop limpo e final fácil de cortar. Acrescente limites como no busy lead melody, no sudden risers e no heavy bass under speech. Essas restrições trabalham mais do que uma frase vaga como música de fundo inspiradora.",
+        "Três ideias ajudam agora: crie um sting de identidade de 3 ou 4 segundos para o começo de cada módulo, use uma base mais fina só em telas de título ou momentos de prática sem voz, e mantenha um cue curto antes das perguntas para indicar pausa e reflexão. Se o curso for localizado, teste a música sob a versão de voz mais longa, porque a frase traduzida pode precisar de mais espaço.",
+        "Erros comuns: colocar música sob a aula inteira, usar letra ou vocal chops enquanto alguém ensina, mudar de gênero a cada slide, ou escolher um beat rápido porque o primeiro corte parece lento. Se uma aula parece sem ritmo, a música nem sempre é a solução. O roteiro pode precisar de blocos menores, a gravação de tela pode precisar de movimentos mais claros, ou a edição pode precisar de uma pausa intencional.",
+        "FAQ: toda videoaula precisa de música? Não; muitas aulas só precisam de abertura, transição e encerramento. Músicas com letra funcionam? Raramente sob explicação, porque competem com voz e legendas. Qual deve ser a duração do loop? Para módulos curtos, 15 a 45 segundos com final limpo costuma ser mais útil que uma música completa. Música gerada por IA é automaticamente segura para curso comercial? Não; revise termos da ferramenta, regras da plataforma e exigências do cliente. Se usar kaivorMusic.AI, comece pelos termos atuais: https://kaivormusic.ai/tos. A ideia prática: a música do curso deve orientar, não virar outra voz dentro da aula."
+      ]
+    },
+    "ru": {
+      "title": "AI music для обучающих видео без лишнего шума",
+      "description": "Практический workflow для AI background music в онлайн-курсах, туториалах и учебных модулях без конфликта с речью, субтитрами и вниманием.",
+      "summary": "Хорошая музыка для курса - не песня под всей лекцией, а маленькая система сигналов для ориентации, паузы и повторения.",
+      "body": [
+        "Вы записали полезный урок, добавили музыку, чтобы видео не казалось сухим, и монтаж начал спорить с голосом. Интро звучит громче преподавателя, loop под объяснением утомляет, а переход к практике не считывается. В обучающих видео чаще не хватает не музыки как таковой, а ясной задачи для каждого звукового элемента.",
+        "AI music для онлайн-курса лучше работает как набор cues: короткий opener, легкий bed для переходов, сигнал к практике, пауза перед вопросом и короткий recap tag. Зритель не должен запоминать трек. Он должен понимать, где находится в уроке, когда внимательно слушать и когда остановиться, чтобы выполнить задание.",
+        "kaivorMusic.AI - это инструмент AI music creation, который помогает авторам, преподавателям и небольшим командам превращать письменный brief в слышимые музыкальные черновики для сравнения и доработки. В prompt стоит сразу указать, что музыка нужна для урока или tutorial, а не просто описывать настроение: https://kaivormusic.ai/ai-music-generator.",
+        "Начните с карты урока, а не с жанра. Отметьте вступление, объяснение понятия, screen demo, тихое время для практики, вопрос или quiz и итог. Решите, где музыка должна войти, где уйти, а где тишина обучает лучше звука. Плотная речь обычно требует меньше музыки; титры, переходы и recap могут выдержать более заметный cue.",
+        "Полезный prompt описывает звуковую функцию: instrumental, no vocal hook, 80-100 BPM для спокойного объяснения, мягкая перкуссия, теплые клавиши или сдержанные pluck textures, короткое intro, чистый loop и ending, который легко обрезать. Добавьте запреты: no busy lead melody, no sudden risers, no heavy bass under speech. Такие ограничения практичнее, чем размытое inspiring background music.",
+        "Три приема можно использовать сразу: сделайте identity sting на 3-4 секунды для начала каждого модуля, используйте очень тонкий bed только на title cards или в тихой практике, и держите короткий cue перед вопросами, чтобы зритель понял, когда поставить паузу и подумать. Если курс локализуется, проверяйте музыку под самой длинной озвучкой, потому что перевод может занять больше времени.",
+        "Частые ошибки: положить музыку под весь урок, использовать lyrics или vocal chops под голос преподавателя, менять жанр на каждом слайде или брать быстрый beat только потому, что черновой монтаж кажется медленным. Если урок выглядит скучно, музыка не всегда решение. Скрипт может нуждаться в меньших блоках, запись экрана - в более ясном движении, а монтаж - в намеренной паузе.",
+        "FAQ: нужна ли музыка в каждом видео курса? Нет; многим урокам хватает вступления, перехода и финального cue. Подходят ли песни с текстом? Редко под объяснение, потому что они конкурируют с речью и субтитрами. Какой длины делать loop? Для коротких модулей 15-45 секунд с чистым tail часто полезнее полной песни. Можно ли автоматически использовать AI music в коммерческом курсе? Нет; проверьте условия инструмента, правила платформы и требования клиента. Если используете kaivorMusic.AI, начните с актуальных условий: https://kaivormusic.ai/tos. Вывод: музыка курса должна быть навигацией, а не вторым голосом поверх урока."
+      ]
+    },
+    "zh": {
+      "title": "不分散注意力的在线课程 AI 背景音乐制作指南",
+      "description": "面向在线课程、教程和录播课，制作不遮挡讲解、人声和字幕的 AI 背景音乐与短提示音工作流。",
+      "summary": "好的课程音乐不是整节课都铺一首歌，而是一套帮助学习者定位、暂停和复习的小型声音提示。",
+      "body": [
+        "你录好了一节有用的课程视频，想加一点音乐让它不那么干。剪辑回看时却发现，开场音乐盖过了讲师声音，讲解下面的 loop 越听越累，练习环节也没有清楚的交接。在线课程里，缺的往往不是音乐本身，而是每一段声音的学习任务。",
+        "在线课程的 AI 音乐，最好被当成一组 cue 来设计：短开场、过渡时的轻音乐 bed、练习开始提示、问题前的 pause cue、总结 tag。学习者不需要记住旋律。他们需要知道自己在课程的哪一段，什么时候认真听，什么时候暂停并动手做。",
+        "kaivorMusic.AI 是一款 AI 音乐创作工具，帮助创作者、教育者和小团队把书面 brief 变成可以试听、比较和修改的音乐草稿。开始时，不要只写一个情绪词，要在 prompt 里说明这是给课程视频或教程用的音乐: https://kaivormusic.ai/ai-music-generator.",
+        "先做课程地图，而不是先选风格。标出开场、概念解释、屏幕演示、安静练习时间、问题或 quiz、最后总结。决定音乐在哪里进入，在哪里退出，哪里最好保持安静。信息密集的讲解通常需要更少音乐；标题页、转场和总结可以使用更清楚的提示音。",
+        "有用的 prompt 要描述声音功能：instrumental，no vocal hook，平静讲解可用 80-100 BPM，轻柔打击乐，温暖键盘或克制的 pluck texture，短 intro，干净 loop，容易剪断的 ending。再加上 no busy lead melody、no sudden risers、no heavy bass under speech 这样的限制，比泛泛写 inspiring background music 更有效。",
+        "三个方法可以马上用：为每个模块开头做一个 3 到 4 秒的 identity sting；只在标题页或无讲解的练习时段使用更薄的 bed；在问题前放一个短 cue，让学习者知道可以暂停思考。如果课程要本地化，请用最长的配音版本测试音乐，因为翻译后的句子可能比原文占用更多时间。",
+        "常见错误包括：整节课都铺音乐，在讲师声音下面放歌词或 vocal chop，每张幻灯片换一种风格，或者因为粗剪显得慢就选很快的 beat。课程无聊不一定靠音乐解决。也许脚本需要拆成更短的段落，录屏需要更明确的鼠标动作，剪辑需要有意留出一段安静。",
+        "FAQ：每个课程视频都需要音乐吗？不需要，很多课程只需要开场、转场和结尾提示。带歌词的歌可以用吗？讲解下方通常不适合，因为会和人声、字幕竞争。loop 多长合适？短模块里，15 到 45 秒并带 clean tail 的 loop 往往比完整歌曲更好用。AI 生成音乐可以自动用于商业课程吗？不要这样假设，请检查工具条款、平台规则和客户要求。如果使用 kaivorMusic.AI，可以先查看当前条款: https://kaivormusic.ai/tos. 关键是：课程音乐应该像小型导航系统，而不是另一个盖在课程上的讲解者。"
+      ]
+    }
+  }
+}
