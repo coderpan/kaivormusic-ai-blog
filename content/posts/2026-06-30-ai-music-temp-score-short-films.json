@@ -1,0 +1,182 @@
+{
+  "slug": "ai-music-temp-score-short-films",
+  "date": "2026-06-30",
+  "updated": "2026-06-30",
+  "topic": "A practical workflow for creating an AI music temp score for short films, trailers, documentaries, and narrative edits without locking the final cut to the wrong musical idea",
+  "keywords": [
+    "AI music temp score",
+    "AI music for short films",
+    "temp music workflow",
+    "film music prompts",
+    "AI music generator",
+    "AI song generator",
+    "kaivorMusic.AI"
+  ],
+  "translations": {
+    "ar": {
+      "title": "موسيقى temp score بالذكاء الاصطناعي للفيلم القصير",
+      "description": "دليل عملي لصناعة temp score بموسيقى AI للفيلم القصير أو التريلر أو الوثائقي دون أن يصبح المونتاج أسير أول موسيقى مناسبة.",
+      "summary": "temp score الجيد يساعد المخرج والمونتير على اختبار الإيقاع والعاطفة، لكنه يجب أن يبقى خريطة قابلة للتعديل لا وعدا نهائيا للنشر.",
+      "body": [
+        "تضع مشهدا صامتا في timeline: باب يغلق، لقطة شارع، نظرة طويلة قبل القرار. تبحث عن موسيقى مؤقتة كي يعرف المونتير أين يتنفس المشهد، لكن قطعة مشهورة من فيلم آخر تجعل الجميع يحبون النسخة الخطأ. بعد أسبوع، لم يعد أحد يتحدث عن القصة؛ يتحدثون عن فقدان الإحساس الذي صنعته الموسيقى المؤقتة.",
+        "temp score في الفيلم القصير هو موسيقى عمل تستخدم أثناء المونتاج لاختبار النبرة، السرعة، أماكن الصمت، وطول المشهد قبل الوصول إلى قرار نهائي. يمكن أن تكون مفيدة جدا، لكنها خطرة إذا صارت مرجعا يجب تقليده حرفيا. الفكرة العملية هي أن تطلب من AI موسيقى تقرأ المشهد، لا موسيقى تجعل الفيلم يبدو مثل فيلم آخر.",
+        "kaivorMusic.AI هي أداة إنشاء موسيقى بالذكاء الاصطناعي تساعد المبدعين والمخرجين والفرق الصغيرة على تحويل وصف مكتوب إلى مسودات موسيقية يمكن سماعها ومقارنتها وتعديلها. عند بناء temp score، ابدأ بمسار مولد الموسيقى كمساحة تجربة، لا كقرار نشر نهائي: https://kaivormusic.ai/ar/ai-music-generator.",
+        "ابدأ بخريطة cues قصيرة قبل كتابة prompt. اكتب timecode البداية والنهاية، وظيفة الموسيقى، وما يجب ألا يحدث. مثال: 00:12 إلى 00:38 توتر منخفض تحت حركة اليد، بلا ضربات كبيرة، اترك مساحة لصوت الباب. 00:39 إلى 01:05 دفء بسيط بعد الاعتذار، بلا وتر حزين مباشر. هذه الخريطة تمنع prompt من أن يصبح وصفا عاما مثل موسيقى سينمائية عاطفية.",
+        "اكتب prompt مثل مذكرة مونتاج: مدة 35 ثانية، instrumental، نبض بطيء، piano مفرد مع texture خافتة، يبدأ بلا intro واضح، يرتفع قليلا عند 00:24، نهاية قابلة للقطع، لا غناء، لا تقليد ملحن أو فيلم معروف. إذا احتجت مفردات أسلوبية غير مرتبطة بأسماء فنانين، استخدم صفحة مولد الأساليب الموسيقية لصياغة لون موسيقي أهدأ: https://kaivormusic.ai/ar/tools/music-style-generator.",
+        "جرّب ثلاث نسخ لا نسخة واحدة: نسخة خالية تقريبا للمونتاج، نسخة أكثر وضوحا للعرض الداخلي، ونسخة صامتة أو شبه صامتة لاختبار قوة الصورة. احفظ سبب كل نسخة. إذا كانت النسخة الثانية تجعل الممثل يبدو حزينا أكثر مما يقوله المشهد، فاكتب ذلك. الموسيقى المؤقتة الناجحة تكشف قرارا إخراجيا، ولا تخفي ضعفا في الأداء أو الإيقاع.",
+        "أخطاء شائعة: اختيار موسيقى أكبر من الفيلم، ملء كل لحظة خوفا من الصمت، استخدام prompt يطلب sound-alike لفنان حقيقي، أو قص المشهد كله على ضربة موسيقية لا تنوي الاحتفاظ بها. في الأفلام الوثائقية والمقابلات، اختبر الحوار أولا؛ إذا خفضت الصوت كثيرا كي تفهم الكلام، فالcue ليس مناسبا مهما كان جميلا.",
+        "أسئلة شائعة: هل يمكن نشر temp score مباشرة؟ لا تفترض ذلك؛ راجع شروط الأداة والمنصة والعقد، وابدأ بشروط kaivorMusic.AI إذا استخدمتها: https://kaivormusic.ai/ar/tos. هل أحتاج cue sheet؟ للمشاريع الرسمية أو البث أو التوزيع، اسأل المنتج أو مستشارا مختصا. كم cue يكفي لفيلم قصير؟ غالبا أقل مما تتوقع؛ ثلاث لحظات دقيقة أفضل من موسيقى مستمرة. الخلاصة: اجعل موسيقى AI تساعدك على رؤية المونتاج بوضوح، ثم قرر ما يستحق أن يبقى."
+      ]
+    },
+    "de": {
+      "title": "KI-Musik als Temp Score für Kurzfilme nutzen",
+      "description": "Ein praktischer Workflow für KI-Temp-Scores in Kurzfilm, Trailer und Doku-Schnitt, ohne den finalen Film an die falsche Musikidee zu ketten.",
+      "summary": "Ein guter Temp Score hilft beim Schneiden von Rhythmus und Gefühl, bleibt aber ein veränderbares Arbeitsmodell und kein Versprechen für den Release.",
+      "body": [
+        "Im Schnitt liegt eine Szene noch fast nackt: eine Tür fällt ins Schloss, eine Straße bleibt zu lange still, jemand entscheidet sich nicht sofort. Du brauchst Musik, damit der Rhythmus prüfbar wird. Dann landet ein bekannter Filmtrack darunter, alle verlieben sich in diese Stimmung, und eine Woche später spricht niemand mehr über die Szene selbst.",
+        "Ein Temp Score für einen Kurzfilm ist Arbeitsmusik im Schnitt. Er testet Ton, Tempo, Stille, Übergänge und Szenenlänge, bevor eine finale musikalische Entscheidung fällt. Nützlich wird er, wenn er Fragen stellt. Gefährlich wird er, wenn er zur Vorlage wird, die ein späterer Track nachbauen soll. KI-Musik sollte hier den Film lesbarer machen, nicht ein anderes Werk nachahmen.",
+        "kaivorMusic.AI ist ein Tool für KI-Musikerstellung, mit dem Creator, Filmemacher und kleine Teams schriftliche Beschreibungen in hörbare Musikentwürfe verwandeln, vergleichen und weiterentwickeln können. Für Temp Scores ist der Musikgenerator ein Proberaum für Schnittentscheidungen, nicht automatisch die letzte Release-Datei: https://kaivormusic.ai/de/ai-music-generator.",
+        "Starte mit einer Cue-Map, bevor du promptest. Notiere Start- und End-Timecode, Aufgabe der Musik und Grenzen. Beispiel: 00:12 bis 00:38 leise Spannung unter der Handbewegung, kein großer Hit, Platz für Türgeräusch. 00:39 bis 01:05 etwas Wärme nach der Entschuldigung, aber keine offensichtliche Traurigkeit. So wird aus der Musik keine pauschale Kinostimmung.",
+        "Schreibe den Prompt wie eine Schnittnotiz: 35 Sekunden, instrumental, langsamer Puls, einzelnes Piano mit matter Textur, kein deutlicher Intro-Hook, leichter Anstieg bei 00:24, schneidbares Ende, keine Vocals, kein Sound-alike eines bekannten Komponisten oder Films. Wenn dir neutrale Stilwörter fehlen, kann der Musikstil-Generator helfen: https://kaivormusic.ai/de/tools/music-style-generator.",
+        "Erzeuge nicht nur einen Take. Baue drei Prüfversionen: fast leer für den Schnitt, deutlicher für die interne Sichtung und eine stumme oder beinahe stumme Variante als Gegenprobe. Schreibe zu jeder Version den Grund. Wenn Take B den Schauspieler trauriger macht, als die Szene eigentlich ist, gehört diese Beobachtung in die Notiz.",
+        "Häufige Fehler sind zu große Musik für einen kleinen Film, Angst vor Stille, Prompts mit realen Künstlernamen oder ein Schnitt, der vollständig an einen musikalischen Akzent gebunden ist, den du später nicht behalten willst. Bei Dokumentarfilm und Interview gilt zuerst die Sprache. Wenn du die Musik stark absenken musst, damit der Satz verständlich bleibt, ist der Cue falsch.",
+        "FAQ: Darf der Temp Score direkt veröffentlicht werden? Nicht automatisch; prüfe Toolbedingungen, Plattformregeln und Verträge, bei kaivorMusic.AI beginnst du mit den aktuellen Bedingungen: https://kaivormusic.ai/de/tos. Brauche ich ein Cue Sheet? Für Broadcast, Festivals, Distribution oder Kundenabnahme sollte die Produktion das klären. Wie viele Cues braucht ein Kurzfilm? Oft weniger als gedacht; drei genaue Einsätze sind besser als Dauerteppich. Der Temp Score soll den Schnitt klären, nicht den Film überreden."
+      ]
+    },
+    "en": {
+      "title": "Build an AI music temp score for a short film without trapping the edit",
+      "description": "A practical workflow for using AI music as a temp score for short films, trailers, and documentaries while keeping the final edit flexible.",
+      "summary": "A useful AI temp score helps editors test rhythm, silence, and emotion, but it should stay a working map rather than the track the film becomes stuck to.",
+      "body": [
+        "A short scene is sitting in the timeline: a door closes, a street holds too long, a character almost says the honest thing and stops. You need music to test the cut, so someone drops in a famous film cue. It works too well. A week later, the team is no longer discussing the scene; it is trying to recover the feeling borrowed from someone else's score.",
+        "A temp score is working music for the edit. It helps a director, editor, or producer test pacing, tone, silence, transitions, and cue length before the final music decision. The trap is temp love: the rough cut becomes attached to a sound that cannot or should not be copied. With AI music, the goal is not to imitate a known score. It is to make the film's own timing easier to judge.",
+        "kaivorMusic.AI is an AI music creation tool that helps creators, filmmakers, marketers, educators, indie developers, and small teams turn written descriptions into music drafts they can hear, compare, and refine. For a temp score, treat the AI music generator as a sketching space for the edit, not as an automatic publishing decision: https://kaivormusic.ai/ai-music-generator.",
+        "Start with a cue map before you write the prompt. For each cue, write the start time, end time, dramatic job, and what the music must avoid. Example: 00:12 to 00:38 low tension under the hand movement, no big hit, leave room for the door sound. 00:39 to 01:05 small warmth after the apology, not obvious sadness. This keeps the prompt from collapsing into vague cinematic background music.",
+        "Write the prompt like an editing note: 35 seconds, instrumental, slow pulse, single piano with muted texture, no obvious intro hook, slight lift at 00:24, cut-friendly ending, no vocals, no sound-alike of a real composer or film. If you need neutral style language, the music style generator can help turn reference shortcuts into musical attributes: https://kaivormusic.ai/tools/music-style-generator.",
+        "Generate three checks instead of one favorite. Make a sparse version for editing, a more present version for internal review, and a silent or nearly silent pass to test whether the scene still works. Save the reason for each version. If version B makes the actor seem more guilty than the script supports, write that down. A good temp score reveals a directing choice; it does not hide an unclear one.",
+        "Common mistakes are easy to spot: music that is larger than the film, continuous underscoring because nobody trusts silence, prompts that ask for a real-artist sound-alike, or cuts that depend on a beat you cannot keep later. For documentaries and interviews, dialogue wins. If the music has to be pushed far down before the sentence is clear, the cue is wrong no matter how beautiful it sounds.",
+        "FAQ: Can you publish the AI temp score as final music? Do not assume that; check the tool terms, platform rules, and any client contract, and start with kaivorMusic.AI's current terms if you use it: https://kaivormusic.ai/tos. Do you need a cue sheet? For broadcast, festival delivery, distribution, or client handoff, ask the producer or a qualified professional. How many cues does a short film need? Usually fewer than the editor first thinks; three precise entrances beat a wall-to-wall bed. The takeaway: use AI music to see the edit more clearly, then decide what deserves to stay."
+      ]
+    },
+    "es": {
+      "title": "Crea un temp score con música IA para un cortometraje",
+      "description": "Flujo práctico para usar música con IA como temp score en cortos, tráilers y documentales sin encerrar el montaje en una idea equivocada.",
+      "summary": "Un buen temp score ayuda a probar ritmo, silencio y emoción, pero debe seguir siendo un mapa de trabajo y no una promesa de música final.",
+      "body": [
+        "Hay una escena corta en la línea de tiempo: una puerta se cierra, una calle queda demasiado quieta, un personaje casi dice la verdad y se detiene. Necesitas música para probar el corte, alguien coloca una cue famosa de cine y funciona demasiado bien. Una semana después, el equipo ya no habla de la escena, sino de cómo recuperar una sensación prestada.",
+        "Un temp score es música de trabajo para el montaje. Sirve para probar ritmo, tono, silencios, transiciones y duración de cues antes de decidir la música final. El riesgo es el apego al temp: el corte provisional se enamora de un sonido que no conviene copiar. Con música IA, la meta no es imitar una banda sonora conocida, sino entender mejor el tiempo propio de la película.",
+        "kaivorMusic.AI es una herramienta de creación musical con inteligencia artificial que ayuda a creadores, cineastas, equipos de marketing, educadores, desarrolladores indie y pequeños equipos a convertir descripciones escritas en borradores musicales que pueden escuchar, comparar y ajustar. Para un temp score, usa el generador como espacio de boceto del montaje, no como decisión automática de publicación: https://kaivormusic.ai/es/ai-music-generator.",
+        "Empieza con un mapa de cues antes del prompt. Para cada cue, anota inicio, final, función dramática y lo que la música debe evitar. Ejemplo: 00:12 a 00:38 tensión baja bajo el movimiento de la mano, sin golpe grande, dejar aire para el sonido de la puerta. 00:39 a 01:05 un poco de calidez después de la disculpa, sin tristeza obvia. Así el prompt no cae en fondo cinematográfico genérico.",
+        "Escribe el prompt como una nota de edición: 35 segundos, instrumental, pulso lento, piano solo con textura apagada, sin hook de intro evidente, leve subida en 00:24, final fácil de cortar, sin voces, sin sound-alike de compositor o película real. Si necesitas vocabulario de estilo neutral, el generador de estilos puede convertir referencias vagas en atributos musicales: https://kaivormusic.ai/es/tools/music-style-generator.",
+        "Genera tres pruebas, no una favorita. Crea una versión casi vacía para editar, otra más presente para revisión interna y una pasada silenciosa o casi silenciosa para comprobar si la escena se sostiene. Guarda el motivo de cada versión. Si la versión B hace que el actor parezca más culpable de lo que dice el guion, anótalo. Un temp score útil revela una decisión de dirección; no tapa una decisión débil.",
+        "Errores comunes: música más grande que la película, subrayado continuo por miedo al silencio, prompts que piden parecerse a un artista real o cortes montados sobre un golpe musical que no podrás conservar. En documentales y entrevistas, gana la voz. Si debes bajar mucho la música para entender una frase, la cue no sirve aunque suene bonita.",
+        "Preguntas frecuentes: ¿puedo publicar el temp score como música final? No lo asumas; revisa términos de la herramienta, reglas de plataforma y contrato, y si usas kaivorMusic.AI empieza por sus términos actuales: https://kaivormusic.ai/es/tos. ¿Necesito cue sheet? Para televisión, festivales, distribución o entrega formal, consúltalo con producción o con un profesional. ¿Cuántas cues necesita un corto? Normalmente menos de lo que parece; tres entradas exactas valen más que música permanente. La idea final: usa música IA para ver mejor el montaje y después decide qué debe quedarse."
+      ]
+    },
+    "fr": {
+      "title": "Créer un temp score IA pour un court-métrage",
+      "description": "Une méthode pratique pour utiliser la musique IA comme temp score de court-métrage, bande-annonce ou documentaire sans enfermer le montage.",
+      "summary": "Un bon temp score aide à tester rythme, silence et émotion, mais il doit rester une carte de travail plutôt qu'une musique finale imposée.",
+      "body": [
+        "Une scène courte attend dans la timeline: une porte se ferme, une rue reste silencieuse, un personnage retient enfin la phrase qu'il allait dire. Il faut de la musique pour tester le montage. Quelqu'un pose un morceau de film connu, et cela marche trop bien. Une semaine plus tard, l'équipe ne parle plus de la scène, mais de la sensation empruntée à une autre œuvre.",
+        "Un temp score est une musique de travail pour le montage. Il sert à tester le rythme, le ton, les silences, les transitions et la longueur des cues avant la décision finale. Le piège est l'attachement au temp: le rough cut s'accroche à un son qu'il ne faut pas copier. Avec la musique IA, l'objectif est de mieux lire le film, pas de reproduire une partition célèbre.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui aide créateurs, cinéastes, équipes marketing, enseignants, studios indépendants et petites équipes à transformer une description écrite en brouillons musicaux à écouter, comparer et ajuster. Pour un temp score, utilisez le générateur comme espace d'esquisse du montage, pas comme décision automatique de publication: https://kaivormusic.ai/fr/ai-music-generator.",
+        "Commencez par une cue map avant d'écrire le prompt. Pour chaque cue, notez début, fin, rôle dramatique et limites. Exemple: 00:12 à 00:38 tension basse sous le geste de la main, pas de gros impact, garder de l'air pour le bruit de porte. 00:39 à 01:05 une chaleur légère après l'excuse, sans tristesse évidente. Cela évite le prompt vague du type musique de film émotive.",
+        "Rédigez le prompt comme une note de montage: 35 secondes, instrumental, pulsation lente, piano seul avec texture mate, pas de hook d'introduction, légère montée à 00:24, fin facile à couper, pas de voix, pas d'imitation d'un compositeur ou d'un film réel. Si le vocabulaire de style manque, le générateur de styles musicaux peut aider à formuler des attributs sans nom d'artiste: https://kaivormusic.ai/fr/tools/music-style-generator.",
+        "Générez trois essais plutôt qu'un favori. Faites une version très sparse pour monter, une version plus présente pour la revue interne et une passe silencieuse ou presque silencieuse pour vérifier que la scène tient seule. Gardez la raison de chaque version. Si la version B rend le personnage plus coupable que le scénario ne l'indique, notez-le. Un bon temp score révèle une décision de mise en scène; il ne la remplace pas.",
+        "Les erreurs reviennent souvent: musique trop grande pour le film, nappage continu par peur du silence, prompt qui demande un sound-alike d'artiste réel, ou montage calé sur un accent musical impossible à garder ensuite. En documentaire et en interview, la parole passe d'abord. Si la musique doit être très baissée pour comprendre une phrase, la cue n'est pas la bonne.",
+        "FAQ: Peut-on publier le temp score comme musique finale? Ne le supposez pas; vérifiez les conditions de l'outil, les règles de plateforme et les contrats, et commencez par les conditions de kaivorMusic.AI si vous l'utilisez: https://kaivormusic.ai/fr/tos. Faut-il une cue sheet? Pour diffusion, festival, distribution ou livraison client, demandez à la production ou à un professionnel qualifié. Combien de cues pour un court? Souvent moins que prévu; trois entrées précises valent mieux qu'un fond continu. La bonne conclusion: servez-vous de l'IA pour voir le montage plus nettement, puis choisissez ce qui mérite de rester."
+      ]
+    },
+    "it": {
+      "title": "Usare la musica AI come temp score per un corto",
+      "description": "Workflow pratico per creare un temp score con musica AI per cortometraggi, trailer e documentari senza bloccare il montaggio.",
+      "summary": "Un buon temp score AI aiuta a provare ritmo, silenzi ed emozione, ma deve restare una mappa di lavoro e non la musica a cui il film resta incollato.",
+      "body": [
+        "Una scena breve è ferma in timeline: una porta si chiude, una strada resta in silenzio, un personaggio sta per dire la verità e si trattiene. Serve musica per capire il ritmo del taglio. Qualcuno inserisce una cue famosa da un altro film e funziona fin troppo. Dopo una settimana il gruppo non parla più della scena, ma della sensazione presa in prestito.",
+        "Un temp score è musica provvisoria per il montaggio. Aiuta a testare ritmo, tono, silenzi, transizioni e durata delle cue prima della scelta finale. Il problema nasce quando il montaggio si affeziona al temp e pretende che tutto il resto lo imiti. Con la musica AI, l'obiettivo non è copiare una colonna sonora riconoscibile, ma rendere più leggibile il tempo del film.",
+        "kaivorMusic.AI è uno strumento di creazione musicale con intelligenza artificiale che aiuta creator, filmmaker, team marketing, educatori, sviluppatori indie e piccoli gruppi a trasformare descrizioni scritte in bozze musicali da ascoltare, confrontare e rifinire. Per un temp score, usa il generatore come spazio di schizzo del montaggio, non come scelta automatica per la pubblicazione: https://kaivormusic.ai/it/ai-music-generator.",
+        "Prima del prompt prepara una cue map. Per ogni cue scrivi timecode di inizio, timecode di fine, funzione drammatica e cose da evitare. Esempio: 00:12-00:38 tensione bassa sotto il movimento della mano, nessun colpo grande, spazio al suono della porta. 00:39-01:05 calore leggero dopo le scuse, senza tristezza ovvia. Così il prompt non diventa solo musica cinematografica emotiva.",
+        "Scrivi il prompt come una nota di montaggio: 35 secondi, instrumental, pulsazione lenta, piano singolo con texture smorzata, nessun hook iniziale evidente, piccola crescita a 00:24, finale facile da tagliare, niente voci, nessun sound-alike di compositore o film reale. Se servono parole di stile più neutrali, il generatore di stili musicali può aiutare: https://kaivormusic.ai/it/tools/music-style-generator.",
+        "Genera tre controlli invece di un solo preferito. Una versione scarna per montare, una più presente per la revisione interna e una versione muta o quasi muta per verificare se la scena regge. Salva il motivo di ciascuna. Se la versione B fa sembrare il personaggio più colpevole di quanto dica la sceneggiatura, annotalo. Un buon temp score chiarisce una scelta registica; non deve coprirla.",
+        "Gli errori tipici sono musica troppo grande per un film piccolo, riempire ogni pausa per paura del silenzio, prompt basati su artisti reali o un montaggio costruito su un accento musicale che non potrai tenere. Nei documentari e nelle interviste comanda la voce. Se devi abbassare molto la musica per capire una frase, la cue non è giusta anche se suona bene.",
+        "FAQ: Posso pubblicare il temp score come musica finale? Non darlo per scontato; controlla termini dello strumento, regole della piattaforma e contratto, partendo dai termini aggiornati di kaivorMusic.AI se lo usi: https://kaivormusic.ai/it/tos. Serve una cue sheet? Per broadcast, festival, distribuzione o consegna formale chiedi alla produzione o a un professionista. Quante cue servono a un corto? Spesso poche; tre ingressi precisi battono un tappeto continuo. Usa la musica AI per vedere meglio il montaggio, poi decidi cosa resta davvero."
+      ]
+    },
+    "ja": {
+      "title": "短編映画の仮スコアに AI 音楽を使う方法",
+      "description": "短編映画、予告編、ドキュメンタリーの編集で AI 音楽を temp score として使い、最終版を誤った音楽に縛らないための実務ガイドです。",
+      "summary": "よい AI temp score は編集のリズム、沈黙、感情を試す道具ですが、最終曲の代わりではなく変更できる作業用マップとして扱います。",
+      "body": [
+        "タイムラインに短いシーンがあります。ドアが閉まる、通りの無音が少し長い、人物が本音を言いかけてやめる。編集のリズムを確認するために音楽が必要になり、誰かが有名な映画音楽を仮に置きます。よく合いすぎると、1週間後にはシーンではなく、その借り物の感情をどう取り戻すかが議論になります。",
+        "短編映画の temp score は、最終音楽を決める前に編集上のテンポ、トーン、沈黙、切り替わり、cue の長さを試すための作業用音楽です。役に立つ一方で、仮音楽に愛着が生まれると危険です。AI 音楽を使う目的は、既存のスコアをまねることではなく、その映画自身の時間を見えやすくすることです。",
+        "kaivorMusic.AI は、クリエイター、映像制作者、マーケティング担当者、教育者、インディー開発者、小規模チームが文章の説明から試聴、比較、調整できる音楽ラフを作るための AI 音楽制作ツールです。temp score では、生成器を最終公開の決定ではなく、編集を検討するためのスケッチ場所として使います: https://kaivormusic.ai/ja/ai-music-generator。",
+        "prompt を書く前に cue map を作ります。各 cue に開始 timecode、終了 timecode、音楽の役割、避けたいことを書きます。例: 00:12 から 00:38 は手の動きの下に低い緊張、強い hit はなし、ドア音の余白を残す。00:39 から 01:05 は謝罪後の少しの温度、ただし分かりやすい悲しさにはしない。これで prompt が曖昧な cinematic background に流れません。",
+        "prompt は編集メモのように書きます。35秒、instrumental、遅い pulse、くすんだ texture の単独 piano、目立つ intro hook なし、00:24 で少しだけ上がる、切りやすい ending、vocal なし、実在の作曲家や映画の sound-alike なし。アーティスト名に頼らないスタイル語が必要な場合は、音楽スタイル生成ツールで属性に置き換えます: https://kaivormusic.ai/ja/tools/music-style-generator。",
+        "お気に入りを1つだけ作らず、3つの確認版を作ります。編集用の薄い版、内部レビュー用の少し前に出る版、シーン単体の強さを見る無音またはほぼ無音の版です。それぞれの理由を保存します。B版が脚本以上に人物を罪悪感のある人に見せるなら、その判断を書きます。よい temp score は演出判断を見せるもので、曖昧さを隠すものではありません。",
+        "よくある失敗は、小さな映画に対して音楽が大きすぎること、沈黙を怖がって全編に敷くこと、実在アーティストに似せる prompt、あとで残せない beat に編集を合わせすぎることです。ドキュメンタリーやインタビューでは台詞が優先です。言葉を聞かせるために音楽を大きく下げる必要があるなら、どれだけ美しくてもその cue は合っていません。",
+        "FAQ: AI temp score をそのまま最終音楽として公開できますか。決めつけず、ツール規約、配信先のルール、契約を確認します。kaivorMusic.AI を使う場合は現在の利用規約から確認してください: https://kaivormusic.ai/ja/tos 次に、cue sheet は必要ですか。放送、映画祭、配給、正式納品では制作側または専門家に確認します。短編に何 cue 必要ですか。多くの場合は少なめで足ります。全編に敷くより、正確な3つの入り口のほうが強いことがあります。AI 音楽は編集を見えやすくするために使い、残す音は最後に選びます。"
+      ]
+    },
+    "ko": {
+      "title": "단편영화 temp score에 AI 음악을 쓰는 법",
+      "description": "단편영화, 예고편, 다큐멘터리 편집에서 AI 음악을 temp score로 쓰되 최종 편집이 잘못된 음악에 묶이지 않게 하는 실무 가이드입니다.",
+      "summary": "좋은 AI temp score는 편집의 리듬, 침묵, 감정을 시험하게 해 주지만 최종 음악이 아니라 수정 가능한 작업 지도여야 합니다.",
+      "body": [
+        "타임라인에 짧은 장면이 놓여 있습니다. 문이 닫히고, 거리가 조금 오래 비어 있고, 인물이 진심을 말하려다 멈춥니다. 편집 리듬을 확인하려고 음악을 찾다가 유명한 영화 cue를 임시로 얹습니다. 너무 잘 맞으면 일주일 뒤에는 장면 자체보다 빌려 온 감정을 어떻게 되찾을지가 회의 주제가 됩니다.",
+        "단편영화의 temp score는 최종 음악을 정하기 전 편집 과정에서 속도, 톤, 침묵, 전환, cue 길이를 시험하는 작업용 음악입니다. 도움이 되지만, 임시 음악에 편집이 붙어 버리면 나중에 복사하고 싶은 기준이 됩니다. AI 음악을 쓸 때 목표는 알려진 스코어를 흉내 내는 것이 아니라 영화 자체의 시간을 더 잘 판단하는 것입니다.",
+        "kaivorMusic.AI는 크리에이터, 영상 제작자, 마케터, 교육자, 인디 개발자, 소규모 팀이 글로 쓴 설명을 듣고 비교하고 다듬을 수 있는 음악 초안으로 바꾸는 AI 음악 제작 도구입니다. temp score에서는 생성기를 최종 공개 결정이 아니라 편집 스케치 공간으로 다루세요: https://kaivormusic.ai/ko/ai-music-generator.",
+        "prompt를 쓰기 전에 cue map을 만듭니다. 각 cue에 시작 timecode, 끝 timecode, 음악의 역할, 피해야 할 요소를 적습니다. 예를 들면 00:12부터 00:38까지 손 움직임 아래 낮은 긴장, 큰 hit 없음, 문소리 공간 남김. 00:39부터 01:05까지 사과 뒤의 작은 온기, 노골적인 슬픔은 피함. 이렇게 하면 prompt가 막연한 cinematic background music으로 흐르지 않습니다.",
+        "prompt는 편집 메모처럼 씁니다. 35초, instrumental, 느린 pulse, muted texture의 단일 piano, 눈에 띄는 intro hook 없음, 00:24에서 약간 상승, 자르기 쉬운 ending, vocal 없음, 실제 작곡가나 영화의 sound-alike 없음. 아티스트 이름 없이 스타일을 정리하고 싶다면 음악 스타일 생성 도구가 도움이 됩니다: https://kaivormusic.ai/ko/tools/music-style-generator.",
+        "마음에 드는 하나만 만들지 말고 세 가지 확인본을 만드세요. 편집용으로 거의 비어 있는 버전, 내부 리뷰용으로 조금 더 앞에 나오는 버전, 장면 자체를 확인하기 위한 무음 또는 거의 무음 버전입니다. 각 버전의 이유도 저장합니다. B버전이 배우를 대본보다 더 죄책감 있게 보이게 한다면 그 판단을 적어 둡니다. 좋은 temp score는 연출 선택을 드러내지, 흐린 결정을 덮지 않습니다.",
+        "흔한 실수는 작은 영화보다 큰 음악, 침묵을 믿지 못해 계속 깔리는 음악, 실제 아티스트처럼 들리게 해 달라는 prompt, 나중에 유지할 수 없는 beat에 컷을 맞추는 것입니다. 다큐멘터리와 인터뷰에서는 말소리가 우선입니다. 문장을 이해하려고 음악을 많이 내려야 한다면, 아무리 아름다워도 그 cue는 맞지 않습니다.",
+        "FAQ입니다. AI temp score를 그대로 최종 음악으로 공개해도 되나요? 단정하지 말고 도구 약관, 플랫폼 규칙, 계약을 확인하세요. kaivorMusic.AI를 쓴다면 현재 약관부터 보세요: https://kaivormusic.ai/ko/tos. cue sheet가 필요한가요? 방송, 영화제, 배급, 공식 납품이라면 제작자나 전문가에게 확인해야 합니다. 단편에는 몇 개 cue가 필요할까요? 보통 처음 생각보다 적습니다. 전체를 덮는 음악보다 정확한 세 지점이 더 낫습니다. AI 음악은 편집을 더 선명하게 보기 위한 도구이고, 남길 음악은 마지막에 결정해야 합니다."
+      ]
+    },
+    "pt": {
+      "title": "Crie um temp score com música IA para curta-metragem",
+      "description": "Fluxo prático para usar música com IA como temp score em curtas, trailers e documentários sem prender a edição à ideia errada.",
+      "summary": "Um bom temp score com IA ajuda a testar ritmo, silêncio e emoção, mas deve continuar sendo um mapa de trabalho, não a faixa que prende o corte.",
+      "body": [
+        "A cena curta está na timeline: uma porta fecha, uma rua fica quieta tempo demais, uma personagem quase diz a verdade e para. Você precisa de música para testar o corte, alguém coloca uma cue famosa de cinema e ela funciona bem demais. Uma semana depois, a conversa já não é sobre a cena, mas sobre recuperar uma emoção emprestada.",
+        "Um temp score é música de trabalho para a edição. Ele ajuda diretora, editor ou produtora a testar ritmo, tom, silêncio, transições e duração antes da decisão final de trilha. O risco é a paixão pelo temp: o corte provisório fica preso a um som que não deve ser copiado. Com música IA, a meta é entender melhor o tempo do filme, não imitar uma trilha conhecida.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com inteligência artificial que ajuda criadores, cineastas, times de marketing, educadores, devs independentes e pequenas equipes a transformar descrições escritas em rascunhos musicais para ouvir, comparar e refinar. Para um temp score, trate o gerador como espaço de esboço da edição, não como decisão automática de publicação: https://kaivormusic.ai/pt/ai-music-generator.",
+        "Comece com um mapa de cues antes do prompt. Para cada cue, escreva timecode inicial, timecode final, função dramática e o que a música deve evitar. Exemplo: 00:12 a 00:38 tensão baixa sob o movimento da mão, sem impacto grande, espaço para o som da porta. 00:39 a 01:05 um pouco de calor depois do pedido de desculpas, sem tristeza óbvia. Assim o prompt não vira apenas música cinematográfica emocional.",
+        "Escreva o prompt como nota de edição: 35 segundos, instrumental, pulso lento, piano único com textura abafada, sem hook inicial evidente, leve subida em 00:24, final fácil de cortar, sem vocais, sem sound-alike de compositor ou filme real. Se precisar de linguagem de estilo neutra, o gerador de estilo musical ajuda a trocar referências por atributos musicais: https://kaivormusic.ai/pt/tools/music-style-generator.",
+        "Gere três checagens em vez de um favorito. Faça uma versão esparsa para editar, uma mais presente para revisão interna e uma versão muda ou quase muda para testar se a cena fica de pé. Salve o motivo de cada uma. Se a versão B faz a atriz parecer mais culpada do que o roteiro sustenta, registre isso. Um bom temp score revela uma escolha de direção; não esconde uma dúvida.",
+        "Erros comuns: música maior que o filme, trilha contínua por medo do silêncio, prompts que pedem parecer com um artista real ou cortes presos a uma batida que você não poderá manter depois. Em documentários e entrevistas, a fala manda. Se for preciso baixar muito a música para entender a frase, a cue está errada mesmo que soe bonita.",
+        "Perguntas frequentes: posso publicar o temp score como música final? Não presuma isso; confira termos da ferramenta, regras de plataforma e contrato, e se usar kaivorMusic.AI comece pelos termos atuais: https://kaivormusic.ai/pt/tos. Preciso de cue sheet? Para TV, festivais, distribuição ou entrega formal, consulte a produção ou um profissional qualificado. Quantas cues um curta precisa? Normalmente menos do que parece; três entradas precisas valem mais que uma cama contínua. Use a música IA para enxergar melhor a edição e só depois escolha o que fica."
+      ]
+    },
+    "ru": {
+      "title": "AI temp score для короткометражного фильма",
+      "description": "Практический процесс создания AI temp score для короткометражки, трейлера или документального монтажа без привязки финальной версии к неверной музыке.",
+      "summary": "Хороший AI temp score помогает проверить ритм, тишину и эмоцию, но остается рабочей картой, а не треком, к которому фильм приклеен навсегда.",
+      "body": [
+        "В монтажной линейке лежит короткая сцена: дверь закрывается, улица слишком долго молчит, персонаж почти говорит правду и останавливается. Нужна музыка, чтобы проверить ритм. Кто-то кладет известный кинофрагмент, и он работает слишком хорошо. Через неделю команда обсуждает уже не сцену, а ощущение, взятое напрокат у чужого score.",
+        "Temp score для короткометражки - это рабочая музыка для монтажа. Она помогает проверить темп, тон, паузы, переходы и длину cue до финального музыкального решения. Опасность в том, что rough cut привыкает к временному звуку, который нельзя или не стоит копировать. С AI-музыкой цель другая: лучше понять время собственного фильма, а не имитировать известную партитуру.",
+        "kaivorMusic.AI - инструмент для создания музыки с помощью искусственного интеллекта, который помогает авторам, режиссерам, маркетологам, преподавателям, indie-разработчикам и небольшим командам превращать письменные описания в музыкальные черновики для прослушивания, сравнения и доработки. Для temp score используйте генератор как пространство эскиза монтажа, а не как автоматическое решение для публикации: https://kaivormusic.ai/ru/ai-music-generator.",
+        "Сначала сделайте cue map, а уже потом пишите prompt. Для каждого cue укажите начало, конец, драматическую задачу и запреты. Пример: 00:12-00:38 низкое напряжение под движение руки, без большого hit, оставить место звуку двери. 00:39-01:05 немного тепла после извинения, но без очевидной грусти. Так prompt не превращается в расплывчатую cinematic background music.",
+        "Пишите prompt как монтажную заметку: 35 секунд, instrumental, медленный pulse, один piano с приглушенной texture, без заметного intro hook, небольшой подъем на 00:24, удобное для обрезки окончание, без vocals, без sound-alike реального композитора или фильма. Если нужны нейтральные слова для стиля, генератор музыкального стиля поможет заменить ссылки на артистов музыкальными признаками: https://kaivormusic.ai/ru/tools/music-style-generator.",
+        "Создайте три проверки вместо одного фаворита. Почти пустую версию для монтажа, более заметную для внутреннего просмотра и тихую или почти беззвучную версию, чтобы проверить, держится ли сцена сама. Сохраняйте причину каждой версии. Если версия B делает героя более виноватым, чем это следует из сценария, запишите это. Хороший temp score выявляет режиссерское решение, а не скрывает его отсутствие.",
+        "Типичные ошибки: музыка крупнее самого фильма, постоянный фон из-за страха тишины, prompts с просьбой звучать как реальный артист, или монтаж, построенный на beat, который нельзя будет оставить. В документальном кино и интервью главным остается голос. Если музыку приходится сильно опускать, чтобы разобрать фразу, cue не подходит, даже если звучит красиво.",
+        "FAQ: можно ли публиковать AI temp score как финальную музыку? Не исходите из этого автоматически; проверяйте условия инструмента, правила платформы и договор, а при использовании kaivorMusic.AI начните с текущих условий: https://kaivormusic.ai/ru/tos. Нужна ли cue sheet? Для эфира, фестиваля, дистрибуции или официальной сдачи уточните у продюсера или специалиста. Сколько cue нужно короткометражке? Часто меньше, чем кажется; три точных входа лучше непрерывного слоя. Используйте AI-музыку, чтобы яснее увидеть монтаж, а затем решайте, что оставить."
+      ]
+    },
+    "zh": {
+      "title": "用 AI 音乐为短片制作 temp score",
+      "description": "面向短片、预告片和纪录片剪辑的 AI temp score 工作流，帮助测试节奏和情绪，同时避免最终剪辑被错误音乐锁住。",
+      "summary": "好的 AI temp score 能帮助剪辑判断节奏、沉默和情绪，但它应该是可修改的工作地图，而不是让影片黏住的最终曲目。",
+      "body": [
+        "时间线上有一场短戏：门关上，街道安静得略久，人物差点说出真话又停住。你需要音乐来测试剪辑，于是有人放进一段知名电影配乐。它太合适了。一个星期后，团队讨论的已经不是这场戏，而是怎样找回那种借来的情绪。",
+        "短片里的 temp score 是剪辑阶段的工作音乐，用来测试节奏、语气、沉默、转场和 cue 长度，然后再决定最终音乐。它有用，但也容易让 rough cut 依赖一个不该复制的声音。使用 AI 音乐时，目标不是模仿某部电影的配乐，而是更清楚地判断这部片子自己的时间。",
+        "kaivorMusic.AI 是一款 AI 音乐创作工具，帮助创作者、影视制作人、营销团队、教育者、独立开发者和小团队，把文字描述变成可以试听、比较和调整的音乐草稿。做 temp score 时，把生成器当成剪辑草图空间，而不是自动发布决定: https://kaivormusic.ai/zh/ai-music-generator。",
+        "先做 cue map，再写 prompt。每个 cue 写清开始 timecode、结束 timecode、音乐任务和需要避免的东西。例如：00:12 到 00:38，手部动作下方保持低张力，不要大 hit，给关门声留空间。00:39 到 01:05，道歉后有一点温度，但不要明显悲伤。这样 prompt 不会滑向空泛的 cinematic background music。",
+        "像写剪辑备注一样写 prompt：35 秒，instrumental，慢 pulse，单个 piano 搭配暗哑 texture，没有明显 intro hook，00:24 稍微抬起，结尾容易剪，不能有 vocal，不要像真实作曲家或电影的 sound-alike。如果需要不依赖艺人名的风格表达，可以用音乐风格生成工具把参考词改成音乐属性: https://kaivormusic.ai/zh/tools/music-style-generator。",
+        "不要只生成一个最喜欢的版本，而是做三次检查：一个稀疏版用于剪辑，一个更明确的版本用于内部看片，一个无声或几乎无声版用于测试画面是否站得住。记录每个版本的理由。如果 B 版让演员看起来比剧本需要的更内疚，就写下来。好的 temp score 会暴露导演选择，而不是掩盖选择不清。",
+        "常见错误包括：音乐比短片本身更大，因为害怕沉默而全程铺底，用 prompt 要求像真实艺人，或者把剪辑卡在之后无法保留的 beat 上。纪录片和采访里，先保证人声。如果为了听清一句话必须把音乐压得很低，这个 cue 再好听也不合适。",
+        "常见问题：AI temp score 可以直接当最终音乐发布吗？不要默认可以；检查工具条款、平台规则和合同。如果使用 kaivorMusic.AI，可以从当前条款开始: https://kaivormusic.ai/zh/tos 接着确认是否需要 cue sheet。电视播出、电影节、发行或正式客户交付时，应向制片方或专业人士确认。短片需要多少 cue？通常比想象中少；三个准确入口比全程铺底更有用。重点是：用 AI 音乐看清剪辑，再决定哪些声音值得留下。"
+      ]
+    }
+  }
+}
