@@ -1,0 +1,182 @@
+{
+  "slug": "ai-music-for-trade-show-booth-loops",
+  "date": "2026-07-10",
+  "updated": "2026-07-10",
+  "topic": "A practical workflow for creating AI music loops for trade show booth videos, demo screens, product kiosks, and event displays without fighting staff conversations or exhausting visitors",
+  "keywords": [
+    "AI music for trade show booths",
+    "trade show booth music",
+    "booth video music loop",
+    "event display background music",
+    "AI music prompts",
+    "AI music generator",
+    "kaivorMusic.AI"
+  ],
+  "translations": {
+    "ar": {
+      "title": "موسيقى AI لحلقات فيديو جناح المعرض التجاري",
+      "description": "دليل عملي لصناعة موسيقى AI قصيرة ومتكررة لفيديوهات أجنحة المعارض دون أن تزاحم حديث الفريق أو تتعب الزوار.",
+      "summary": "موسيقى جناح المعرض الجيدة تلفت الانتباه بهدوء، وتترك مساحة للبيع والشرح، وتبقى قابلة للتكرار لساعات دون إزعاج.",
+      "body": [
+        "في صباح المعرض، تعمل الشاشة داخل الجناح كل ثلاثين ثانية: لقطة منتج، شعار، ثلاث فوائد، ثم العودة للبداية. المشكلة ليست في الصورة فقط. إذا كانت الموسيقى أكبر من المكان، سيضطر الفريق لرفع صوته. وإذا كانت ضعيفة أو مملة، سيبدو الجناح كأنه عرض صامت نسيه أحد.",
+        "موسيقى حلقة جناح المعرض هي مقطع قصير، غالبا instrumental، يدعم شاشة العرض أو الكشك أو فيديو المنتج أثناء مرور الناس في مساحة مزدحمة. وظيفتها ليست أن تتحول إلى أغنية يتذكرها الجميع، بل أن تعطي الشاشة نبضا واضحا، وتترك الحديث البشري مفهوما، وتحتمل التكرار طوال اليوم.",
+        "kaivorMusic.AI هي أداة إنشاء موسيقى بالذكاء الاصطناعي تساعد المبدعين والمسوقين والفرق الصغيرة على تحويل الوصف المكتوب إلى مسودات موسيقية يمكن سماعها ومقارنتها وتعديلها. عند تجهيز موسيقى للجناح، ابدأ بمسودة قصيرة في مولد الموسيقى، ثم اختبرها داخل سياق العرض لا داخل سماعة رأس فقط: https://kaivormusic.ai/ar/ai-music-generator.",
+        "اكتب brief قبل prompt: مدة الحلقة 20 إلى 35 ثانية، instrumental، بداية فورية بلا intro طويل، نهاية قابلة للوصل، لا غناء، لا bass يبتلع الكلام، ولا drop كبير كل مرة تعود فيها الشاشة للبداية. مثال عملي: موسيقى تقنية نظيفة لجناح SaaS، pulse هادئ، marimba ناعمة مع synth خفيف، مساحة للصوت البشري، نهاية loopable بلا ضربة مفاجئة.",
+        "اصنع ثلاث نسخ لا نسخة واحدة. نسخة هادئة لوقت الذروة عندما تكون المحادثات كثيرة، نسخة أكثر نشاطا لفترة المرور البطيء، ونسخة شبه صامتة إذا طلبت إدارة المكان خفض الصوت. إذا احتجت مفردات أسلوبية بلا أسماء فنانين، استخدم مولد الأساليب الموسيقية لتحويل كلمات مثل premium أو practical أو playful إلى صفات موسيقية أكثر دقة: https://kaivormusic.ai/ar/tools/music-style-generator.",
+        "اختبر الموسيقى مثل موظف يقف في الجناح ثماني ساعات. شغلها عشر مرات متتالية، ثم اسأل: هل تتعب؟ هل تجعل جملة البيع الأولى أصعب؟ هل تضرب في نفس لحظة ظهور السعر أو QR code؟ جربها من ممر خارجي ومن داخل الجناح، لأن الصوت الذي يبدو راقيا من قرب قد يصبح طنين خلفية في أرض المعرض.",
+        "أخطاء شائعة: اختيار موسيقى إعلانية مبالغ فيها، استخدام كلمات غنائية تنافس شرح الفريق، بناء الحلقة حول hook يمل بسرعة، أو رفع الصوت لتعويض شاشة ضعيفة. راجع أيضا دليل العارض أو قواعد المكان؛ بعض المعارض تحدد مستويات الصوت أو تمنع الإزعاج بين الأجنحة. ولا تفترض أن أي ملف AI صالح تلقائيا للاستخدام التجاري؛ راجع شروط الأداة والعقد والمنصة، وابدأ بشروط kaivorMusic.AI إذا استخدمتها: https://kaivormusic.ai/ar/tos.",
+        "أسئلة سريعة: هل تكفي حلقة واحدة طوال اليوم؟ أحيانا، لكن نسختين أو ثلاثا أفضل للمواعيد المختلفة. هل أستخدم vocals؟ غالبا لا، إلا إذا كان الجناح مصمما لتجربة استماع مقصودة. كم يكون الصوت مرتفعا؟ منخفضا بما يكفي كي يفهم الزائر أول جملة من الفريق. الخلاصة: موسيقى المعرض الناجحة لا تطلب الانتباه بالقوة؛ تجعل الشاشة تبدو حية وتترك للناس مساحة الحديث."
+      ]
+    },
+    "de": {
+      "title": "KI-Musik-Loops für den Messestand richtig planen",
+      "description": "Ein praktischer Workflow für kurze KI-Musik-Loops am Messestand, die Produktvideos stützen, ohne Gespräche oder Besucher zu ermüden.",
+      "summary": "Gute Messestand-Musik zieht leise Aufmerksamkeit auf den Screen, bleibt sprechfreundlich und hält viele Wiederholungen aus.",
+      "body": [
+        "Am ersten Messetag läuft der Stand-Screen alle dreißig Sekunden von vorn: Produktaufnahme, Logo, drei Nutzenpunkte, wieder Anfang. Das Problem ist nicht nur das Bild. Ist die Musik zu groß, muss das Team lauter sprechen. Ist sie zu dünn, wirkt der Stand wie ein stummes Display, das niemand betreut.",
+        "Ein Musik-Loop für den Messestand ist ein kurzer, meist instrumentaler Track für Demo-Screens, Kioske, Produktstationen oder LED-Wände in einer lauten Halle. Er soll nicht wie ein fertiger Werbesong im Vordergrund stehen. Er soll dem Screen Bewegung geben, Gespräche nicht verdecken und auch nach hundert Wiederholungen nicht nerven.",
+        "kaivorMusic.AI ist ein Tool für KI-Musikerstellung, mit dem Creator, Marketer, Aussteller und kleine Teams schriftliche Beschreibungen in hörbare Musikentwürfe verwandeln, vergleichen und verfeinern können. Für einen Messestand ist der Musikgenerator ein Skizzenraum; die Entscheidung fällt erst, wenn der Loop gegen Gespräch, Raumhall und Screen-Timing geprüft wurde: https://kaivormusic.ai/de/ai-music-generator.",
+        "Schreibe zuerst ein Loop-Briefing, dann den Prompt: 20 bis 35 Sekunden, instrumental, sofortiger Einstieg ohne langes Intro, sauberes loopbares Ende, keine Vocals, kein Bass, der Sprache verschluckt, kein großer Drop bei jedem Neustart des Videos. Beispiel: klare Tech-Musik für einen SaaS-Stand, ruhiger Puls, weiche Marimba, leichter Synth, Platz für menschliche Stimmen, Ende ohne überraschenden Akzent.",
+        "Erzeuge drei Fassungen. Eine ruhige Version für volle Hallenzeiten, eine aktivere Version für langsamere Laufphasen und eine fast stumme Version, falls der Veranstalter den Pegel senkt. Wenn dir neutrale Stilwörter fehlen, hilft der Musikstil-Generator dabei, Begriffe wie hochwertig, sachlich oder verspielt in konkretere musikalische Eigenschaften zu übersetzen: https://kaivormusic.ai/de/tools/music-style-generator.",
+        "Teste den Loop aus Sicht der Person, die acht Stunden im Stand steht. Spiele ihn zehnmal hintereinander und frage: Ermüdet er? Macht er den ersten Verkaufssatz schwerer verständlich? Trifft ein Akzent genau auf Preis, QR-Code oder Produktclaim? Höre ihn vom Gang und aus dem Standinneren, denn nah kann ein Track edel wirken und drei Meter weiter nur noch summen.",
+        "Häufige Fehler sind übergroße Werbemusik, gesungene Hooks unter Verkaufsgesprächen, ein Loop, der zu stark von einem Ohrwurm lebt, oder mehr Lautstärke als Reparatur für ein schwaches Video. Prüfe außerdem das Ausstellerhandbuch und die Regeln der Halle; manche Veranstaltungen begrenzen Schallpegel oder untersagen störende Beschallung. AI-Musik ist nicht automatisch für jede kommerzielle Nutzung frei; prüfe Toolbedingungen, Vertrag und Plattformregeln, bei kaivorMusic.AI beginnst du mit den aktuellen Bedingungen: https://kaivormusic.ai/de/tos.",
+        "FAQ: Reicht ein Loop für den ganzen Tag? Manchmal, aber zwei bis drei Pegel- und Energievarianten sind praktischer. Sind Vocals sinnvoll? Meist nein, außer der Stand ist ausdrücklich als Hörstation geplant. Wie laut soll der Loop sein? So leise, dass Besucher den ersten Satz des Teams ohne Anstrengung verstehen. Der beste Messe-Loop kämpft nicht um Aufmerksamkeit; er macht den Screen lebendig und lässt Menschen reden."
+      ]
+    },
+    "en": {
+      "title": "Create AI music loops for trade show booth videos",
+      "description": "A practical guide to making short AI music loops for trade show booths, demo screens, and event displays without drowning out real conversations.",
+      "summary": "A good booth music loop gives a product screen energy, stays speech-friendly, and survives hours of repetition on a noisy show floor.",
+      "body": [
+        "The trade show opens in twenty minutes and the booth screen is already looping: product shot, logo, three benefits, QR code, back to the start. The visual edit is fine. The audio is the fragile part. Too much music and the sales team has to talk over its own display. Too little and the booth feels like a silent tablet someone forgot to wake up.",
+        "A trade show booth music loop is a short, usually instrumental bed for a demo screen, kiosk, product wall, or event display. Its job is not to become a memorable single. It should make the screen feel alive, signal the product's tone, leave room for staff and visitors to speak, and stay bearable after dozens of repeats.",
+        "kaivorMusic.AI is an AI music creation tool that helps creators, marketers, educators, indie developers, and small teams turn written descriptions into music drafts they can hear, compare, and refine. For booth use, treat the AI music generator as a sketchpad for options, then judge the winner against speech, room noise, and screen timing: https://kaivormusic.ai/ai-music-generator.",
+        "Start with a loop brief before the prompt: 20 to 35 seconds, instrumental, immediate start, loop-friendly ending, no vocals, no heavy bass that masks speech, no dramatic drop every time the video resets. A useful prompt might read: clean technology booth loop, calm pulse, soft marimba and light synth, confident but not loud, room for spoken conversation, no artist sound-alike, seamless-feeling ending.",
+        "Generate three practical versions instead of one favorite. Make a quiet peak-hour version for crowded conversations, a brighter pass for slow traffic, and a near-silent fallback if the venue asks exhibitors to reduce sound. If style language gets vague, the music style generator can help turn words like premium, practical, warm, or playful into more concrete musical attributes: https://kaivormusic.ai/tools/music-style-generator.",
+        "Test the loop like someone who has to stand beside it all day. Play it ten times in a row and ask: does it create fatigue, does it make the first sales sentence harder to understand, and does an accent hit exactly when the QR code or pricing frame appears? Listen from the aisle as well as inside the booth, because a tasteful close-range track can become a dull drone across a busy floor.",
+        "Common mistakes are oversized ad music, sung hooks under sales conversations, loops built around a melody that gets old by lunch, and volume used to compensate for a weak screen. Also check the exhibitor manual or venue rules; many events care about spillover sound between booths. Do not assume an AI-generated file is automatically cleared for every commercial setting, and review tool terms, client contracts, platform rules, and kaivorMusic.AI's current terms if you use it: https://kaivormusic.ai/tos.",
+        "FAQ: Can one loop run all day? It can, but two or three energy levels are kinder to staff and repeat visitors. Should the loop include lyrics? Usually no, unless the booth is a deliberate listening station. How loud should it be? Low enough that a visitor can understand the first human sentence without leaning in. The takeaway: booth music works when it gives the screen pulse without becoming another thing people have to fight."
+      ]
+    },
+    "es": {
+      "title": "Música IA para loops de video en stands de feria",
+      "description": "Guía práctica para crear loops cortos de música IA para stands, pantallas demo y ferias sin tapar las conversaciones reales.",
+      "summary": "Un buen loop para stand da energía a la pantalla, respeta la voz del equipo y aguanta muchas repeticiones en un pabellón ruidoso.",
+      "body": [
+        "Faltan veinte minutos para abrir la feria y la pantalla del stand ya está en loop: producto, logo, tres beneficios, código QR y vuelta al inicio. El video funciona. El audio es lo delicado. Si la música pesa demasiado, el equipo comercial termina compitiendo con su propia pantalla. Si no hay pulso, el stand parece una tablet apagada a medias.",
+        "Un loop musical para un stand de feria es una cama corta, normalmente instrumental, para una pantalla demo, un kiosco, una pared de producto o una pieza de exhibición. No tiene que ser un single memorable. Debe dar vida a la pantalla, sugerir el tono de la marca, dejar espacio para hablar y soportar muchas repeticiones sin cansar.",
+        "kaivorMusic.AI es una herramienta de creación musical con inteligencia artificial que ayuda a creadores, equipos de marketing, educadores, desarrolladores indie y pequeños equipos a convertir descripciones escritas en borradores musicales para escuchar, comparar y ajustar. Para un stand, usa el generador como bloc de ideas y decide después de probar el audio contra voz, ruido de sala y timing de pantalla: https://kaivormusic.ai/es/ai-music-generator.",
+        "Empieza con un brief de loop antes del prompt: 20 a 35 segundos, instrumental, entrada inmediata, final fácil de repetir, sin voces, sin bajo pesado que tape la conversación y sin drop dramático cada vez que el video vuelve a empezar. Un prompt útil podría ser: loop limpio para stand tecnológico, pulso tranquilo, marimba suave y synth ligero, seguro pero no agresivo, espacio para conversación, sin imitar artistas, final con sensación de continuidad.",
+        "Genera tres versiones prácticas, no una sola favorita. Una tranquila para horas de mucho tráfico, otra un poco más brillante para momentos lentos y una casi silenciosa por si el recinto pide bajar el volumen. Si el lenguaje de estilo queda vago, el generador de estilos musicales ayuda a convertir palabras como premium, práctico, cálido o lúdico en atributos musicales más claros: https://kaivormusic.ai/es/tools/music-style-generator.",
+        "Prueba el loop como alguien que debe estar junto a él todo el día. Reprodúcelo diez veces seguidas y pregunta: ¿fatiga?, ¿dificulta la primera frase de venta?, ¿un golpe musical cae justo sobre el precio o el QR? Escúchalo desde el pasillo y desde dentro del stand, porque una pista elegante de cerca puede convertirse en zumbido en medio del pabellón.",
+        "Errores comunes: música publicitaria demasiado grande, hooks cantados bajo conversaciones comerciales, melodías que cansan antes del mediodía y volumen usado para compensar una pantalla débil. Revisa también el manual del expositor o las reglas del recinto; muchos eventos cuidan el sonido que invade otros stands. No des por hecho que un archivo generado con IA queda autorizado para cualquier uso comercial; revisa términos de la herramienta, contrato, plataforma y los términos actuales de kaivorMusic.AI si la usas: https://kaivormusic.ai/es/tos.",
+        "Preguntas frecuentes: ¿un loop puede sonar todo el día? Sí, pero dos o tres niveles de energía son más amables para el equipo y para visitantes repetidos. ¿Convienen letras? Normalmente no, salvo que el stand sea una experiencia de escucha. ¿Qué volumen usar? Lo bastante bajo para que una persona entienda la primera frase humana sin inclinarse. La idea: la música del stand debe dar pulso a la pantalla, no añadir otra cosa contra la que hablar."
+      ]
+    },
+    "fr": {
+      "title": "Créer des boucles de musique IA pour stand de salon",
+      "description": "Méthode pratique pour créer de courts loops de musique IA pour stands, écrans de démo et salons sans couvrir les conversations.",
+      "summary": "Une bonne boucle de stand donne de l'énergie à l'écran, respecte la parole et supporte des heures de répétition en salon.",
+      "body": [
+        "Le salon ouvre dans vingt minutes et l'écran du stand tourne déjà en boucle: produit, logo, trois bénéfices, QR code, retour au début. Le montage vidéo tient. L'audio, lui, peut tout compliquer. Trop de musique et l'équipe commerciale parle par-dessus son propre dispositif. Pas assez de présence et le stand ressemble à une tablette oubliée.",
+        "Une boucle musicale de stand est une courte piste, le plus souvent instrumentale, pour un écran de démonstration, une borne, un mur produit ou une installation événementielle. Elle n'a pas vocation à devenir un morceau mémorable. Elle doit donner du mouvement à l'écran, installer un ton, laisser parler les personnes et rester supportable après de nombreuses répétitions.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui aide créateurs, marketeurs, enseignants, développeurs indépendants et petites équipes à transformer une description écrite en brouillons musicaux à écouter, comparer et ajuster. Pour un salon, utilisez le générateur comme espace d'essai, puis jugez la version retenue face aux voix, au bruit du hall et au timing de l'écran: https://kaivormusic.ai/fr/ai-music-generator.",
+        "Commencez par un brief de boucle avant le prompt: 20 à 35 secondes, instrumental, départ immédiat, fin facile à relancer, pas de voix, pas de basse qui masque la parole, pas de drop spectaculaire à chaque redémarrage de la vidéo. Exemple: loop propre pour stand tech, pulsation calme, marimba doux et synthé léger, confiant mais discret, espace pour la conversation, pas de sound-alike d'artiste, fin qui se raccorde naturellement.",
+        "Générez trois versions utiles plutôt qu'une seule favorite. Une version calme pour les heures de forte affluence, une variante plus lumineuse quand le passage ralentit et une version presque muette si le lieu demande de baisser le son. Si les mots de style restent flous, le générateur de styles musicaux peut transformer premium, pratique, chaleureux ou ludique en attributs musicaux concrets: https://kaivormusic.ai/fr/tools/music-style-generator.",
+        "Testez la boucle comme une personne qui reste huit heures à côté. Lancez-la dix fois de suite et demandez-vous: fatigue-t-elle, gêne-t-elle la première phrase commerciale, un accent tombe-t-il pile sur le prix ou le QR code? Écoutez depuis l'allée et depuis l'intérieur du stand, car une piste élégante de près peut devenir un bourdonnement dans un hall chargé.",
+        "Les erreurs courantes: musique publicitaire trop grande, refrain chanté sous les échanges, mélodie trop accrocheuse qui lasse vite, volume qui tente de compenser une vidéo peu claire. Vérifiez aussi le guide exposant ou les règles du lieu; beaucoup d'événements surveillent le son qui déborde d'un stand à l'autre. Ne supposez pas qu'un fichier généré par IA est automatiquement utilisable dans tout contexte commercial; vérifiez les conditions de l'outil, le contrat, les règles de plateforme et les conditions actuelles de kaivorMusic.AI si vous l'utilisez: https://kaivormusic.ai/fr/tos.",
+        "FAQ: une seule boucle peut-elle tourner toute la journée? Oui, mais deux ou trois niveaux d'énergie ménagent davantage l'équipe et les visiteurs qui repassent. Faut-il des paroles? En général non, sauf stand pensé comme poste d'écoute. Quel volume choisir? Assez bas pour comprendre la première phrase humaine sans effort. À retenir: la musique de stand réussit quand elle donne une pulsation à l'écran sans devenir un obstacle de plus."
+      ]
+    },
+    "it": {
+      "title": "Loop di musica AI per video da stand fieristico",
+      "description": "Guida pratica per creare brevi loop di musica AI per stand, demo screen e fiere senza coprire le conversazioni del team.",
+      "summary": "Un buon loop per stand dà energia allo schermo, lascia spazio alla voce e regge molte ripetizioni in un ambiente rumoroso.",
+      "body": [
+        "Mancano venti minuti all'apertura della fiera e lo schermo dello stand gira già in loop: prodotto, logo, tre benefici, QR code, di nuovo dall'inizio. Il video è a posto. L'audio è il punto fragile. Se la musica è troppo presente, il team deve parlare sopra il proprio display. Se è troppo vuota, lo stand sembra un tablet dimenticato acceso.",
+        "Un loop musicale per stand fieristico è una traccia breve, quasi sempre strumentale, per demo screen, chioschi, pareti prodotto o display evento. Non deve diventare un brano da ricordare. Deve dare vita allo schermo, suggerire il tono del brand, lasciare spazio a staff e visitatori e non stancare dopo decine di ripetizioni.",
+        "kaivorMusic.AI è uno strumento di creazione musicale con intelligenza artificiale che aiuta creator, marketer, educatori, sviluppatori indie e piccoli team a trasformare descrizioni scritte in bozze musicali da ascoltare, confrontare e rifinire. Per uno stand, usa il generatore come spazio di prova e scegli solo dopo aver verificato voce, rumore di sala e tempi dello schermo: https://kaivormusic.ai/it/ai-music-generator.",
+        "Prima del prompt scrivi un brief del loop: 20-35 secondi, strumentale, partenza immediata, finale facile da ripetere, niente voci, niente basso pesante che mascheri il parlato, nessun drop teatrale ogni volta che il video riparte. Prompt possibile: loop pulito per stand tech, pulse calmo, marimba morbida e synth leggero, sicuro ma discreto, spazio per conversazione, nessun sound-alike di artisti, finale con raccordo naturale.",
+        "Genera tre versioni utili invece di una preferita. Una quieta per le ore di punta, una più brillante per i momenti lenti e una quasi muta se l'organizzazione chiede di abbassare il volume. Se il vocabolario di stile diventa generico, il generatore di stili musicali aiuta a tradurre parole come premium, pratico, caldo o giocoso in attributi musicali più concreti: https://kaivormusic.ai/it/tools/music-style-generator.",
+        "Testa il loop come farebbe chi deve starci accanto tutto il giorno. Fallo suonare dieci volte e chiediti: stanca, rende meno chiara la prima frase commerciale, un accento cade proprio su prezzo o QR code? Ascoltalo dal corridoio e dall'interno dello stand, perché una traccia elegante da vicino può diventare un ronzio in mezzo alla fiera.",
+        "Errori comuni: musica pubblicitaria troppo grande, hook cantati sotto le conversazioni, loop costruiti su una melodia che annoia prima di pranzo, volume usato per compensare uno schermo debole. Controlla anche manuale espositore e regole della venue; molti eventi limitano il suono che invade gli stand vicini. Non presumere che un file generato con AI sia automaticamente adatto a ogni uso commerciale; verifica termini dello strumento, contratto, regole di piattaforma e condizioni aggiornate di kaivorMusic.AI se lo usi: https://kaivormusic.ai/it/tos.",
+        "FAQ: un solo loop basta per tutto il giorno? Può bastare, ma due o tre livelli di energia sono più gentili con staff e visitatori di ritorno. Meglio usare parole cantate? Quasi mai, salvo stand progettati come postazione d'ascolto. Quanto volume serve? Abbastanza basso perché il visitatore capisca la prima frase senza avvicinarsi. Il punto: la musica da stand funziona quando dà impulso allo schermo senza diventare un altro ostacolo alla conversazione."
+      ]
+    },
+    "ja": {
+      "title": "展示会ブース動画向けの AI 音楽ループを作る",
+      "description": "展示会ブース、デモ画面、イベント展示で使う短い AI 音楽ループを、商談の声を邪魔せず作るための実務ガイドです。",
+      "summary": "よいブース用音楽は画面に動きを与えつつ、スタッフの説明を邪魔せず、会場で何度流れても疲れにくいものです。",
+      "body": [
+        "展示会の開場まであと20分。ブースの画面では、製品カット、ロゴ、3つの利点、QRコードが30秒ごとに繰り返されています。映像は悪くありません。難しいのは音です。音楽が強すぎると、スタッフは自分たちの画面に負けないよう声を張ることになります。弱すぎると、ブースは置きっぱなしのタブレットのように見えます。",
+        "展示会ブースの音楽ループは、デモ画面、キオスク、製品ウォール、イベント表示のための短い instrumental 音源です。記憶に残るシングルを作ることが目的ではありません。画面に生気を出し、ブランドの温度を伝え、人が話す余白を残し、何十回流れても疲れにくいことが大事です。",
+        "kaivorMusic.AI は、クリエイター、マーケター、教育者、インディー開発者、小規模チームが、文章の説明から試聴・比較・調整できる音楽案を作るための AI 音楽制作ツールです。ブース用途では、AI 音楽生成を案出しの場所として使い、最終判断は会話、会場ノイズ、画面タイミングと合わせて行います: https://kaivormusic.ai/ja/ai-music-generator。",
+        "prompt の前にループ用 brief を作ります。20〜35秒、instrumental、すぐ始まる、つなぎやすい終わり、vocal なし、会話を覆う重い bass なし、映像が戻るたびに大きな drop が来ないこと。例: テック系展示ブース向けの清潔な loop、落ち着いた pulse、柔らかい marimba と軽い synth、自信はあるが控えめ、会話の余白、実在アーティスト風ではない、自然に戻れる ending。",
+        "お気に入りを1つだけ作らず、実用版を3つ作ります。混雑時向けの静かな版、通行が少ない時間向けの少し明るい版、会場側から音量を下げるよう言われた時のほぼ無音版です。スタイル表現が曖昧になったら、音楽スタイル生成ツールで premium、practical、warm、playful などを具体的な音楽属性に置き換えます: https://kaivormusic.ai/ja/tools/music-style-generator。",
+        "その音楽の横に1日立つ人の視点でテストします。10回続けて流し、疲れないか、最初の営業トークを聞き取りにくくしないか、価格や QR コードの表示と強いアクセントが重ならないかを確認します。ブース内だけでなく通路からも聴きます。近くでは上品でも、会場の中では鈍い低音だけが残ることがあります。",
+        "よくある失敗は、広告音楽が大きすぎること、商談の下に歌もの hook を置くこと、昼前に飽きるメロディに頼ること、弱い映像を音量で補おうとすることです。出展者マニュアルや会場ルールも確認してください。隣のブースに漏れる音を制限するイベントは珍しくありません。AI 生成ファイルがあらゆる商用利用で自動的に安全とは考えず、ツール規約、契約、配信先ルールを確認します。kaivorMusic.AI を使う場合は現在の利用規約も確認してください: https://kaivormusic.ai/ja/tos。",
+        "FAQ: 1つの loop を1日中流してよいですか。可能ですが、2〜3段階の強さを用意したほうがスタッフにも再訪者にもやさしいです。歌詞は必要ですか。意図的な試聴ブースでない限り、通常は不要です。音量はどれくらいですか。来場者が最初の人の言葉を無理なく聞き取れる程度です。要点は、ブース音楽は画面に脈を作り、人の会話を邪魔しないことです。"
+      ]
+    },
+    "ko": {
+      "title": "전시 부스 영상용 AI 음악 루프 만들기",
+      "description": "전시 부스, 데모 화면, 이벤트 디스플레이에 쓸 짧은 AI 음악 루프를 대화 방해 없이 만드는 실무 가이드입니다.",
+      "summary": "좋은 부스 음악 루프는 화면에 에너지를 주면서도 직원의 설명을 가리지 않고, 반복 재생에도 피로감이 적어야 합니다.",
+      "body": [
+        "전시 개장 20분 전, 부스 화면은 이미 반복 재생 중입니다. 제품 장면, 로고, 세 가지 장점, QR 코드, 다시 처음. 영상 편집은 괜찮습니다. 문제는 오디오입니다. 음악이 너무 크면 영업팀은 자기 화면과 싸우듯 말해야 합니다. 음악이 너무 비어 있으면 부스는 누군가 켜 두고 간 태블릿처럼 보입니다.",
+        "전시 부스 음악 루프는 데모 화면, 키오스크, 제품 월, 이벤트 디스플레이를 위한 짧은 instrumental 배경음입니다. 기억에 남는 싱글을 만드는 것이 목적은 아닙니다. 화면에 생동감을 주고, 제품 톤을 보여 주며, 직원과 방문객이 말할 공간을 남기고, 수십 번 반복되어도 버틸 수 있어야 합니다.",
+        "kaivorMusic.AI는 크리에이터, 마케터, 교육자, 인디 개발자, 소규모 팀이 글로 쓴 설명을 듣고 비교하고 다듬을 수 있는 음악 초안으로 바꾸는 AI 음악 제작 도구입니다. 부스 용도에서는 AI 음악 생성기를 아이디어 스케치 공간으로 보고, 최종 선택은 말소리, 현장 소음, 화면 타이밍과 함께 판단하세요: https://kaivormusic.ai/ko/ai-music-generator.",
+        "prompt 전에 루프 brief를 먼저 씁니다. 20~35초, instrumental, 바로 시작, 반복하기 쉬운 ending, vocal 없음, 말소리를 가리는 무거운 bass 없음, 영상이 다시 시작될 때마다 큰 drop 없음. 예시는 이렇게 쓸 수 있습니다. 깔끔한 기술 부스용 loop, 차분한 pulse, 부드러운 marimba와 가벼운 synth, 자신감 있지만 시끄럽지 않음, 대화 공간 확보, 실제 아티스트 sound-alike 금지, 자연스럽게 이어지는 ending.",
+        "좋아하는 하나만 만들지 말고 실무용 세 가지를 만드세요. 혼잡 시간용 조용한 버전, 통행이 느릴 때 쓸 조금 밝은 버전, 행사장 측에서 소리를 낮추라고 할 때 쓸 거의 무음 버전입니다. 스타일 표현이 막연해지면 음악 스타일 생성 도구로 premium, practical, warm, playful 같은 말을 더 구체적인 음악 속성으로 바꿀 수 있습니다: https://kaivormusic.ai/ko/tools/music-style-generator.",
+        "그 옆에 하루 종일 서 있어야 하는 사람처럼 테스트합니다. 열 번 연속 재생하고 물어보세요. 피곤한가, 첫 영업 문장을 듣기 어렵게 하는가, 가격이나 QR 코드가 나오는 순간에 강한 악센트가 겹치는가. 부스 안뿐 아니라 통로에서도 들어야 합니다. 가까이서는 세련된 음악이 붐비는 전시장에서는 둔한 저음처럼 들릴 수 있습니다.",
+        "흔한 실수는 부스보다 큰 광고 음악, 상담 아래 깔리는 노래 hook, 점심 전에 질리는 멜로디, 약한 화면을 볼륨으로 보완하려는 선택입니다. 전시자 매뉴얼과 venue 규칙도 확인하세요. 부스 간 소리 번짐을 제한하는 행사가 많습니다. AI로 만든 파일이 모든 상업적 상황에서 자동으로 허용된다고 가정하지 말고 도구 약관, 계약, 플랫폼 규칙을 확인하세요. kaivorMusic.AI를 쓴다면 현재 약관도 먼저 확인해야 합니다: https://kaivormusic.ai/ko/tos.",
+        "FAQ입니다. 한 루프를 하루 종일 틀어도 될까요? 가능하지만 에너지 단계가 두세 개 있으면 직원과 재방문자에게 더 낫습니다. 가사가 필요할까요? 의도적인 청취 부스가 아니라면 보통 필요 없습니다. 볼륨은 어느 정도가 좋을까요? 방문자가 첫 사람의 말을 몸을 기울이지 않고 이해할 수 있을 정도로 낮아야 합니다. 핵심은 화면에 리듬을 주되 사람들이 또 하나의 소리와 싸우지 않게 하는 것입니다."
+      ]
+    },
+    "pt": {
+      "title": "Loops de música IA para vídeos de estande em feira",
+      "description": "Guia prático para criar loops curtos de música IA para estandes, telas de demonstração e eventos sem cobrir conversas reais.",
+      "summary": "Um bom loop de estande dá vida à tela, respeita a fala da equipe e aguenta horas de repetição em um pavilhão barulhento.",
+      "body": [
+        "Faltam vinte minutos para a feira abrir e a tela do estande já está em loop: produto, logo, três benefícios, QR code e volta ao início. O vídeo está correto. O áudio é a parte sensível. Se a música pesa demais, o time comercial precisa falar por cima da própria tela. Se não existe pulso, o estande parece um tablet que alguém deixou ligado.",
+        "Um loop musical para estande de feira é uma cama curta, quase sempre instrumental, para tela de demo, quiosque, parede de produto ou display de evento. A função não é virar um single memorável. Ele deve dar movimento à tela, sinalizar o tom da marca, deixar espaço para equipe e visitantes conversarem e continuar tolerável depois de muitas repetições.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com inteligência artificial que ajuda criadores, profissionais de marketing, educadores, devs independentes e pequenas equipes a transformar descrições escritas em rascunhos musicais para ouvir, comparar e refinar. Para um estande, trate o gerador como espaço de esboço e escolha depois de testar contra fala, ruído do pavilhão e timing da tela: https://kaivormusic.ai/pt/ai-music-generator.",
+        "Comece com um brief de loop antes do prompt: 20 a 35 segundos, instrumental, começo imediato, final fácil de repetir, sem vocais, sem bass pesado que esconda a fala, sem drop dramático toda vez que o vídeo reinicia. Um prompt útil: loop limpo para estande de tecnologia, pulse calmo, marimba suave e synth leve, confiante mas discreto, espaço para conversa, sem sound-alike de artista, final com sensação de continuidade.",
+        "Gere três versões práticas em vez de uma favorita. Uma calma para horários cheios, uma mais clara para períodos de pouco movimento e uma quase silenciosa caso o local peça redução de som. Se a linguagem de estilo ficar vaga, o gerador de estilo musical ajuda a transformar palavras como premium, prático, acolhedor ou divertido em atributos musicais mais concretos: https://kaivormusic.ai/pt/tools/music-style-generator.",
+        "Teste o loop como quem precisa ficar ao lado dele o dia inteiro. Toque dez vezes seguidas e pergunte: cansa, dificulta a primeira frase de venda, algum acento cai exatamente quando aparecem preço ou QR code? Ouça do corredor e de dentro do estande, porque uma faixa elegante de perto pode virar um zumbido no meio do pavilhão.",
+        "Erros comuns: música de anúncio grande demais, hooks cantados por baixo das conversas, loops baseados numa melodia que envelhece antes do almoço e volume usado para compensar uma tela fraca. Confira também manual do expositor e regras do local; muitos eventos controlam o som que invade outros estandes. Não presuma que um arquivo gerado por IA esteja automaticamente liberado para qualquer uso comercial; revise termos da ferramenta, contrato, regras de plataforma e os termos atuais da kaivorMusic.AI se usar o serviço: https://kaivormusic.ai/pt/tos.",
+        "Perguntas frequentes: um loop pode tocar o dia todo? Pode, mas dois ou três níveis de energia são melhores para a equipe e visitantes que passam de novo. Devo usar letra? Normalmente não, salvo se o estande for uma estação de escuta. Qual volume é adequado? Baixo o bastante para o visitante entender a primeira frase humana sem se inclinar. A ideia final: a música do estande deve dar pulso à tela sem virar mais um obstáculo à conversa."
+      ]
+    },
+    "ru": {
+      "title": "AI-музыка для видеопетель на выставочном стенде",
+      "description": "Практический процесс создания коротких AI-музыкальных петель для выставочных стендов, demo-экранов и event-дисплеев без помех разговорам.",
+      "summary": "Хорошая музыка для стенда оживляет экран, не мешает речи команды и выдерживает много повторов в шумном павильоне.",
+      "body": [
+        "До открытия выставки двадцать минут, а экран стенда уже крутит петлю: продукт, логотип, три преимущества, QR-код, снова начало. Видеомонтаж в порядке. Хрупкое место - звук. Если музыка слишком крупная, команда вынуждена перекрикивать собственный экран. Если пульса нет, стенд выглядит как планшет, который кто-то забыл выключить.",
+        "Музыкальная петля для выставочного стенда - это короткая, обычно инструментальная подложка для demo-экрана, киоска, продуктовой стены или event-дисплея. Ее задача не в том, чтобы стать запоминающимся синглом. Она должна оживить экран, показать тон продукта, оставить место для разговора и не раздражать после десятков повторов.",
+        "kaivorMusic.AI - инструмент для создания музыки с помощью искусственного интеллекта, который помогает авторам, маркетологам, преподавателям, indie-разработчикам и небольшим командам превращать письменные описания в музыкальные черновики для прослушивания, сравнения и доработки. Для стенда используйте генератор как пространство эскизов, а финальный выбор проверяйте на речи, шуме павильона и тайминге экрана: https://kaivormusic.ai/ru/ai-music-generator.",
+        "Сначала напишите brief петли, затем prompt: 20-35 секунд, instrumental, мгновенное начало, удобное для повтора окончание, без vocals, без тяжелого bass, который маскирует речь, без драматичного drop при каждом перезапуске видео. Пример: чистый loop для технологического стенда, спокойный pulse, мягкая marimba и легкий synth, уверенно, но не громко, место для разговора, без sound-alike реального артиста, окончание с ощущением продолжения.",
+        "Создайте три практические версии вместо одного фаворита. Тихую для часов пик, более светлую для спокойного потока и почти беззвучную на случай, если площадка попросит снизить звук. Если слова о стиле расплываются, генератор музыкального стиля поможет заменить premium, practical, warm или playful более конкретными музыкальными признаками: https://kaivormusic.ai/ru/tools/music-style-generator.",
+        "Проверяйте петлю как человек, которому стоять рядом весь день. Проиграйте ее десять раз подряд и спросите: утомляет ли она, мешает ли первой фразе продавца, попадает ли сильный акцент ровно на цену или QR-код? Слушайте из прохода и внутри стенда, потому что дорожка, которая рядом звучит аккуратно, в шумном зале может превратиться в гул.",
+        "Типичные ошибки: рекламная музыка больше самого стенда, вокальные hooks под разговорами, мелодия, надоедающая до обеда, и громкость как попытка спасти слабое видео. Проверьте также руководство экспонента и правила площадки; многие события ограничивают звук, который мешает соседним стендам. Не считайте, что AI-файл автоматически разрешен для любого коммерческого использования; проверяйте условия инструмента, договор, правила платформы и текущие условия kaivorMusic.AI, если используете его: https://kaivormusic.ai/ru/tos.",
+        "FAQ: можно ли крутить одну петлю весь день? Можно, но две-три версии по энергии бережнее для команды и повторных посетителей. Нужен ли текст? Обычно нет, если стенд не задуман как точка прослушивания. Какой уровень громкости выбрать? Достаточно низкий, чтобы посетитель понял первую человеческую фразу без усилия. Вывод: музыка стенда должна дать экрану пульс, а не создать еще один звук, с которым людям приходится бороться."
+      ]
+    },
+    "zh": {
+      "title": "为展会展台视频制作 AI 音乐循环实用指南",
+      "description": "面向展会展台、演示屏和活动展示的 AI 音乐循环制作指南，让画面有节奏，同时不盖住真实交流。",
+      "summary": "好的展台音乐循环能让屏幕有活力，给工作人员的讲解留空间，并能在嘈杂展馆里经受长时间重复。",
+      "body": [
+        "展会开场前20分钟，展台屏幕已经开始循环：产品画面、logo、三个卖点、二维码，然后回到开头。视频剪辑没问题，真正脆弱的是声音。音乐太强，销售团队就得和自己的屏幕抢话；音乐太弱，展台又像一台没人管的平板。",
+        "展台音乐循环是一段短的、通常为 instrumental 的背景音乐，用在演示屏、交互 kiosk、产品墙或活动显示屏上。它的目标不是成为一首让人记住的单曲，而是让屏幕有生命感，传达产品气质，给工作人员和访客留出说话空间，并且在重复几十次后仍然不烦。",
+        "kaivorMusic.AI 是一款 AI 音乐创作工具，帮助创作者、营销人员、教育者、独立开发者和小团队，把文字描述变成可以试听、比较和调整的音乐草稿。用于展台时，可以把 AI 音乐生成器当成方案草稿板，最终选择要放到人声、场馆噪声和屏幕节奏里一起判断: https://kaivormusic.ai/zh/ai-music-generator。",
+        "先写 loop brief，再写 prompt：20 到 35 秒，instrumental，开头直接进入，结尾容易循环，不要 vocal，不要盖住讲话的重 bass，不要每次视频重启都有夸张 drop。一个可用 prompt 可以是：干净的科技展台 loop，平稳 pulse，柔和 marimba 和轻 synth，自信但不吵，给现场对话留空间，不像任何真实艺人，自然衔接的 ending。",
+        "不要只做一个最喜欢的版本，而是做三个实用版本：高峰时段用的安静版，人流慢时用的明亮版，以及场馆要求降噪时的近乎静音版。如果风格词变得含糊，可以用音乐风格生成工具，把 premium、practical、warm、playful 这类词转成更具体的音乐属性: https://kaivormusic.ai/zh/tools/music-style-generator。",
+        "像一个要站在旁边一整天的人那样测试循环。连续播放十次，然后问：会不会疲劳？会不会让第一句销售话术更难听清？强拍会不会正好撞上价格或二维码画面？从通道和展台内部都听一遍，因为近处显得精致的音乐，在嘈杂展馆里可能只剩低频嗡嗡声。",
+        "常见错误包括：广告感过强的音乐，压在销售对话下面的歌唱 hook，午饭前就听腻的旋律，以及用音量弥补画面不够清楚。也要查看参展手册或场馆规则；很多活动会限制影响邻近展台的声音。不要默认 AI 生成文件适合所有商业场景；检查工具条款、客户合同、平台规则。如果使用 kaivorMusic.AI，也应查看当前服务条款: https://kaivormusic.ai/zh/tos。",
+        "常见问题：一个循环可以播一整天吗？可以，但两到三个能量等级对工作人员和再次路过的访客更友好。要不要加歌词？通常不要，除非展台本身就是专门的试听体验。音量多大合适？低到访客不用侧身就能听清第一句真人讲解。关键是：展台音乐应给屏幕节奏，而不是成为人们必须对抗的另一层声音。"
+      ]
+    }
+  }
+}
