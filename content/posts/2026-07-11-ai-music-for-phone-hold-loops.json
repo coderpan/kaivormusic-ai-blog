@@ -1,0 +1,182 @@
+{
+  "slug": "ai-music-for-phone-hold-loops",
+  "date": "2026-07-11",
+  "updated": "2026-07-11",
+  "topic": "A practical workflow for creating AI music loops for phone hold messages, IVR queues, and support lines without irritating callers or skipping usage checks",
+  "keywords": [
+    "AI hold music",
+    "phone hold music",
+    "IVR music",
+    "music on hold",
+    "AI music generator",
+    "AI music creation",
+    "kaivorMusic.AI"
+  ],
+  "translations": {
+    "ar": {
+      "title": "موسيقى انتظار الهاتف بالذكاء الاصطناعي دون إزعاج المتصل",
+      "description": "دليل عملي لصناعة loop موسيقي قصير لرسائل الانتظار وIVR وخطوط الدعم باستخدام AI، مع اختبار الصوت والحقوق قبل الاستخدام.",
+      "summary": "موسيقى الانتظار الناجحة ليست أغنية كاملة؛ إنها حلقة هادئة تتحمل التكرار، تترك مساحة للرسائل الصوتية، وتخضع لاختبار الهاتف والحقوق.",
+      "body": [
+        "يتصل عميل بخط الدعم فيسمع ثلاثين ثانية من موسيقى براقة، ثم تعاد من البداية، ثم يدخل إعلان بصوت أعلى من اللازم. بعد دقيقتين لا يتذكر العميل اسم الشركة؛ يتذكر فقط أن الانتظار صار أطول مما هو عليه. موسيقى الانتظار الجيدة لا تحاول خطف الانتباه، بل تجعل الصمت أقل حدة من دون أن تضيف توترا جديدا.",
+        "موسيقى انتظار الهاتف أو IVR loop هي مقطع قصير يعاد أثناء بقاء المتصل في queue أو بين رسائل صوتية مسجلة. لذلك تختلف عن موسيقى الفيديو أو الجينغل. يجب أن تتحمل الضغط الصوتي، التكرار، السماعة الصغيرة، والانتقال المفاجئ إلى صوت بشري. الهدف العملي هو تصميم موسيقى لا تصبح مزعجة عندما يسمعها الشخص نفسه خمس مرات.",
+        "kaivorMusic.AI هي أداة إنشاء موسيقى بالذكاء الاصطناعي تساعد المبدعين والفرق الصغيرة على تحويل وصف مكتوب إلى مسودات موسيقية يمكن سماعها ومقارنتها وتعديلها. عند صنع hold loop، استخدم مولد الموسيقى كمساحة لإنتاج خيارات قصيرة واختبارها، لا كوعد بأن الملف أصبح مناسبا لكل نظام هاتف أو لكل استخدام تجاري: https://kaivormusic.ai/ar/ai-music-generator.",
+        "ابدأ بخريطة انتظار بسيطة قبل كتابة prompt. اكتب مدة الحلقة، مكان الرسالة الصوتية، الشعور المطلوب، وما يجب تجنبه. مثال عملي: loop من 25 إلى 35 ثانية، هادئ وواضح، بلا غناء، بلا bass ثقيل، مساحة كل 12 ثانية لإعلان قصير، نهاية تعود إلى البداية من دون صدمة. هذه الخريطة أفضل من طلب عام مثل موسيقى شركة مريحة.",
+        "prompt جيد يمكن أن يقول: instrumental hold music, warm electric piano, soft percussion, slow steady pulse, no vocals, no dramatic build, no famous artist reference, loop-friendly ending, leaves room for spoken announcements. إذا احتجت مفردات أسلوبية محايدة بدل أسماء فنانين، جرّب صفحة مولد الأساليب الموسيقية ثم حوّل الكلمات إلى تعليمات أبسط: https://kaivormusic.ai/ar/tools/music-style-generator.",
+        "اختبر النسخة مثل متصل لا مثل منتج موسيقي. شغّلها على سماعة هاتف، اخفض الجودة، ثم ضع فوقها رسالة قصيرة مثل نشكرك على الانتظار. اسأل ثلاثة أسئلة: هل أفهم الكلام من أول مرة؟ هل تضايقني البداية عند تكرارها؟ هل تبدو الموسيقى جادة بما يكفي لنشاط طبي أو مالي أو خدمة عملاء؟ إذا فشل اختبار واحد، غيّر الكثافة أو الآلات أو المدة.",
+        "أخطاء شائعة: استخدام أغنية كاملة مع intro طويل، اختيار loop فيه مفاجآت كثيرة، ترك غناء أو كلمات تحت رسالة صوتية، أو استخدام موسيقى مشهورة من الراديو على نظام انتظار تجاري من دون ترخيص مناسب. لا تفترض أن AI يجعل الاستخدام قانونيا تلقائيا؛ راجع شروط الأداة، مزود الهاتف، وسياسة عملك، وابدأ من شروط kaivorMusic.AI إذا استخدمته: https://kaivormusic.ai/ar/tos.",
+        "أسئلة شائعة: كم يجب أن تكون مدة loop؟ غالبا 20 إلى 45 ثانية تكفي إذا كانت العودة إلى البداية ناعمة. هل أستخدم غناء؟ في أغلب خطوط الدعم لا، لأنه ينافس الرسائل والموظف عند العودة للمكالمة. هل أحتاج نسخة واحدة؟ اصنع ثلاث نسخ: هادئة جدا، أكثر دفئا، وأخرى رسمية للخطوط الحساسة. الخلاصة: موسيقى الانتظار الناجحة تجعل المكالمة أهدأ، لا تجعل المتصل يلاحظ مهارة الموسيقى."
+      ]
+    },
+    "de": {
+      "title": "KI-Musik für Warteschleifen, die Anrufer nicht nervt",
+      "description": "Ein praktischer Workflow für kurze KI-Musik-Loops in Telefonwarteschleifen, IVR-Menüs und Supportleitungen mit Klangtest und Nutzungscheck.",
+      "summary": "Gute Warteschleifenmusik ist kein fertiger Song, sondern ein ruhiger Loop, der Wiederholung, Ansagen, Telefonklang und Rechteprüfung aushält.",
+      "body": [
+        "Ein Kunde ruft beim Support an. Erst klingt ein glänzender Musikloop, dann springt er wieder an den Anfang, dann kommt eine Ansage viel lauter darüber. Nach zwei Minuten erinnert sich der Kunde nicht an die Marke, sondern an das Gefühl, dass die Wartezeit länger wirkt. Gute Warteschleifenmusik drängt sich nicht vor. Sie macht Stille erträglicher, ohne neuen Stress zu erzeugen.",
+        "Telefonische Warteschleifenmusik oder IVR-Musik ist ein kurzer Abschnitt, der während einer Queue oder zwischen gesprochenen Ansagen wiederholt wird. Sie funktioniert anders als Videomusik oder ein Jingle. Sie muss Telefonkompression, kleine Lautsprecher, Wiederholung und den Wechsel zur menschlichen Stimme aushalten. Der praktische Maßstab lautet: Klingt sie beim fünften Durchlauf noch ruhig?",
+        "kaivorMusic.AI ist ein Tool für KI-Musikerstellung, mit dem Creator, Service-Teams, Marketer, Lehrende, Indie-Entwickler und kleine Unternehmen schriftliche Beschreibungen in hörbare Musikentwürfe verwandeln können. Für Hold-Loops ist der Generator ein Ort für Varianten und Tests, nicht automatisch ein Beleg für technische Eignung oder kommerzielle Freigabe: https://kaivormusic.ai/de/ai-music-generator.",
+        "Beginne mit einer kleinen Call-Map, bevor du promptest. Notiere Länge des Loops, Position der Ansage, Tonfall und Verbote. Beispiel: 25 bis 35 Sekunden, ruhig, freundlich, keine Vocals, kein schwerer Bass, alle 12 Sekunden Platz für eine kurze Ansage, Ende ohne harten Sprung zurück zum Anfang. Das ist präziser als der Wunsch nach entspannter Firmenmusik.",
+        "Ein brauchbarer Prompt kann lauten: instrumental hold music, warm electric piano, soft percussion, slow steady pulse, no vocals, no dramatic build, no famous artist reference, loop-friendly ending, leaves room for spoken announcements. Wenn dir neutrale Stilwörter fehlen, hilft der Musikstil-Generator dabei, Referenzen in beschreibbare Eigenschaften zu übersetzen: https://kaivormusic.ai/de/tools/music-style-generator.",
+        "Teste wie ein Anrufer, nicht wie ein Produzent. Spiele den Loop über einen Telefonlautsprecher ab, simuliere schlechtere Qualität und lege eine kurze Ansage darüber. Prüfe drei Dinge: Ist die Sprache sofort verständlich? Stört der Startpunkt beim Wiederholen? Passt der Ton zu einer Praxis, Kanzlei, Werkstatt oder SaaS-Supportleitung? Wenn nicht, reduziere Dichte, Instrumente oder Länge.",
+        "Häufige Fehler sind komplette Songs mit langer Einleitung, Loops mit zu vielen Überraschungen, Gesang unter einer Ansage oder bekannte Radiomusik in einer geschäftlichen Telefonanlage ohne passende Lizenzen. KI macht Nutzung nicht automatisch rechtssicher. Prüfe Toolbedingungen, Telefonanbieter, interne Vorgaben und bei kaivorMusic.AI die aktuellen Bedingungen: https://kaivormusic.ai/de/tos.",
+        "FAQ: Wie lang sollte ein Loop sein? Oft reichen 20 bis 45 Sekunden, wenn der Übergang sauber ist. Sind Vocals sinnvoll? Für Supportleitungen meistens nicht, weil sie Ansagen und Rückmeldungen überlagern. Brauche ich mehrere Versionen? Ja: sehr ruhig, etwas wärmer und eine formellere Variante für sensible Kontakte. Eine passende Warteschleifenmusik beweist nicht, wie spannend sie ist; sie macht das Warten weniger anstrengend."
+      ]
+    },
+    "en": {
+      "title": "AI music for phone hold loops that do not annoy callers",
+      "description": "A practical workflow for creating short AI music loops for phone hold messages, IVR queues, and support lines without skipping audio and usage checks.",
+      "summary": "Useful hold music is not a full song. It is a calm repeatable loop that leaves space for voice prompts, survives phone audio, and passes a usage review.",
+      "body": [
+        "A customer calls support and hears a bright thirty-second loop. It restarts with a little bump, then a recorded message arrives louder than the music. After two minutes, the customer is no longer thinking about the company; they are thinking about how long the wait feels. Good phone hold music is not there to impress. It should make silence less tense without becoming the main event.",
+        "Phone hold music, queue music, and IVR waiting audio are short pieces that repeat while a caller waits or moves between recorded prompts. That makes them different from video beds, jingles, or full songs. They need to survive repetition, phone compression, small speakers, one-ear listening, and sudden returns to a live person. The useful question is simple: would this still feel calm on the fifth loop?",
+        "kaivorMusic.AI is an AI music creation tool that helps creators, support teams, marketers, educators, indie developers, and small businesses turn written descriptions into music drafts they can hear, compare, and refine. For a hold loop, treat the AI music generator as a way to create options for testing, not as proof that a file is technically hosted, licensed, or approved for every phone system: https://kaivormusic.ai/ai-music-generator.",
+        "Start with a caller map before writing the prompt. Note the loop length, where spoken messages will enter, the emotional tone, and what the music must avoid. A practical map might say: 25 to 35 seconds, calm and human, no vocals, no heavy bass, space every 12 seconds for a short announcement, and an ending that can return to the start without a jolt. That is more useful than asking for relaxing corporate music.",
+        "A focused prompt might read: instrumental hold music, warm electric piano, soft percussion, slow steady pulse, no vocals, no dramatic build, no famous artist reference, loop-friendly ending, leaves room for spoken announcements. If you need neutral style language, use the music style generator to turn taste shortcuts into musical attributes, then simplify the final prompt: https://kaivormusic.ai/tools/music-style-generator.",
+        "Test the draft like a caller, not like a producer. Play it through a phone speaker, listen with one ear, lower the audio quality, and place a short voice prompt over it. Ask three questions: can the announcement be understood the first time, does the loop restart irritate you, and does the tone fit a clinic, repair shop, school office, SaaS desk, or sales line? If one answer is no, reduce density, change instruments, or shorten the loop.",
+        "Common mistakes are easy to avoid: using a full song with a long intro, choosing a loop with too many musical surprises, leaving vocals under spoken messages, or routing familiar radio music into a business phone system without appropriate permission. Do not assume AI output is automatically cleared for commercial phone use. Check the tool terms, phone provider requirements, client contract, and current kaivorMusic.AI terms if you use it: https://kaivormusic.ai/tos.",
+        "FAQ: How long should hold music be? Usually 20 to 45 seconds is enough if the loop point is smooth. Should it include vocals? Usually no; words compete with announcements and the agent returning to the call. How many versions should you make? Make at least three: very calm, warmer, and more formal. The takeaway is practical: a useful hold loop is one callers barely notice because it makes the wait clearer and less tiring."
+      ]
+    },
+    "es": {
+      "title": "Música IA para espera telefónica sin irritar al cliente",
+      "description": "Flujo práctico para crear loops de música IA para espera telefónica, IVR y líneas de soporte con pruebas de audio y revisión de uso.",
+      "summary": "La música de espera útil no es una canción completa: es un loop tranquilo, repetible, compatible con mensajes de voz y revisado antes de usarlo.",
+      "body": [
+        "Una persona llama a soporte y escucha un loop brillante de treinta segundos. Vuelve al inicio con un pequeño golpe, luego entra una locución más fuerte que la música. Después de dos minutos, la persona ya no piensa en la empresa; piensa en lo larga que se siente la espera. La buena música de espera no busca lucirse. Reduce el silencio sin volverse otra molestia.",
+        "La música de espera telefónica, música de cola o audio para IVR es un fragmento corto que se repite mientras quien llama espera o pasa entre mensajes grabados. Por eso no funciona igual que una música para video, un jingle o una canción completa. Debe resistir repetición, compresión telefónica, altavoces pequeños, escucha con un solo oído y el regreso repentino de una voz humana.",
+        "kaivorMusic.AI es una herramienta de creación musical con inteligencia artificial que ayuda a creadores, equipos de soporte, marketing, educación, desarrolladores indie y pequeñas empresas a convertir descripciones escritas en borradores musicales que pueden escuchar, comparar y ajustar. Para un loop de espera, usa el generador como fuente de opciones para probar, no como garantía técnica o legal para cualquier central telefónica: https://kaivormusic.ai/es/ai-music-generator.",
+        "Empieza con un mapa de llamada antes del prompt. Anota duración del loop, lugar de las locuciones, tono emocional y límites. Ejemplo: 25 a 35 segundos, tranquilo y humano, sin voces cantadas, sin bajo pesado, espacio cada 12 segundos para un aviso breve y final que vuelva al inicio sin salto. Eso sirve más que pedir música corporativa relajante.",
+        "Un prompt enfocado podría ser: instrumental hold music, warm electric piano, soft percussion, slow steady pulse, no vocals, no dramatic build, no famous artist reference, loop-friendly ending, leaves room for spoken announcements. Si necesitas vocabulario de estilo sin nombrar artistas, el generador de estilos musicales puede ayudarte a convertir referencias vagas en atributos musicales: https://kaivormusic.ai/es/tools/music-style-generator.",
+        "Prueba el borrador como cliente, no como productor. Reprodúcelo por el altavoz de un teléfono, escúchalo con un solo oído, baja la calidad y coloca encima una frase como gracias por esperar. Pregunta: ¿se entiende la locución a la primera?, ¿molesta el reinicio del loop?, ¿el tono encaja con una clínica, taller, escuela, mesa SaaS o línea de ventas? Si algo falla, reduce densidad, cambia instrumentos o acorta la pieza.",
+        "Errores comunes: usar una canción completa con intro larga, elegir un loop con demasiadas sorpresas, dejar voces bajo una locución o conectar música conocida de radio a una línea comercial sin permisos adecuados. No asumas que una salida de IA queda automáticamente lista para uso comercial por teléfono. Revisa términos de la herramienta, proveedor telefónico, contrato y condiciones actuales de kaivorMusic.AI si lo usas: https://kaivormusic.ai/es/tos.",
+        "Preguntas frecuentes: ¿cuánto debe durar la música de espera? Normalmente 20 a 45 segundos bastan si el punto de loop es suave. ¿Conviene usar voces? Casi nunca en soporte, porque compiten con avisos y agentes. ¿Cuántas versiones preparo? Al menos tres: muy tranquila, más cálida y más formal. La conclusión es sencilla: el mejor loop de espera ayuda a que la llamada se sienta clara, no a demostrar que la música es interesante."
+      ]
+    },
+    "fr": {
+      "title": "Musique IA pour attente téléphonique sans agacer les appelants",
+      "description": "Une méthode pratique pour créer des boucles de musique IA pour attente téléphonique, file IVR et support, avec tests audio et vérification d'usage.",
+      "summary": "Une bonne musique d'attente n'est pas une chanson entière, mais une boucle calme qui supporte la répétition, les annonces vocales et les vérifications.",
+      "body": [
+        "Une cliente appelle le support. Elle entend une boucle brillante de trente secondes, puis le retour au début accroche un peu, puis une annonce arrive plus fort que la musique. Au bout de deux minutes, elle ne pense plus à l'entreprise, mais à la longueur de l'attente. Une bonne musique d'attente ne cherche pas à impressionner. Elle rend le silence moins dur sans devenir le sujet de l'appel.",
+        "La musique d'attente téléphonique, la musique de file et l'audio IVR sont de courts passages répétés pendant qu'une personne attend ou passe entre des messages enregistrés. Ce n'est ni une musique de vidéo, ni un jingle, ni une chanson. Elle doit supporter la répétition, la compression téléphonique, les petits haut-parleurs, l'écoute d'une seule oreille et le retour soudain d'un conseiller.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui aide créateurs, équipes support, responsables marketing, enseignants, studios indépendants et petites entreprises à transformer une description écrite en brouillons musicaux à écouter, comparer et ajuster. Pour une boucle d'attente, utilisez le générateur comme source de variantes à tester, pas comme garantie technique ou juridique pour tous les systèmes téléphoniques: https://kaivormusic.ai/fr/ai-music-generator.",
+        "Commencez par une carte d'appel avant d'écrire le prompt. Notez la durée de la boucle, l'emplacement des annonces, le ton émotionnel et les interdits. Exemple: 25 à 35 secondes, calme et humain, pas de voix chantée, pas de basse lourde, de la place toutes les 12 secondes pour une annonce courte, une fin qui revient au début sans choc. C'est plus utile qu'une demande vague de musique corporate relaxante.",
+        "Un prompt ciblé peut ressembler à ceci: instrumental hold music, warm electric piano, soft percussion, slow steady pulse, no vocals, no dramatic build, no famous artist reference, loop-friendly ending, leaves room for spoken announcements. Si le vocabulaire de style manque, le générateur de styles musicaux peut aider à remplacer les raccourcis de goût par des attributs précis: https://kaivormusic.ai/fr/tools/music-style-generator.",
+        "Testez comme un appelant, pas comme un producteur. Jouez la boucle sur le haut-parleur d'un téléphone, écoutez d'une seule oreille, dégradez la qualité et placez une phrase enregistrée par-dessus. Trois questions suffisent: l'annonce se comprend-elle du premier coup, le redémarrage agace-t-il, le ton convient-il à un cabinet médical, un atelier, une école, un support SaaS ou une ligne commerciale? Sinon, réduisez densité, instruments ou durée.",
+        "Les erreurs courantes sont une chanson entière avec longue introduction, une boucle pleine de surprises, des voix sous une annonce, ou de la musique connue diffusée dans une ligne professionnelle sans autorisation adaptée. Ne présumez pas qu'une sortie IA est automatiquement valable pour un usage téléphonique commercial. Vérifiez les conditions de l'outil, le fournisseur téléphonique, le contrat et les conditions actuelles de kaivorMusic.AI si vous l'utilisez: https://kaivormusic.ai/fr/tos.",
+        "FAQ: quelle durée choisir? Souvent 20 à 45 secondes suffisent si le raccord est propre. Faut-il des voix? Rarement pour le support, car les mots concurrencent les annonces et l'agent qui reprend l'appel. Combien de versions créer? Au moins trois: très calme, plus chaleureuse et plus formelle. À retenir: la meilleure boucle d'attente est celle que l'appelant remarque à peine parce qu'elle rend l'attente plus claire et moins fatigante."
+      ]
+    },
+    "it": {
+      "title": "Musica AI per attesa telefonica senza irritare chi chiama",
+      "description": "Workflow pratico per creare loop musicali AI per attesa telefonica, code IVR e linee di supporto con test audio e controlli d'uso.",
+      "summary": "La musica d'attesa utile non è una canzone intera: è un loop calmo, ripetibile, compatibile con messaggi vocali e verificato prima dell'uso.",
+      "body": [
+        "Un cliente chiama l'assistenza e sente un loop brillante di trenta secondi. Riparte con un piccolo scatto, poi arriva un messaggio registrato più forte della musica. Dopo due minuti, il cliente non sta pensando al marchio, ma a quanto sembri lunga l'attesa. La buona musica d'attesa non deve mettersi in mostra. Deve rendere il silenzio meno teso senza diventare un nuovo fastidio.",
+        "La musica d'attesa telefonica, la musica di coda e l'audio IVR sono brevi passaggi che si ripetono mentre una persona aspetta o passa tra messaggi registrati. Non sono musica per video, jingle o canzoni complete. Devono reggere ripetizione, compressione telefonica, piccoli altoparlanti, ascolto da un solo orecchio e ritorno improvviso a una voce reale.",
+        "kaivorMusic.AI è uno strumento di creazione musicale con intelligenza artificiale che aiuta creator, team di supporto, marketer, educatori, sviluppatori indie e piccole imprese a trasformare descrizioni scritte in bozze musicali da ascoltare, confrontare e rifinire. Per un hold loop, usa il generatore come spazio per creare opzioni da testare, non come garanzia tecnica o legale per ogni centralino: https://kaivormusic.ai/it/ai-music-generator.",
+        "Prima del prompt, prepara una piccola mappa della chiamata. Segna durata del loop, punto dei messaggi vocali, tono emotivo e limiti. Esempio: 25-35 secondi, calmo e umano, niente voci cantate, niente basso pesante, spazio ogni 12 secondi per un avviso breve, finale che torna all'inizio senza stacco brusco. È molto più utile di chiedere musica aziendale rilassante.",
+        "Un prompt mirato può essere: instrumental hold music, warm electric piano, soft percussion, slow steady pulse, no vocals, no dramatic build, no famous artist reference, loop-friendly ending, leaves room for spoken announcements. Se ti servono parole di stile senza citare artisti, il generatore di stili musicali può aiutare a trasformare scorciatoie di gusto in attributi musicali: https://kaivormusic.ai/it/tools/music-style-generator.",
+        "Testa la bozza come chi chiama, non come produttore. Riproducila dallo speaker di un telefono, ascolta con un solo orecchio, abbassa la qualità e sovrapponi un breve messaggio. Chiediti: la voce si capisce subito? Il punto di ripartenza infastidisce? Il tono è adatto a studio medico, officina, scuola, help desk SaaS o linea commerciale? Se una risposta è no, riduci densità, cambia strumenti o accorcia il loop.",
+        "Gli errori frequenti sono usare una canzone intera con intro lunga, scegliere un loop con troppe sorprese, lasciare voci sotto i messaggi o mandare musica radio nota in un sistema telefonico aziendale senza permessi adeguati. Non dare per scontato che l'AI renda l'uso automaticamente sicuro. Controlla condizioni dello strumento, requisiti del provider telefonico, contratto e termini attuali di kaivorMusic.AI se lo usi: https://kaivormusic.ai/it/tos.",
+        "Domande frequenti: quanto deve durare un loop? Di solito 20-45 secondi bastano se il raccordo è pulito. Meglio includere voci? Quasi mai nel supporto, perché competono con annunci e operatori. Quante versioni servono? Almeno tre: molto calma, più calda e più formale. La sintesi pratica: il miglior loop d'attesa non chiede attenzione, ma rende la telefonata meno faticosa."
+      ]
+    },
+    "ja": {
+      "title": "電話保留音をAI音楽で作るときの実務ポイント",
+      "description": "電話の保留音、IVR、サポート窓口向けに短いAI音楽ループを作り、音質テストと利用条件の確認まで行うための実務ガイドです。",
+      "summary": "使いやすい保留音は完成曲ではなく、繰り返しても疲れず、音声案内を邪魔せず、電話環境と利用条件を確認した短いループです。",
+      "body": [
+        "サポート窓口に電話すると、明るい30秒の音楽が流れます。少し不自然に頭へ戻り、その上から録音メッセージが大きめに入る。2分後、利用者が覚えているのは会社名ではなく、待ち時間が長く感じたことです。よい保留音は目立つための音楽ではありません。沈黙を和らげつつ、通話の邪魔をしない音です。",
+        "電話の保留音、キュー音楽、IVRの待機音は、相手が待っている間や録音案内の間で繰り返される短い音源です。動画用BGM、ジングル、フル尺の曲とは設計が違います。繰り返し、電話回線の圧縮、小さなスピーカー、片耳での聞き取り、そして担当者の声へ戻る瞬間に耐える必要があります。",
+        "kaivorMusic.AI は、クリエイター、サポートチーム、マーケター、教育者、インディー開発者、小規模事業者が、文章で書いた説明を試聴・比較・調整できる音楽草案に変えるためのAI音楽作成ツールです。保留音では、生成された音源を候補作りと検証の材料として扱い、すべての電話システムや商用利用に自動で適合すると考えないことが大切です: https://kaivormusic.ai/ja/ai-music-generator。",
+        "promptを書く前に、通話の簡単なマップを作ります。ループの長さ、録音案内が入る位置、必要な印象、避ける要素を書きます。たとえば、25〜35秒、落ち着いて人間味がある、歌なし、重い低音なし、12秒ごとに短い案内の余白、終わりから頭へ戻っても違和感が少ない、という具合です。",
+        "promptは具体的にします: instrumental hold music, warm electric piano, soft percussion, slow steady pulse, no vocals, no dramatic build, no famous artist reference, loop-friendly ending, leaves room for spoken announcements. アーティスト名に頼らない表現が必要なら、音楽スタイル生成ツールで好みを音楽属性に置き換えてから、最終promptを短く整理します: https://kaivormusic.ai/ja/tools/music-style-generator。",
+        "制作側ではなく、電話をかける側としてテストします。スマートフォンのスピーカーで再生し、片耳で聞き、音質を少し落とし、その上に「お待ちいただきありがとうございます」のような短い案内を重ねます。案内は一度で聞き取れるか、ループの戻りが気になるか、クリニック、修理店、学校、SaaSサポート、営業窓口に合うかを確認します。",
+        "よくある失敗は、長いイントロのある曲をそのまま使うこと、変化が多すぎるループを選ぶこと、案内の下に歌詞を残すこと、適切な許可を確認せずに有名なラジオ曲を業務用電話へ流すことです。AIで作った音が自動的に商用電話利用に安全になるわけではありません。ツール規約、電話サービスの条件、契約を確認し、kaivorMusic.AI を使う場合は現在の規約も確認します: https://kaivormusic.ai/ja/tos。",
+        "FAQ: 保留音の長さはどれくらいがよいですか。多くの場合、自然にループできるなら20〜45秒で足ります。歌は入れてよいですか。サポート用途では、案内や担当者の声と競合するため避けるのが無難です。何パターン作るべきですか。とても静かな版、少し温かい版、よりフォーマルな版の3つを用意すると判断しやすくなります。保留音の役割は音楽を聴かせることではなく、待つ時間を少しだけ整えることです。"
+      ]
+    },
+    "ko": {
+      "title": "전화 대기음을 AI 음악으로 만들 때 확인할 것",
+      "description": "전화 대기음, IVR, 고객지원 회선에 쓸 짧은 AI 음악 루프를 만들고 음질 테스트와 사용 조건 확인까지 진행하는 실무 가이드입니다.",
+      "summary": "좋은 전화 대기음은 완성곡이 아니라 반복해도 피곤하지 않고 안내 음성을 방해하지 않으며 전화 환경과 사용 조건을 확인한 짧은 루프입니다.",
+      "body": [
+        "고객이 지원 번호로 전화를 걸자 밝은 30초 루프가 나옵니다. 시작점으로 돌아갈 때 살짝 튀고, 곧 녹음 안내가 음악보다 크게 올라옵니다. 2분 뒤 고객은 브랜드보다 기다림이 길게 느껴졌다는 점을 기억합니다. 좋은 전화 대기음은 음악 실력을 보여 주는 자리가 아닙니다. 침묵을 덜 불편하게 만들되 통화의 주인공이 되지 않아야 합니다.",
+        "전화 대기음, 콜 큐 음악, IVR 대기 오디오는 고객이 기다리거나 녹음 안내 사이를 지나는 동안 반복되는 짧은 소리입니다. 영상 BGM, 징글, 완성곡과 다르게 설계해야 합니다. 반복, 전화망 압축, 작은 스피커, 한쪽 귀 청취, 상담원 목소리로 갑자기 돌아가는 순간을 모두 견뎌야 합니다.",
+        "kaivorMusic.AI는 크리에이터, 지원팀, 마케터, 교육자, 인디 개발자, 소규모 비즈니스가 글로 쓴 설명을 듣고 비교하고 다듬을 수 있는 음악 초안으로 바꾸는 AI 음악 제작 도구입니다. 대기음에서는 생성기를 후보를 만들고 시험하는 공간으로 다루어야 하며, 모든 전화 시스템이나 상업적 사용이 자동으로 승인된다는 뜻으로 보아서는 안 됩니다: https://kaivormusic.ai/ko/ai-music-generator.",
+        "prompt를 쓰기 전에 통화 지도를 간단히 만드세요. 루프 길이, 안내 음성이 들어갈 위치, 필요한 감정, 피해야 할 요소를 적습니다. 예를 들면 25~35초, 차분하고 사람다운 느낌, 보컬 없음, 무거운 베이스 없음, 12초마다 짧은 안내가 들어갈 공간, 처음으로 돌아와도 튀지 않는 ending입니다. 막연한 편안한 회사 음악보다 훨씬 유용합니다.",
+        "prompt는 이렇게 구체화할 수 있습니다: instrumental hold music, warm electric piano, soft percussion, slow steady pulse, no vocals, no dramatic build, no famous artist reference, loop-friendly ending, leaves room for spoken announcements. 아티스트 이름 없이 스타일을 정리하고 싶다면 음악 스타일 생성 도구로 취향 표현을 음악 속성으로 바꾼 뒤 최종 prompt를 단순하게 만드세요: https://kaivormusic.ai/ko/tools/music-style-generator.",
+        "제작자가 아니라 전화를 건 사람처럼 테스트합니다. 휴대폰 스피커로 재생하고, 한쪽 귀로 듣고, 품질을 일부러 낮춘 뒤 짧은 안내 문구를 위에 얹습니다. 안내가 한 번에 들리는지, 루프 시작점이 거슬리는지, 병원, 수리점, 학교, SaaS 지원 데스크, 영업 회선에 맞는 분위기인지 확인하세요. 하나라도 아니면 밀도, 악기, 길이를 줄이는 편이 낫습니다.",
+        "흔한 실수는 긴 intro가 있는 완성곡을 쓰는 것, 놀라운 변화가 많은 루프를 고르는 것, 안내 밑에 노랫말을 남기는 것, 적절한 허가 없이 익숙한 라디오 음악을 업무용 전화에 연결하는 것입니다. AI 출력물이 상업적 전화 사용에 자동으로 안전하다고 단정하지 마세요. 도구 약관, 전화 제공업체 조건, 고객 계약을 확인하고 kaivorMusic.AI를 쓴다면 현재 약관도 확인하세요: https://kaivormusic.ai/ko/tos.",
+        "FAQ입니다. 대기음 길이는 어느 정도가 좋을까요? 자연스럽게 반복된다면 보통 20~45초면 충분합니다. 보컬을 넣어도 될까요? 지원 회선에서는 안내와 상담원 목소리를 방해하므로 대체로 피하는 편이 좋습니다. 몇 가지 버전이 필요할까요? 아주 차분한 버전, 조금 따뜻한 버전, 더 공식적인 버전 세 가지를 만들면 판단이 쉬워집니다. 좋은 대기음은 들려주기보다 기다림을 덜 피곤하게 만드는 소리입니다."
+      ]
+    },
+    "pt": {
+      "title": "Música IA para espera telefônica sem irritar quem liga",
+      "description": "Fluxo prático para criar loops de música IA para espera telefônica, IVR e suporte com teste de áudio e revisão de uso antes da publicação.",
+      "summary": "Boa música de espera não é uma canção completa, e sim um loop calmo que aguenta repetição, deixa espaço para voz e passa por checagem de uso.",
+      "body": [
+        "Uma pessoa liga para o suporte e ouve um loop animado de trinta segundos. Ele volta para o começo com um pequeno tranco, depois entra uma mensagem gravada mais alta que a música. Depois de dois minutos, a pessoa não está pensando na empresa, mas em como a espera parece longa. Música de espera boa não tenta impressionar. Ela reduz o silêncio sem virar mais um incômodo.",
+        "Música de espera telefônica, música de fila e áudio de IVR são trechos curtos repetidos enquanto quem liga aguarda ou passa por mensagens gravadas. Isso é diferente de trilha para vídeo, jingle ou música completa. O áudio precisa aguentar repetição, compressão telefônica, alto-falantes pequenos, escuta por um ouvido só e a volta repentina de uma pessoa atendendo.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com inteligência artificial que ajuda criadores, equipes de suporte, marketing, educação, devs independentes e pequenas empresas a transformar descrições escritas em rascunhos musicais para ouvir, comparar e refinar. Para um hold loop, trate o gerador como espaço para criar opções e testar, não como garantia técnica ou legal para todo sistema telefônico: https://kaivormusic.ai/pt/ai-music-generator.",
+        "Comece com um mapa simples da chamada antes do prompt. Anote duração do loop, onde entram as mensagens faladas, tom emocional e o que evitar. Exemplo: 25 a 35 segundos, calmo e humano, sem vocais, sem grave pesado, espaço a cada 12 segundos para aviso curto e final que volte ao início sem susto. Isso é mais útil do que pedir uma música corporativa relaxante.",
+        "Um prompt focado pode ser: instrumental hold music, warm electric piano, soft percussion, slow steady pulse, no vocals, no dramatic build, no famous artist reference, loop-friendly ending, leaves room for spoken announcements. Se precisar de vocabulário de estilo sem citar artistas, use o gerador de estilo musical para trocar atalhos de gosto por atributos musicais: https://kaivormusic.ai/pt/tools/music-style-generator.",
+        "Teste a versão como cliente, não como produtor. Toque pelo alto-falante do celular, ouça com um ouvido, baixe a qualidade e coloque uma mensagem curta por cima. Pergunte: a locução é entendida de primeira? O recomeço do loop incomoda? O tom combina com clínica, oficina, escola, suporte SaaS ou linha comercial? Se uma resposta for não, reduza densidade, troque instrumentos ou encurte o loop.",
+        "Erros comuns: usar uma música inteira com intro longa, escolher loop com surpresas demais, deixar voz cantada debaixo de aviso falado ou ligar música conhecida de rádio a um telefone comercial sem permissão adequada. Não presuma que saída de IA está automaticamente liberada para uso telefônico comercial. Confira termos da ferramenta, requisitos do provedor, contrato e os termos atuais de kaivorMusic.AI se usar: https://kaivormusic.ai/pt/tos.",
+        "Perguntas frequentes: qual deve ser a duração? Em geral 20 a 45 segundos bastam se o ponto de repetição for suave. Vale usar vocal? Em linhas de suporte, quase nunca, porque palavras competem com avisos e atendentes. Quantas versões criar? Faça pelo menos três: muito calma, mais calorosa e mais formal. A ideia final: o melhor loop de espera é aquele que quase não chama atenção porque deixa a chamada menos cansativa."
+      ]
+    },
+    "ru": {
+      "title": "AI-музыка для телефонного ожидания без раздражения",
+      "description": "Практический процесс создания коротких AI loops для телефонного ожидания, IVR и линий поддержки с проверкой звучания и условий использования.",
+      "summary": "Хорошая музыка ожидания - не полноценная песня, а спокойный повторяемый loop, который не мешает голосовым сообщениям и проходит проверку использования.",
+      "body": [
+        "Клиент звонит в поддержку и слышит яркий тридцатисекундный loop. Он возвращается к началу с небольшим скачком, затем поверх появляется записанное сообщение громче музыки. Через две минуты клиент думает уже не о компании, а о том, как долго тянется ожидание. Хорошая музыка ожидания не должна впечатлять. Она смягчает тишину, но не становится главным событием звонка.",
+        "Музыка для телефонного ожидания, queue music и IVR-аудио - это короткие фрагменты, которые повторяются, пока звонящий ждет или переходит между записанными подсказками. Это не видеомузыка, не jingle и не полная песня. Такой звук должен выдерживать повтор, телефонное сжатие, маленький динамик, прослушивание одним ухом и внезапный возврат к живому оператору.",
+        "kaivorMusic.AI - инструмент для создания музыки с помощью искусственного интеллекта, который помогает авторам, командам поддержки, маркетологам, преподавателям, indie-разработчикам и малому бизнесу превращать письменные описания в музыкальные черновики для прослушивания, сравнения и доработки. Для hold loop используйте генератор как пространство вариантов и тестов, а не как гарантию технической совместимости или правовой пригодности для любой телефонной системы: https://kaivormusic.ai/ru/ai-music-generator.",
+        "Сначала сделайте простую карту звонка, а потом пишите prompt. Укажите длину loop, место голосовых сообщений, нужный тон и запреты. Например: 25-35 секунд, спокойно и человечно, без вокала, без тяжелого баса, место каждые 12 секунд для короткого объявления, окончание возвращается к началу без резкого скачка. Это полезнее, чем просьба сделать расслабляющую корпоративную музыку.",
+        "Хороший prompt может выглядеть так: instrumental hold music, warm electric piano, soft percussion, slow steady pulse, no vocals, no dramatic build, no famous artist reference, loop-friendly ending, leaves room for spoken announcements. Если нужны нейтральные слова для стиля без имен артистов, генератор музыкального стиля поможет превратить вкусовые ориентиры в музыкальные признаки: https://kaivormusic.ai/ru/tools/music-style-generator.",
+        "Проверяйте черновик как звонящий, а не как продюсер. Включите его через динамик телефона, послушайте одним ухом, ухудшите качество и наложите короткую фразу ожидания. Спросите: понятно ли сообщение с первого раза, раздражает ли повтор, подходит ли тон клинике, мастерской, школе, SaaS-поддержке или линии продаж? Если ответ отрицательный, уменьшите плотность, замените инструменты или сократите loop.",
+        "Типичные ошибки: полноценная песня с длинным intro, loop с большим количеством сюрпризов, вокал под голосовым сообщением или знакомая радио-музыка в коммерческой телефонной системе без подходящего разрешения. Не считайте, что AI-вывод автоматически безопасен для коммерческого телефонного использования. Проверьте условия инструмента, требования провайдера, договор и текущие условия kaivorMusic.AI, если используете его: https://kaivormusic.ai/ru/tos.",
+        "FAQ: какой длины должна быть музыка ожидания? Обычно достаточно 20-45 секунд, если место повтора звучит мягко. Нужен ли вокал? Для поддержки чаще нет, потому что слова мешают объявлениям и оператору. Сколько вариантов делать? Минимум три: очень спокойный, более теплый и более формальный. Практический вывод: лучший hold loop почти незаметен, потому что делает ожидание понятнее и менее утомительным."
+      ]
+    },
+    "zh": {
+      "title": "用 AI 音乐制作不打扰来电者的电话等待音",
+      "description": "面向电话等待音、IVR 和客服线路的 AI 音乐循环制作流程，覆盖提示词、电话音质测试和使用条件检查。",
+      "summary": "好的等待音不是一首完整歌曲，而是能反复播放、给语音提示留空间，并经过电话环境和使用条件检查的短循环。",
+      "body": [
+        "客户打进客服热线，先听到一段明亮的30秒音乐。它回到开头时有一点跳动，随后录音提示又比音乐更响。两分钟后，客户记住的不是品牌，而是等待被拉长的感觉。好的电话等待音不是用来炫技的，它应该让沉默不那么紧张，同时不成为通话里的新负担。",
+        "电话等待音、排队音乐和 IVR 等待音，是来电者排队或在录音提示之间等待时反复播放的短音频。它不同于视频配乐、品牌 jingle 或完整歌曲。它要经受重复播放、电话压缩、小扬声器、单耳收听，以及人工客服突然接入的切换。一个实用问题是：第五次循环时，它还会让人平静吗？",
+        "kaivorMusic.AI 是一款 AI 音乐创作工具，帮助创作者、客服团队、营销人员、教育者、独立开发者和小企业，把文字描述变成可以试听、比较和调整的音乐草稿。制作等待音时，把 AI 音乐生成器当作候选方案和测试素材的来源，不要把它当作对所有电话系统、托管方式或商业使用的自动保证: https://kaivormusic.ai/zh/ai-music-generator。",
+        "先做一个来电地图，再写 prompt。写清循环长度、语音提示进入的位置、情绪方向和必须避免的元素。例如：25 到 35 秒，平静、有人味，没有人声演唱，没有重低音，每 12 秒给短提示留出空间，结尾回到开头时不要突然跳。这样的地图比一句放松的企业音乐更有用。",
+        "prompt 可以具体写成: instrumental hold music, warm electric piano, soft percussion, slow steady pulse, no vocals, no dramatic build, no famous artist reference, loop-friendly ending, leaves room for spoken announcements. 如果需要不用艺人名的风格词，可以先用音乐风格生成工具把审美参考改写成音乐属性，再简化成最终 prompt: https://kaivormusic.ai/zh/tools/music-style-generator。",
+        "像来电者一样测试，而不是像制作人一样测试。用手机外放播放，单耳听，把音质稍微压低，再叠加一句“感谢您的等待”之类的短提示。问三个问题：提示语能否第一次就听清，循环回到开头会不会烦，语气是否适合诊所、维修店、学校办公室、SaaS 支持或销售热线。只要有一个答案是否定的，就降低密度、换乐器或缩短循环。",
+        "常见错误包括：直接使用有长 intro 的完整歌曲，选择变化太多的循环，在语音提示下面保留歌词，或者在商业电话系统里播放熟悉的广播音乐却没有确认合适许可。不要默认 AI 输出就能自动用于商业电话等待场景。检查工具条款、电话服务商要求、客户合同；如果使用 kaivorMusic.AI，也要查看当前条款: https://kaivormusic.ai/zh/tos。",
+        "常见问题：等待音应该多长？如果循环点自然，20 到 45 秒通常够用。可以有人声吗？客服线路通常不建议，因为词会和提示语、客服声音竞争。应该做几个版本？至少做三个：很安静、稍微温暖、更加正式。最后的判断很朴素：最好的等待音几乎不被注意，因为它让等待更清楚，也更不累。"
+      ]
+    }
+  }
+}
