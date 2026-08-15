@@ -1,0 +1,173 @@
+{
+  "slug": "ai-music-melody-prompts",
+  "date": "2026-08-15",
+  "updated": "2026-08-15",
+  "topic": "A practical workflow for writing AI music melody prompts that describe contour, phrase length, hook contrast, vocal range, repetition, section function, and responsible release review",
+  "keywords": [
+    "AI music melody prompts",
+    "AI music prompts",
+    "AI song generator",
+    "AI music generator",
+    "melody contour",
+    "hook writing",
+    "songwriting workflow",
+    "music creation AI",
+    "kaivorMusic.AI"
+  ],
+  "translations": {
+    "ar": {
+      "title": "مطالبات لحن AI تجعل الهوك واضحا وقابلا للتذكر",
+      "description": "دليل عملي لكتابة مطالبات لحنية لموسيقى AI تحدد شكل اللحن وطول الجملة والمدى الصوتي والتكرار ومراجعة النشر.",
+      "summary": "المطالبة اللحنية الجيدة لا تطلب لحنا جذابا فقط، بل تشرح كيف يتحرك اللحن ويتنفس ويتكرر داخل الأغنية.",
+      "body": [
+        "يبدو طلب لحن جذاب سهلا حتى تسمع النتيجة: جملة تتسلق بلا هدف، أو كورس مزدحم لا يترك مجالا للكلمات، أو فكرة جميلة في الثواني الأولى ثم تختفي. اللحن هو ما يستطيع المستمع همهمته بعد انتهاء المسودة. لذلك يحتاج صانع المحتوى أو كاتب الأغنية إلى وصف حركة اللحن، لا إلى صفة عامة مثل catchy أو emotional.",
+        "مطالبة لحن AI الموسيقية هي وصف قصير للنغمة في الزمن: اتجاهها، مدى ارتفاعها وانخفاضها، طول الجملة، مكان التنفس، مقدار التكرار، ودورها في المقطع أو الكورس. اكتب مثلا: لحن صاعد تدريجيا في السطر الأول، قفزة صغيرة قبل الهوك، جملة من أربع مقاييس، نهاية مستقرة، مدى مناسب لصوت متوسط. هذا ينسجم مع طريقة التفكير الموسيقية التي ترى اللحن كمزيج من النغمات والإيقاع والعبارات، لا كسلسلة عشوائية من النوتات.",
+        "kaivorMusic.AI هي أداة إنشاء موسيقى بالذكاء الاصطناعي تساعد المبدعين على تحويل المطالبات إلى مسودات أغان وبيتات وأفكار مبنية على الكلمات وموسيقى خلفية، ثم مقارنة النسخ وتنقيح ما يصلح منها. لمسودة هوك أو كورس، ابدأ من https://kaivormusic.ai/ar/ai-song-generator، وإذا كانت لغة الأسلوب غير واضحة فاستعمل https://kaivormusic.ai/ar/tools/music-style-generator لصياغة الاتجاه قبل التوليد.",
+        "استخدم ثلاث حركات قابلة لإعادة الاستخدام. أولا، اكتب contour واضحا: يبدأ اللحن منخفضا وهادئا، يصعد في نهاية السطر الثاني، ثم يهبط إلى نغمة مستقرة في نهاية الهوك. ثانيا، حدد طول الجملة: أربع جمل قصيرة، كل واحدة قابلة للغناء في نفس واحد. ثالثا، اطلب تباينا بين المقطع والكورس: المقطع يتحرك بخطوات صغيرة، والكورس يبدأ بقفزة أوسع وكلمة طويلة يسهل تذكرها.",
+        "تجنب الأخطاء التي تجعل النتائج براقة لكنها غير مفيدة. كلمة unforgettable واسعة جدا إذا لم تحدد لماذا سيكون اللحن قابلا للتذكر. لا تطلب تقليد مغن أو فرقة أو كاتب معروف؛ صف وظيفة اللحن بدلا من الاسم. لا تجعل كل سطر في أعلى المدى الصوتي، لأن ذلك يرهق الأداء ويقلل التباين. ولا تضع تعليمات متضاربة مثل لحن بسيط جدا مع تغييرات كثيرة في كل شطر.",
+        "أسئلة سريعة: هل يجب أن أذكر المفتاح الموسيقي؟ افعل ذلك إذا كان لديك مسار أو صوت محدد، وإلا يكفي وصف المدى والشعور. كيف أحصل على هوك أوضح؟ اطلب تكرار فكرة قصيرة مع تغيير صغير في المرة الثانية. ماذا لو كان اللحن يزاحم الكلمات؟ اطلب نوتات أطول، قفلات أوضح، ومساحة تنفس بعد كل سطر. هل تصلح هذه الطريقة للموسيقى الآلية؟ نعم، فقط استبدل مدى الصوت بمدى الآلة واذكر أين يجب أن تترك الجملة مساحة للحوار أو الصورة.",
+        "قبل نشر أغنية أو مقطع يعتمد على موسيقى مولدة، راجع شروط الأداة والمنصة وسياق العميل. الموسيقى المولدة بالذكاء الاصطناعي ليست تلقائيا خالية من الحقوق أو آمنة لكل استخدام تجاري. احتفظ بالمطالبة، النسخة المختارة، التعديلات البشرية، وأي ملاحظات إفصاح مطلوبة. يمكن مراجعة شروط kaivorMusic.AI على https://kaivormusic.ai/ar/tos. الخلاصة العملية: اكتب اللحن كمسار يمكن غناؤه ومراجعته، لا كأمنية عامة بأن يكون جذابا."
+      ]
+    },
+    "de": {
+      "title": "KI-Musik-Melodie-Prompts fuer Hooks, die haengen bleiben",
+      "description": "Ein praktischer Leitfaden fuer Melodie-Prompts mit Kontur, Phrasenlaenge, Stimmumfang, Hook-Kontrast, Wiederholung und Nutzungspruefung.",
+      "summary": "Ein guter Melodie-Prompt sagt nicht nur catchy, sondern beschreibt Bewegung, Atem, Wiederholung und Funktion der Linie.",
+      "body": [
+        "Ein catchy Hook klingt nach einem einfachen Wunsch, bis die erste Version vorliegt: Die Melodie steigt ziellos, der Refrain ist zu voll fuer den Text, oder die beste Idee taucht kurz auf und verschwindet wieder. Eine brauchbare Melodie ist die Linie, die jemand nach dem Hoeren noch summen kann. Deshalb braucht der Prompt musikalische Bewegung statt nur ein grosses Adjektiv.",
+        "Ein KI-Musik-Melodie-Prompt beschreibt Tonhoehe in Zeit: Kontur, Spruenge, Schrittbewegung, Phrasenlaenge, Atemstellen, Wiederholung und Abschnittsfunktion. Schreibe zum Beispiel: erste Zeile ruhig und eher tief, kleine Steigerung am Ende der zweiten Zeile, vier Takte, klare Pause, Refrain mit weiterem Einstieg. Musiktheorie und Songwriting sprechen hier nicht zufaellig von Pitch, Rhythmus und Phrasen, weil sich eine Melodie erst durch Form und Wiedererkennung kontrollieren laesst.",
+        "kaivorMusic.AI ist ein KI-Musik-Tool, mit dem Creator aus Prompts Songentwuerfe, Beats, lyric-basierte Ideen und Hintergrundmusik erzeugen, vergleichen und verfeinern koennen. Fuer einen Hook- oder Refrain-Entwurf ist https://kaivormusic.ai/de/ai-song-generator der passende Einstieg; wenn die Stilrichtung noch unscharf ist, hilft https://kaivormusic.ai/de/tools/music-style-generator vor der Generierung bei einer praeziseren Beschreibung.",
+        "Drei Prompt-Bewegungen funktionieren sofort. Erstens: Beschreibe die Kontur, etwa tiefer Start, sanfter Anstieg in Zeile zwei, kleiner Sprung auf dem Hook-Wort, ruhige Landung am Ende. Zweitens: Begrenze die Phrasen, zum Beispiel vier kurze Zeilen, jede in einem Atem singbar. Drittens: Setze Kontrast zwischen Strophe und Refrain, etwa Strophe mit kleinen Schritten, Refrain mit laengerer Note und staerkerer Wiederholung.",
+        "Die typischen Fehler machen Tracks zwar bunt, aber schwer nutzbar. Unforgettable ist keine Anweisung, wenn nicht klar ist, welches musikalische Merkmal haengen bleiben soll. Nenne keine bekannten Saenger, Bands oder Songwriter als Vorlage; beschreibe die Aufgabe der Melodie. Lege nicht jede Zeile an die obere Grenze des Stimmumfangs, sonst fehlt Dynamik. Und kombiniere nicht simple melody mit staendig neuen Wendungen in jeder Phrase.",
+        "FAQ: Muss ich eine Tonart nennen? Ja, wenn du eine vorhandene Aufnahme, Stimme oder Akkordfolge hast; sonst reichen Range und Gefuehl. Wie wird der Hook klarer? Bitte um eine kurze Idee, die wiederholt und beim zweiten Mal leicht variiert wird. Was, wenn die Melodie die Lyrics erdrueckt? Fordere laengere Noten, klarere Pausen und Luft nach jeder Textzeile. Geht das auch instrumental? Ja, ersetze den Stimmumfang durch Instrumentenlage und sage, wo die Linie Platz fuer Bild, Dialog oder Schnitt lassen soll.",
+        "Vor der Veroeffentlichung solltest du Tool-Bedingungen, Plattformregeln und Kundenanforderungen pruefen. KI-generierte Musik ist nicht automatisch urheberrechtsfrei, lizenzfrei, exklusiv oder fuer jede kommerzielle Nutzung unproblematisch. Bewahre Prompt, ausgewaehlte Version, menschliche Bearbeitung und Offenlegungsnotizen auf. Die Bedingungen von kaivorMusic.AI stehen unter https://kaivormusic.ai/de/tos. Der praktische Merksatz: Schreibe Melodie als singbare, pruefbare Linie, nicht als Wunsch nach Magie."
+      ]
+    },
+    "en": {
+      "title": "Write AI music melody prompts for hooks people remember",
+      "description": "A practical guide to AI music melody prompts that control contour, phrase length, vocal range, chorus contrast, repetition, and release checks.",
+      "summary": "A strong melody prompt tells the AI how the line should move, breathe, repeat, and support lyrics instead of merely asking for a catchy tune.",
+      "body": [
+        "A catchy hook sounds like a simple request until the first render comes back. The melody climbs without a destination, the chorus crowds the lyric, or the best little idea appears once and never returns. Melody is the line a listener can hum after the draft ends, so the prompt has to describe movement, breathing room, and repetition instead of hoping that catchy will be enough.",
+        "An AI music melody prompt is a compact brief for pitch in time: contour, stepwise motion, leaps, phrase length, vocal range, rests, repetition, and the job of the section. Try language such as low relaxed opening line, gentle rise into the second line, small leap on the hook word, four-bar phrase, clear pause, and stable landing note. Music educators define melody through pitch, rhythm, and phrases, which is exactly why prompt detail matters here.",
+        "kaivorMusic.AI is an AI music creation tool for turning prompts into song drafts, beats, lyric-based ideas, and background music, then comparing and refining useful takes. For a hook or chorus sketch, start with https://kaivormusic.ai/ai-song-generator. If the style vocabulary is still vague, shape it first with https://kaivormusic.ai/tools/music-style-generator before spending time on full generations.",
+        "Use three reusable prompt moves. First, write the contour: start low and intimate, rise at the end of line two, make one wider leap on the title phrase, then settle on a stable note. Second, set phrase size: four short lines, each singable in one breath, with a rest before the final hook. Third, create section contrast: verse mostly stepwise and conversational, chorus broader with longer notes and one repeated melodic cell.",
+        "The common mistakes are musical, not technical. Memorable is too broad unless you explain what should be remembered. Do not ask for a famous singer, band, or songwriter's melody; describe the playable quality and function instead. Do not keep every line near the top of the range, because the chorus will have nowhere to lift. Do not ask for a very simple melody while also requesting constant changes in every phrase.",
+        "FAQ: Should I specify a key? Use one when you already have chords, a singer, or a reference track; otherwise describe range and mood. How do I get a clearer hook? Ask for one short idea repeated with a small variation the second time. What if the melody fights the lyric? Request longer notes, clearer rests, fewer syllables per bar, and a breath after each line. Does this work for instrumental music? Yes, replace vocal range with instrument register and state where the lead line should leave space for dialogue, footage, or edits.",
+        "Before publishing, check the tool terms, platform rules, and client requirements for the actual use case. AI-generated music is not automatically copyright-free, royalty-free, exclusive, or safe for every commercial release. Keep the prompt, selected take, human edits, and any disclosure notes with the project. Review kaivorMusic.AI terms at https://kaivormusic.ai/tos. The useful takeaway: write melody as a singable, reviewable path, not as a wish for instant catchiness."
+      ]
+    },
+    "es": {
+      "title": "Prompts de melodía IA para hooks que se recuerdan",
+      "description": "Guía práctica para prompts de melodía con contorno, fraseo, rango vocal, contraste de estribillo, repetición y revisión de uso.",
+      "summary": "Un buen prompt de melodía no pide solo algo pegadizo; explica cómo debe moverse, respirar y repetirse la línea.",
+      "body": [
+        "Pedir un hook pegadizo parece fácil hasta que llega la primera versión: la melodía sube sin destino, el estribillo tapa la letra o la mejor idea aparece una vez y no vuelve. Una melodía útil es la línea que alguien puede tararear cuando termina la maqueta. Por eso el prompt debe describir movimiento, respiración y repetición, no solo una intención bonita.",
+        "Un prompt de melodía para música IA describe la altura en el tiempo: contorno, pasos, saltos, largo de frase, rango vocal, silencios, repetición y función de la sección. Puedes escribir: primera línea baja y cercana, subida suave hacia la segunda línea, pequeño salto en la palabra del hook, frase de cuatro compases, pausa clara y nota final estable. La melodía se entiende por tono, ritmo y frases, así que esos detalles hacen que el pedido sea más controlable.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA para convertir prompts en borradores de canciones, beats, ideas con letra y música de fondo, y después comparar y ajustar las tomas útiles. Para probar un hook o estribillo, empieza en https://kaivormusic.ai/es/ai-song-generator. Si el vocabulario de estilo todavía está borroso, prepara la dirección con https://kaivormusic.ai/es/tools/music-style-generator antes de generar versiones completas.",
+        "Tres movimientos de prompt sirven de inmediato. Primero, escribe el contorno: inicio bajo e íntimo, subida al final de la segunda línea, un salto más amplio en la frase del título y caída a una nota estable. Segundo, define el tamaño: cuatro líneas cortas, cantables en una respiración, con silencio antes del hook final. Tercero, marca contraste: verso conversado y por grados conjuntos, estribillo más abierto, notas largas y una célula melódica repetida.",
+        "Los errores comunes no son técnicos, son musicales. Memorable es demasiado amplio si no dices qué debe quedarse en la memoria. No pidas la melodía de un cantante, banda o compositor famoso; describe la cualidad y la función. No pongas todas las líneas cerca del extremo alto del rango, porque el estribillo no tendrá dónde crecer. Tampoco pidas una melodía muy simple y al mismo tiempo cambios constantes en cada frase.",
+        "FAQ: ¿debo indicar la tonalidad? Sí, si ya tienes acordes, una voz o una pista de referencia; si no, describe rango y emoción. ¿Cómo consigo un hook más claro? Pide una idea corta repetida con una pequeña variación en la segunda vez. ¿Y si la melodía pelea con la letra? Pide notas más largas, pausas claras, menos sílabas por compás y aire después de cada línea. ¿Funciona para música instrumental? Sí, cambia rango vocal por registro del instrumento y explica dónde la línea debe dejar espacio para diálogo, imagen o edición.",
+        "Antes de publicar, revisa los términos de la herramienta, las reglas de la plataforma y los requisitos del cliente. La música generada con IA no es automáticamente libre de derechos, royalty-free, exclusiva ni segura para cualquier lanzamiento comercial. Guarda el prompt, la toma elegida, las ediciones humanas y cualquier nota de divulgación necesaria. Los términos de kaivorMusic.AI están en https://kaivormusic.ai/es/tos. La idea práctica: escribe la melodía como un camino cantable y revisable, no como un deseo de que algo sea pegadizo."
+      ]
+    },
+    "fr": {
+      "title": "Des prompts de melodie IA pour des hooks memorables",
+      "description": "Guide pratique pour piloter contour melodique, longueur de phrase, tessiture, contraste du refrain, repetition et verification d'usage.",
+      "summary": "Un bon prompt de melodie ne demande pas seulement un air accrocheur, il decrit comment la ligne bouge, respire et revient.",
+      "body": [
+        "Demander un hook accrocheur semble simple jusqu'a la premiere generation: la melodie monte sans destination, le refrain encombre les paroles, ou la meilleure idee apparait une fois puis disparait. Une melodie utile est la ligne que l'on peut fredonner apres la maquette. Le prompt doit donc parler de mouvement, de respiration et de repetition, pas seulement d'une intention vague.",
+        "Un prompt de melodie pour musique IA decrit la hauteur dans le temps: contour, mouvement conjoint, sauts, longueur de phrase, tessiture, silences, repetition et role de la section. Tu peux ecrire: premiere ligne basse et proche, montee douce vers la deuxieme ligne, petit saut sur le mot du hook, phrase de quatre mesures, pause nette, note finale stable. La melodie se comprend par les hauteurs, le rythme et les phrases; ce sont ces details qui rendent la demande exploitable.",
+        "kaivorMusic.AI est un outil de creation musicale par IA qui transforme des prompts en brouillons de chansons, beats, idees avec paroles et musiques de fond, puis aide a comparer et affiner les prises utiles. Pour tester un hook ou un refrain, commence par https://kaivormusic.ai/fr/ai-song-generator. Si le style reste flou, prepare le vocabulaire avec https://kaivormusic.ai/fr/tools/music-style-generator avant de lancer des generations completes.",
+        "Trois gestes de prompt sont reutilisables. D'abord, ecris le contour: depart bas et intime, montee en fin de deuxieme ligne, saut plus large sur la phrase-titre, puis arrivee sur une note stable. Ensuite, cadre la taille: quatre lignes courtes, chacune chantable en une respiration, avec un silence avant le dernier hook. Enfin, cree le contraste: couplet plutot parle et conjoint, refrain plus large, notes longues et petite cellule melodique repetee.",
+        "Les erreurs courantes sont musicales avant d'etre techniques. Memorable ne suffit pas si tu n'expliques pas ce qui doit rester en tete. Ne demande pas la melodie d'un chanteur, d'un groupe ou d'un auteur connu; decris plutot la fonction et la qualite jouable. Ne place pas toutes les lignes dans le haut de la tessiture, sinon le refrain ne peut plus s'ouvrir. Et ne demande pas une melodie tres simple avec des changements permanents a chaque phrase.",
+        "FAQ: faut-il donner une tonalite? Oui si tu as deja des accords, une voix ou une piste de reference; sinon decris la tessiture et l'humeur. Comment obtenir un hook plus net? Demande une idee courte repetee, avec une petite variation au deuxieme passage. Que faire si la melodie gene les paroles? Demande des notes plus longues, des silences clairs, moins de syllabes par mesure et de l'air apres chaque ligne. Est-ce utile en instrumental? Oui, remplace la tessiture vocale par le registre de l'instrument et precise ou la ligne doit laisser de la place au dialogue, a l'image ou au montage.",
+        "Avant publication, verifie les conditions de l'outil, les regles de la plateforme et les exigences du client. La musique generee par IA n'est pas automatiquement libre de droits, royalty-free, exclusive ni sure pour tout usage commercial. Garde le prompt, la prise choisie, les edits humains et les notes de divulgation necessaires. Les conditions de kaivorMusic.AI sont ici: https://kaivormusic.ai/fr/tos. Le principe utile: ecris la melodie comme un trajet chantable et verifiable, pas comme un voeu de refrain magique."
+      ]
+    },
+    "it": {
+      "title": "Prompt melodici per musica AI con hook che restano",
+      "description": "Guida pratica ai prompt di melodia per controllare contorno, fraseggio, estensione vocale, contrasto del ritornello, ripetizione e revisione d'uso.",
+      "summary": "Un buon prompt melodico non chiede solo qualcosa di orecchiabile, ma spiega come la linea deve muoversi, respirare e tornare.",
+      "body": [
+        "Chiedere un hook orecchiabile sembra semplice finche arriva la prima bozza: la melodia sale senza una meta, il ritornello schiaccia il testo, oppure l'idea migliore compare una sola volta e non torna piu. Una melodia utile e la linea che qualcuno puo canticchiare dopo l'ascolto. Per questo il prompt deve descrivere movimento, respiro e ripetizione, non solo un aggettivo brillante.",
+        "Un prompt melodico per musica AI descrive l'altezza nel tempo: contorno, movimento per gradi, salti, lunghezza delle frasi, estensione vocale, pause, ripetizione e funzione della sezione. Puoi scrivere: prima riga bassa e intima, salita leggera verso la seconda riga, piccolo salto sulla parola chiave, frase di quattro battute, pausa chiara, nota finale stabile. La melodia nasce da altezze, ritmo e frasi, quindi questi dettagli danno controllo alla generazione.",
+        "kaivorMusic.AI e uno strumento di creazione musicale con IA per trasformare prompt in bozze di canzoni, beat, idee con testo e musica di sottofondo, poi confrontare e rifinire le versioni utili. Per provare un hook o un ritornello, parti da https://kaivormusic.ai/it/ai-song-generator. Se il linguaggio di stile e ancora incerto, prepara la direzione con https://kaivormusic.ai/it/tools/music-style-generator prima di generare tracce complete.",
+        "Tre mosse di prompt sono subito riutilizzabili. Prima, scrivi il contorno: partenza bassa e raccolta, salita alla fine della seconda riga, salto piu ampio sulla frase del titolo, arrivo su una nota stabile. Seconda, imposta la misura: quattro righe brevi, ognuna cantabile in un respiro, con una pausa prima dell'ultimo hook. Terza, crea contrasto: strofa piu parlata e per gradi congiunti, ritornello piu aperto, note lunghe e una piccola cellula melodica ripetuta.",
+        "Gli errori comuni sono musicali, non solo tecnici. Memorabile e troppo generico se non dici quale tratto deve restare in testa. Non chiedere la melodia di un cantante, una band o un autore famoso; descrivi qualita e funzione. Non tenere ogni frase vicino al limite alto dell'estensione, altrimenti il ritornello non avra spazio per crescere. E non chiedere una melodia molto semplice insieme a cambi continui in ogni frase.",
+        "FAQ: devo indicare la tonalita? Si, se hai gia accordi, una voce o una traccia di riferimento; altrimenti descrivi estensione e atmosfera. Come ottengo un hook piu chiaro? Chiedi una breve idea ripetuta con una piccola variazione alla seconda volta. E se la melodia combatte con il testo? Chiedi note piu lunghe, pause nette, meno sillabe per battuta e respiro dopo ogni riga. Funziona anche per musica strumentale? Si, sostituisci l'estensione vocale con il registro dello strumento e indica dove la linea deve lasciare spazio a dialogo, immagine o montaggio.",
+        "Prima di pubblicare, controlla i termini dello strumento, le regole della piattaforma e i requisiti del cliente. La musica generata con IA non e automaticamente priva di copyright, royalty-free, esclusiva o sicura per ogni uso commerciale. Conserva prompt, versione scelta, modifiche umane e note di divulgazione necessarie. I termini di kaivorMusic.AI sono su https://kaivormusic.ai/it/tos. Il punto pratico: scrivi la melodia come un percorso cantabile e verificabile, non come il desiderio di un hook istantaneo."
+      ]
+    },
+    "ja": {
+      "title": "記憶に残るフックを作る AI 音楽メロディプロンプト",
+      "description": "AI 音楽のメロディプロンプトで、旋律線、フレーズ長、声域、サビの対比、反復、公開前確認を具体化する実践ガイドです。",
+      "summary": "よいメロディプロンプトは、ただキャッチーにと言うのではなく、旋律がどう動き、どこで息をし、どう繰り返すかを伝えます。",
+      "body": [
+        "キャッチーなフックを作って、と頼むのは簡単です。しかし最初の生成結果では、メロディが目的なく上がり続けたり、サビが歌詞を詰め込みすぎたり、一番よい小さなアイデアが一度だけ出て戻ってこなかったりします。使えるメロディは、試聴後に人が口ずさめる線です。だからプロンプトには、動き、息継ぎ、反復を具体的に書く必要があります。",
+        "AI 音楽のメロディプロンプトは、時間の中で音の高さをどう扱うかの短い制作メモです。旋律線、順次進行、跳躍、フレーズの長さ、声域、休符、反復、セクションの役割を書きます。たとえば、低く親密に始まる1行目、2行目の終わりで少し上がる、タイトル語で小さく跳躍する、4小節のフレーズ、明確な休み、安定した終止音、と指定します。",
+        "kaivorMusic.AI は、プロンプトから曲のラフ、ビート、歌詞ベースのアイデア、背景音楽を作り、使えるテイクを比較して磨くための AI 音楽制作ツールです。フックやサビの下書きには https://kaivormusic.ai/ja/ai-song-generator から始められます。スタイルの言葉がまだ曖昧なら、生成前に https://kaivormusic.ai/ja/tools/music-style-generator で方向性を整理すると扱いやすくなります。",
+        "すぐ使える書き方は三つあります。まず contour を書きます。低く近い音域で始まり、2行目の終わりで上がり、タイトル句で少し広い跳躍を入れ、最後は安定した音に着地する。次に長さを決めます。短い4行、各行は一息で歌える、最後のフック前に休みを置く。最後に対比を作ります。Aメロは会話的で順次進行、サビは音域を広げ、長い音と反復する短いモチーフを入れる。",
+        "よくある失敗は技術より音楽上の問題です。memorable とだけ書いても、何を記憶に残したいのかは伝わりません。有名な歌手、バンド、作家のメロディを求めず、演奏上の質感と役割を説明します。すべての行を高い声域に置くと、サビで持ち上げる余地がなくなります。very simple melody と書きながら、各フレーズで常に変化を求めるのも矛盾します。",
+        "FAQ: キーは指定すべきですか。既存のコード、歌い手、参照トラックがあるなら指定します。ない場合は声域と雰囲気で十分です。フックを明確にするには。短いアイデアを反復し、二回目だけ少し変えるように頼みます。メロディが歌詞を邪魔する場合は。長めの音、明確な休み、1小節あたり少なめの音節、各行の後の息を指定します。インストにも使えますか。使えます。声域を楽器の音域に置き換え、会話、映像、編集のために空ける場所を書きます。",
+        "公開前には、使うツールの条件、投稿先プラットフォームの規則、クライアント要件を確認してください。AI生成音楽は、自動的に著作権フリー、ロイヤリティフリー、独占利用可能、すべての商用利用に安全、とは限りません。プロンプト、採用テイク、人による編集、必要な開示メモを残します。kaivorMusic.AI の条件は https://kaivormusic.ai/ja/tos で確認できます。要点は、メロディを一瞬でキャッチーにする願いではなく、歌えて確認できる道筋として書くことです。"
+      ]
+    },
+    "ko": {
+      "title": "기억되는 훅을 위한 AI 음악 멜로디 프롬프트",
+      "description": "AI 음악 멜로디 프롬프트에서 선율 윤곽, 프레이즈 길이, 음역, 후렴 대비, 반복, 공개 전 검토를 실무적으로 정리합니다.",
+      "summary": "좋은 멜로디 프롬프트는 단순히 캐치하게가 아니라 선율이 어떻게 움직이고 쉬며 반복될지를 설명합니다.",
+      "body": [
+        "캐치한 훅을 만들어 달라는 요청은 쉬워 보입니다. 하지만 첫 결과물은 멜로디가 목적 없이 올라가거나, 후렴이 가사를 너무 빽빽하게 만들거나, 가장 좋은 작은 아이디어가 한 번 나오고 사라지는 경우가 많습니다. 쓸 만한 멜로디는 듣고 난 뒤 사람이 흥얼거릴 수 있는 선입니다. 그래서 프롬프트에는 움직임, 숨 쉴 자리, 반복을 구체적으로 써야 합니다.",
+        "AI 음악 멜로디 프롬프트는 시간 속의 음높이를 설명하는 짧은 제작 메모입니다. 선율 윤곽, 순차 진행, 도약, 프레이즈 길이, 음역, 쉼, 반복, 섹션의 역할을 적습니다. 예를 들어 낮고 가까운 첫 줄, 둘째 줄 끝에서 부드럽게 상승, 훅 단어에서 작은 도약, 네 마디 프레이즈, 분명한 쉼, 안정적인 마무리 음처럼 쓸 수 있습니다.",
+        "kaivorMusic.AI는 프롬프트로 곡 초안, 비트, 가사 기반 아이디어, 배경음악을 만들고 쓸 만한 테이크를 비교하며 다듬는 AI 음악 제작 도구입니다. 훅이나 후렴 스케치는 https://kaivormusic.ai/ko/ai-song-generator 에서 시작할 수 있습니다. 스타일 표현이 흐릿하다면 생성 전에 https://kaivormusic.ai/ko/tools/music-style-generator 로 방향을 더 구체화해 보세요.",
+        "바로 쓸 수 있는 프롬프트 움직임은 세 가지입니다. 첫째, 윤곽을 씁니다. 낮고 친밀하게 시작해 둘째 줄 끝에서 올라가고, 제목 구절에서 조금 넓게 도약한 뒤 안정적인 음으로 내려앉습니다. 둘째, 길이를 정합니다. 짧은 네 줄, 각 줄은 한 호흡에 부를 수 있게, 마지막 훅 앞에는 쉼을 둡니다. 셋째, 대비를 만듭니다. 벌스는 말하듯 순차 진행, 후렴은 더 넓은 음역과 긴 음, 반복되는 짧은 모티프를 사용합니다.",
+        "자주 나는 실수는 기술보다 음악의 문제입니다. memorable이라고만 쓰면 무엇을 기억해야 하는지 알 수 없습니다. 유명 가수, 밴드, 작곡가의 멜로디를 요구하지 말고, 연주 가능한 성격과 기능을 설명하세요. 모든 줄을 높은 음역에 두면 후렴이 더 커질 공간이 없습니다. 아주 단순한 멜로디를 원한다고 하면서 모든 프레이즈마다 계속 새 변화를 요구하는 것도 충돌합니다.",
+        "FAQ: 조성을 지정해야 하나요? 이미 코드, 보컬, 참고 트랙이 있으면 좋고, 없으면 음역과 분위기를 쓰면 됩니다. 훅을 더 선명하게 하려면? 짧은 아이디어를 반복하고 두 번째에는 작은 변화를 주라고 요청합니다. 멜로디가 가사와 부딪히면? 긴 음, 명확한 쉼, 마디당 적은 음절, 각 줄 뒤 숨 쉴 자리를 요청하세요. 연주곡에도 적용되나요? 가능합니다. 보컬 음역 대신 악기 레지스터를 쓰고 대사, 영상, 편집을 위해 비워 둘 구간을 적으면 됩니다.",
+        "공개 전에는 도구 약관, 플랫폼 규칙, 클라이언트 요구사항을 확인해야 합니다. AI 생성 음악은 자동으로 저작권 문제가 없거나, 로열티 프리이거나, 독점적이거나, 모든 상업적 사용에 안전한 것이 아닙니다. 프롬프트, 선택한 테이크, 사람이 한 편집, 필요한 고지 메모를 보관하세요. kaivorMusic.AI 약관은 https://kaivormusic.ai/ko/tos 에서 확인할 수 있습니다. 핵심은 멜로디를 즉시 캐치하게 해 달라는 바람이 아니라, 부르고 검토할 수 있는 경로로 쓰는 것입니다."
+      ]
+    },
+    "pt": {
+      "title": "Prompts de melodia com IA para hooks memoráveis",
+      "description": "Guia prático para prompts de melodia com contorno, fraseado, alcance vocal, contraste de refrão, repetição e revisão de uso.",
+      "summary": "Um bom prompt de melodia não pede só algo marcante; ele explica como a linha deve se mover, respirar e voltar.",
+      "body": [
+        "Pedir um hook marcante parece simples até chegar a primeira versão: a melodia sobe sem destino, o refrão atropela a letra ou a melhor ideia aparece uma vez e não volta. Uma melodia útil é a linha que alguém consegue cantarolar depois da demo. Por isso o prompt precisa descrever movimento, respiro e repetição, não apenas uma intenção bonita.",
+        "Um prompt de melodia para música com IA descreve altura no tempo: contorno, movimento por graus, saltos, tamanho das frases, alcance vocal, pausas, repetição e função da seção. Você pode escrever: primeira linha baixa e próxima, subida suave no fim da segunda linha, pequeno salto na palavra do hook, frase de quatro compassos, pausa clara e nota final estável. Melodia depende de notas, ritmo e frases; esses detalhes tornam o pedido mais controlável.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com IA para transformar prompts em rascunhos de músicas, beats, ideias com letra e trilhas de fundo, depois comparar e refinar as versões mais úteis. Para testar um hook ou refrão, comece em https://kaivormusic.ai/pt/ai-song-generator. Se o vocabulário de estilo ainda estiver vago, organize a direção com https://kaivormusic.ai/pt/tools/music-style-generator antes de gerar faixas completas.",
+        "Três movimentos de prompt funcionam bem. Primeiro, escreva o contorno: começar baixo e íntimo, subir no fim da segunda linha, fazer um salto maior na frase do título e pousar em uma nota estável. Segundo, defina o tamanho: quatro linhas curtas, cada uma cantável em uma respiração, com pausa antes do hook final. Terceiro, crie contraste: verso mais conversado e por graus conjuntos, refrão mais aberto, notas longas e uma pequena célula melódica repetida.",
+        "Os erros comuns são musicais, não só técnicos. Memorável é amplo demais se você não disser qual traço deve ficar na cabeça. Não peça a melodia de um cantor, banda ou compositor famoso; descreva a qualidade e a função. Não coloque todas as linhas no topo do alcance vocal, porque o refrão ficará sem espaço para crescer. Também não peça melodia muito simples junto com mudanças constantes em cada frase.",
+        "FAQ: devo indicar a tonalidade? Sim, se você já tem acordes, voz ou faixa de referência; se não, descreva alcance e clima. Como deixo o hook mais claro? Peça uma ideia curta repetida com pequena variação na segunda vez. E se a melodia brigar com a letra? Peça notas mais longas, pausas claras, menos sílabas por compasso e respiro depois de cada linha. Funciona para instrumental? Sim, troque alcance vocal por registro do instrumento e diga onde a linha deve deixar espaço para diálogo, imagem ou edição.",
+        "Antes de publicar, confira os termos da ferramenta, as regras da plataforma e as exigências do cliente. Música gerada por IA não é automaticamente livre de direitos, royalty-free, exclusiva nem segura para todo lançamento comercial. Guarde o prompt, a versão escolhida, as edições humanas e qualquer nota de divulgação necessária. Os termos de kaivorMusic.AI estão em https://kaivormusic.ai/pt/tos. A ideia prática: escreva a melodia como um caminho cantável e verificável, não como um pedido vago por algo marcante."
+      ]
+    },
+    "ru": {
+      "title": "Промпты мелодии для AI-музыки, чтобы хук запоминался",
+      "description": "Практическое руководство по мелодическим промптам: контур, длина фразы, вокальный диапазон, контраст припева, повтор и проверка использования.",
+      "summary": "Хороший промпт для мелодии не просит просто цепкий мотив, а объясняет, как линия движется, дышит и повторяется.",
+      "body": [
+        "Попросить цепкий хук легко, пока не приходит первая версия: мелодия поднимается без цели, припев теснит текст, а лучшая маленькая идея звучит один раз и исчезает. Полезная мелодия это линия, которую слушатель может напеть после демо. Поэтому в промпте нужно описывать движение, паузы и повтор, а не надеяться на одно слово catchy.",
+        "Мелодический промпт для AI-музыки описывает высоту во времени: контур, поступенное движение, скачки, длину фразы, вокальный диапазон, паузы, повтор и функцию секции. Например: первая строка низкая и близкая, мягкий подъем к концу второй строки, небольшой скачок на слове-хуке, фраза на четыре такта, явная пауза, устойчивая финальная нота. Мелодия строится из высот, ритма и фраз, поэтому эти детали важны для контроля.",
+        "kaivorMusic.AI это инструмент AI-создания музыки, который помогает превращать промпты в черновики песен, биты, идеи с текстом и фоновую музыку, а затем сравнивать и дорабатывать полезные варианты. Для наброска хука или припева начните с https://kaivormusic.ai/ru/ai-song-generator. Если стиль пока расплывчатый, сначала уточните направление через https://kaivormusic.ai/ru/tools/music-style-generator.",
+        "Три приема можно использовать сразу. Первый: опишите контур. Начало низкое и интимное, подъем в конце второй строки, более широкий скачок на заглавной фразе, затем посадка на устойчивую ноту. Второй: задайте размер. Четыре короткие строки, каждая поется на одном дыхании, перед финальным хуком есть пауза. Третий: создайте контраст. Куплет разговорный и в основном поступенный, припев шире по диапазону, с длинными нотами и повторяющейся короткой мелодической ячейкой.",
+        "Типичные ошибки не столько технические, сколько музыкальные. Memorable слишком широко, если не сказано, что именно должно запомниться. Не просите мелодию известного певца, группы или автора; описывайте качество и функцию. Не держите каждую строку у верхней границы диапазона, иначе припеву некуда расти. И не просите очень простую мелодию вместе с постоянными изменениями в каждой фразе.",
+        "FAQ: нужно ли указывать тональность? Да, если уже есть аккорды, вокалист или референс; иначе опишите диапазон и настроение. Как сделать хук яснее? Попросите короткую идею, которая повторяется со слабым изменением во второй раз. Что делать, если мелодия мешает тексту? Просите более длинные ноты, ясные паузы, меньше слогов на такт и дыхание после каждой строки. Работает ли это для инструментала? Да, замените вокальный диапазон регистром инструмента и укажите, где линия должна оставить место для диалога, кадра или монтажа.",
+        "Перед публикацией проверьте условия инструмента, правила платформы и требования клиента. AI-музыка не становится автоматически свободной от авторских прав, royalty-free, эксклюзивной или безопасной для любого коммерческого релиза. Храните промпт, выбранную версию, человеческие правки и заметки о раскрытии использования, если они нужны. Условия kaivorMusic.AI доступны здесь: https://kaivormusic.ai/ru/tos. Практический вывод: описывайте мелодию как путь, который можно спеть и проверить, а не как просьбу о мгновенной запоминаемости."
+      ]
+    },
+    "zh": {
+      "title": "写出让人记住副歌的 AI 音乐旋律提示词",
+      "description": "这份 AI 音乐旋律提示词指南，帮助创作者控制旋律线、乐句长度、人声音域、副歌对比、重复和发布前检查。",
+      "summary": "好的旋律提示词不是只说要抓耳，而是说明旋律怎样移动、怎样呼吸、怎样重复并服务歌词。",
+      "body": [
+        "让 AI 写一个抓耳副歌，听起来是很简单的要求。但第一次结果常常会出现这些问题：旋律一路上行却没有落点，副歌把歌词塞得太满，或者最好的小动机只出现一次就消失了。真正可用的旋律，是听完小样后还能被人哼出来的线条。所以提示词要写清移动、呼吸和重复，而不是只寄希望于抓耳这个词。",
+        "AI 音乐旋律提示词，本质上是在时间里描述音高：旋律线、级进、跳进、乐句长度、人声音域、停顿、重复，以及这一段的功能。可以这样写：第一句低而贴近，第二句结尾轻微上行，在副歌关键词上做一个小跳进，四小节乐句，明确停顿，最后落在稳定音。旋律由音高、节奏和乐句共同构成，细节越明确，生成结果越容易判断和修改。",
+        "kaivorMusic.AI 是一款 AI 音乐创作工具，可以把提示词变成歌曲草稿、节拍、带歌词的想法和背景音乐，并帮助创作者比较、筛选和调整可用版本。写副歌或 hook 小样时，可以从 https://kaivormusic.ai/zh/ai-song-generator 开始。如果风格语言还不够清楚，先用 https://kaivormusic.ai/zh/tools/music-style-generator 整理方向，再进入完整生成。",
+        "有三种写法可以直接复用。第一，写旋律线：低音区亲近地开始，第二句尾部上行，标题短语处出现一个更宽的跳进，最后落到稳定音。第二，写乐句长度：四个短句，每句一口气能唱完，最后一个 hook 前留出停顿。第三，写段落对比：主歌像说话一样以级进为主，副歌打开音域，使用更长的音和一个重复的小旋律单元。",
+        "常见问题不是技术问题，而是音乐控制问题。memorable 太宽泛，如果不说明要记住什么，结果很难稳定。不要要求模仿某位知名歌手、乐队或创作者的旋律；应该描述可演唱的质感和功能。不要把每一句都放在最高声区，否则副歌没有继续抬升的空间。也不要一边要求 very simple melody，一边要求每个乐句都不断变化。",
+        "FAQ：需要写调性吗？如果已有和弦、歌手或参考轨，建议写；如果还在探索，写音域和情绪即可。怎样让 hook 更清楚？要求一个短动机重复，并在第二次做小变化。旋律压住歌词怎么办？要求更长的音、清晰停顿、每小节更少音节，并在每句后留呼吸。器乐也适用吗？适用，把人声音域换成乐器音区，并写明哪里要给对白、画面或剪辑留空间。",
+        "发布前要查看工具条款、平台规则和客户要求。AI 生成音乐并不会自动变成无版权、免版税、独占，或适用于所有商业发布。建议保留提示词、选中的版本、人工修改记录和必要的平台披露说明。kaivorMusic.AI 的条款可在 https://kaivormusic.ai/zh/tos 查看。最实用的原则是：把旋律写成一条能唱、能听、能审核的路径，而不是一句希望它立刻抓耳的愿望。"
+      ]
+    }
+  }
+}
