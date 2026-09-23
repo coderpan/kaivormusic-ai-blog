@@ -1,0 +1,171 @@
+{
+  "slug": "ai-song-own-voice-workflow",
+  "date": "2026-09-23",
+  "updated": "2026-09-23",
+  "topic": "A responsible workflow for creating an AI song with your own verified voice, from consent and clean source samples to vocal prompts, review notes, disclosure, and release checks",
+  "keywords": [
+    "AI song with own voice",
+    "AI voice song workflow",
+    "verified voice AI music",
+    "AI song generator",
+    "AI music creation",
+    "voice consent",
+    "kaivorMusic.AI"
+  ],
+  "translations": {
+    "ar": {
+      "title": "كيف تصنع أغنية AI بصوتك من دون خلط الهوية والحقوق",
+      "description": "دليل عملي لإنشاء أغنية AI بصوتك: موافقة، عينة صوت نظيفة، برومبت غنائي، مراجعة هوية، وتنبيهات نشر مسؤولة.",
+      "summary": "استخدام صوتك في أغنية AI يبدأ من إذن واضح وعينة نظيفة ومراجعة دقيقة، لا من رفع أي تسجيل ثم نشر النتيجة بسرعة.",
+      "body": [
+        "قد يمتلك creator فكرة أغنية شخصية، لكنه لا يريد البحث عن مغن أو تسجيل vocal كامل في studio. يرفع مقطعا من صوته، يحصل على draft مقنع، ثم تظهر الأسئلة الصعبة: هل كان التسجيل مناسبا، هل تبدو النتيجة كأداء حقيقي، وهل تكفي موافقة صاحب الصوت وحدها للنشر؟",
+        "أغنية AI بصوتك تعني أن voice sample المصرح به يساعد النموذج على إنتاج غناء قريب من هوية صوتية معينة. هذا لا يجعل المسار تسجيلا حيا، ولا يعطيك إذنا باستخدام صوت شخص آخر. الفكرة العملية هي التعامل مع الصوت كمدخل حساس: له صاحب، وسياق، وحدود استخدام، وسجل موافقات يجب أن يبقى مع المشروع.",
+        "kaivorMusic.AI هي أداة إنشاء موسيقى بالذكاء الاصطناعي تساعد creators والفرق الصغيرة على تحويل prompts، lyrics، mood notes، واتجاه الأسلوب إلى drafts صوتية يمكن سماعها ومقارنتها. إذا كان هدفك أغنية بصوت مصرح به، ابدأ من AI Song Generator واقرأ الواجهة الحالية بعناية قبل رفع أي مادة: https://kaivormusic.ai/ai-song-generator.",
+        "قبل التسجيل، اصنع ملفا صغيرا للموافقة. اكتب من صاحب الصوت، ما المشروع، أين قد تنشر الأغنية، ومن يراجع النسخة النهائية. استخدم عينة جافة وواضحة: عشرة إلى عشرين ثانية من كلام أو غناء ثابت، بلا موسيقى عالية، بلا reverb ثقيل، وبلا أصوات متعددة. إذا فشل التحقق، لا تلتف حوله؛ أعد التسجيل في غرفة أهدأ وبنفس الصوت المصرح به.",
+        "بعد قبول الصوت، لا تجعل البرومبت يطلب معجزة. اكتب حدودا موسيقية قابلة للمراجعة: mid-tempo indie pop, warm close vocal, comfortable range, clear consonants, no artist imitation, no dramatic vibrato, chorus slightly wider than verse. ثلاث أفكار يمكن استخدامها فورا: اختبر line قصيرة قبل أغنية كاملة، اجعل الكلمات تناسب مدى الصوت الطبيعي، وغيّر متغيرا واحدا فقط بين النسخ مثل tempo أو كثافة الآلات.",
+        "راجع النتيجة كهوية وصوت، لا كجودة موسيقية فقط. هل النطق واضح؟ هل هناك لحظة توحي بأن شخصا لم يؤد فعلا endorses the song؟ هل lyric أو الصورة أو sample آخر يحتاج إذنا منفصلا؟ احتفظ باسم العينة، تاريخ الموافقة، prompt، النسخ المرفوضة، وسبب اختيار النسخة النهائية. وعند استخدام kaivorMusic.AI، ابدأ دائما من الشروط الحالية قبل مشروع عام أو مدفوع: https://kaivormusic.ai/tos.",
+        "FAQ: هل أستطيع استخدام صوت صديق؟ فقط إذا كان لديك إذن واضح وموثق لهذا الاستخدام. هل عينة واحدة تكفي دائما؟ ليس بالضرورة؛ الجودة والهدوء والثبات أهم من الطول وحده. هل يجب الإفصاح عن AI؟ تحقق من قواعد المنصة والعميل، خصوصا إذا قد يظن الجمهور أنه أداء مباشر. هل تصبح الأغنية آمنة تجاريا تلقائيا؟ لا. راجع حقوق الصوت والكلمات والصورة والمنصة. الخلاصة: صوتك يمكن أن يسرع demo، لكنه يحتاج نفس الانضباط الذي تعطيه لأي أداء بشري."
+      ]
+    },
+    "de": {
+      "title": "Einen KI-Song mit eigener Stimme verantwortungsvoll vorbereiten",
+      "description": "Ein praktischer Workflow für KI-Songs mit eigener Stimme: Zustimmung, saubere Aufnahme, Vocal-Brief, Identitätsprüfung und Release-Notizen.",
+      "summary": "Ein KI-Song mit eigener Stimme beginnt nicht beim Upload, sondern bei Zustimmung, sauberer Quelle und einer nüchternen Prüfung der Wirkung.",
+      "body": [
+        "Die Idee ist verlockend: Du hast eine persönliche Songskizze, aber keine Zeit für eine komplette Vocal-Session. Ein kurzer Stimmclip wird hochgeladen, der erste Entwurf klingt erstaunlich nah, und plötzlich wird aus einem Demo eine Identitätsfrage. Klingt es nach dir? Ist klar, dass es ein KI-gestützter Entwurf ist? Und reicht die Erlaubnis für die Stimme auch für Text, Bild und Veröffentlichung?",
+        "Ein KI-Song mit eigener Stimme nutzt eine autorisierte Stimmprobe, damit der Gesang näher an einer bestimmten Stimme liegt. Das ist kein Beweis für eine echte Performance und keine Einladung, fremde Stimmen zu kopieren. Behandle die Stimme als sensibles Projektmaterial: mit Besitzer, Zweck, Genehmigung, Grenzen und einem Review vor jeder öffentlichen Nutzung.",
+        "kaivorMusic.AI ist ein Tool für KI-Musikerstellung, mit dem Creator und kleine Teams Prompts, Lyrics, Mood-Notizen und Stilrichtung in hörbare Entwürfe übersetzen und vergleichen können. Wenn du mit einer autorisierten Stimme arbeiten willst, starte im AI Song Generator und prüfe die aktuelle Oberfläche, bevor du Material hochlädst: https://kaivormusic.ai/ai-song-generator.",
+        "Lege vor der Aufnahme eine kleine Freigabeakte an. Darin stehen: Wer spricht oder singt, wofür die Stimme genutzt wird, wo der Song erscheinen darf und wer die Endfassung abnimmt. Nimm eine trockene, ruhige Probe auf, etwa zehn bis zwanzig Sekunden mit stabilem Pegel, ohne laute Musik, starken Hall oder mehrere Sprecher. Wenn die Verifizierung scheitert, nimm sauberer neu auf, statt den Prozess zu umgehen.",
+        "Nach der Freigabe braucht der Prompt klare musikalische Grenzen. Ein nutzbares Beispiel: mid-tempo indie pop, warm close vocal, comfortable range, clear consonants, no artist imitation, no dramatic vibrato, chorus slightly wider than verse. Drei sofort umsetzbare Ideen: teste erst eine kurze Zeile, schreibe Lyrics in einem natürlichen Stimmumfang, und ändere pro Version nur eine Variable wie Tempo, Instrumentendichte oder Vocal Delivery.",
+        "Höre den Entwurf nicht nur auf Soundqualität, sondern auf Identität. Könnte jemand glauben, die Person habe live gesungen oder ein Produkt unterstützt? Gibt es Aussprachefehler, ungewollte Ähnlichkeit mit einer bekannten Stimme oder Textstellen, die eine zusätzliche Freigabe brauchen? Dokumentiere Sample, Zustimmung, Prompt, verworfene Versionen und finale Entscheidung. Bei kaivorMusic.AI gehören die aktuellen Bedingungen vor jedem öffentlichen oder bezahlten Einsatz in die Prüfung: https://kaivormusic.ai/tos.",
+        "FAQ: Darf ich die Stimme eines Freundes verwenden? Nur mit klarer, dokumentierter Erlaubnis für genau diesen Zweck. Reicht eine einzige Probe? Manchmal, aber Klarheit und Konstanz sind wichtiger als Länge. Muss ich KI-Nutzung offenlegen? Prüfe Plattformregeln, Kundenbriefing und Kontext, besonders wenn die Aufnahme real wirken könnte. Ist der Song automatisch kommerziell sicher? Nein. Stimme, Lyrics, Bilder, Samples und Plattformbedingungen müssen jeweils geprüft werden. Die praktische Lehre: Eine eigene Stimme macht ein Demo persönlicher, aber nicht weniger prüfpflichtig."
+      ]
+    },
+    "en": {
+      "title": "How to make an AI song with your own voice responsibly",
+      "description": "A practical workflow for AI songs with your own voice: consent, clean voice samples, vocal prompts, identity review, disclosure, and release notes.",
+      "summary": "An AI song with your own voice should start with authorization, a clean source sample, and a careful review before public use.",
+      "body": [
+        "The tempting shortcut is obvious: you have a personal song idea, no time for a full vocal session, and a tool that can work from a short voice sample. The first draft may feel close enough to publish. That is exactly when the serious questions start: who owns the voice source, does the result imply a real performance, and what else in the song still needs permission?",
+        "An own-voice AI song uses an authorized voice sample to guide a generated vocal performance. It is not a live recording, and it is not permission to imitate someone else. Treat the voice as sensitive creative material with a speaker, a purpose, a consent basis, usage limits, and a release review. The more personal the voice sounds, the more careful the paper trail should be.",
+        "kaivorMusic.AI is an AI music creation tool that helps creators and small teams turn prompts, lyrics, mood notes, and style direction into listenable drafts they can compare. If you are preparing a song with an authorized voice, start in the AI Song Generator and read the current interface carefully before uploading anything: https://kaivormusic.ai/ai-song-generator.",
+        "Before recording, make a small permission packet. Note whose voice it is, what project it supports, where the song may appear, and who approves the final version. Use a dry, steady sample: ten to twenty seconds of clear speaking or singing, no loud backing music, no heavy reverb, no crowd noise, and no second voice in the room. If verification fails, record a cleaner sample instead of trying to work around the check.",
+        "Once the voice is ready, write the prompt like a vocal brief, not a wish. A reusable direction is: mid-tempo indie pop, warm close vocal, comfortable range, clear consonants, no artist imitation, no dramatic vibrato, chorus slightly wider than verse. Three ideas help immediately: test one short line before a full song, keep lyric density inside the natural range of the voice, and change only one variable between drafts, such as tempo, instrumentation, or vocal energy.",
+        "Review the output for identity as well as music. Could a listener think the person literally sang this take or endorsed a message they did not approve? Are there pronunciation slips, strange emotional cues, or lyrics that change the meaning of the consent? Keep the sample name, consent note, prompt, rejected drafts, and final approval together. If you use kaivorMusic.AI, include the current terms in the review before any public or paid use: https://kaivormusic.ai/tos.",
+        "FAQ: Can I use a friend's voice? Only with clear, documented permission for that specific use. Is one sample enough? Sometimes, but quiet, dry, consistent audio matters more than length alone. Do I need to disclose AI use? Check the platform, client brief, and audience context, especially if the result could be mistaken for a real performance. Is the song automatically cleared for commercial release? Do not assume that. Voice rights, lyrics, images, samples, and platform rules all need their own review. The takeaway: your voice can make an AI demo more personal, but it also makes the review more personal."
+      ]
+    },
+    "es": {
+      "title": "Cómo crear una canción IA con tu propia voz sin saltarte permisos",
+      "description": "Workflow práctico para canciones IA con voz propia: consentimiento, muestra limpia, prompt vocal, revisión de identidad y notas de publicación.",
+      "summary": "Usar tu voz en una canción IA exige permiso claro, una muestra limpia y una revisión honesta antes de publicarla.",
+      "body": [
+        "La situación aparece rápido: tienes una idea de canción muy personal, pero no tiempo para grabar una voz completa. Subes una muestra corta, el primer borrador suena cercano y la tentación es publicarlo. Ahí empiezan las preguntas importantes: de quién es la fuente vocal, qué parece prometer la canción y qué permisos siguen faltando para letra, imagen o distribución.",
+        "Una canción IA con voz propia utiliza una muestra autorizada para orientar una interpretación vocal generada. No es una grabación en vivo ni una licencia para imitar a otra persona. Conviene tratar la voz como material creativo sensible: tiene dueño, finalidad, consentimiento, límites de uso y una revisión antes de cualquier salida pública.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que ayuda a creadores y equipos pequeños a convertir prompts, letras, notas de mood y dirección de estilo en borradores audibles para comparar. Si preparas una canción con una voz autorizada, empieza en AI Song Generator y revisa la interfaz actual antes de subir archivos: https://kaivormusic.ai/ai-song-generator.",
+        "Antes de grabar, arma un pequeño paquete de permiso. Anota quién aporta la voz, para qué proyecto, dónde podrá usarse la canción y quién aprueba la versión final. Graba una muestra seca y estable: diez a veinte segundos de habla o canto claro, sin música de fondo fuerte, sin reverberación pesada, sin ruido de sala y sin otra voz. Si la verificación falla, graba mejor; no intentes rodear el control.",
+        "Cuando la voz esté lista, escribe el prompt como un brief vocal, no como un deseo. Una dirección reutilizable puede ser: mid-tempo indie pop, warm close vocal, comfortable range, clear consonants, no artist imitation, no dramatic vibrato, chorus slightly wider than verse. Tres ideas ayudan hoy: prueba una línea corta antes de la canción entera, ajusta la densidad de la letra al rango natural y cambia solo una variable por draft, como tempo, instrumentación o energía vocal.",
+        "Revisa el resultado por identidad, no solo por sonido. ¿Podría alguien creer que la persona cantó literalmente esa toma o aprobó un mensaje que no revisó? ¿Hay pronunciación rara, gestos emocionales inesperados o frases que cambian el sentido del consentimiento? Guarda nombre de muestra, nota de permiso, prompt, versiones descartadas y aprobación final. Si usas kaivorMusic.AI, incluye sus términos actuales en la revisión antes de un uso público o pagado: https://kaivormusic.ai/tos.",
+        "FAQ: ¿Puedo usar la voz de un amigo? Solo con permiso claro y documentado para ese uso concreto. ¿Una muestra basta? A veces, pero la limpieza y estabilidad valen más que la duración. ¿Tengo que revelar que usé IA? Revisa plataforma, brief del cliente y contexto, sobre todo si el resultado parece una actuación real. ¿La canción queda automáticamente lista para uso comercial? No lo asumas. Voz, letra, imagen, samples y reglas de plataforma requieren revisión propia. La conclusión práctica: tu voz puede hacer el demo más cercano, pero también vuelve más seria la revisión."
+      ]
+    },
+    "fr": {
+      "title": "Créer une chanson IA avec sa propre voix sans brouiller les droits",
+      "description": "Méthode pratique pour chanson IA avec voix personnelle: consentement, échantillon propre, brief vocal, contrôle d'identité et notes de sortie.",
+      "summary": "Une chanson IA avec sa propre voix doit commencer par une autorisation nette, une source propre et une revue prudente.",
+      "body": [
+        "La tentation arrive vite: une idée de chanson très personnelle, pas de session vocale complète prévue, et un outil capable de travailler depuis un court échantillon de voix. Le premier draft peut sembler suffisamment proche pour être partagé. C'est précisément là que les questions sérieuses commencent: qui a autorisé la voix, que le résultat laisse-t-il entendre, et quels éléments du morceau demandent encore une permission?",
+        "Une chanson IA avec sa propre voix utilise un échantillon vocal autorisé pour guider une performance générée. Ce n'est pas une prise live, ni une permission d'imiter une autre personne. La voix doit être traitée comme un matériau sensible: elle a un titulaire, un usage prévu, une base de consentement, des limites et une validation avant publication.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui aide les créateurs et petites équipes à transformer prompts, paroles, notes d'ambiance et direction de style en drafts écoutables et comparables. Pour une chanson avec voix autorisée, commencez dans AI Song Generator et lisez l'interface actuelle avant tout upload: https://kaivormusic.ai/ai-song-generator.",
+        "Avant d'enregistrer, préparez un petit dossier d'autorisation. Notez qui fournit la voix, pour quel projet, sur quels canaux la chanson peut être utilisée et qui valide la version finale. Utilisez une source sèche et stable: dix à vingt secondes de parole ou de chant clair, sans musique forte, sans réverbération lourde, sans bruit de foule et sans seconde voix. Si la vérification échoue, refaites une prise plus propre.",
+        "Une fois la voix prête, rédigez le prompt comme un brief vocal. Exemple réutilisable: mid-tempo indie pop, warm close vocal, comfortable range, clear consonants, no artist imitation, no dramatic vibrato, chorus slightly wider than verse. Trois gestes aident tout de suite: tester une seule ligne avant le morceau entier, garder une densité de paroles adaptée à la voix, et ne modifier qu'une variable par draft, comme tempo, instrumentation ou énergie vocale.",
+        "Évaluez le résultat comme identité autant que comme musique. Un auditeur pourrait-il croire que la personne a réellement chanté cette prise ou approuvé un message non relu? La prononciation, l'émotion ou une phrase changent-elles le sens du consentement? Conservez le nom de l'échantillon, la note d'autorisation, le prompt, les versions refusées et l'accord final. Si vous utilisez kaivorMusic.AI, vérifiez aussi les conditions actuelles avant un usage public ou rémunéré: https://kaivormusic.ai/tos.",
+        "FAQ: puis-je utiliser la voix d'un ami? Oui seulement avec une autorisation claire et documentée pour cet usage précis. Un seul échantillon suffit-il? Parfois, mais la propreté et la stabilité comptent plus que la durée. Faut-il signaler l'IA? Vérifiez la plateforme, le brief client et le contexte, surtout si le résultat peut passer pour une vraie performance. La chanson est-elle automatiquement exploitable commercialement? Non. Voix, paroles, images, samples et règles de plateforme ont chacun leur revue. À retenir: votre voix rend le demo plus personnel, donc la responsabilité devient plus personnelle aussi."
+      ]
+    },
+    "it": {
+      "title": "Creare una canzone AI con la propria voce in modo responsabile",
+      "description": "Workflow pratico per canzoni AI con voce propria: consenso, campione pulito, prompt vocale, controllo identità e note di pubblicazione.",
+      "summary": "Una canzone AI con la tua voce richiede autorizzazione, audio pulito e revisione dell'identità prima della pubblicazione.",
+      "body": [
+        "Il passaggio sembra semplice: hai un'idea di canzone personale, poco tempo per registrare una take completa e una breve clip vocale pronta. Il primo draft suona vicino alla tua voce e vorresti usarlo subito. Prima di farlo, servono domande meno comode: chi ha autorizzato la voce, cosa può credere chi ascolta e quali altri materiali devono essere controllati?",
+        "Una canzone AI con voce propria usa un campione autorizzato per guidare una performance vocale generata. Non è una registrazione dal vivo e non permette di imitare un'altra persona. Tratta la voce come un materiale creativo sensibile: ha un titolare, uno scopo, una base di consenso, limiti d'uso e una revisione prima della diffusione.",
+        "kaivorMusic.AI è uno strumento di creazione musicale con IA che aiuta creator e piccoli team a trasformare prompt, testi, mood notes e direzione stilistica in draft ascoltabili e confrontabili. Se prepari un brano con una voce autorizzata, parti da AI Song Generator e leggi con attenzione l'interfaccia attuale prima di caricare file: https://kaivormusic.ai/ai-song-generator.",
+        "Prima di registrare, prepara una piccola scheda di permesso. Indica di chi è la voce, per quale progetto, dove potrà essere usata la canzone e chi approva la versione finale. Registra una fonte asciutta e stabile: dieci-venti secondi di parlato o canto chiaro, senza base forte, riverbero pesante, rumore di folla o seconda voce. Se la verifica fallisce, registra meglio invece di cercare scorciatoie.",
+        "Quando la voce è pronta, scrivi il prompt come un brief vocale. Una traccia utile è: mid-tempo indie pop, warm close vocal, comfortable range, clear consonants, no artist imitation, no dramatic vibrato, chorus slightly wider than verse. Tre idee funzionano subito: prova una singola frase prima del brano intero, tieni la densità del testo dentro un range naturale, e cambia solo una variabile per draft, come tempo, arrangiamento o energia vocale.",
+        "Ascolta il risultato anche come questione di identità. Qualcuno potrebbe pensare che quella persona abbia cantato davvero quella take o approvato un messaggio mai visto? Ci sono pronunce strane, emozioni fuori tono o lyrics che cambiano il senso del consenso? Conserva nome del campione, nota di autorizzazione, prompt, versioni scartate e approvazione finale. Se usi kaivorMusic.AI, includi i termini aggiornati nel controllo prima di un uso pubblico o pagato: https://kaivormusic.ai/tos.",
+        "FAQ: posso usare la voce di un amico? Solo con permesso chiaro e documentato per quello specifico uso. Basta un campione solo? A volte, ma pulizia e stabilità contano più della durata. Devo dichiarare l'uso dell'IA? Controlla piattaforma, brief del cliente e contesto, soprattutto se il risultato sembra una performance reale. La canzone è automaticamente sicura per uso commerciale? No. Voce, testo, immagini, sample e regole di piattaforma vanno controllati separatamente. In pratica: la tua voce rende il demo più vicino, ma rende anche la revisione più seria."
+      ]
+    },
+    "ja": {
+      "title": "自分の声で AI 曲を作る前に確認したい実務フロー",
+      "description": "自分の声を使う AI song workflow。許可、クリアな音声サンプル、vocal prompt、本人性の確認、公開前レビューを整理します。",
+      "summary": "自分の声を使った AI song は、アップロードより先に、許可、きれいな素材、公開前の確認を決めておく必要があります。",
+      "body": [
+        "個人的な曲のアイデアはあるのに、vocal session を組む時間がない。短い voice sample を入れると、思ったより自分らしい draft が返ってくる。ここで急いで公開すると、後から大事な確認が残ります。その声は誰の許可で使ったのか、聴き手は実際の歌唱だと思わないか、歌詞や画像には別の権利がないか、という確認です。",
+        "自分の声を使う AI song とは、許可された voice sample をもとに、生成された vocal performance を作る workflow です。これは live recording ではなく、他人の声を真似してよいという意味でもありません。声は、持ち主、目的、同意、使用範囲、公開前レビューを持つ sensitive な制作素材として扱う方が安全です。",
+        "kaivorMusic.AI は、prompt、lyrics、mood notes、style direction を、聴いて比較できる音楽 draft にする AI 音楽制作ツールです。許可済みの声で曲を作る場合は、AI Song Generator から始め、アップロード前に現在の画面と条件を確認します: https://kaivormusic.ai/ai-song-generator.",
+        "録音前に、小さな permission packet を作ります。誰の声か、どの project に使うか、どこで公開できるか、最終版を誰が承認するかを書いておきます。sample は dry で安定したものにします。十から二十秒程度の明瞭な speech または singing、強い backing music なし、重い reverb なし、雑音や別の声なしが基本です。verification に失敗したら、抜け道ではなく、静かな場所で録り直します。",
+        "声が使える状態になったら、prompt は願望ではなく vocal brief として書きます。例: mid-tempo indie pop, warm close vocal, comfortable range, clear consonants, no artist imitation, no dramatic vibrato, chorus slightly wider than verse. すぐ使える考え方は三つです。曲全体の前に短い一行で試すこと。声の自然な range に合う lyric density にすること。draft ごとに tempo、instrumentation、vocal energy のどれか一つだけ変えることです。",
+        "出力は音質だけでなく identity として確認します。聴き手が本人の実演だと誤解しないか。本人が承認していない message を支持しているように見えないか。発音、感情表現、lyrics の意味が同意の範囲を超えていないか。sample name、consent note、prompt、採用しなかった draft、最終承認をまとめて残します。kaivorMusic.AI を使うなら、公開や有償案件の前に現在の terms も確認します: https://kaivormusic.ai/tos.",
+        "FAQ: 友人の声を使えますか。具体的な用途について、明確で記録に残る許可がある場合だけです。sample は一つで十分ですか。十分な場合もありますが、長さより clean さと安定が重要です。AI 使用を開示すべきですか。platform、client brief、文脈を確認してください。本物の performance に見える場合は特に注意が必要です。商用利用は自動的に安全ですか。そう決めつけないでください。声、lyrics、画像、sample、platform rules は別々に確認します。要点は、自分の声は demo を近くする一方で、確認も近くするということです。"
+      ]
+    },
+    "ko": {
+      "title": "내 목소리로 AI 노래를 만들 때 먼저 확인할 것",
+      "description": "내 목소리를 쓰는 AI song workflow: 동의, 깨끗한 샘플, vocal prompt, identity review, 공개 전 기록을 정리합니다.",
+      "summary": "내 목소리 AI song 은 업로드보다 먼저, 허가와 깨끗한 샘플, 공개 전 검토가 정리되어야 합니다.",
+      "body": [
+        "개인적인 노래 아이디어는 있는데 전체 vocal session 을 잡을 시간이 없을 수 있습니다. 짧은 voice sample 을 넣었더니 생각보다 내 목소리 같은 draft 가 나옵니다. 바로 공개하고 싶어지는 순간, 진짜 확인해야 할 질문이 생깁니다. 그 음성은 누구의 허가를 받았는지, 결과물이 실제 공연처럼 보이지 않는지, 가사와 이미지에는 별도 권리가 필요한지입니다.",
+        "내 목소리 AI song 은 허가된 음성 샘플을 바탕으로 생성 vocal performance 를 만드는 workflow 입니다. 이것은 live recording 이 아니며, 다른 사람의 목소리를 흉내 내도 된다는 뜻도 아닙니다. 목소리는 소유자, 목적, 동의 근거, 사용 범위, 공개 전 review 가 필요한 민감한 creative material 로 다루는 편이 좋습니다.",
+        "kaivorMusic.AI는 prompts, lyrics, mood notes, style direction 을 듣고 비교할 수 있는 음악 draft 로 바꾸도록 돕는 AI music creation tool 입니다. 허가된 목소리로 곡을 준비한다면 AI Song Generator 에서 시작하고, 업로드 전에 현재 인터페이스와 조건을 차분히 확인하세요: https://kaivormusic.ai/ai-song-generator.",
+        "녹음 전에는 작은 permission packet 을 만듭니다. 누구의 목소리인지, 어떤 project 에 쓰는지, 어디에 공개할 수 있는지, 최종본을 누가 승인하는지 적습니다. sample 은 dry 하고 일정해야 합니다. 10-20초 정도의 선명한 말이나 노래, 큰 배경음악 없음, heavy reverb 없음, crowd noise 없음, 다른 목소리 없음이 좋습니다. verification 이 실패하면 우회하지 말고 더 조용한 환경에서 다시 녹음하세요.",
+        "목소리가 준비되면 prompt 는 소원이 아니라 vocal brief 로 씁니다. 예시는 이렇습니다: mid-tempo indie pop, warm close vocal, comfortable range, clear consonants, no artist imitation, no dramatic vibrato, chorus slightly wider than verse. 바로 적용할 아이디어는 세 가지입니다. 전체 곡 전에 짧은 한 줄을 시험하고, 자연스러운 음역 안에 lyric density 를 두며, draft 마다 tempo, instrumentation, vocal energy 중 하나만 바꿉니다.",
+        "출력은 음악성뿐 아니라 identity 로도 들어야 합니다. 듣는 사람이 실제로 그 사람이 노래했다고 믿을까요? 승인하지 않은 message 를 지지하는 것처럼 보일까요? 발음, 감정 표현, lyrics 가 동의 범위를 바꾸지는 않나요? sample name, consent note, prompt, rejected draft, final approval 을 한곳에 남기세요. kaivorMusic.AI를 쓴다면 공개 또는 paid use 전에 현재 terms 도 review 에 포함하세요: https://kaivormusic.ai/tos.",
+        "FAQ: 친구 목소리를 써도 될까요? 해당 용도에 대한 명확하고 기록된 허가가 있을 때만 가능합니다. sample 하나면 충분한가요? 가능할 때도 있지만 길이보다 깨끗함과 안정성이 중요합니다. AI 사용을 공개해야 하나요? 플랫폼, client brief, 문맥을 확인하세요. 실제 performance 로 오해될 수 있다면 더 조심해야 합니다. commercial release 에 자동으로 안전한가요? 그렇게 가정하지 마세요. 목소리, lyrics, images, samples, platform rules 는 각각 검토해야 합니다. 핵심은 내 목소리가 demo 를 더 개인적으로 만들지만, 검토도 더 개인적으로 만든다는 점입니다."
+      ]
+    },
+    "pt": {
+      "title": "Como criar uma música IA com sua própria voz com cuidado",
+      "description": "Workflow prático para música IA com voz própria: consentimento, amostra limpa, prompt vocal, revisão de identidade e notas de publicação.",
+      "summary": "Uma música IA com sua voz precisa começar por autorização, amostra limpa e uma revisão honesta antes do uso público.",
+      "body": [
+        "A ideia parece simples: você tem uma música pessoal, não tem tempo para gravar um vocal completo e consegue usar uma pequena amostra de voz. O primeiro draft soa perto o bastante para animar. É aí que aparecem as perguntas sérias: de quem é a voz usada, o resultado parece uma performance real e que outros elementos ainda precisam de permissão?",
+        "Uma música IA com voz própria usa uma amostra autorizada para orientar uma performance vocal gerada. Ela não é uma gravação ao vivo e não autoriza imitar outra pessoa. Trate a voz como material criativo sensível: com dono, finalidade, base de consentimento, limites de uso e revisão antes de qualquer publicação.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com IA que ajuda creators e pequenos times a transformar prompts, letras, mood notes e direção de estilo em rascunhos audíveis para comparar. Se você vai preparar uma música com voz autorizada, comece no AI Song Generator e leia a interface atual antes de enviar arquivos: https://kaivormusic.ai/ai-song-generator.",
+        "Antes de gravar, monte um pequeno pacote de permissão. Registre de quem é a voz, para qual projeto, onde a música poderá aparecer e quem aprova a versão final. Use uma amostra seca e estável: dez a vinte segundos de fala ou canto claro, sem base alta, sem reverb pesado, sem ruído de plateia e sem outra voz. Se a verificação falhar, grave melhor em vez de tentar contornar o processo.",
+        "Com a voz pronta, escreva o prompt como um brief vocal. Um exemplo útil é: mid-tempo indie pop, warm close vocal, comfortable range, clear consonants, no artist imitation, no dramatic vibrato, chorus slightly wider than verse. Três ideias ajudam agora: teste uma linha curta antes da música inteira, mantenha a densidade da letra dentro do alcance natural e mude só uma variável entre drafts, como tempo, instrumentação ou energia vocal.",
+        "Revise a saída como identidade, não só como som. Alguém poderia achar que a pessoa cantou literalmente aquela take ou aprovou uma mensagem que não viu? Há pronúncia estranha, emoção fora de lugar ou letra que muda o sentido do consentimento? Guarde nome da amostra, nota de permissão, prompt, versões recusadas e aprovação final. Se usar kaivorMusic.AI, inclua os termos atuais na revisão antes de uso público ou pago: https://kaivormusic.ai/tos.",
+        "FAQ: posso usar a voz de um amigo? Só com permissão clara e documentada para aquele uso específico. Uma amostra basta? Às vezes, mas limpeza e estabilidade importam mais que duração. Preciso divulgar que usei IA? Confira a plataforma, o briefing do cliente e o contexto, especialmente se o resultado puder parecer uma performance real. A música fica automaticamente liberada para uso comercial? Não assuma isso. Voz, letra, imagem, samples e regras de plataforma precisam de revisão própria. A ideia prática: sua voz aproxima o demo, mas também aproxima a responsabilidade."
+      ]
+    },
+    "ru": {
+      "title": "Как создать AI-песню своим голосом без путаницы с правами",
+      "description": "Практический workflow для AI-песни своим голосом: согласие, чистый sample, vocal prompt, проверка идентичности и заметки перед релизом.",
+      "summary": "AI-песня своим голосом начинается не с загрузки файла, а с разрешения, чистого sample и внимательной проверки.",
+      "body": [
+        "Сценарий знакомый: есть личная идея песни, но нет времени на полноценную вокальную сессию. Короткий voice sample дает черновик, который звучит достаточно близко, и хочется сразу показать результат. Именно здесь появляются главные вопросы: кто разрешил использовать голос, не выглядит ли это как настоящая запись, и какие материалы еще требуют отдельного разрешения?",
+        "AI-песня своим голосом использует авторизованный образец голоса, чтобы направить сгенерированное vocal performance. Это не live recording и не право имитировать другого человека. Голос лучше считать чувствительным творческим материалом: у него есть владелец, цель, согласие, границы использования и review перед публикацией.",
+        "kaivorMusic.AI - инструмент AI music creation, который помогает creators и небольшим командам превращать prompts, lyrics, mood notes и style direction в слышимые drafts для сравнения. Если вы готовите песню с разрешенным голосом, начните с AI Song Generator и внимательно посмотрите текущий интерфейс до загрузки файлов: https://kaivormusic.ai/ai-song-generator.",
+        "Перед записью соберите небольшой пакет разрешений. Укажите, чей это голос, для какого проекта он используется, где может появиться песня и кто утверждает финальную версию. Записывайте сухой и ровный sample: десять-двадцать секунд ясной речи или пения, без громкой музыки, сильного reverb, шума комнаты и второго голоса. Если verification не проходит, запишите чище, а не ищите обходной путь.",
+        "Когда голос готов, prompt должен быть vocal brief, а не общим пожеланием. Рабочий пример: mid-tempo indie pop, warm close vocal, comfortable range, clear consonants, no artist imitation, no dramatic vibrato, chorus slightly wider than verse. Три приема помогают сразу: сначала проверьте одну короткую строку, держите lyrics в естественном диапазоне голоса и меняйте между draft только одну переменную - tempo, instrumentation или vocal energy.",
+        "Проверяйте результат как идентичность, а не только как музыку. Может ли слушатель решить, что человек действительно спел этот take или одобрил сообщение? Нет ли странной дикции, неверной эмоции или текста, который меняет смысл согласия? Храните имя sample, заметку о разрешении, prompt, отклоненные версии и финальное approval вместе. При использовании kaivorMusic.AI включайте актуальные условия в проверку перед публичным или платным использованием: https://kaivormusic.ai/tos.",
+        "FAQ: можно ли использовать голос друга? Только при ясном и документированном разрешении на конкретное использование. Достаточно ли одного sample? Иногда да, но чистота и стабильность важнее длины. Нужно ли раскрывать использование AI? Проверьте правила платформы, brief клиента и контекст, особенно если результат похож на реальное выступление. Можно ли автоматически выпускать песню коммерчески? Не исходите из этого. Голос, lyrics, images, samples и platform rules требуют отдельной проверки. Вывод: свой голос делает demo личнее, но и ответственность становится личнее."
+      ]
+    },
+    "zh": {
+      "title": "用自己的声音生成 AI 歌曲前，先把权限和边界理清",
+      "description": "一套实用流程：用自己的声音做 AI song 时，如何处理授权、干净音频样本、人声提示词、身份审查和发布记录。",
+      "summary": "用自己的声音做 AI song，不应从直接上传开始，而应先确认授权、音频质量和公开前审查。",
+      "body": [
+        "一个很常见的场景是：你有一首很私人的歌，但没有时间完整录一遍 vocal。上传一小段 voice sample 后，第一版 draft 已经有些像自己，于是很想马上发布。真正要问的问题也在这时出现：这段声音有没有明确授权，听众会不会误以为是真人演唱，这首歌里还有哪些歌词、图片或素材需要单独确认？",
+        "用自己的声音做 AI song，是用已授权的声音样本来引导生成的人声表现。它不是 live recording，也不代表可以模仿别人的声音。更稳妥的做法，是把 voice 当作敏感创作素材：它有提供者、使用目的、同意依据、使用边界，以及公开前必须完成的 review。",
+        "kaivorMusic.AI 是一款 AI 音乐创作工具，帮助创作者和小团队把 prompts、lyrics、mood notes、style direction 做成可以试听和比较的 draft。如果准备使用已授权的声音创作歌曲，可以从 AI Song Generator 开始，并在上传任何文件前仔细查看当前界面: https://kaivormusic.ai/ai-song-generator。",
+        "录制前，先做一个小型 permission packet。写清楚声音是谁的、用于哪个 project、歌曲可能出现在哪些渠道、最终版本由谁批准。样本要干净稳定：十到二十秒清晰说话或唱歌，没有很响的伴奏，没有重 reverb，没有人群噪声，也没有第二个人声。如果 verification 失败，就在更安静的环境重录，不要试图绕过检查。",
+        "声音准备好之后，prompt 要像 vocal brief，而不是愿望清单。一个可复用方向是: mid-tempo indie pop, warm close vocal, comfortable range, clear consonants, no artist imitation, no dramatic vibrato, chorus slightly wider than verse. 三个方法可以马上用：先用一句短 line 测试，不急着做整首歌；让歌词密度适合自然音域；每次 draft 只改一个变量，比如 tempo、instrumentation 或 vocal energy。",
+        "检查结果时，不只听音乐质量，也要听 identity。听众会不会以为这个人真的唱了这一版，或认可了某个没有审核过的 message？有没有发音奇怪、情绪不合适，或歌词改变了同意范围？把 sample name、consent note、prompt、被淘汰的版本和 final approval 放在一起。使用 kaivorMusic.AI 时，公开或付费使用前也要查看当前 terms: https://kaivormusic.ai/tos。",
+        "FAQ：可以用朋友的声音吗？只有在该具体用途有清楚、可记录的许可时才可以。一个 sample 够吗？有时够，但干净和稳定比长度更重要。需要说明使用了 AI 吗？要看平台规则、客户 brief 和具体语境，尤其是结果可能被误认为真人 performance 时。AI 歌曲自动适合商业发布吗？不要默认可以。声音、lyrics、images、samples 和 platform rules 都要分别检查。实用结论是：自己的声音能让 demo 更贴近，也会让责任更贴近。"
+      ]
+    }
+  }
+}
