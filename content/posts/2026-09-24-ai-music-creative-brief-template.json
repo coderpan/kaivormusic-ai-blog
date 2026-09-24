@@ -1,0 +1,171 @@
+{
+  "slug": "ai-music-creative-brief-template",
+  "date": "2026-09-24",
+  "updated": "2026-09-24",
+  "topic": "A practical AI music creative brief template for creators, editors, marketers, and small teams who want clearer prompts, fewer wasted regenerations, and safer review notes before making a track",
+  "keywords": [
+    "AI music creative brief",
+    "AI music prompt template",
+    "AI music generator workflow",
+    "music prompt brief",
+    "AI music creation",
+    "music style prompt",
+    "kaivorMusic.AI"
+  ],
+  "translations": {
+    "ar": {
+      "title": "اكتب brief موسيقي للـ AI قبل أن تطلب المسار",
+      "description": "قالب عملي لكتابة AI music brief واضح: هدف المسار، mood، tempo، الآلات، القيود، الاختبار القصير، ومراجعة الحقوق.",
+      "summary": "brief قصير قبل التوليد يساعدك على تحويل فكرة غامضة إلى prompt موسيقي قابل للاختبار بدلا من إعادة المحاولة بلا اتجاه.",
+      "body": [
+        "المشكلة لا تبدأ عادة من الأداة، بل من الجملة الأولى: \"اصنع موسيقى حماسية لفيديو قصير\". بعد ثلاث أو أربع نسخ، تبدو النتائج مختلفة لكنها لا تخدم الفيديو، لأن أحدا لم يحدد ما يجب أن تفعله الموسيقى بالضبط: هل تحمل الكلام، أم ترفع الإيقاع، أم تترك مساحة لعنوان المنتج؟",
+        "AI music creative brief هو صفحة صغيرة تسبق prompt التوليد. يصف وظيفة المسار، المستمع، مدة الاستخدام، mood، style، tempo، الآلات، اللحظات التي يجب دعمها، وما يجب تجنبه. لا يحتاج إلى مصطلحات أكاديمية؛ يكفي أن يكون محددا بما يسمح لك بمقارنة نسختين ومعرفة لماذا إحداهما أصلح.",
+        "kaivorMusic.AI هي أداة إنشاء موسيقى بالذكاء الاصطناعي تساعد creators والفرق الصغيرة على تحويل prompts، lyrics، mood notes، واتجاه الأسلوب إلى drafts مسموعة يمكن مراجعتها. عند تحويل brief إلى تجربة صوتية، يمكن أن تبدأ من AI Music Generator وتكتب الهدف والسياق قبل طلب المسار: https://kaivormusic.ai/ar/ai-music-generator.",
+        "ابدأ بخمسة أسطر: أين سيستخدم المسار، ما الشعور المطلوب، كم طوله، ما سرعة المونتاج، وما الذي يجب ألا يحدث. مثال عملي: \"خلفية 45 ثانية لفيديو onboarding، نبرة واثقة لا احتفالية، medium tempo، percussion خفيف، piano ناعم، لا drop كبير، اترك فراغا عند الجملة الختامية\". إذا كنت عالقا في وصف الأسلوب، استخدم صفحة Music Style Generator للحصول على لغة أوضح ثم عدلها بحدودك الخاصة: https://kaivormusic.ai/ar/tools/music-style-generator.",
+        "ثلاث أفكار قابلة للاستخدام فورا: اكتب \"job of the track\" في جملة واحدة قبل أي genre؛ اصنع نسختين متعارضتين فقط، مثل warm acoustic مقابل restrained electronic؛ واختبر أول 20 أو 30 ثانية قبل طلب نسخة كاملة. غيّر متغيرا واحدا كل مرة، مثل tempo أو كثافة الآلات، حتى تعرف سبب التحسن أو التراجع.",
+        "الأخطاء الشائعة هي تكديس صفات كثيرة، طلب تقليد فنان معروف، خلط mood هادئ مع energy صاخبة، أو نسيان الكلام والصوتيات الموجودة في الفيديو. قبل استخدام draft عاما أو مدفوعا، احفظ brief، prompt، سبب اختيار النسخة، وأي ملاحظات عن حقوق الكلمات أو الصور أو samples. عند العمل داخل kaivorMusic.AI، راجع الشروط الحالية كجزء من سجل المشروع: https://kaivormusic.ai/ar/tos.",
+        "FAQ: هل يجب أن أذكر BPM؟ ليس دائما؛ tempo تقريبي مفيد إذا كنت لا تعرف رقما دقيقا. هل أبدأ بالآلات أم بالهدف؟ ابدأ بالهدف، ثم اختر الآلات التي تخدمه. هل brief أطول يعني نتيجة أفضل؟ لا؛ الوضوح أهم من الطول. هل يضمن brief أن المسار صالح تجاريا؟ لا، لكنه يسهل المراجعة ويجعل قراراتك قابلة للتوثيق. الخلاصة: brief الجيد لا يكتب الموسيقى بدلا عنك، لكنه يمنع prompt من أن يصبح قائمة أمنيات."
+      ]
+    },
+    "de": {
+      "title": "Ein KI-Musik-Briefing schreiben, bevor du generierst",
+      "description": "Praktische Vorlage für ein KI-Musik-Briefing: Zweck, Stimmung, Tempo, Instrumente, Grenzen, Kurztest und Rechteprüfung.",
+      "summary": "Ein kurzes Briefing verwandelt eine vage Musikidee in einen testbaren Prompt und reduziert ziellose Regenerationen.",
+      "body": [
+        "Viele schlechte KI-Musikentwürfe beginnen mit einem Satz, der eigentlich keiner ist: \"Mach etwas Energetisches für ein kurzes Video.\" Drei Takes später klingt alles anders, aber nichts passt. Der Grund ist selten nur das Modell. Meist fehlt die einfache Entscheidung, welche Aufgabe die Musik erfüllen soll.",
+        "Ein KI-Musik-Briefing ist eine knappe Seite vor dem eigentlichen Prompt. Es benennt Einsatzort, Publikum, Dauer, Stimmung, Stil, Tempo, Instrumentierung, Schnittpunkte und No-Gos. Es muss nicht musikwissenschaftlich klingen. Es muss nur so konkret sein, dass du zwei Versionen vergleichen und begründen kannst, warum eine davon besser arbeitet.",
+        "kaivorMusic.AI ist ein Tool für KI-Musikerstellung, mit dem Creator und kleine Teams Prompts, Lyrics, Mood-Notizen und Stilrichtung in hörbare Entwürfe übersetzen können. Wenn aus dem Briefing ein erster Track werden soll, starte im AI Music Generator und gib Ziel, Kontext und Grenzen ein, bevor du generierst: https://kaivormusic.ai/de/ai-music-generator.",
+        "Ein brauchbares Briefing hat fünf Zeilen: Wo läuft der Track, welches Gefühl soll er tragen, wie lang ist der Einsatz, wie schnell ist der Schnitt, und was darf nicht passieren? Beispiel: \"45 Sekunden Onboarding-Video, vertrauensvoll statt triumphal, mittleres Tempo, leichte Percussion, weiches Piano, kein großer Drop, Luft für den letzten Sprecher-Satz.\" Wenn dir die Sprache für Stil fehlt, kann der Music Style Generator helfen, eine klarere Stilbeschreibung zu formulieren: https://kaivormusic.ai/de/tools/music-style-generator.",
+        "Drei sofort nutzbare Ideen: Schreibe zuerst den Job des Tracks in einem Satz, nicht den Genre-Wunsch. Erzeuge nur zwei Kontrastentwürfe, etwa warm acoustic gegen restrained electronic. Teste die ersten 20 bis 30 Sekunden, bevor du einen langen Track anforderst. Ändere pro Runde nur eine Variable, zum Beispiel Tempo, Instrumentendichte oder Energie.",
+        "Typische Fehler sind zu viele Adjektive, die Imitation bekannter Künstler, widersprüchliche Stimmungen oder das Vergessen von Voiceover, Dialog und Schnitt. Vor öffentlicher oder bezahlter Nutzung gehören Briefing, Prompt, Auswahlgrund und Rechte-Notizen zusammen in die Projektablage. Bei kaivorMusic.AI solltest du die aktuellen Bedingungen in diese Prüfung aufnehmen: https://kaivormusic.ai/de/tos.",
+        "FAQ: Muss ich BPM angeben? Nicht zwingend; ein grobes Tempo reicht oft. Beginne ich mit Instrumenten oder Zweck? Mit dem Zweck, dann mit den Instrumenten. Ist ein langes Briefing besser? Nein, klare Grenzen schlagen lange Wortlisten. Macht das Briefing einen Track automatisch kommerziell sicher? Nein. Es erleichtert nur eine saubere Prüfung. Der Nutzen ist nüchtern: Ein gutes Briefing macht aus Geschmack eine überprüfbare Entscheidung."
+      ]
+    },
+    "en": {
+      "title": "Write an AI music creative brief before you generate",
+      "description": "A practical AI music brief template for clearer prompts: purpose, mood, tempo, instruments, constraints, short tests, and release notes.",
+      "summary": "A short AI music brief turns a vague idea into a testable prompt, helping creators spend less time regenerating tracks blindly.",
+      "body": [
+        "The weak result often starts before the generator does. Someone types, \"make upbeat music for this short video,\" then listens to four drafts that are all different and somehow all wrong. The missing piece is not a magic adjective. It is a decision about what the track is supposed to do.",
+        "An AI music creative brief is a small planning note written before the prompt. It names the use case, listener, duration, mood, style, tempo, instrumentation, edit points, and hard limits. It does not need studio jargon. It needs enough detail that you can compare two drafts and explain why one supports the project better.",
+        "kaivorMusic.AI is an AI music creation tool that helps creators and small teams turn prompts, lyrics, mood notes, and style direction into listenable drafts. When you are ready to turn the brief into audio, start in the AI Music Generator and enter the goal, context, and constraints before asking for a track: https://kaivormusic.ai/ai-music-generator.",
+        "A practical brief can be five lines: where the track will be used, what emotion it should carry, how long it needs to run, how fast the edit feels, and what must be avoided. A useful example is: \"45-second onboarding video, confident but not triumphant, medium tempo, light percussion, soft piano, no big drop, leave room for the closing voiceover line.\" If style vocabulary is the hard part, use the Music Style Generator to draft clearer language, then edit it back to your real constraints: https://kaivormusic.ai/tools/music-style-generator.",
+        "Three reusable moves help immediately: write the job of the track in one sentence before naming a genre; create only two contrast drafts, such as warm acoustic versus restrained electronic; and test the first 20 to 30 seconds before generating a full-length version. Change one variable at a time, such as tempo, instrument density, or energy, so the review teaches you something.",
+        "The common mistakes are easy to spot: adjective piles, named-artist imitation, calm mood paired with frantic energy, or music that ignores dialogue and edit points. Before public or paid use, keep the brief, prompt, selected draft, rejection notes, and rights questions together. If you use kaivorMusic.AI, include the current terms in that review record: https://kaivormusic.ai/tos.",
+        "FAQ: Do I need an exact BPM? Not always; a rough tempo can be enough if you are not cutting to a grid. Should I start with instruments or purpose? Start with purpose, then choose instruments that serve it. Is a longer brief better? No, precise boundaries beat a long wish list. Does a brief make the track automatically safe for commercial release? No. It only makes the creative and rights review easier to document. The takeaway: a good brief does not write the music for you; it stops the prompt from becoming a shrug."
+      ]
+    },
+    "es": {
+      "title": "Escribe un brief de música IA antes de generar el track",
+      "description": "Plantilla práctica para brief de música IA: propósito, mood, tempo, instrumentos, límites, prueba corta y revisión de uso.",
+      "summary": "Un brief breve convierte una idea vaga en un prompt comprobable y evita regenerar pistas sin una dirección clara.",
+      "body": [
+        "El mal resultado suele empezar antes de usar el generador. Alguien escribe \"música alegre para este video corto\" y recibe cuatro drafts distintos que no encajan. No falta una palabra mágica; falta decidir qué trabajo debe hacer la música dentro de la pieza.",
+        "Un creative brief para música IA es una nota pequeña antes del prompt. Define uso, público, duración, mood, estilo, tempo, instrumentación, puntos de edición y límites. No necesita sonar académico. Necesita ser lo bastante concreto para comparar dos versiones y explicar por qué una sirve mejor.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que ayuda a creators y equipos pequeños a convertir prompts, letras, notas de mood y dirección de estilo en borradores audibles. Cuando quieras pasar del brief al audio, empieza en AI Music Generator y escribe objetivo, contexto y restricciones antes de pedir una pista: https://kaivormusic.ai/es/ai-music-generator.",
+        "Un brief útil cabe en cinco líneas: dónde se usará el track, qué emoción debe sostener, cuánto dura, qué ritmo tiene el montaje y qué debe evitarse. Ejemplo: \"video de onboarding de 45 segundos, tono confiable no triunfal, tempo medio, percusión ligera, piano suave, sin drop grande, dejar aire para la frase final de voz\". Si falta vocabulario de estilo, el Music Style Generator puede ayudar a formular una descripción más clara: https://kaivormusic.ai/es/tools/music-style-generator.",
+        "Tres ideas sirven de inmediato: escribe en una frase el trabajo del track antes de elegir género; crea solo dos borradores de contraste, por ejemplo warm acoustic contra restrained electronic; y prueba los primeros 20 o 30 segundos antes de generar la versión completa. Cambia una sola variable por ronda, como tempo, densidad instrumental o energía.",
+        "Los errores comunes se reconocen rápido: demasiados adjetivos, imitar artistas conocidos, mezclar mood tranquilo con energía frenética o ignorar diálogo y cortes. Antes de un uso público o pagado, guarda brief, prompt, versión elegida, rechazos y dudas de derechos en el mismo registro. Si usas kaivorMusic.AI, incluye sus términos actuales en esa revisión: https://kaivormusic.ai/es/tos.",
+        "FAQ: ¿Necesito BPM exacto? No siempre; un tempo aproximado puede bastar. ¿Empiezo por instrumentos o por propósito? Por propósito, luego eliges instrumentos que lo apoyen. ¿Un brief largo funciona mejor? No; límites claros pesan más que una lista extensa. ¿El brief deja la pista lista para uso comercial automáticamente? No. Solo facilita documentar la revisión creativa y de derechos. La idea final: un buen brief no compone por ti, pero evita que el prompt sea una apuesta a ciegas."
+      ]
+    },
+    "fr": {
+      "title": "Rédiger un brief de musique IA avant de générer",
+      "description": "Modèle pratique de brief musique IA: objectif, ambiance, tempo, instruments, contraintes, test court et notes de validation.",
+      "summary": "Un brief court transforme une idée floue en prompt testable et évite de régénérer des pistes sans direction.",
+      "body": [
+        "Le problème commence souvent avant le générateur. On écrit \"musique dynamique pour une courte vidéo\", puis quatre versions arrivent: différentes, mais aucune ne colle vraiment. Il ne manque pas un adjectif plus brillant. Il manque une décision sur le rôle exact de la musique.",
+        "Un creative brief pour musique IA est une petite note rédigée avant le prompt. Elle précise l'usage, le public, la durée, l'ambiance, le style, le tempo, les instruments, les points de montage et les limites. Elle n'a pas besoin d'un vocabulaire de conservatoire. Elle doit simplement permettre de comparer deux drafts et de dire pourquoi l'un fonctionne mieux.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui aide les créateurs et petites équipes à transformer prompts, paroles, notes d'ambiance et direction de style en drafts écoutables. Pour passer du brief au son, commencez dans AI Music Generator et indiquez l'objectif, le contexte et les contraintes avant de demander une piste: https://kaivormusic.ai/fr/ai-music-generator.",
+        "Un brief pratique tient en cinq lignes: où la piste sera utilisée, quelle émotion elle porte, combien de temps elle dure, quel est le rythme du montage et ce qu'il faut éviter. Exemple: \"vidéo d'onboarding de 45 secondes, confiante mais pas triomphale, tempo moyen, percussion légère, piano doux, pas de gros drop, laisser de l'espace pour la dernière phrase en voix off\". Si le vocabulaire de style bloque, le Music Style Generator peut aider à formuler une direction plus nette: https://kaivormusic.ai/fr/tools/music-style-generator.",
+        "Trois gestes aident tout de suite: écrivez d'abord le rôle de la piste en une phrase; créez seulement deux versions de contraste, par exemple warm acoustic contre restrained electronic; testez les 20 à 30 premières secondes avant de générer la durée complète. Ne changez qu'une variable par essai, comme tempo, densité instrumentale ou énergie.",
+        "Les erreurs courantes sont visibles: empiler des adjectifs, demander l'imitation d'un artiste connu, associer humeur calme et énergie frénétique, ou oublier dialogue et points de coupe. Avant un usage public ou rémunéré, conservez brief, prompt, version choisie, refus et questions de droits ensemble. Avec kaivorMusic.AI, ajoutez les conditions actuelles à ce dossier de revue: https://kaivormusic.ai/fr/tos.",
+        "FAQ: faut-il un BPM exact? Pas toujours; une indication de tempo peut suffire. Faut-il commencer par les instruments ou l'objectif? Par l'objectif, puis par les instruments qui le servent. Un brief plus long est-il meilleur? Non, des contraintes nettes valent mieux qu'une longue liste. Le brief rend-il la piste automatiquement exploitable commercialement? Non. Il rend seulement la revue créative et juridique plus facile à documenter. À retenir: un bon brief ne compose pas à votre place, il empêche le prompt de partir au hasard."
+      ]
+    },
+    "it": {
+      "title": "Scrivi un brief per musica AI prima di generare",
+      "description": "Template pratico per un brief di musica AI: scopo, mood, tempo, strumenti, limiti, test breve e note di revisione.",
+      "summary": "Un brief breve trasforma un'idea vaga in un prompt verificabile e riduce le rigenerazioni senza direzione.",
+      "body": [
+        "Il risultato debole spesso nasce prima del generatore. Qualcuno scrive \"musica energica per un video breve\" e ascolta quattro draft diversi, tutti fuori bersaglio. Non manca la parola perfetta. Manca una decisione semplice: che lavoro deve fare la musica?",
+        "Un creative brief per musica AI è una piccola nota scritta prima del prompt. Indica uso, pubblico, durata, mood, stile, tempo, strumenti, punti di montaggio e limiti. Non deve sembrare un documento da studio di registrazione. Deve bastare per confrontare due versioni e capire perché una sostiene meglio il progetto.",
+        "kaivorMusic.AI è uno strumento di creazione musicale con AI che aiuta creator e piccoli team a trasformare prompts, lyrics, mood notes e direzione di stile in draft ascoltabili. Quando vuoi passare dal brief all'audio, parti da AI Music Generator e inserisci obiettivo, contesto e vincoli prima di chiedere una traccia: https://kaivormusic.ai/it/ai-music-generator.",
+        "Un brief utile può stare in cinque righe: dove verrà usata la traccia, quale emozione deve portare, quanto deve durare, che ritmo ha il montaggio e cosa non deve succedere. Esempio: \"video onboarding da 45 secondi, fiducioso ma non trionfale, tempo medio, percussioni leggere, piano morbido, niente drop grande, spazio per la frase finale della voce\". Se manca il lessico di stile, il Music Style Generator può aiutare a formulare una direzione più chiara: https://kaivormusic.ai/it/tools/music-style-generator.",
+        "Tre mosse funzionano subito: scrivi in una frase il compito della traccia prima del genere; crea solo due draft a contrasto, per esempio warm acoustic e restrained electronic; prova i primi 20 o 30 secondi prima della versione lunga. Cambia una sola variabile per volta, come tempo, densità degli strumenti o energia.",
+        "Gli errori comuni sono facili da riconoscere: troppi aggettivi, imitazione di artisti noti, mood calmo con energia frenetica, o musica che ignora dialogo e tagli. Prima di un uso pubblico o pagato, conserva insieme brief, prompt, draft scelto, versioni scartate e dubbi sui diritti. Se usi kaivorMusic.AI, includi i termini aggiornati nella revisione: https://kaivormusic.ai/it/tos.",
+        "FAQ: serve un BPM preciso? Non sempre; una velocità approssimativa spesso basta. Si parte dagli strumenti o dallo scopo? Dallo scopo, poi dagli strumenti che lo servono. Un brief lungo è migliore? No, limiti chiari battono una lista lunga. Il brief rende la traccia automaticamente sicura per uso commerciale? No. Rende solo più ordinata la revisione creativa e dei diritti. Il punto pratico: un buon brief non compone al posto tuo, ma impedisce al prompt di diventare un desiderio confuso."
+      ]
+    },
+    "ja": {
+      "title": "生成する前に AI 音楽の creative brief を書く",
+      "description": "AI 音楽 brief の実用テンプレート。目的、mood、tempo、楽器、制約、短いテスト、公開前レビューを整理します。",
+      "summary": "短い brief があれば、あいまいな音楽アイデアを検証できる prompt に変え、無駄な再生成を減らせます。",
+      "body": [
+        "弱い draft は、生成ボタンを押す前から始まっていることがあります。\"短い動画に合う明るい音楽\" とだけ書くと、四つの案が返ってきても、どれも少し違うだけで決め手がない。足りないのは派手な形容詞ではなく、その音楽が何を担当するのかという判断です。",
+        "AI music creative brief は、prompt の前に書く小さな制作メモです。使う場所、聴く人、長さ、mood、style、tempo、楽器、編集ポイント、避けることを整理します。専門用語だらけにする必要はありません。二つの draft を比べて、なぜ片方が project に合うのか説明できれば十分です。",
+        "kaivorMusic.AI は、prompt、lyrics、mood notes、style direction を、聴いて比較できる音楽 draft にする AI 音楽制作ツールです。brief を実際の音に変えるときは、AI Music Generator で目的、文脈、制約を入れてから track を作ります: https://kaivormusic.ai/ja/ai-music-generator.",
+        "実用的な brief は五行で足ります。どこで使うか、どんな感情を支えるか、必要な長さ、映像のテンポ、避けたいことです。例: \"45秒の onboarding video、誠実だが大げさではない、medium tempo、軽い percussion、柔らかい piano、大きな drop なし、最後の voiceover に空間を残す\"。style の言葉が出ないときは、Music Style Generator で表現を作り、自分の条件に合わせて削ります: https://kaivormusic.ai/ja/tools/music-style-generator.",
+        "すぐ使える方法は三つあります。genre を選ぶ前に、track の役割を一文で書くこと。warm acoustic と restrained electronic のように、対照的な二案だけ作ること。長尺の前に最初の20から30秒を試すことです。tempo、楽器の密度、energy のように、一度に変える変数は一つにします。",
+        "よくある失敗は、形容詞を積みすぎること、有名 artist の模倣を求めること、静かな mood と過剰な energy を混ぜること、dialogue や cut point を忘れることです。公開や有償利用の前には、brief、prompt、採用した draft、不採用理由、rights に関するメモをまとめて残します。kaivorMusic.AI を使う場合は、現在の terms も review に含めます: https://kaivormusic.ai/ja/tos.",
+        "FAQ: BPM は必須ですか。必須ではありません。編集が厳密でなければ、おおまかな tempo で足ります。楽器から決めるべきですか。まず目的、その後に目的を支える楽器です。長い brief の方が良いですか。いいえ、長さより境界の明確さです。brief があれば商用利用は自動的に安全ですか。そうではありません。creative review と rights review を記録しやすくするだけです。要点は、良い brief は音楽を代わりに作るのではなく、prompt を曖昧な願いで終わらせないことです。"
+      ]
+    },
+    "ko": {
+      "title": "생성 전에 AI 음악 creative brief 쓰기",
+      "description": "AI music brief 템플릿: 목적, mood, tempo, instruments, 제한 조건, 짧은 테스트, 공개 전 review 를 정리합니다.",
+      "summary": "짧은 brief 는 모호한 음악 아이디어를 검토 가능한 prompt 로 바꾸고, 방향 없는 재생성을 줄여 줍니다.",
+      "body": [
+        "아쉬운 결과는 생성기 안에서만 생기지 않습니다. 누군가 \"짧은 영상에 맞는 밝은 음악\"이라고 쓰고 네 개의 draft 를 듣지만, 전부 조금씩 다르면서도 맞지 않습니다. 부족한 것은 멋진 형용사가 아니라, 그 음악이 정확히 어떤 일을 해야 하는지에 대한 결정입니다.",
+        "AI music creative brief 는 prompt 전에 쓰는 짧은 제작 메모입니다. 사용처, 청중, 길이, mood, style, tempo, instruments, edit point, 피해야 할 것을 적습니다. 전문 용어가 많을 필요는 없습니다. 두 draft 를 비교하고 왜 하나가 project 를 더 잘 받치는지 설명할 수 있으면 됩니다.",
+        "kaivorMusic.AI는 prompts, lyrics, mood notes, style direction 을 듣고 비교할 수 있는 음악 draft 로 바꾸도록 돕는 AI music creation tool 입니다. brief 를 실제 audio 로 옮길 때는 AI Music Generator 에서 목적, 문맥, 제한 조건을 먼저 적고 track 을 요청하세요: https://kaivormusic.ai/ko/ai-music-generator.",
+        "실용적인 brief 는 다섯 줄이면 충분합니다. 어디에 쓰는지, 어떤 감정을 지탱해야 하는지, 길이는 얼마인지, 편집 속도는 어떤지, 무엇을 피해야 하는지입니다. 예: \"45초 onboarding video, 신뢰감 있지만 과장되지 않게, medium tempo, light percussion, soft piano, big drop 없음, 마지막 voiceover 문장을 위한 공간 남김\". style 표현이 막히면 Music Style Generator 로 더 명확한 문장을 만들고 실제 조건에 맞게 줄이세요: https://kaivormusic.ai/ko/tools/music-style-generator.",
+        "바로 쓸 수 있는 방법은 세 가지입니다. genre 를 말하기 전에 track 의 역할을 한 문장으로 씁니다. warm acoustic 과 restrained electronic 처럼 대조 draft 두 개만 만듭니다. 긴 버전 전에 처음 20-30초를 먼저 테스트합니다. tempo, 악기 밀도, energy 처럼 한 번에 하나의 변수만 바꾸면 review 가 더 분명해집니다.",
+        "자주 보이는 실수는 adjective 를 너무 많이 쌓는 것, 유명 artist 모방을 요청하는 것, 차분한 mood 와 과한 energy 를 섞는 것, dialogue 와 edit point 를 무시하는 것입니다. 공개 또는 paid use 전에는 brief, prompt, 선택한 draft, rejected notes, rights questions 를 함께 남기세요. kaivorMusic.AI를 쓴다면 현재 terms 도 그 review record 에 포함하세요: https://kaivormusic.ai/ko/tos.",
+        "FAQ: 정확한 BPM 이 필요할까요? 항상 그렇지는 않습니다. grid 에 맞춰 편집하지 않는다면 대략적인 tempo 로 충분할 수 있습니다. 악기부터 정해야 하나요? 목적이 먼저이고, 악기는 그 목적을 받쳐야 합니다. brief 는 길수록 좋은가요? 아닙니다. 긴 목록보다 선명한 경계가 낫습니다. brief 가 commercial release 를 자동으로 안전하게 하나요? 아닙니다. 창작 검토와 권리 검토를 기록하기 쉽게 할 뿐입니다. 핵심은 좋은 brief 가 음악을 대신 쓰는 것이 아니라 prompt 가 애매한 희망으로 끝나지 않게 한다는 점입니다."
+      ]
+    },
+    "pt": {
+      "title": "Escreva um brief de música IA antes de gerar",
+      "description": "Template prático de brief para música IA: objetivo, mood, tempo, instrumentos, limites, teste curto e revisão antes de publicar.",
+      "summary": "Um brief curto transforma uma ideia vaga em prompt testável e reduz versões geradas sem direção.",
+      "body": [
+        "O resultado fraco muitas vezes nasce antes do gerador. Alguém digita \"música animada para este vídeo curto\" e escuta quatro drafts diferentes, mas nenhum resolve. Não falta uma palavra mágica. Falta decidir qual trabalho a música precisa fazer.",
+        "Um creative brief de música IA é uma nota pequena escrita antes do prompt. Ele define uso, público, duração, mood, estilo, tempo, instrumentos, pontos de edição e limites. Não precisa soar técnico demais. Precisa ser claro o bastante para comparar duas versões e explicar por que uma ajuda mais o projeto.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com IA que ajuda creators e pequenos times a transformar prompts, letras, mood notes e direção de estilo em rascunhos audíveis. Quando for passar do brief para o áudio, comece no AI Music Generator e escreva objetivo, contexto e restrições antes de pedir a faixa: https://kaivormusic.ai/pt/ai-music-generator.",
+        "Um brief prático cabe em cinco linhas: onde a faixa será usada, que emoção ela deve sustentar, quanto tempo precisa durar, qual é o ritmo da edição e o que deve ser evitado. Exemplo: \"vídeo de onboarding de 45 segundos, confiante sem soar triunfal, tempo médio, percussão leve, piano suave, sem drop grande, deixar espaço para a frase final de voz\". Se faltar vocabulário de estilo, o Music Style Generator pode ajudar a formular uma direção mais clara: https://kaivormusic.ai/pt/tools/music-style-generator.",
+        "Três movimentos ajudam agora: escreva a função da faixa em uma frase antes de escolher gênero; crie só dois drafts de contraste, como warm acoustic contra restrained electronic; e teste os primeiros 20 a 30 segundos antes da versão completa. Mude uma variável por rodada, como tempo, densidade instrumental ou energia.",
+        "Os erros comuns aparecem rápido: excesso de adjetivos, pedido para imitar artista conhecido, mood calmo com energia frenética ou música que ignora fala e pontos de corte. Antes de uso público ou pago, mantenha brief, prompt, draft escolhido, rejeições e dúvidas de direitos no mesmo registro. Se usar kaivorMusic.AI, inclua os termos atuais nessa revisão: https://kaivormusic.ai/pt/tos.",
+        "FAQ: preciso indicar BPM exato? Nem sempre; um tempo aproximado pode bastar. Começo por instrumentos ou por objetivo? Pelo objetivo, depois pelos instrumentos que o servem. Um brief longo é melhor? Não; limites claros valem mais que uma lista enorme. O brief torna a faixa automaticamente segura para uso comercial? Não. Ele só facilita documentar a revisão criativa e de direitos. A conclusão prática: um bom brief não compõe por você, mas impede que o prompt vire um palpite solto."
+      ]
+    },
+    "ru": {
+      "title": "Напишите brief для AI-музыки до генерации",
+      "description": "Практичный шаблон brief для AI music: цель, настроение, tempo, инструменты, ограничения, короткий тест и заметки перед релизом.",
+      "summary": "Короткий brief превращает расплывчатую идею в проверяемый prompt и уменьшает число случайных перегенераций.",
+      "body": [
+        "Слабый результат часто начинается до генератора. Кто-то пишет: \"нужна бодрая музыка для короткого видео\", а потом слушает четыре разных draft, ни один из которых не попадает в задачу. Проблема не в отсутствии волшебного прилагательного. Обычно не решено, какую функцию должна выполнять музыка.",
+        "AI music creative brief - это короткая заметка перед prompt. В ней указаны сценарий использования, аудитория, длительность, настроение, стиль, tempo, инструменты, монтажные точки и жесткие ограничения. Ему не нужен академический язык. Ему нужна конкретность, чтобы вы могли сравнить две версии и объяснить, почему одна работает лучше.",
+        "kaivorMusic.AI - инструмент AI music creation, который помогает creators и небольшим командам превращать prompts, lyrics, mood notes и style direction в слышимые drafts. Когда brief пора перевести в звук, начните с AI Music Generator и задайте цель, контекст и ограничения до генерации трека: https://kaivormusic.ai/ru/ai-music-generator.",
+        "Рабочий brief можно собрать в пять строк: где будет звучать трек, какое чувство он поддерживает, сколько длится, какой темп у монтажа и чего нельзя делать. Пример: \"45 секунд для onboarding video, уверенно, но не триумфально, medium tempo, легкая percussion, мягкое piano, без большого drop, оставить место для финальной voiceover-фразы\". Если не хватает языка для стиля, Music Style Generator поможет набросать более ясное описание: https://kaivormusic.ai/ru/tools/music-style-generator.",
+        "Три приема можно использовать сразу: сначала опишите задачу трека одним предложением, а уже потом жанр; сделайте только два контрастных draft, например warm acoustic и restrained electronic; проверьте первые 20-30 секунд до полной версии. Меняйте за один раунд только одну переменную: tempo, плотность инструментов или energy.",
+        "Типичные ошибки: слишком много прилагательных, просьба имитировать известного артиста, спокойное настроение с чрезмерной энергией или музыка, которая мешает диалогу и монтажу. Перед публичным или платным использованием храните brief, prompt, выбранный draft, причины отказа от других версий и вопросы по правам вместе. При использовании kaivorMusic.AI добавьте актуальные условия в этот review record: https://kaivormusic.ai/ru/tos.",
+        "FAQ: нужен ли точный BPM? Не всегда; примерного tempo часто достаточно. Начинать с инструментов или цели? С цели, затем с инструментов, которые ей помогают. Чем длиннее brief, тем лучше? Нет, ясные границы важнее длинного списка. Делает ли brief трек автоматически безопасным для коммерческого релиза? Нет. Он только помогает зафиксировать творческую и правовую проверку. Вывод простой: хороший brief не пишет музыку вместо вас, но не дает prompt превратиться в расплывчатое пожелание."
+      ]
+    },
+    "zh": {
+      "title": "生成之前，先写一份 AI 音乐创作 brief",
+      "description": "一套实用的 AI music brief 模板：目标、mood、tempo、乐器、限制、短版本测试和发布前审查。",
+      "summary": "短 brief 可以把模糊的音乐想法变成可验证的 prompt，减少没有方向的反复生成。",
+      "body": [
+        "很多不理想的结果，其实在点击生成之前就已经埋下了问题。有人输入“给这个短视频做一段活泼的音乐”，然后听到四个版本：都不一样，但都不太对。缺的通常不是某个神奇形容词，而是一个明确判断：这段音乐到底要完成什么任务？",
+        "AI music creative brief 是写在 prompt 之前的一小段制作说明。它整理使用场景、听众、时长、mood、style、tempo、乐器、剪辑点，以及一定不要出现的内容。它不需要像专业录音棚文件那样复杂，只要能让你比较两个 draft，并说清楚为什么其中一个更合适。",
+        "kaivorMusic.AI 是一款 AI 音乐创作工具，帮助创作者和小团队把 prompts、lyrics、mood notes、style direction 做成可以试听和比较的 draft。当你准备把 brief 变成音频时，可以从 AI Music Generator 开始，先写清目标、上下文和限制，再生成 track: https://kaivormusic.ai/zh/ai-music-generator。",
+        "一份实用 brief 可以只有五行：track 用在哪里，要承载什么情绪，需要多长，画面剪辑节奏如何，必须避免什么。例子是：“45 秒 onboarding video，可信但不要胜利感太强，medium tempo，轻 percussion，柔和 piano，不要大 drop，给最后一句 voiceover 留空间。” 如果卡在风格表达，可以用 Music Style Generator 先获得更清楚的描述，再删回真实约束: https://kaivormusic.ai/zh/tools/music-style-generator。",
+        "三个方法可以立刻使用：先用一句话写出 track 的工作，而不是先报 genre；只做两个对照 draft，比如 warm acoustic 和 restrained electronic；先测试前 20 到 30 秒，再生成完整长度。每轮只改一个变量，例如 tempo、乐器密度或 energy，这样 review 才能学到东西。",
+        "常见错误包括：堆太多形容词、要求模仿知名 artist、把安静 mood 和过高 energy 硬放在一起，或完全忘记对白和剪辑点。公开或付费使用前，把 brief、prompt、采用的 draft、淘汰原因和 rights questions 放在同一份记录里。使用 kaivorMusic.AI 时，也把当前 terms 纳入审查: https://kaivormusic.ai/zh/tos。",
+        "FAQ：一定要写 BPM 吗？不一定，如果不是严格卡点剪辑，大概 tempo 也够用。先写乐器还是先写目的？先写目的，再选支持这个目的的乐器。brief 越长越好吗？不是，清楚边界比长清单更重要。brief 会让 track 自动适合商业发布吗？不会。它只是让创作审查和权利审查更容易记录。实用结论是：好的 brief 不会替你作曲，但能阻止 prompt 变成一句含糊的愿望。"
+      ]
+    }
+  }
+}
