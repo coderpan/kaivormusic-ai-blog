@@ -1,0 +1,171 @@
+{
+  "slug": "ai-music-video-audio-first-workflow",
+  "date": "2026-09-25",
+  "updated": "2026-09-25",
+  "topic": "A practical comparison workflow for deciding whether to create the AI music draft, storyboard, or music-video proof first before spending time on full generated visuals",
+  "keywords": [
+    "AI music video generator workflow",
+    "AI music video",
+    "audio first music video",
+    "AI music generator",
+    "music video storyboard",
+    "AI music creation",
+    "kaivorMusic.AI"
+  ],
+  "translations": {
+    "ar": {
+      "title": "هل تبدأ بالموسيقى أم بالفيديو في AI music video؟",
+      "description": "دليل عملي لاختيار workflow مناسب: audio-first، video-first، أو format-first قبل إنشاء فيديو موسيقي كامل بالذكاء الاصطناعي.",
+      "summary": "اختيار نقطة البداية الصحيحة يمنعك من صنع فيديو جميل لمسار غير ثابت، أو مسار طويل لا يخدم اللقطة التي تحتاجها.",
+      "body": [
+        "يحدث الخطأ بسرعة: لديك chorus جيد، صورة غلاف جذابة، وفكرة لمقطع رأسي قصير. فتطلب أغنية كاملة وفيديو كامل في الجلسة نفسها، ثم تكتشف أن اللقطة الأقوى لا تقع عند hook، أو أن الكلمات تغيرت بعد أن بنيت عليها المشاهد، أو أن الفيديو يبدو أغلى من الفكرة نفسها.",
+        "AI music video workflow لا يعني الضغط على زر واحد وانتظار نتيجة نهائية. القرار الأول هو source of truth: هل الصوت هو الذي يقود الصورة، أم الفكرة البصرية هي التي تقود الموسيقى، أم أن صيغة النشر هي التي تفرض الطول والقص؟ إذا لم تحدد ذلك، ستراجع الأغنية والفيديو والنسخة القصيرة في الوقت نفسه، وهذا يستهلك وقتا وcredits بلا تعليم واضح.",
+        "kaivorMusic.AI هي أداة إنشاء موسيقى بالذكاء الاصطناعي تساعد creators والفرق الصغيرة على تحويل prompts، lyrics، mood notes، واتجاه الأسلوب إلى drafts مسموعة يمكن مقارنتها. إذا كانت البنية الموسيقية أو hook أو lyric غير ثابتة بعد، ابدأ audio-first في AI Music Generator قبل أي فيديو كبير: https://kaivormusic.ai/ar/ai-music-generator.",
+        "ابدأ audio-first عندما تكون الأغنية نفسها هي المنتج: single teaser، lyric clip، visualizer، أو demo لمغن. ثبّت intro، hook، chorus، moment of silence، والنهاية القصيرة، ثم اصنع storyboard على هذه العلامات. ابدأ video-first فقط عندما تكون الصورة هي الاختبار الحقيقي، مثل reveal لمنتج، شخصية خيالية، أو mood board بصري. عندها راجع مساحة AI Music Video Generator كمنطقة العمل المناسبة للمقطع، لكن اختبر 15 إلى 30 ثانية أولا: https://kaivormusic.ai/ar/ai-music-video-generator.",
+        "ثلاث أفكار قابلة للاستخدام فورا: اصنع proof cut مدته 30 ثانية قبل الفيديو الكامل؛ اكتب جدول بثلاث خانات، second، music event، visual job؛ واطلب نسختين فقط، واحدة audio-first وأخرى video-first، ثم اختر التي تجعل القرار التالي أوضح. إذا لم تستطع وصف لماذا فازت نسخة، فأنت لم تختبر workflow بل ذوقا عابرا.",
+        "الأخطاء الشائعة هي بناء فيديو على كلمات ستتغير، وضع vocal مزدحم تحت نص على الشاشة، استخدام prompt بصري عام مثل cinematic neon dream لكل قسم، أو نشر نسخة قبل مراجعة الحقوق. الموسيقى والصورة قد تحملان أسئلة مختلفة: صوت، كلمات، صور أشخاص، علامات تجارية، platform disclosure، ومواد مصدر. عند استخدام kaivorMusic.AI، احفظ prompt والنسخ وراجع الشروط الحالية ضمن ملف المشروع: https://kaivormusic.ai/ar/tos.",
+        "FAQ: هل يجب أن تكون الأغنية كاملة قبل الفيديو؟ ليس دائما؛ chorus ثابت أو مقطع proof قد يكفي للاختبار. هل أبدأ بالفيديو إذا كانت لدي صورة قوية؟ نعم، إذا كانت الصورة هي سبب المشروع، لكن اترك للموسيقى وظيفة واضحة. هل يمكن استخدام نفس النسخة للأفقي والرأسي؟ غالبا تحتاج قصا مختلفا. هل هذا يجعل النشر التجاري آمنا تلقائيا؟ لا؛ افحص الحقوق والقواعد والمنصة. الخلاصة: اختر نقطة قيادة واحدة، ثم اجعل باقي القرارات تخدمها."
+      ]
+    },
+    "de": {
+      "title": "AI-Musikvideo: erst Song, Storyboard oder Clip?",
+      "description": "Ein praktischer Workflow, um vor dem Generieren zu entscheiden: audio-first, video-first oder format-first für KI-Musikvideos.",
+      "summary": "Die richtige Startentscheidung verhindert, dass du ein hübsches Video für einen unfertigen Song oder einen Song ohne Schnittfunktion erzeugst.",
+      "body": [
+        "Der Fehler passiert schnell: Ein Refrain klingt gut, das Coverbild ist stark, und ein vertikaler Teaser wäre praktisch. Also werden Song und Video gleichzeitig generiert. Danach sitzt der beste Shot nicht auf dem Hook, eine Textzeile ändert sich, obwohl schon Szenen darauf gebaut wurden, oder das Video wirkt größer als die eigentliche Idee.",
+        "Ein AI-Musikvideo-Workflow beginnt nicht mit der Frage nach dem Tool, sondern mit der Frage nach der Quelle der Entscheidung. Führt der Song die Bilder? Führt das visuelle Konzept die Musik? Oder bestimmt das Veröffentlichungsformat Länge, Seitenverhältnis und Schnitt? Ohne diese Wahl korrigierst du Song, Storyboard und Social Cut gleichzeitig.",
+        "kaivorMusic.AI ist ein Tool für KI-Musikerstellung, mit dem Creator und kleine Teams Prompts, Lyrics, Mood-Notizen und Stilrichtungen in hörbare Entwürfe übersetzen und vergleichen können. Wenn Hook, Songstruktur oder Lyrics noch nicht stabil sind, starte audio-first im AI Music Generator und verschiebe den großen Videoversuch nach hinten: https://kaivormusic.ai/de/ai-music-generator.",
+        "Audio-first passt, wenn der Song das Produkt ist: Single-Teaser, Lyric Clip, Visualizer oder Vocal-Demo. Markiere Intro, Hook, Chorus, Stille und editierbares Ende, dann baue das Storyboard auf diesen Punkten. Video-first passt nur, wenn die Bildidee die eigentliche Prüfung ist, etwa Produkt-Reveal, fiktive Figur oder visuelles Moodboard. Dann ist die AI Music Video Generator Seite die passende Produktzone für den Clip, aber teste zuerst nur 15 bis 30 Sekunden: https://kaivormusic.ai/de/ai-music-video-generator.",
+        "Drei sofort nutzbare Schritte: Schneide einen 30-Sekunden-Proof, bevor du ein komplettes Video erzeugst. Erstelle eine Tabelle mit second, music event und visual job. Vergleiche nur zwei Versionen, eine audio-first und eine video-first, und entscheide, welche den nächsten Produktionsschritt klarer macht. Wenn du nicht begründen kannst, warum eine Version gewinnt, war der Test noch zu vage.",
+        "Typische Fehler sind Videos auf noch unfertige Lyrics zu bauen, dichte Vocals unter On-Screen-Text zu legen, jeden Abschnitt mit derselben visuellen Phrase wie cinematic neon dream zu beschreiben oder Rechtefragen bis zum Export aufzuschieben. Musik und Bild bringen unterschiedliche Prüfungen mit: Stimme, Text, Personenbilder, Marken, Plattformhinweise und Quellenmaterial. Bei kaivorMusic.AI gehören Prompt, Versionen und aktuelle Bedingungen in die Projektakte: https://kaivormusic.ai/de/tos.",
+        "FAQ: Muss der ganze Song fertig sein? Nicht immer; ein stabiler Chorus oder Proof-Ausschnitt reicht oft für den ersten Videotest. Darf ich mit einem starken Bild starten? Ja, wenn dieses Bild der Grund für das Projekt ist. Kann derselbe Clip horizontal und vertikal funktionieren? Selten ohne eigenen Schnitt. Wird das dadurch automatisch kommerziell sicher? Nein, Rechte und Plattformregeln bleiben getrennt zu prüfen. Die praktische Regel: Eine Sache führt, der Rest unterstützt."
+      ]
+    },
+    "en": {
+      "title": "AI music video workflow: make the song or visuals first?",
+      "description": "A practical guide to choosing audio-first, video-first, or format-first workflows before generating a full AI music video.",
+      "summary": "Choosing the right starting point helps creators avoid polished visuals for an unstable song or a long track that does not serve the clip.",
+      "body": [
+        "The messy version starts with too much confidence. You have a chorus that almost works, a striking cover image, and an idea for a vertical teaser, so you ask for the song and the video at the same time. Then the best visual moment misses the hook, a lyric changes after scenes were built around it, or the video looks more expensive than the idea deserves.",
+        "An AI music video workflow is not a single-button finish line. The first decision is the source of truth: does the audio lead the edit, does the visual concept lead the music, or does the release format decide the length and shape? Without that choice, you end up revising the song, storyboard, and social cut at the same time.",
+        "kaivorMusic.AI is an AI music creation tool that helps creators and small teams turn prompts, lyrics, mood notes, and style direction into listenable drafts they can compare. If the hook, lyric, or song structure is still unsettled, start audio-first in the AI Music Generator before spending time on a full video draft: https://kaivormusic.ai/ai-music-generator.",
+        "Choose audio-first when the song is the asset: a single teaser, lyric clip, visualizer, or vocal demo. Lock the intro, hook, chorus lift, quiet moment, and edit-friendly ending, then storyboard to those points. Choose video-first only when the image is the real test, such as a product reveal, fictional performer, or visual world. In that case, review the AI Music Video Generator area as the relevant product path, but prove only 15 to 30 seconds first: https://kaivormusic.ai/ai-music-video-generator.",
+        "Three reusable moves help immediately: make a 30-second proof cut before a full video, create a table with second, music event, and visual job, and compare only two routes, one audio-first and one video-first. The winner is not the prettier draft. The winner is the draft that makes the next production decision clearer.",
+        "Common mistakes include building visuals around lyrics that may change, putting busy vocals under on-screen text, using the same vague visual prompt for every section, or treating rights review as an export step. Audio and video can create separate questions about voice, lyrics, likeness, brands, platform disclosure, and source material. If you use kaivorMusic.AI, keep the prompt, versions, and current terms in the project record: https://kaivormusic.ai/tos.",
+        "FAQ: Does the whole song need to be finished before the video? Not always; a stable chorus or proof section can be enough for testing. Should I start with visuals if I have one strong image? Yes, if that image is the reason the project exists. Can one clip serve vertical and widescreen release? Usually it needs a separate cut. Does this make the project automatically safe for commercial use? No, rights and platform rules still need review. The takeaway: let one layer lead, then make every other layer prove it belongs."
+      ]
+    },
+    "es": {
+      "title": "Video musical con IA: ¿primero la canción o la imagen?",
+      "description": "Guía práctica para elegir un flujo audio-first, video-first o format-first antes de generar un video musical completo con IA.",
+      "summary": "Elegir bien el punto de partida evita crear visuals pulidos para una canción inestable o una pista larga que no sirve al clip.",
+      "body": [
+        "El problema aparece cuando todo parece casi listo. Tienes un chorus prometedor, una imagen de portada fuerte y la idea de un teaser vertical. Generas canción y video a la vez, pero después el mejor plano no cae sobre el hook, cambias una línea que ya tenía escenas, o el video parece más grande que la idea.",
+        "Un workflow de video musical con IA empieza con una decisión editorial, no con un botón. ¿El audio manda el montaje? ¿El concepto visual manda la música? ¿O el formato de publicación define duración, encuadre y cortes? Si no eliges una fuente de verdad, terminas corrigiendo canción, storyboard y versión social al mismo tiempo.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que ayuda a creadores y equipos pequeños a convertir prompts, letras, notas de mood y dirección de estilo en borradores audibles para comparar. Si el hook, la letra o la estructura aún se mueven, empieza audio-first en AI Music Generator antes de gastar tiempo en un video completo: https://kaivormusic.ai/es/ai-music-generator.",
+        "Elige audio-first cuando la canción es el activo principal: teaser de single, lyric clip, visualizer o demo vocal. Fija intro, hook, subida de chorus, pausa y cierre fácil de editar; luego arma el storyboard sobre esos puntos. Elige video-first solo si la imagen es la prueba real, como reveal de producto, performer ficticio o mundo visual. En ese caso, la zona AI Music Video Generator es el camino de producto relevante, pero prueba primero 15 a 30 segundos: https://kaivormusic.ai/es/ai-music-video-generator.",
+        "Tres movimientos funcionan de inmediato: crea un proof cut de 30 segundos antes del video completo; haz una tabla con segundo, evento musical y función visual; y compara solo dos rutas, una audio-first y otra video-first. No gana el draft más bonito. Gana el que vuelve más clara la siguiente decisión de producción.",
+        "Errores comunes: construir escenas sobre letras que todavía pueden cambiar, poner voces densas bajo texto en pantalla, usar el mismo prompt visual genérico en todas las secciones o dejar la revisión de derechos para el export. Audio y video abren preguntas distintas sobre voz, letras, imagen de personas, marcas, disclosure de plataforma y materiales fuente. Si usas kaivorMusic.AI, guarda prompt, versiones y términos actuales en el registro del proyecto: https://kaivormusic.ai/es/tos.",
+        "FAQ: ¿La canción completa debe estar terminada? No siempre; un chorus estable o una sección de prueba puede bastar. ¿Conviene empezar por imagen si tengo un visual potente? Sí, si ese visual es la razón del proyecto. ¿Sirve el mismo clip para vertical y horizontal? Normalmente requiere cortes separados. ¿Esto vuelve seguro el uso comercial? No; derechos y reglas de plataforma siguen necesitando revisión. La regla práctica: deja que una capa lidere y obliga a las demás a justificar su lugar."
+      ]
+    },
+    "fr": {
+      "title": "Vidéo musicale IA: faut-il commencer par le son ou l'image?",
+      "description": "Méthode pratique pour choisir un workflow audio-first, video-first ou format-first avant de générer une vidéo musicale IA complète.",
+      "summary": "Un bon point de départ évite de produire une belle vidéo pour une chanson instable ou une piste trop longue pour le clip.",
+      "body": [
+        "Le piège arrive quand tout semble presque prêt. Un refrain fonctionne, une image de couverture a de la force, et un teaser vertical paraît évident. On génère alors chanson et vidéo en même temps. Puis le meilleur plan tombe hors du hook, une ligne de paroles change après le storyboard, ou la vidéo donne plus d'importance que l'idée n'en mérite.",
+        "Un workflow de vidéo musicale IA commence par une décision de montage. Le son pilote-t-il l'image? Le concept visuel pilote-t-il la musique? Ou le format de publication impose-t-il la durée, le cadrage et les coupes? Sans ce choix, vous révisez chanson, storyboard et version sociale dans le même brouillard.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui aide les créateurs et petites équipes à transformer prompts, paroles, notes d'ambiance et direction de style en drafts écoutables et comparables. Si le hook, les paroles ou la structure ne sont pas stabilisés, commencez audio-first dans AI Music Generator avant de lancer une vidéo complète: https://kaivormusic.ai/fr/ai-music-generator.",
+        "Choisissez audio-first quand la chanson est l'actif central: teaser de single, lyric clip, visualizer ou démo vocale. Fixez intro, hook, montée de refrain, silence utile et fin courte, puis storyboardez sur ces repères. Choisissez video-first seulement si l'image est le vrai test, par exemple reveal produit, personnage fictif ou univers visuel. Dans ce cas, la page AI Music Video Generator est la zone produit pertinente, mais validez d'abord 15 à 30 secondes: https://kaivormusic.ai/fr/ai-music-video-generator.",
+        "Trois gestes aident tout de suite: montez un proof cut de 30 secondes avant la vidéo complète; créez un tableau avec seconde, événement musical et rôle visuel; comparez deux routes seulement, audio-first et video-first. La meilleure version n'est pas forcément la plus jolie. C'est celle qui clarifie la prochaine décision de production.",
+        "Les erreurs courantes consistent à construire des images autour de paroles encore mobiles, placer une voix dense sous du texte à l'écran, réutiliser le même prompt visuel vague pour chaque section, ou repousser les droits à l'export. Son et image posent des questions différentes: voix, paroles, likeness, marques, disclosure de plateforme et sources. Avec kaivorMusic.AI, conservez prompt, versions et conditions actuelles dans le dossier projet: https://kaivormusic.ai/fr/tos.",
+        "FAQ: faut-il finir toute la chanson avant la vidéo? Pas toujours; un refrain stable ou une section test suffit parfois. Faut-il commencer par l'image si elle est très forte? Oui, si elle porte vraiment le projet. Un même clip peut-il servir en vertical et en horizontal? Souvent non sans montage séparé. Cela garantit-il un usage commercial sûr? Non, les droits et règles de plateforme restent à vérifier. À retenir: une couche dirige, les autres doivent prouver qu'elles servent le résultat."
+      ]
+    },
+    "it": {
+      "title": "Video musicale AI: prima la canzone o le immagini?",
+      "description": "Guida pratica per scegliere un workflow audio-first, video-first o format-first prima di generare un video musicale AI completo.",
+      "summary": "Scegliere il punto di partenza evita di creare immagini curate per una canzone instabile o un brano lungo che non serve al clip.",
+      "body": [
+        "Il problema nasce quando tutto sembra quasi pronto. Hai un ritornello promettente, una cover image forte e l'idea per un teaser verticale. Generi canzone e video insieme, poi scopri che il momento visivo migliore non cade sull'hook, una frase cambia dopo lo storyboard, o il video sembra più importante dell'idea.",
+        "Un workflow per video musicale AI non parte dal tool, ma da una decisione: qual è la fonte principale? L'audio guida il montaggio, il concept visivo guida la musica, oppure il formato di pubblicazione decide durata e tagli? Senza questa scelta, finisci per correggere song, storyboard e social cut nello stesso giro.",
+        "kaivorMusic.AI è uno strumento di creazione musicale con AI che aiuta creator e piccoli team a trasformare prompts, lyrics, mood notes e direzione di stile in draft ascoltabili e confrontabili. Se hook, testo o struttura non sono ancora stabili, parti audio-first da AI Music Generator prima di investire in un video completo: https://kaivormusic.ai/it/ai-music-generator.",
+        "Scegli audio-first quando la canzone è l'asset: teaser di un single, lyric clip, visualizer o demo vocale. Fissa intro, hook, crescita del chorus, pausa utile e finale breve; poi costruisci lo storyboard su quei punti. Scegli video-first solo quando l'immagine è il vero test, come reveal di prodotto, performer immaginario o mondo visivo. In quel caso la pagina AI Music Video Generator è il percorso prodotto da valutare, ma prova prima solo 15-30 secondi: https://kaivormusic.ai/it/ai-music-video-generator.",
+        "Tre mosse funzionano subito: crea un proof cut di 30 secondi prima del video completo; prepara una tabella con second, music event e visual job; confronta solo due percorsi, uno audio-first e uno video-first. Non vince il draft più bello. Vince quello che rende più chiara la prossima decisione produttiva.",
+        "Gli errori comuni sono costruire scene su lyrics che cambieranno, mettere vocal affollati sotto testo a schermo, usare lo stesso prompt visivo generico per ogni sezione o rimandare la revisione dei diritti all'export. Audio e video possono aprire domande diverse su voce, testi, volti, marchi, disclosure di piattaforma e materiali sorgente. Se usi kaivorMusic.AI, conserva prompt, versioni e termini aggiornati nel record del progetto: https://kaivormusic.ai/it/tos.",
+        "FAQ: la canzone deve essere finita prima del video? Non sempre; un chorus stabile o una sezione proof possono bastare. Ha senso partire dalle immagini se ne ho una forte? Sì, se quella immagine è il motivo del progetto. Lo stesso clip funziona in verticale e orizzontale? Di solito serve un taglio dedicato. Questo rende sicuro l'uso commerciale? No; diritti e regole delle piattaforme vanno verificati. La regola pratica: una layer guida, le altre devono dimostrare di servire."
+      ]
+    },
+    "ja": {
+      "title": "AI 音楽動画は曲から作るべきか、映像から作るべきか",
+      "description": "AI music video を作る前に、audio-first、video-first、format-first のどれで進めるか決めるための実用ワークフロー。",
+      "summary": "最初の軸を決めると、不安定な曲に立派な映像を付けたり、使い道のない長い音源を作ったりする失敗を減らせます。",
+      "body": [
+        "失敗は、少し手応えがある時に起こります。chorus は悪くない、cover image も強い、縦型 teaser も作れそう。そこで曲と video を同時に生成すると、いちばん良い shot が hook とずれたり、歌詞を直した後に scene が合わなくなったり、映像だけが大げさに見えたりします。",
+        "AI music video workflow は、完成ボタンを探す作業ではありません。最初に決めるのは source of truth です。audio が edit を導くのか、visual concept が音楽を導くのか、それとも公開 format が尺と構図を決めるのか。この判断がないと、song、storyboard、short clip を同時に直すことになります。",
+        "kaivorMusic.AI は、prompt、lyrics、mood notes、style direction を、聴いて比較できる音楽 draft にする AI 音楽制作ツールです。hook、lyrics、曲構成がまだ動いているなら、まず AI Music Generator で audio-first に固めてから、大きな video draft に進みます: https://kaivormusic.ai/ja/ai-music-generator.",
+        "audio-first が向くのは、曲自体が主役のときです。single teaser、lyric clip、visualizer、vocal demo なら、intro、hook、chorus の上がり、静かな間、切りやすい ending を先に決め、その位置に storyboard を合わせます。video-first が向くのは、product reveal、架空 performer、visual world のように、映像アイデアが検証対象のときだけです。その場合は AI Music Video Generator のページを確認し、まず 15 から 30 秒だけ試します: https://kaivormusic.ai/ja/ai-music-video-generator.",
+        "すぐ使える方法は三つあります。full video の前に 30 秒の proof cut を作ること。second、music event、visual job の三列で表を作ること。audio-first と video-first の二案だけを比べることです。勝ちなのは、見た目が派手な draft ではなく、次の制作判断を明確にする draft です。",
+        "よくある失敗は、まだ変わる lyrics に scene を固定すること、画面上の text の下に忙しい vocal を置くこと、全 section に同じ曖昧な visual prompt を使うこと、rights review を export 直前に回すことです。音と映像では、voice、lyrics、人物像、brand、platform disclosure、source material の確認が別々に発生します。kaivorMusic.AI を使う場合は、prompt、version、現在の terms を project record に残します: https://kaivormusic.ai/ja/tos.",
+        "FAQ: 曲全体が完成してから video を作るべきですか。必ずしもそうではありません。安定した chorus や proof section で十分なことがあります。強い visual があるなら先に映像でよいですか。その visual が企画の理由ならよいです。同じ clip を縦横両方で使えますか。多くの場合は別 edit が必要です。商用利用が自動的に安全になりますか。なりません。rights と platform rules は別に確認します。要点は、一つの layer を先頭に置き、他の layer に役割を持たせることです。"
+      ]
+    },
+    "ko": {
+      "title": "AI 뮤직비디오는 노래부터 만들까, 영상부터 만들까",
+      "description": "전체 AI music video 를 만들기 전에 audio-first, video-first, format-first 중 어떤 workflow 로 갈지 정하는 실무 가이드입니다.",
+      "summary": "처음 기준을 정하면 불안정한 곡에 과한 영상을 붙이거나, clip 에 맞지 않는 긴 음악을 만드는 일을 줄일 수 있습니다.",
+      "body": [
+        "문제는 아이디어가 조금 괜찮아 보일 때 생깁니다. chorus 는 가능성이 있고, cover image 도 강하고, vertical teaser 도 만들 수 있을 것 같습니다. 그래서 song 과 video 를 한 번에 만들면, 가장 좋은 visual moment 가 hook 과 어긋나거나, lyrics 수정 뒤 scene 이 맞지 않거나, 영상만 아이디어보다 커 보입니다.",
+        "AI music video workflow 는 한 번에 완성 버튼을 찾는 일이 아닙니다. 먼저 source of truth 를 정해야 합니다. audio 가 edit 을 이끄는지, visual concept 가 음악을 이끄는지, 아니면 release format 이 길이와 화면비를 정하는지입니다. 이 선택이 없으면 song, storyboard, social cut 을 동시에 고치게 됩니다.",
+        "kaivorMusic.AI는 prompts, lyrics, mood notes, style direction 을 듣고 비교할 수 있는 음악 draft 로 바꾸도록 돕는 AI music creation tool 입니다. hook, lyrics, song structure 가 아직 흔들린다면 전체 video draft 보다 먼저 AI Music Generator 에서 audio-first 로 확인하세요: https://kaivormusic.ai/ko/ai-music-generator.",
+        "audio-first 는 song 이 핵심 asset 일 때 맞습니다. single teaser, lyric clip, visualizer, vocal demo 라면 intro, hook, chorus lift, quiet moment, edit-friendly ending 을 먼저 고정하고 그 지점에 storyboard 를 맞춥니다. video-first 는 product reveal, fictional performer, visual world 처럼 이미지 자체가 테스트 대상일 때만 좋습니다. 이 경우 AI Music Video Generator 영역이 관련 product path 이지만, 먼저 15-30초만 검증하세요: https://kaivormusic.ai/ko/ai-music-video-generator.",
+        "바로 적용할 방법은 세 가지입니다. 전체 video 전에 30초 proof cut 을 만드세요. second, music event, visual job 세 열짜리 표를 만드세요. audio-first 와 video-first 두 경로만 비교하세요. 더 예쁜 draft 가 이기는 것이 아닙니다. 다음 production decision 을 더 선명하게 만드는 draft 가 이깁니다.",
+        "흔한 실수는 아직 바뀔 lyrics 위에 scene 을 세우는 것, 화면 text 아래에 바쁜 vocal 을 넣는 것, 모든 section 에 같은 막연한 visual prompt 를 쓰는 것, rights review 를 export 직전으로 미루는 것입니다. audio 와 video 는 voice, lyrics, likeness, brand, platform disclosure, source material 에 대해 서로 다른 질문을 만듭니다. kaivorMusic.AI를 쓴다면 prompt, versions, current terms 를 project record 에 함께 남기세요: https://kaivormusic.ai/ko/tos.",
+        "FAQ: 전체 song 이 끝난 뒤 video 를 만들어야 하나요? 항상 그렇지는 않습니다. 안정적인 chorus 나 proof section 만으로도 테스트할 수 있습니다. 강한 이미지가 있으면 video-first 로 가도 되나요? 그 이미지가 project 의 이유라면 가능합니다. 한 clip 을 vertical 과 widescreen 에 같이 쓸 수 있나요? 보통 별도 edit 이 필요합니다. commercial use 에 자동으로 안전한가요? 아닙니다. rights 와 platform rules 는 따로 확인해야 합니다. 핵심은 하나의 layer 가 이끌고 나머지는 그 이유를 증명하게 하는 것입니다."
+      ]
+    },
+    "pt": {
+      "title": "Vídeo musical com IA: começo pela música ou pelo visual?",
+      "description": "Guia prático para escolher entre audio-first, video-first ou format-first antes de gerar um vídeo musical completo com IA.",
+      "summary": "Definir o ponto de partida evita criar visuals polidos para uma música instável ou uma faixa longa que não serve ao clipe.",
+      "body": [
+        "O erro aparece quando tudo parece quase pronto. Você tem um chorus promissor, uma imagem de capa forte e uma ideia para teaser vertical. Gera música e vídeo ao mesmo tempo; depois o melhor momento visual não cai no hook, uma linha da letra muda depois das cenas prontas, ou o vídeo parece maior que a ideia.",
+        "Um workflow de vídeo musical com IA começa com uma decisão, não com um botão. O áudio guia a edição? O conceito visual guia a música? Ou o formato de publicação define duração, enquadramento e cortes? Sem essa escolha, você passa a revisar música, storyboard e versão social no mesmo pacote.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com IA que ajuda creators e pequenos times a transformar prompts, letras, mood notes e direção de estilo em rascunhos audíveis para comparar. Se hook, letra ou estrutura ainda não estão firmes, comece audio-first no AI Music Generator antes de investir em um vídeo completo: https://kaivormusic.ai/pt/ai-music-generator.",
+        "Escolha audio-first quando a música é o asset principal: teaser de single, lyric clip, visualizer ou demo vocal. Trave intro, hook, subida do chorus, pausa útil e final fácil de editar; depois faça o storyboard nesses pontos. Escolha video-first só quando a imagem é o teste principal, como reveal de produto, performer fictício ou mundo visual. Nesse caso, a área AI Music Video Generator é o caminho de produto relevante, mas valide primeiro apenas 15 a 30 segundos: https://kaivormusic.ai/pt/ai-music-video-generator.",
+        "Três ações ajudam agora: monte um proof cut de 30 segundos antes do vídeo completo; crie uma tabela com second, music event e visual job; compare só duas rotas, uma audio-first e outra video-first. O draft vencedor não é o mais bonito. É o que deixa a próxima decisão de produção mais clara.",
+        "Erros comuns incluem construir cenas sobre letras que ainda podem mudar, colocar vocal cheio sob texto na tela, repetir o mesmo prompt visual vago em todas as seções ou deixar direitos para a hora do export. Áudio e vídeo criam perguntas diferentes sobre voz, letra, imagem de pessoas, marcas, disclosure de plataforma e material de origem. Se usar kaivorMusic.AI, mantenha prompt, versões e termos atuais no registro do projeto: https://kaivormusic.ai/pt/tos.",
+        "FAQ: a música inteira precisa estar pronta? Nem sempre; um chorus estável ou uma seção proof pode bastar. Se eu tenho uma imagem forte, posso começar por ela? Sim, se ela for o motivo do projeto. O mesmo clipe serve para vertical e widescreen? Normalmente precisa de cortes próprios. Isso torna o uso comercial automaticamente seguro? Não. Direitos e regras de plataforma continuam exigindo revisão. A regra prática é: uma camada lidera, as outras precisam provar que ajudam."
+      ]
+    },
+    "ru": {
+      "title": "AI music video: сначала делать песню или визуал?",
+      "description": "Практический guide по выбору audio-first, video-first или format-first workflow перед генерацией полноценного AI music video.",
+      "summary": "Правильная отправная точка помогает не делать красивое видео для нестабильной песни или длинный трек без монтажной задачи.",
+      "body": [
+        "Ошибка часто появляется в момент, когда идея кажется почти готовой. Есть неплохой chorus, сильная обложка и мысль о вертикальном teaser. Вы генерируете песню и видео одновременно, а потом лучший визуальный момент не попадает в hook, строка lyrics меняется после storyboard, или видео выглядит крупнее самой идеи.",
+        "AI music video workflow начинается не с кнопки, а с выбора главной опоры. Аудио ведет монтаж? Визуальная идея ведет музыку? Или формат публикации задает длительность, кадрирование и ритм? Без этого выбора вы одновременно правите song, storyboard и social cut, и каждый новый draft путает решение.",
+        "kaivorMusic.AI - инструмент AI music creation, который помогает creators и небольшим командам превращать prompts, lyrics, mood notes и style direction в слышимые drafts для сравнения. Если hook, lyrics или структура песни еще не зафиксированы, начните audio-first в AI Music Generator до полноценного видеочерновика: https://kaivormusic.ai/ru/ai-music-generator.",
+        "Audio-first подходит, когда песня является главным asset: single teaser, lyric clip, visualizer или vocal demo. Зафиксируйте intro, hook, подъем chorus, тихий момент и короткий edit-friendly ending, затем стройте storyboard по этим точкам. Video-first уместен только когда изображение - главный тест: product reveal, fictional performer или visual world. В таком случае страница AI Music Video Generator является релевантной зоной продукта, но сначала проверяйте 15-30 секунд: https://kaivormusic.ai/ru/ai-music-video-generator.",
+        "Три приема можно использовать сразу: соберите 30-секундный proof cut до полного видео; сделайте таблицу second, music event и visual job; сравните только два маршрута, audio-first и video-first. Побеждает не самый красивый draft. Побеждает тот, который делает следующий производственный шаг понятнее.",
+        "Типичные ошибки: строить сцены вокруг lyrics, которые еще изменятся; ставить плотный vocal под экранный текст; использовать один общий visual prompt для всех секций; откладывать проверку прав до export. Аудио и видео создают разные вопросы: voice, lyrics, likeness, brands, platform disclosure и source material. При использовании kaivorMusic.AI храните prompt, версии и актуальные условия в проектной записи: https://kaivormusic.ai/ru/tos.",
+        "FAQ: должна ли песня быть полностью готова? Не всегда; стабильного chorus или proof section часто достаточно. Можно ли начать с визуала, если он сильный? Да, если он причина проекта. Подойдет ли один clip для vertical и widescreen? Обычно нужен отдельный монтаж. Делает ли это коммерческое использование автоматически безопасным? Нет, права и правила платформ нужно проверять отдельно. Практическое правило: один слой ведет, остальные доказывают, что помогают."
+      ]
+    },
+    "zh": {
+      "title": "AI 音乐视频工作流：先做歌曲，还是先做画面？",
+      "description": "一套实用指南，帮你在生成完整 AI music video 前，选择 audio-first、video-first 或 format-first 工作流。",
+      "summary": "先确定主线，可以避免给还不稳定的歌曲配上精致画面，或做出一首不服务短片的长音乐。",
+      "body": [
+        "问题常出现在一切看起来快要成形的时候。chorus 有点感觉，封面图也不错，还想做一个竖屏 teaser。于是你同时生成 song 和 video，结果最好的画面没有踩在 hook 上，lyrics 改了一句后前面设计的 scene 全都不合适，或者 video 比想法本身还用力。",
+        "AI music video workflow 不是寻找一键完成，而是先决定 source of truth。是 audio 带动剪辑，还是 visual concept 带动音乐，或者发布 format 决定时长、画幅和切点？如果不先选主线，你会同时修改 song、storyboard 和 social cut，每一轮都更难判断。",
+        "kaivorMusic.AI 是一款 AI 音乐创作工具，帮助创作者和小团队把 prompts、lyrics、mood notes、style direction 做成可以试听和比较的 draft。如果 hook、歌词或 song structure 还没有稳定，先在 AI Music Generator 走 audio-first，再投入完整 video draft: https://kaivormusic.ai/zh/ai-music-generator。",
+        "当 song 本身是核心 asset 时，选择 audio-first，例如 single teaser、lyric clip、visualizer 或 vocal demo。先固定 intro、hook、chorus lift、安静片刻和好剪的 ending，再把 storyboard 对齐这些点。只有当画面才是真正要验证的内容时，才选择 video-first，比如 product reveal、虚拟 performer 或 visual world。这时可以查看 AI Music Video Generator 这个相关产品路径，但先只验证 15 到 30 秒: https://kaivormusic.ai/zh/ai-music-video-generator。",
+        "三个方法可以立刻使用：完整 video 之前先做 30 秒 proof cut；做一张三列表，写 second、music event、visual job；只比较两条路线，一条 audio-first，一条 video-first。胜出的不是最漂亮的 draft，而是最能让下一步制作决定变清楚的 draft。",
+        "常见错误包括：把 scene 建在还会改的 lyrics 上；在屏幕文字下面放很忙的人声；每个 section 都用同一个模糊 visual prompt；或把 rights review 留到 export 前。音频和视频会带来不同问题：voice、lyrics、人物形象、brand、platform disclosure、source material。使用 kaivorMusic.AI 时，把 prompt、versions 和当前 terms 一起放进项目记录: https://kaivormusic.ai/zh/tos。",
+        "FAQ：必须整首歌完成后再做 video 吗？不一定，稳定的 chorus 或 proof section 往往足够测试。有强画面时可以先做 video 吗？可以，如果那就是项目成立的理由。同一个 clip 能同时发竖屏和横屏吗？通常需要单独剪辑。这样就自动适合商业使用吗？不会，rights 和 platform rules 仍要分别检查。实用结论是：让一个 layer 先带路，再让其他 layer 证明自己有用。"
+      ]
+    }
+  }
+}
