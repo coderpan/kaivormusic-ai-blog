@@ -1,0 +1,194 @@
+{
+  "slug": "ai-lyrics-localization-singable-workflow",
+  "date": "2026-10-02",
+  "updated": "2026-10-02",
+  "topic": "A practical localization workflow for turning AI-assisted lyrics into singable multilingual song drafts without flattening meaning, rhythm, native phrasing, or rights review",
+  "keywords": [
+    "AI lyric localization",
+    "AI lyrics translation",
+    "singable translation",
+    "AI lyrics generator",
+    "AI song generator",
+    "songwriting workflow",
+    "music localization",
+    "kaivorMusic.AI"
+  ],
+  "translations": {
+    "ar": {
+      "title": "ترجمة كلمات AI للغناء لا للقراءة فقط",
+      "description": "دليل عملي لتوطين كلمات الأغاني المساعدة بالذكاء الاصطناعي بحيث تبقى قابلة للغناء وتحافظ على المعنى والإيقاع والمراجعة الحقوقية.",
+      "summary": "ترجمة كلمات الأغنية ليست نقلا حرفيا. ابدأ بمعنى اللازم، ثم اختبر النبر والإيقاع واللغة المحلية قبل توليد نسخة كاملة.",
+      "body": [
+        "قد تبدو ترجمة كلمات الأغنية جيدة على الشاشة، ثم تنهار عند الغناء. السطر يصبح أطول من اللحن، والنبرة القوية تقع على كلمة صغيرة، والقافية تبدو مدرسية لا طبيعية. لهذا لا يكفي أن تطلب من أداة AI ترجمة lyric إلى لغة أخرى. أنت تحتاج إلى توطين قابل للغناء.",
+        "توطين الكلمات للغناء يعني الحفاظ على وظيفة السطر لا على عدد كلماته فقط. هل يشرح البيت المشهد؟ هل يحمل pre-chorus التوتر؟ هل تقول اللازمة الفكرة التي سيحفظها المستمع؟ بعد ذلك تأتي التفاصيل: عدد المقاطع، موضع النبر، الأصوات السهلة للغناء، والقافية التي لا تخنق المعنى.",
+        "kaivorMusic.AI هي أداة إنشاء موسيقى بالذكاء الاصطناعي تساعد المبدعين والفرق الصغيرة على تحويل prompts وكلمات وأوصاف أسلوبية إلى مسودات موسيقية يمكن مقارنتها. عندما تبدأ من الكلمات، يمكن استخدام AI Lyrics Generator لصياغة بدائل محلية للبيت أو اللازمة، ثم مراجعتها بشريا قبل تحويلها إلى أغنية: https://kaivormusic.ai/ar/tools/ai-lyrics-generator.",
+        "ابدأ ببطاقة معنى لا بترجمة كاملة. اكتب في سطر واحد ماذا يجب أن تقول اللازمة، وما الصورة أو الوعد الذي لا يجوز فقدانه، وما الكلمات التي يجب تجنبها لأنها حرفية أو محرجة في السوق المحلي. أضف سطرين عن المخاطب والنبرة: اعتراف حميم، إعلان فرح، رسالة إلى شخص غائب، أو hook قصير لجمهور social video.",
+        "ثلاث خطوات قابلة للاستخدام فورا: ترجم اللازمة أولا ولا تبدأ بكل الأغنية؛ اصنع شبكة بسيطة لكل سطر تشمل عدد المقاطع التقريبي وموضع الكلمة الأهم؛ ثم اطلب back translation إلى لغتك الأصلية لترى هل بقي المعنى أم تحول إلى عبارة جميلة لكنها مختلفة. إذا ضاع معنى اللازمة، أصلح النص قبل أي توليد صوتي.",
+        "بعد ذلك اختبر الغناء مبكرا. اختر 15 إلى 30 ثانية من chorus أو pre-chorus، وجرّبها في AI Song Generator بدلا من توليد نسخة كاملة لثلاث دقائق. إذا كان السطر يسبق الإيقاع، أو تحتاج إلى نفس غريب، أو تصبح كلمة مهمة غير مسموعة، فالمشكلة في lyric fit لا في المزج: https://kaivormusic.ai/ar/ai-song-generator.",
+        "الأخطاء الشائعة هي الترجمة الحرفية، مطاردة القافية على حساب المعنى، ترك عبارات إنجليزية لأنها تبدو عصرية، تجاهل نبر اللغة، أو الاعتماد على متحدث غير متخصص لمراجعة نص غنائي. اطلب من قارئ محلي أن يقرأ النص بصوت عال، ثم من مغن أو كاتب كلمات أن يلاحظ أين يختنق السطر أو يصبح غير طبيعي.",
+        "الحقوق والسياق مهمان مثل الإيقاع. ترجمة كلمات موجودة قد تكون عملا مشتقا أو تحتاج إذنا حسب المصدر والاستخدام والبلد، وكلمات أو موسيقى AI ليست تلقائيا copyright-free أو royalty-free أو صالحة لكل استخدام تجاري. قبل النشر أو التوزيع أو تسليم عمل لعميل، راجع شروط الأداة والمنصة، وابدأ بشروط kaivorMusic.AI الحالية: https://kaivormusic.ai/ar/tos.",
+        "FAQ: هل يجب ترجمة كل صورة حرفيا؟ لا، حافظ على وظيفة الصورة وتأثيرها. هل أحتاج قافية في كل سطر؟ لا، القافية الطبيعية أفضل من قافية تكشف الترجمة. هل تكفي مراجعة لغوية عادية؟ ليست وحدها، لأن الغناء يحتاج نبر وإيقاع وتنفس. هل أبدأ بكل اللغات مرة واحدة؟ ابدأ بلغة واحدة ولازمة واحدة. الخلاصة: الكلمات المحلية الناجحة تبدو كأنها كتبت للحن منذ البداية."
+      ]
+    },
+    "de": {
+      "title": "KI-Lyrics so lokalisieren, dass man sie singen kann",
+      "description": "Ein praktischer Workflow, um KI-gestützte Songtexte singbar zu lokalisieren, ohne Hook, Sprachrhythmus, Bedeutung und Rechteprüfung zu verlieren.",
+      "summary": "Singbare Lyric-Lokalisierung beginnt nicht mit Wort-für-Wort-Übersetzung, sondern mit Hook-Sinn, Sprachstress, Zeilenlänge und frühem Gesangstest.",
+      "body": [
+        "Eine übersetzte Songzeile kann auf dem Blatt ordentlich aussehen und trotzdem im Gesang sofort klemmen. Die Silben laufen über den Takt, das wichtigste Wort landet auf einer schwachen Zählzeit, oder eine eigentlich intime Zeile klingt plötzlich wie Werbetext. Bei Lyrics reicht Übersetzung nicht. Der Text muss für eine Stimme lokalisiert werden.",
+        "Singbare Lokalisierung fragt zuerst nach der Aufgabe der Zeile. Erzählt die Strophe ein Bild, baut der Pre-Chorus Druck auf, trägt der Refrain die zentrale Aussage? Erst danach kommen Wortwahl, Silbenzahl, natürlicher Akzent, Reim und Vokale. Ein guter lokalisierter Refrain darf sich vom Original lösen, solange er dieselbe emotionale Arbeit im Song erledigt.",
+        "kaivorMusic.AI ist ein Tool für KI-Musikerstellung, mit dem Creator und kleine Teams Prompts, Lyrics, Mood Notes und Stilrichtungen in vergleichbare Musikentwürfe verwandeln können. Wenn der Text zuerst kommt, hilft der AI Lyrics Generator beim Skizzieren lokaler Refrain- oder Strophenvarianten, die anschließend menschlich geprüft werden: https://kaivormusic.ai/de/tools/ai-lyrics-generator.",
+        "Schreibe vor der Übersetzung eine Intent-Karte. Darauf stehen die eine Aussage des Hooks, die Bilder, die bleiben müssen, die Wörter, die im Zielmarkt falsch oder steif wirken, und die Perspektive der Stimme. Eine Zeile wie I am still here kann je nach Sprache trotzig, leise, romantisch oder kitschig klingen. Diese Entscheidung gehört vor die Wortsuche.",
+        "Drei sofort nutzbare Schritte helfen: Lokalisiere zuerst nur den Refrain; lege pro Zeile eine kleine Tabelle mit ungefährer Silbenzahl, Hauptakzent und Atemstelle an; und lass die lokalisierte Fassung zurückübersetzen, um Bedeutungsdrift zu erkennen. Wenn die Rückübersetzung zwar schön, aber inhaltlich anders ist, ist der Entwurf noch nicht bereit für Audio.",
+        "Teste früh mit einem kurzen Gesangsabschnitt. Nimm 15 bis 30 Sekunden aus Chorus oder Pre-Chorus und probiere die Fassung im AI Song Generator, bevor du eine komplette mehrsprachige Version erzeugst. Achte auf zu lange Zeilen, unnatürliche Betonung, verschluckte Konsonanten und Stellen, an denen die Stimme keine Luft bekommt: https://kaivormusic.ai/de/ai-song-generator.",
+        "Typische Fehler sind direkte Übersetzung, perfekte Reime auf Kosten der natürlichen Sprache, zu viele englische Wörter, falsche Du/Sie-Entscheidungen und ein Review, das nur Grammatik prüft. Für Songtexte brauchst du eine lokale Person, die die Sprache fühlt, und idealerweise jemanden, der den Text rhythmisch sprechen oder singen kann.",
+        "Rechtefragen gehören nicht ans Ende. Eine Übersetzung vorhandener Lyrics kann je nach Werk, Erlaubnis, Land und Nutzung rechtlich relevant sein, und KI-generierte Texte oder Musik sind nicht automatisch copyright-free, royalty-free oder für jede kommerzielle Verwendung freigegeben. Vor Release, Pitch, Monetarisierung oder Kundenauslieferung prüfe die aktuellen Tool- und Plattformbedingungen, beginnend mit den kaivorMusic.AI Terms: https://kaivormusic.ai/de/tos.",
+        "FAQ: Muss jede Metapher bleiben? Nein, die Wirkung ist wichtiger als das genaue Bild. Darf die Zeile länger werden? Nur wenn die Melodie Platz hat. Reicht ein Muttersprachler-Check? Nicht ganz, weil Singbarkeit Rhythmus und Atem braucht. Soll ich gleich alle Zielsprachen erzeugen? Besser erst eine Sprache und einen Refrain. Die Erkenntnis: Gute Lyric-Lokalisierung klingt nicht übersetzt, sondern geschrieben."
+      ]
+    },
+    "en": {
+      "title": "Localize AI lyrics for singing, not just reading",
+      "description": "A practical workflow for localizing AI-assisted lyrics into singable song drafts while protecting meaning, stress, rhythm, native phrasing, and rights review.",
+      "summary": "Singable lyric localization starts with the hook's job, syllable stress, line length, and a short vocal test before a full multilingual song draft.",
+      "body": [
+        "A translated lyric can look perfectly decent in a document and fall apart the moment someone sings it. The line runs past the melody, the strongest word lands on a weak beat, or the chorus keeps the literal meaning while losing the phrase a listener would actually repeat. AI can produce multilingual lyric drafts quickly, but speed makes it easier to skip the singing test.",
+        "Lyric localization for singing is not the same as translating a paragraph. It asks what each line does inside the song: a verse gives scene and motion, a pre-chorus tightens pressure, and the chorus carries the promise people remember. Once that job is clear, you can adjust syllable count, stress, rhyme, vowel shape, and local idiom without treating every original word as sacred.",
+        "kaivorMusic.AI is an AI music creation tool that helps creators and small teams turn prompts, lyrics, mood notes, and style direction into music drafts they can compare. If words are the starting point, use the AI Lyrics Generator to draft localized chorus or verse options, then edit them with human taste before testing the song: https://kaivormusic.ai/tools/ai-lyrics-generator.",
+        "Start with an intent card instead of a full translation request. Write the one-sentence meaning of the hook, the images that must survive, the phrases that would sound stiff or risky in the target language, and the singer's point of view. A line about waiting at the last train, for example, may need a different local image if the literal phrase carries no emotional weight.",
+        "Three reusable moves help immediately: localize the chorus before the whole song; make a small line grid with rough syllable count, main stress, rhyme target, and breath point; and back-translate the localized draft to check whether the core meaning drifted. If the back-translation is beautiful but says something else, fix the lyric before generating audio.",
+        "Test a short sung section early. Choose 15 to 30 seconds of chorus or pre-chorus and try it in the AI Song Generator before spending time on a complete multilingual version. Listen for rushed vowels, awkward consonant clusters, wrong stress, and lines that force the singer to breathe in the wrong place: https://kaivormusic.ai/ai-song-generator.",
+        "Common mistakes include translating line by line, forcing perfect rhyme, leaving English words in the hook because they look fashionable, ignoring formal and informal address, and asking a native speaker only whether the grammar is correct. A good review asks a stronger question: would someone in this market sing this line without feeling the translation underneath it?",
+        "Rights and disclosure checks should stay beside the creative work. Translating existing lyrics may involve permission questions depending on the source, territory, and use, and AI-generated lyrics or music are not automatically copyright-free, royalty-free, or cleared for every release, ad, client project, or platform. Before publishing or monetizing, review the current terms and platform rules, starting with kaivorMusic.AI's terms: https://kaivormusic.ai/tos.",
+        "FAQ: Should every metaphor survive? No, preserve the song job and emotional effect first. Do syllable counts need to match exactly? Close is useful; singable is better than mathematical. Can one translated chorus fit every market? Rarely, because idiom and stress change. Should I generate all languages at once? Start with one chorus and learn from the vocal test. The takeaway: localized lyrics work when they sound written for the melody, not translated into it."
+      ]
+    },
+    "es": {
+      "title": "Localiza letras con IA para cantarlas, no solo leerlas",
+      "description": "Un flujo práctico para convertir letras asistidas por IA en versiones localizadas y cantables sin perder significado, acento, ritmo ni revisión de derechos.",
+      "summary": "Una letra localizada debe funcionar en la voz: empieza por el hook, el acento natural, la longitud de línea y una prueba cantada breve.",
+      "body": [
+        "Una letra traducida puede verse correcta en un documento y sonar forzada en cuanto alguien intenta cantarla. La línea se alarga, la palabra importante cae en un tiempo débil, o el estribillo conserva el sentido literal pero pierde la frase que una persona repetiría. En canciones, traducir rápido no equivale a localizar bien.",
+        "Localizar letras para cantar significa decidir qué hace cada sección dentro de la canción. La estrofa cuenta una escena, el pre-coro prepara tensión y el coro sostiene la idea que debe quedarse en la memoria. Con esa función clara, puedes ajustar sílabas, acentos, rima, vocales y expresiones locales sin obedecer cada palabra del original.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que ayuda a creators y equipos pequeños a convertir prompts, letras, notas de mood y dirección de estilo en borradores musicales comparables. Si empiezas por el texto, AI Lyrics Generator sirve para probar opciones locales de coro o estrofa antes de revisarlas con criterio humano: https://kaivormusic.ai/es/tools/ai-lyrics-generator.",
+        "Antes de traducir, escribe una ficha de intención. Incluye la promesa del hook en una frase, las imágenes que no deben perderse, las palabras que sonarían literales o raras en el mercado local y el punto de vista de la voz. Una frase romántica puede necesitar tuteo, voseo o una distancia más neutra según el público.",
+        "Tres movimientos ayudan de inmediato: localiza primero el coro, no toda la canción; crea una pequeña tabla por línea con sílabas aproximadas, acento principal, posible rima y punto de respiración; y haz una traducción inversa para comprobar si el sentido central se movió. Si vuelve bonito pero diferente, todavía no está listo para audio.",
+        "Prueba pronto una sección cantada. Elige de 15 a 30 segundos de coro o pre-coro y pásalos por AI Song Generator antes de invertir tiempo en una versión completa. Escucha vocales apuradas, consonantes difíciles, acentos desplazados y líneas que obligan a respirar donde la emoción no lo pide: https://kaivormusic.ai/es/ai-song-generator.",
+        "Los errores comunes incluyen traducir línea por línea, perseguir rimas perfectas, dejar palabras en inglés para parecer global, ignorar el registro local y pedir solo una revisión gramatical. En letras, la pregunta correcta es otra: ¿una persona de este mercado cantaría esta línea sin notar el esqueleto de la traducción?",
+        "La parte legal y de publicación debe acompañar el proceso. Traducir letras existentes puede exigir permisos según la fuente, el territorio y el uso, y las letras o la música generadas con IA no son automáticamente copyright-free, royalty-free ni válidas para cualquier lanzamiento, anuncio o entrega a cliente. Antes de publicar o monetizar, revisa términos actuales y reglas de plataforma; empieza por los términos de kaivorMusic.AI: https://kaivormusic.ai/es/tos.",
+        "FAQ: ¿Debe conservarse cada metáfora? No, conserva primero la función emocional. ¿Las sílabas deben coincidir al milímetro? No, pero deben caber al cantar. ¿Basta con un nativo que revise gramática? No siempre; hace falta oído rítmico. ¿Conviene generar todas las lenguas a la vez? Mejor empieza con un coro. La idea clave: una buena localización suena escrita para esa melodía."
+      ]
+    },
+    "fr": {
+      "title": "Localiser des paroles IA pour le chant, pas seulement pour la lecture",
+      "description": "Un workflow pratique pour localiser des paroles assistées par IA en versions chantables, avec sens, accent, rythme, idiome local et revue des droits.",
+      "summary": "Des paroles localisées doivent tomber dans la voix. Commencez par le rôle du refrain, l'accent naturel, la longueur des lignes et un court test chanté.",
+      "body": [
+        "Une traduction de paroles peut paraître propre dans un fichier et devenir raide dès qu'une voix l'essaie. La phrase déborde de la mesure, le mot important tombe au mauvais endroit, ou le refrain garde le sens littéral en perdant la formule que l'on aurait envie de reprendre. Pour une chanson, la bonne question n'est pas seulement est-ce traduit, mais est-ce chantable.",
+        "Localiser des paroles pour le chant consiste à préserver la fonction musicale de chaque ligne. Un couplet installe une situation, un pré-refrain resserre l'attente, et le refrain porte la phrase que l'auditeur doit retenir. Une fois ce rôle clair, on peut adapter le nombre de syllabes, l'accent, la rime, les voyelles et l'idiome local sans coller au mot à mot.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui aide les créateurs et petites équipes à transformer prompts, paroles, notes d'ambiance et directions de style en brouillons musicaux comparables. Quand les mots viennent d'abord, AI Lyrics Generator peut aider à esquisser des refrains ou couplets localisés avant une vraie révision humaine: https://kaivormusic.ai/fr/tools/ai-lyrics-generator.",
+        "Commencez par une fiche d'intention. Notez la promesse du hook en une phrase, les images à conserver, les formulations qui sonneraient trop traduites dans la langue cible et le point de vue de la voix. Entre tu et vous, entre intime et plus pudique, le même refrain peut changer complètement de poids.",
+        "Trois gestes sont utiles tout de suite: localisez le refrain avant toute la chanson; créez une grille par ligne avec syllabes approximatives, accent principal, rime possible et respiration; puis faites une rétrotraduction pour vérifier si le sens central a glissé. Une phrase élégante qui ne dit plus la même chose doit être retravaillée avant l'audio.",
+        "Testez tôt une courte section chantée. Choisissez 15 à 30 secondes de refrain ou de pré-refrain et essayez-les dans AI Song Generator avant de produire une version multilingue complète. Écoutez les voyelles pressées, les consonnes difficiles, les accents déplacés et les endroits où la respiration contredit l'émotion: https://kaivormusic.ai/fr/ai-song-generator.",
+        "Les erreurs fréquentes sont la traduction ligne par ligne, la rime parfaite mais artificielle, l'anglais laissé pour faire moderne, le mauvais niveau de langue et une relecture qui se limite à la grammaire. Pour des paroles, demandez aussi: est-ce qu'une personne d'ici chanterait cette phrase sans entendre la traduction dessous?",
+        "Les droits et la diffusion doivent rester visibles. Traduire des paroles existantes peut poser des questions d'autorisation selon la source, le territoire et l'usage, et des paroles ou musiques générées par IA ne sont pas automatiquement copyright-free, royalty-free ni sûres pour chaque sortie, publicité ou livraison client. Avant publication ou monétisation, vérifiez les conditions actuelles de l'outil et des plateformes, en commençant par celles de kaivorMusic.AI: https://kaivormusic.ai/fr/tos.",
+        "FAQ: Faut-il garder toutes les images? Non, gardez d'abord l'effet et le rôle dans la chanson. Les syllabes doivent-elles correspondre exactement? Non, elles doivent surtout se chanter. Une simple correction native suffit-elle? Pas toujours, il faut aussi du rythme. Faut-il générer toutes les langues en même temps? Mieux vaut valider un refrain d'abord. À retenir: une bonne localisation semble écrite pour la mélodie."
+      ]
+    },
+    "it": {
+      "title": "Localizzare testi AI perché si possano cantare",
+      "description": "Un workflow pratico per localizzare testi assistiti da IA in versioni cantabili, mantenendo senso, accento, ritmo, fraseggio naturale e controlli d'uso.",
+      "summary": "La localizzazione cantabile parte dal ruolo del ritornello, dall'accento naturale e da una prova vocale breve, non dalla traduzione parola per parola.",
+      "body": [
+        "Un testo tradotto può sembrare corretto sullo schermo e diventare goffo appena qualcuno prova a cantarlo. La frase è troppo lunga, la parola importante cade su un accento debole, o il ritornello conserva il significato letterale ma perde la battuta che resterebbe in testa. Per una canzone, la traduzione deve diventare performance.",
+        "Localizzare lyrics per il canto significa proteggere la funzione di ogni riga. La strofa apre la scena, il pre-ritornello prepara tensione, il ritornello porta la promessa centrale. Solo dopo ha senso lavorare su sillabe, accenti, rime, vocali e modi di dire. Una buona versione italiana può allontanarsi dal testo originale se serve a far cantare la stessa idea.",
+        "kaivorMusic.AI è uno strumento di creazione musicale con IA che aiuta creator e piccoli team a trasformare prompt, testi, note di mood e direzioni di stile in bozze musicali confrontabili. Se parti dalle parole, AI Lyrics Generator può aiutarti a creare varianti locali di strofa o ritornello da rivedere con attenzione umana: https://kaivormusic.ai/it/tools/ai-lyrics-generator.",
+        "Prima della traduzione, prepara una scheda d'intento. Scrivi il significato del hook in una frase, le immagini che devono restare, le parole che suonerebbero letterali o fredde nel mercato locale e il punto di vista della voce. In italiano anche la scelta tra tono diretto, ironico o più trattenuto cambia il modo in cui una riga si appoggia alla musica.",
+        "Tre mosse funzionano subito: localizza prima il ritornello; crea una piccola griglia per ogni riga con sillabe indicative, accento principale, rima possibile e punto di respiro; poi fai una back translation per controllare se il senso è scivolato. Se torna elegante ma diverso, non è ancora pronto per diventare audio.",
+        "Testa presto una sezione cantata. Scegli 15-30 secondi di ritornello o pre-ritornello e provali in AI Song Generator prima di generare una versione completa. Ascolta vocali troppo corse, consonanti pesanti, accenti innaturali e frasi che costringono la voce a respirare nel punto sbagliato: https://kaivormusic.ai/it/ai-song-generator.",
+        "Gli errori comuni sono tradurre riga per riga, forzare rime perfette, lasciare inglesismi per sembrare internazionale, ignorare registro e accento, o chiedere solo una revisione grammaticale. Una revisione utile chiede anche se un cantante riuscirebbe a portare quella riga senza far sentire la traduzione.",
+        "Diritti e contesto vanno controllati insieme alla bozza. Tradurre testi esistenti può richiedere permessi a seconda della fonte, del territorio e dell'uso, e testi o musica generati con IA non sono automaticamente copyright-free, royalty-free o autorizzati per ogni release, annuncio o consegna cliente. Prima di pubblicare o monetizzare, verifica termini e regole di piattaforma, partendo dai termini di kaivorMusic.AI: https://kaivormusic.ai/it/tos.",
+        "FAQ: devo conservare ogni immagine? No, prima conserva funzione ed effetto emotivo. Le sillabe devono combaciare esattamente? Non per forza, ma devono cantarsi. Basta un madrelingua? Serve anche orecchio ritmico. Conviene generare tutte le lingue insieme? Meglio validare un ritornello. In pratica: una localizzazione riuscita sembra scritta per quella melodia."
+      ]
+    },
+    "ja": {
+      "title": "AI歌詞を歌える形にローカライズする方法",
+      "description": "AIで作った歌詞を、意味、アクセント、リズム、自然な表現、権利確認を保ちながら歌える多言語版にするための実用ワークフロー。",
+      "summary": "歌詞のローカライズは直訳ではありません。サビの役割、音節、アクセント、息継ぎを確認し、短い歌唱テストから始めます。",
+      "body": [
+        "翻訳した歌詞は、文章として読むと問題なさそうでも、歌った瞬間に崩れることがあります。1 行がメロディより長い。大事な言葉が弱い拍に乗る。サビの意味は合っているのに、聞き手が口ずさみたい言い回しではない。AI で多言語の lyric draft を作るときほど、歌えるかどうかの確認が重要です。",
+        "歌えるローカライズは、段落の翻訳とは違います。A メロは状況を見せるのか、B メロは緊張を作るのか、サビは何を覚えさせるのか。まず各行の仕事を決めます。そのうえで、音節の長さ、自然なアクセント、韻、母音の響き、その市場で自然に聞こえる表現を調整します。",
+        "kaivorMusic.AI は、creators や小さな team が prompts、lyrics、mood notes、style direction から比較できる music drafts を作るための AI 音楽制作ツールです。言葉から始める場合は、AI Lyrics Generator で現地向けのサビや A メロ候補を作り、人の判断で整えてから曲として試せます: https://kaivormusic.ai/ja/tools/ai-lyrics-generator 。",
+        "最初に全文翻訳ではなく intent card を作ります。サビが伝えるべき一文、残したいイメージ、現地では硬すぎる言葉、避けたい直訳、歌い手の視点を書きます。日本語では主語を出すか隠すか、丁寧にするか近く話すかで、同じ hook でも距離感が大きく変わります。",
+        "すぐ使える方法は 3 つあります。まずサビだけをローカライズすること。各行に、おおよその音節数、強く聞かせたい語、韻の候補、息継ぎ位置をメモすること。最後に back translation をして、元の意味が残っているか見ることです。戻した文がきれいでも別の意味なら、まだ音にする段階ではありません。",
+        "早めに短い歌唱テストをします。サビまたは B メロの 15-30 秒だけを選び、full song の前に AI Song Generator で試します。母音が急ぎすぎる、子音が詰まる、アクセントがずれる、息継ぎが感情と合わない。そうした問題は mix ではなく lyric fit の問題です: https://kaivormusic.ai/ja/ai-song-generator 。",
+        "よくある失敗は、行ごとの直訳、無理な韻、英語を残しすぎること、話し言葉と書き言葉の距離を見ないこと、文法チェックだけで終えることです。ローカルの読み手には、正しいかだけでなく、この市場の歌として自然に聞こえるかを聞きます。できれば、実際にリズムに乗せて読んでもらいます。",
+        "権利と公開条件も同時に確認します。既存の歌詞を翻訳する場合、元の作品、地域、用途によって許諾が必要になることがあります。AI-generated lyrics や music は、自動的に copyright-free、royalty-free、またはすべての commercial use に安全になるわけではありません。公開、収益化、client delivery の前に、現在の tool terms と platform rules を確認してください。kaivorMusic.AI の条件はこちらです: https://kaivormusic.ai/ja/tos 。",
+        "FAQ：比喩は全部残すべきですか。いいえ、曲の役割と感情を優先します。音節数は完全一致が必要ですか。完全より、歌える近さが大切です。ネイティブ確認だけで十分ですか。歌詞ではリズム感も必要です。全言語を一気に作るべきですか。まず 1 言語のサビで試します。結論はシンプルです。良いローカライズは、翻訳された歌詞ではなく、そのメロディのために書かれた歌詞に聞こえます。"
+      ]
+    },
+    "ko": {
+      "title": "AI 가사를 읽히는 번역이 아니라 부를 수 있게 현지화하기",
+      "description": "AI로 만든 가사를 의미, 강세, 리듬, 자연스러운 표현, 권리 검토를 지키며 부를 수 있는 다국어 노래 초안으로 바꾸는 실무 워크플로입니다.",
+      "summary": "가사 현지화는 직역이 아닙니다. 후렴의 역할, 음절, 강세, 호흡을 정리하고 짧은 보컬 테스트로 확인해야 합니다.",
+      "body": [
+        "번역된 가사가 문서에서는 괜찮아 보여도 노래로 부르면 바로 어색해질 수 있습니다. 한 줄이 멜로디보다 길고, 중요한 단어가 약한 박에 걸리고, 후렴은 뜻을 유지했지만 실제로 따라 부르고 싶은 말이 아닐 수 있습니다. AI로 여러 언어의 lyric draft 를 만들 때는 속도보다 singability 확인이 먼저입니다.",
+        "부를 수 있는 가사 현지화는 문장 번역과 다릅니다. verse 는 장면을 보여 주는지, pre-chorus 는 긴장을 만드는지, chorus 는 기억할 문장을 주는지부터 정해야 합니다. 그다음 음절 수, 자연스러운 강세, rhyme, vowel sound, 현지에서 어색하지 않은 표현을 조정합니다.",
+        "kaivorMusic.AI는 creators 와 작은 팀이 prompts, lyrics, mood notes, style direction 을 비교 가능한 music drafts 로 바꾸도록 돕는 AI music creation tool 입니다. 가사에서 시작한다면 AI Lyrics Generator 로 현지화된 chorus 또는 verse 후보를 만들고, 사람의 편집을 거친 뒤 노래로 테스트할 수 있습니다: https://kaivormusic.ai/ko/tools/ai-lyrics-generator.",
+        "전체 번역 요청 전에 intent card 를 만드세요. hook 이 전달해야 하는 한 문장, 반드시 살려야 할 이미지, 목표 언어에서 딱딱하거나 위험하게 들릴 표현, 그리고 화자의 거리감을 적습니다. 한국어에서는 반말, 존댓말, 생략의 정도가 같은 사랑 노래도 전혀 다른 분위기로 바꿉니다.",
+        "바로 쓸 수 있는 방법은 세 가지입니다. 먼저 chorus 만 현지화하세요. 각 줄마다 대략의 음절 수, main stress, rhyme target, breath point 를 적으세요. 마지막으로 back translation 을 해 핵심 의미가 남았는지 확인하세요. 다시 번역했을 때 예쁘지만 다른 뜻이라면 아직 audio 로 만들 때가 아닙니다.",
+        "짧은 sung section 을 일찍 테스트하세요. chorus 또는 pre-chorus 에서 15-30초를 골라 full multilingual version 전에 AI Song Generator 로 시험합니다. 너무 급한 모음, 발음하기 어려운 자음 묶음, 틀어진 강세, 잘못된 호흡 위치를 들으세요: https://kaivormusic.ai/ko/ai-song-generator.",
+        "흔한 실수는 줄 단위 직역, 억지 rhyme, 멋져 보인다는 이유로 영어를 남기는 것, 높임말과 말투를 대충 정하는 것, 문법 검수만 받는 것입니다. 좋은 검토 질문은 더 구체적입니다. 이 시장의 사람이 이 줄을 번역투라고 느끼지 않고 노래할 수 있는가?",
+        "권리와 공개 조건도 창작 과정 옆에 두어야 합니다. 기존 lyrics 를 번역하는 일은 원작, 지역, 사용 목적에 따라 허가 문제가 생길 수 있습니다. AI-generated lyrics 나 music 이 자동으로 copyright-free, royalty-free 또는 모든 commercial use 에 안전한 것은 아닙니다. 공개, monetization, client delivery 전에는 현재 tool terms 와 platform rules 를 확인하고, kaivorMusic.AI 약관부터 살펴보세요: https://kaivormusic.ai/ko/tos.",
+        "FAQ: 모든 비유를 그대로 살려야 하나요? 아닙니다. 곡 안에서 하는 일을 먼저 살리세요. 음절 수가 정확히 같아야 하나요? 정확성보다 부를 수 있는 가까움이 중요합니다. 원어민 검수면 충분한가요? 리듬과 호흡도 봐야 합니다. 모든 언어를 한 번에 만들까요? 먼저 한 언어의 chorus 를 검증하세요. 결론은 이것입니다. 좋은 현지화 가사는 번역된 말이 아니라 처음부터 그 멜로디에 붙어 있던 말처럼 들립니다."
+      ]
+    },
+    "pt": {
+      "title": "Localize letras com IA para cantar, não só para ler",
+      "description": "Um fluxo prático para transformar letras assistidas por IA em versões localizadas e cantáveis sem perder sentido, acento, ritmo, naturalidade e revisão de uso.",
+      "summary": "Letra localizada precisa caber na voz. Comece pelo papel do refrão, pelo acento natural, pela respiração e por um teste cantado curto.",
+      "body": [
+        "Uma letra traduzida pode parecer boa no arquivo e soar dura quando alguém tenta cantar. A frase passa do compasso, a palavra mais importante cai sem força, ou o refrão mantém o sentido literal mas perde a expressão que o público repetiria. Em música, tradução rápida só ajuda se virar localização cantável.",
+        "Localizar letra para cantar é preservar a função musical de cada linha. O verso mostra a cena, o pré-refrão aumenta a tensão e o refrão entrega a ideia que fica. Depois disso vêm sílabas, acento natural, rima, vogais e jeito de falar do mercado local. Às vezes uma boa versão brasileira precisa abandonar a frase literal para manter a canção viva.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com IA que ajuda creators e pequenos times a transformar prompts, letras, notas de mood e direção de estilo em rascunhos musicais comparáveis. Se o ponto de partida é a letra, o AI Lyrics Generator pode ajudar a criar opções locais de refrão ou verso antes da revisão humana: https://kaivormusic.ai/pt/tools/ai-lyrics-generator.",
+        "Antes de traduzir tudo, faça uma ficha de intenção. Escreva em uma frase o que o hook precisa dizer, quais imagens devem continuar, quais palavras soariam literais ou estranhas em português e qual é a distância da voz. Um eu te espero pode ser romântico, dramático ou brega dependendo do ritmo, da melodia e do público.",
+        "Três ações funcionam na hora: localize primeiro o refrão; crie uma pequena grade por linha com sílabas aproximadas, acento principal, possível rima e ponto de respiração; depois faça uma tradução reversa para ver se o sentido principal permaneceu. Se voltou bonito mas mudou de assunto, ajuste antes de gerar áudio.",
+        "Teste cedo uma seção cantada. Escolha 15 a 30 segundos de refrão ou pré-refrão e experimente no AI Song Generator antes de produzir uma versão completa. Ouça vogais corridas, consoantes difíceis, acento deslocado e linhas que forçam a respiração onde a emoção não pede: https://kaivormusic.ai/pt/ai-song-generator.",
+        "Erros comuns incluem traduzir linha por linha, forçar rima perfeita, deixar inglês para parecer internacional, ignorar registro local e pedir só revisão gramatical. Para letras, a pergunta mais útil é: alguém daqui cantaria essa frase sem sentir que existe uma tradução escondida por baixo?",
+        "Direitos e contexto de uso precisam acompanhar a criação. Traduzir letras existentes pode envolver permissões conforme a fonte, o território e o uso, e letras ou músicas geradas por IA não são automaticamente copyright-free, royalty-free nem liberadas para todo lançamento, anúncio ou entrega a cliente. Antes de publicar ou monetizar, revise termos atuais e regras da plataforma, começando pelos termos da kaivorMusic.AI: https://kaivormusic.ai/pt/tos.",
+        "FAQ: preciso manter toda metáfora? Não, preserve primeiro a função emocional. As sílabas precisam bater exatamente? Não, mas precisam caber cantando. Um nativo basta? Ajuda, mas alguém deve sentir ritmo e respiração. Devo gerar todos os idiomas juntos? Melhor validar um refrão por vez. A conclusão: boa localização parece escrita para aquela melodia."
+      ]
+    },
+    "ru": {
+      "title": "Локализуйте AI lyrics так, чтобы их можно было петь",
+      "description": "Практический workflow для локализации AI-assisted lyrics в исполнимые версии без потери смысла, ударений, ритма, естественной речи и проверки прав.",
+      "summary": "Поющаяся локализация начинается не с дословного перевода, а с задачи припева, ударений, длины строк и короткого вокального теста.",
+      "body": [
+        "Переведенный текст песни может выглядеть аккуратно в документе и сразу развалиться при пении. Строка не помещается в мелодию, главное слово оказывается на слабой доле, а припев сохраняет буквальный смысл, но теряет фразу, которую хочется повторить. Для lyrics скорость AI полезна только тогда, когда вы проверяете singability.",
+        "Локализация lyrics для пения не равна переводу абзаца. Сначала нужно понять, что делает строка в песне: verse показывает сцену, pre-chorus собирает напряжение, chorus несет запоминаемую мысль. Затем можно менять количество слогов, ударения, рифму, гласные и местную идиоматику, не держась за каждое слово оригинала.",
+        "kaivorMusic.AI - инструмент AI music creation, который помогает creators и небольшим командам превращать prompts, lyrics, mood notes и style direction в музыкальные drafts для сравнения. Если вы начинаете со слов, AI Lyrics Generator поможет набросать локальные варианты припева или куплета, а затем отредактировать их человечески: https://kaivormusic.ai/ru/tools/ai-lyrics-generator.",
+        "Начните с карточки намерения, а не с полного перевода. Запишите одно предложение, которое должен передать hook, образы, которые нельзя потерять, фразы, которые в целевом языке звучат слишком буквально, и точку зрения голоса. В русском одна и та же строка может стать слишком книжной, слишком попсовой или слишком холодной, если не выбрать регистр заранее.",
+        "Три приема можно применить сразу: локализуйте сначала chorus, а не всю песню; сделайте простую таблицу для каждой строки с примерным числом слогов, главным ударением, возможной рифмой и местом дыхания; затем выполните back translation, чтобы увидеть смысловой сдвиг. Если обратный перевод красивый, но о другом, текст рано превращать в audio.",
+        "Рано тестируйте короткий sung section. Возьмите 15-30 секунд chorus или pre-chorus и проверьте их в AI Song Generator до полной многоязычной версии. Слушайте спешащие гласные, тяжелые сочетания согласных, неправильные ударения и строки, где дыхание приходится против эмоции: https://kaivormusic.ai/ru/ai-song-generator.",
+        "Частые ошибки - построчный перевод, идеальная рифма ценой живой речи, английские слова ради модности, игнорирование ты/вы и слишком формальный review. Для песенного текста нужен вопрос не только правильно ли это, а спел бы это человек на этом рынке, не слыша под строкой перевод.",
+        "Права и публикация должны быть рядом с творческим процессом. Перевод существующих lyrics может требовать разрешений в зависимости от источника, территории и использования, а AI-generated lyrics или music не становятся автоматически copyright-free, royalty-free или безопасными для любого релиза, рекламы или клиентской работы. Перед публикацией или monetization проверьте текущие terms и правила платформ, начав с условий kaivorMusic.AI: https://kaivormusic.ai/ru/tos.",
+        "FAQ: нужно ли сохранять каждую метафору? Нет, сначала сохраняйте функцию и эмоциональный эффект. Должно ли число слогов совпадать точно? Нет, важнее спеть без насилия над фразой. Достаточно ли native review? Не всегда, нужен ритм и дыхание. Стоит ли делать все языки сразу? Лучше проверить один chorus. Итог: хорошая локализация звучит так, будто была написана для этой мелодии."
+      ]
+    },
+    "zh": {
+      "title": "把 AI 歌词本地化成真正能开口唱的版本",
+      "description": "一个实用流程，帮助你把 AI 辅助歌词改成本地化、可演唱的多语言版本，同时保留意义、重音、节奏、自然表达和使用审核。",
+      "summary": "歌词本地化不是逐字翻译。先确认副歌任务、音节、重音和换气点，再用短段落试唱验证。",
+      "body": [
+        "一段歌词翻译在文档里可能很顺，一唱就出问题。句子比旋律长，重要词落在弱拍上，副歌保留了字面意思，却失去了听众愿意跟唱的表达。AI 可以很快生成多语言 lyric draft，但速度越快，越不能跳过可演唱性检查。",
+        "面向演唱的歌词本地化，不等于翻译一段文字。先判断每一行在歌里的作用：主歌是否交代场景，pre-chorus 是否制造推进，chorus 是否承担最容易记住的核心句。这个任务明确后，才调整音节长度、自然重音、押韵、元音开口和本地表达。",
+        "kaivorMusic.AI 是一款 AI 音乐创作工具，帮助 creators 和小团队把 prompts、lyrics、mood notes 和 style direction 变成可以比较的 music drafts。如果从文字开始，可以用 AI Lyrics Generator 先生成本地化副歌或主歌候选，再通过人工判断做编辑: https://kaivormusic.ai/zh/tools/ai-lyrics-generator 。",
+        "不要一开始就要求全文翻译，先写 intent card。写清楚 hook 必须传达的一句话、必须保留的意象、在目标语言里会显得生硬或有风险的表达，以及歌者的视角。中文里一个主语是否出现、语气是直接还是含蓄，都会改变同一句 chorus 的亲密感。",
+        "三个方法可以马上用：先本地化 chorus，不要直接做整首歌；给每一行建一个小表，记录大致音节数、主要重音、可能押韵和换气点；再做 back translation，看看核心意义有没有跑偏。如果回译很漂亮但意思变了，就先改歌词，不要急着生成音频。",
+        "尽早测试一小段演唱。选择 chorus 或 pre-chorus 的 15 到 30 秒，在制作完整多语言版本前先用 AI Song Generator 试唱。注意元音是否太赶，辅音是否卡口，重音是否别扭，以及歌手是否被迫在情绪不该断的地方换气: https://kaivormusic.ai/zh/ai-song-generator 。",
+        "常见错误包括逐行直译、为了押韵牺牲自然表达、保留过多英文显得国际化、忽略称呼和语气、只做语法审校。歌词审校要问得更具体：这个市场的听众会觉得它像一首歌，还是能听出翻译腔？最好让本地读者按节拍念出来。",
+        "权利和发布场景也要放在流程里。翻译已有歌词，可能因原作品、地区和用途不同涉及授权问题；AI-generated lyrics 或 music 也不会自动变成 copyright-free、royalty-free，或适合所有 release、广告、客户交付和平台使用。发布或变现前，请查看当前工具条款和平台规则，kaivorMusic.AI 的条款在这里: https://kaivormusic.ai/zh/tos 。",
+        "FAQ：每个比喻都要保留吗？不需要，先保留歌曲功能和情绪效果。音节数必须完全相同吗？不必完全相同，但要唱得顺。母语审校够吗？不一定，还要看节奏和换气。应该一次生成所有语言吗？先验证一个语言的 chorus。结论很简单：好的本地化歌词听起来像是为这段旋律写的，而不是被翻译进去的。"
+      ]
+    }
+  }
+}
