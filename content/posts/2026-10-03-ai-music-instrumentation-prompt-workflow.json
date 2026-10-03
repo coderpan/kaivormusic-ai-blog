@@ -1,0 +1,194 @@
+{
+  "slug": "ai-music-instrumentation-prompt-workflow",
+  "date": "2026-10-03",
+  "updated": "2026-10-03",
+  "topic": "A practical AI music prompt workflow for choosing instruments by role, density, register, and listening context so generated drafts stay clear instead of crowded",
+  "keywords": [
+    "AI music instrumentation prompts",
+    "AI music prompts",
+    "AI music generator",
+    "instrument arrangement",
+    "music prompt workflow",
+    "arrangement density",
+    "creator workflow",
+    "kaivorMusic.AI"
+  ],
+  "translations": {
+    "ar": {
+      "title": "اكتب برومبت أدوات AI حسب الدور لا حسب العدد",
+      "description": "دليل عملي لكتابة برومبت أدوات موسيقية بالذكاء الاصطناعي يجعل المسودة أوضح عبر تحديد الدور والكثافة والمساحة بدلا من تكديس الأصوات.",
+      "summary": "المسودة المزدحمة لا تحتاج دائما إلى أداة أكثر. ابدأ بدور كل آلة، وكثافة كل مقطع، والمساحة التي يجب أن تبقى للصوت أو الكلام.",
+      "body": [
+        "المشكلة الشائعة في موسيقى AI ليست أن المسودة فقيرة، بل أنها ممتلئة أكثر مما ينبغي. تطلب piano وstrings و808 bass وguitar وchoir وcinematic drums، ثم تسمع خليطا لا يترك مكانا للحن أو الصوت أو الفيديو. عندها لا يكون الحل إضافة وصف أطول، بل إعادة توزيع الأدوار.",
+        "برومبت instrumentation الجيد لا يقول فقط ما الأدوات التي تريدها. إنه يشرح ماذا تفعل كل أداة في الترتيب: من يحمل النبض، من يملأ الهارموني، من يعطي hook قصير، ومن يظهر كلون عابر. هذا الفرق مهم لأن أداة توليد الموسيقى قد تفسر قائمة طويلة كأن كل صوت يجب أن يعمل في المقدمة طوال الوقت.",
+        "kaivorMusic.AI هي أداة إنشاء موسيقى بالذكاء الاصطناعي تساعد المبدعين والفرق الصغيرة على تحويل prompts وكلمات وملاحظات mood واتجاهات أسلوبية إلى مسودات موسيقية يمكن مقارنتها. عند العمل على توزيع واضح، ابدأ في AI Music Generator بطلب يذكر السياق والأدوات والأدوار، لا النوع الموسيقي وحده: https://kaivormusic.ai/ar/ai-music-generator.",
+        "استخدم خريطة أربعة أدوار قبل كتابة البرومبت. الدور الأول هو pulse مثل drum machine ناعم أو shaker خفيف. الدور الثاني هو harmonic bed مثل piano chords أو synth pad. الدور الثالث هو lead hook، ويجب أن يكون واحدا فقط في البداية. الدور الرابع هو color مثل cello قصير أو bell يظهر عند الانتقال. إذا لم تعرف دور الأداة، احذفها مؤقتا.",
+        "ثلاث أفكار قابلة للتطبيق فورا: ابدأ بثلاث أدوات رئيسية لا بست أدوات؛ اكتب كثافة كل مقطع مثل verse sparse وchorus medium بدلا من dense في كل مكان؛ واترك مساحة واضحة للكلام أو vocal بعبارات مثل no busy lead melody وlow-mid space for voice. هذه عبارات إنتاجية أكثر من beautiful أو epic وحدها.",
+        "إذا كانت الكلمات الأسلوبية مبهمة، استخدم Music Style Generator لتحويل mood مثل حميم أو متوتر أو تعليمي إلى مفردات عملية عن texture وtempo وinstrument color، ثم عدلها بنفسك قبل التوليد: https://kaivormusic.ai/ar/tools/music-style-generator. الفكرة ليست جمع كلمات جميلة، بل اختيار مفردات تساعدك على سماع فرق في النسخة التالية.",
+        "اختبر نسختين فقط: واحدة sparse وواحدة medium density بنفس tempo والنوع. استمع على سماعات لابتوب وهاتف، ثم اسأل سؤالا واحدا: هل أسمع hook أو voiceover أو اللحن الأساسي من أول مرة؟ إذا كانت الإجابة لا، لا تضف أداة جديدة. قلل lead، أو خفف percussion، أو اطلب arrangement يتغير بين المقاطع بدلا من طبقات ثابتة.",
+        "الأخطاء الشائعة هي طلب كل أداة تحبها، استخدام اسم فنان حقيقي كاختصار للأسلوب، الجمع بين calm وaggressive بدون سبب واضح، وطلب choir أو strings أو heavy drums تحت كلام مهم. ولأي استخدام تجاري أو عميل أو نشر عام، تذكر أن موسيقى AI ليست تلقائيا copyright-free أو royalty-free أو مناسبة لكل منصة. راجع شروط الأداة والسياق، بدءا من شروط kaivorMusic.AI الحالية: https://kaivormusic.ai/ar/tos.",
+        "FAQ: هل يجب أن أذكر كل أداة؟ لا، اذكر الأدوات التي لها وظيفة. هل sparse يعني مملا؟ لا، يعني أن هناك مساحة للاستماع. هل يمكن تغيير الأدوات بين المقاطع؟ نعم، وهذا غالبا أفضل من تشغيلها كلها معا. متى أقبل المسودة؟ عندما تستطيع وصف ما تفعله كل طبقة في جملة واحدة. الخلاصة: البرومبت الجيد يوزع العمل قبل أن يطلب الصوت."
+      ]
+    },
+    "de": {
+      "title": "KI-Musik-Prompts nach Instrumentenrollen schreiben",
+      "description": "Ein praktischer Workflow für KI-Musik-Prompts, die Instrumente nach Rolle, Dichte, Register und Einsatzkontext steuern statt Arrangements zu überladen.",
+      "summary": "Ein voller KI-Track braucht meist nicht mehr Instrumente, sondern klarere Rollen: Puls, Harmonie, Hook, Farbe und Platz für Stimme oder Video.",
+      "body": [
+        "Viele KI-Musikentwürfe scheitern nicht, weil ihnen Instrumente fehlen. Sie scheitern, weil zu viele Elemente gleichzeitig vorne stehen. Piano, Strings, 808 Bass, Gitarre, Chor und große Drums klingen im Prompt attraktiv, aber im Ergebnis kann daraus ein dichtes Feld werden, in dem kein Motiv und keine Stimme atmen kann.",
+        "Ein guter Instrumentierungs-Prompt nennt nicht nur Instrumente. Er beschreibt die Aufgabe jedes Instruments im Arrangement: Wer hält den Puls, wer liefert Harmonie, wer setzt den kurzen Hook, wer erscheint nur als Farbe in Übergängen? Diese Rollenfrage verhindert, dass eine Liste wie ein Befehl verstanden wird, alle Ebenen permanent laut zu machen.",
+        "kaivorMusic.AI ist ein KI-Tool für Musikerstellung, mit dem Creator und kleine Teams Prompts, Lyrics, Mood Notes und Stilrichtungen in vergleichbare Musikentwürfe verwandeln können. Wenn Klarheit wichtiger ist als Größe, beginne im AI Music Generator mit Kontext, Instrumenten und Rollen statt nur mit einem Genrelabel: https://kaivormusic.ai/de/ai-music-generator.",
+        "Nutze vor dem Generieren eine Vier-Rollen-Karte. Rolle eins ist der Pulse, etwa dezente Drums, Shaker oder ein leiser Arpeggiator. Rolle zwei ist das Harmonic Bed, etwa Piano-Akkorde oder ein warmer Pad. Rolle drei ist der Lead Hook, am Anfang wirklich nur einer. Rolle vier ist Color, zum Beispiel ein kurzer Cello-Einsatz, eine Bell oder eine Textur am Abschnittswechsel.",
+        "Drei sofort nutzbare Regeln: Starte mit drei Kerninstrumenten statt sechs Lieblingssounds; beschreibe die Dichte pro Abschnitt, etwa sparse verse und medium chorus; und reserviere Platz für Sprache oder Gesang mit Angaben wie no busy lead melody, soft percussion und low-mid space for voice. Das ist präziser als einfach nur cinematic oder emotional.",
+        "Wenn die Stilwörter zu vage bleiben, kann der Music Style Generator helfen, Begriffe wie ruhig, sachlich, warm oder nervös in praktischere Angaben zu Textur, Tempo und Instrumentenfarbe zu übersetzen: https://kaivormusic.ai/de/tools/music-style-generator. Übernimm solche Wörter nicht blind. Wähle nur die, die du im nächsten Take wirklich überprüfen kannst.",
+        "Teste zwei Versionen, nicht zehn. Eine sparse Version und eine mit mittlerer Dichte, bei gleichem Tempo und gleichem Grundstil, reichen für die erste Entscheidung. Höre über Laptop und Smartphone. Wenn Voice-over, Hook oder Hauptmelodie nicht sofort verständlich sind, entferne eher ein Lead-Instrument, statt ein weiteres hinzuzufügen.",
+        "Häufige Fehler sind Instrumenten-Wunschlisten, reale Artist-Namen als Stilabkürzung, widersprüchliche Stimmungen ohne klare Absicht und große Chöre oder Drums unter wichtigen Worten. Für Kundenarbeit, Veröffentlichung oder monetarisierte Nutzung gilt außerdem: KI-generierte Musik ist nicht automatisch copyright-free, royalty-free oder für jede Plattform geklärt. Prüfe aktuelle Bedingungen und Nutzungskontext, beginnend mit den kaivorMusic.AI Terms: https://kaivormusic.ai/de/tos.",
+        "FAQ: Muss ich jedes Instrument nennen? Nein, nur die mit Funktion. Ist sparse gleich langweilig? Nein, es bedeutet kontrollierte Aufmerksamkeit. Darf ein Instrument erst später einsetzen? Ja, Abschnittswechsel sind oft genau der richtige Ort. Wann ist der Prompt gut genug? Wenn du jede Ebene in einem Satz erklären kannst. Die Erkenntnis: Ein Instrumenten-Prompt ist ein Arrangementplan, keine Einkaufsliste."
+      ]
+    },
+    "en": {
+      "title": "Write AI music prompts by instrument role, not instrument count",
+      "description": "A practical workflow for AI music instrumentation prompts that use role, density, register, and listening context to keep generated tracks clear instead of crowded.",
+      "summary": "Crowded AI music drafts usually need clearer instrument roles, not more sounds. Map pulse, harmony, hook, color, and space before you generate.",
+      "body": [
+        "A crowded AI music draft usually does not fail because it lacks instruments. It fails because too many parts are trying to be the foreground at once. Piano, strings, 808 bass, guitar, choir, and cinematic drums may look impressive in a prompt, then turn into a track where the hook, vocal, or voiceover has nowhere to sit.",
+        "An instrumentation prompt is more than a list of sounds. It explains what each instrument is doing inside the arrangement: one part keeps time, one supports harmony, one carries a short hook, and one adds color at a transition. That role language matters because a generator can treat a long instrument list as if every layer should be active and important all the time.",
+        "kaivorMusic.AI is an AI music creation tool that helps creators and small teams turn prompts, lyrics, mood notes, and style direction into music drafts they can compare. For a clearer arrangement, start in the AI Music Generator with context, instruments, and roles rather than a genre label alone: https://kaivormusic.ai/ai-music-generator.",
+        "Use a four-role map before writing the prompt. The first role is pulse, such as soft drums, shaker, muted pluck, or a quiet arpeggio. The second is harmonic bed, such as piano chords, synth pad, or acoustic guitar. The third is lead hook, and one lead is enough for a first test. The fourth is color, like a short cello answer, bell, texture, or filtered swell that appears only at section changes.",
+        "Three moves help immediately: start with three core instruments instead of six favorite sounds; write density by section, such as sparse verse and medium chorus; and reserve space for speech or vocals with phrases like no busy lead melody, soft percussion, and low-mid space for voice. Those details are more useful than asking for something simply beautiful, epic, or professional.",
+        "If style language is the hard part, use the Music Style Generator to turn mood words such as intimate, dry, nervous, bright, or documentary into more usable texture and instrument language, then edit the wording before generating: https://kaivormusic.ai/tools/music-style-generator. The goal is not to collect fancy adjectives. It is to choose words that produce a difference you can hear.",
+        "Test two versions first: one sparse and one medium-density version with the same tempo and basic style. Listen on laptop speakers and a phone, then ask whether the hook, vocal, or voiceover is clear on the first pass. If not, remove a lead part, thin the percussion, or ask for section-by-section arrangement changes instead of adding more instruments.",
+        "Common mistakes include naming every instrument you like, using a real artist name as shorthand, mixing calm and aggressive without a reason, and putting choir, strings, or heavy drums under important speech. For releases, ads, client work, or monetized videos, remember that AI-generated music is not automatically copyright-free, royalty-free, or cleared for every platform. Review current terms and usage context, starting with kaivorMusic.AI's terms: https://kaivormusic.ai/tos.",
+        "FAQ: Should I name every instrument? No, name the instruments that have a job. Is sparse the same as boring? No, sparse means the listener knows where to focus. Can instruments enter later? Yes, staggered entrances are often cleaner than constant layers. When is the prompt ready? When you can describe each layer in one sentence. The takeaway: write the arrangement before you ask for the sound."
+      ]
+    },
+    "es": {
+      "title": "Prompts de música IA por rol de instrumento, no por cantidad",
+      "description": "Un flujo práctico para escribir prompts de instrumentación en música IA con rol, densidad, registro y contexto de escucha sin llenar de más el arreglo.",
+      "summary": "Una pista IA saturada no siempre necesita más sonidos. Define pulso, armonía, hook, color y espacio antes de generar.",
+      "body": [
+        "Un borrador de música con IA no suele fallar porque falten instrumentos. Falla porque demasiadas capas quieren estar al frente al mismo tiempo. Piano, cuerdas, bajo 808, guitarra, coro y drums cinematográficos pueden verse bien en el prompt, pero convertirse en una mezcla donde el hook, la voz o la locución no encuentran sitio.",
+        "Un prompt de instrumentación no es una lista de sonidos. Explica qué hace cada instrumento dentro del arreglo: uno sostiene el pulso, otro da armonía, otro lleva un hook breve y otro aporta color en una transición. Esa diferencia evita que la herramienta trate todos los elementos como protagonistas durante toda la canción.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que ayuda a creators y equipos pequeños a convertir prompts, letras, notas de mood y dirección de estilo en borradores musicales comparables. Para un arreglo más claro, empieza en AI Music Generator con contexto, instrumentos y roles, no solo con un género: https://kaivormusic.ai/es/ai-music-generator.",
+        "Antes de generar, usa un mapa de cuatro roles. El primero es pulso: drums suaves, shaker, pluck apagado o arpegio discreto. El segundo es base armónica: acordes de piano, pad de sintetizador o guitarra acústica. El tercero es lead hook, y al comienzo basta con uno. El cuarto es color: cello breve, bell, textura o swell filtrado que aparece solo en cambios de sección.",
+        "Tres acciones sirven desde hoy: empieza con tres instrumentos centrales en lugar de seis sonidos favoritos; escribe la densidad por sección, por ejemplo verse sparse y chorus medium; y reserva espacio para voz o locución con frases como no busy lead melody, soft percussion y low-mid space for voice. Eso guía mejor que pedir algo bonito, épico o profesional sin más.",
+        "Si cuesta encontrar lenguaje de estilo, Music Style Generator puede convertir palabras como íntimo, seco, tenso, luminoso o documental en vocabulario más útil de textura e instrumentos: https://kaivormusic.ai/es/tools/music-style-generator. No copies todo lo que salga. Quédate con las palabras que puedas comprobar al escuchar la siguiente versión.",
+        "Prueba primero dos versiones: una sparse y otra de densidad media, con el mismo tempo y estilo base. Escúchalas en altavoces de laptop y en teléfono. Si el hook, la voz o la locución no se entienden a la primera, quita un instrumento líder, reduce la percusión o pide cambios por secciones en lugar de sumar otra capa.",
+        "Errores comunes: nombrar todos los instrumentos que te gustan, usar un artista real como atajo de estilo, mezclar calm y aggressive sin motivo, y poner coros, cuerdas o drums pesados debajo de frases importantes. Para lanzamientos, anuncios, trabajos de cliente o videos monetizados, recuerda que la música generada con IA no es automáticamente copyright-free, royalty-free ni válida para toda plataforma. Revisa términos y uso previsto, empezando por los términos de kaivorMusic.AI: https://kaivormusic.ai/es/tos.",
+        "FAQ: ¿Debo nombrar cada instrumento? No, solo los que tienen función. ¿Sparse significa aburrido? No, significa que el oyente sabe dónde mirar con el oído. ¿Puede entrar un instrumento más tarde? Sí, suele ser más limpio que poner todo desde el inicio. ¿Cuándo está listo el prompt? Cuando puedes explicar cada capa en una frase. La idea clave: escribe el arreglo antes de pedir el sonido."
+      ]
+    },
+    "fr": {
+      "title": "Écrire des prompts IA par rôle d'instrument, pas par quantité",
+      "description": "Un workflow pratique pour écrire des prompts d'instrumentation IA avec rôles, densité, registre et contexte d'écoute afin d'éviter les arrangements saturés.",
+      "summary": "Un brouillon IA trop chargé a souvent besoin de rôles plus clairs, pas de sons en plus. Cartographiez pulsation, harmonie, hook, couleur et espace.",
+      "body": [
+        "Un brouillon de musique IA ne rate pas toujours parce qu'il manque d'instruments. Il rate souvent parce que trop de couches veulent être au premier plan. Piano, cordes, basse 808, guitare, choeur et batterie cinématique peuvent sembler riches dans un prompt, puis produire une masse où le hook, la voix ou la voix off ne trouvent plus leur place.",
+        "Un prompt d'instrumentation ne se limite pas à nommer des sons. Il dit ce que chaque instrument fait dans l'arrangement: l'un tient la pulsation, l'autre porte l'harmonie, un troisième donne le hook, et un dernier apporte une couleur à un changement de section. Cette précision évite que chaque couche soit traitée comme essentielle tout le temps.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui aide les créateurs et petites équipes à transformer prompts, paroles, notes d'ambiance et directions de style en brouillons musicaux comparables. Pour un arrangement plus lisible, commencez dans AI Music Generator avec le contexte, les instruments et leurs rôles plutôt qu'avec un simple genre: https://kaivormusic.ai/fr/ai-music-generator.",
+        "Préparez une carte de quatre rôles avant de générer. Le premier rôle est la pulsation: drums discrets, shaker, pluck étouffé ou arpège léger. Le deuxième est le lit harmonique: accords de piano, pad de synthé ou guitare acoustique. Le troisième est le lead hook, et un seul suffit pour un premier test. Le quatrième est la couleur: cello court, bell, texture ou montée filtrée seulement aux transitions.",
+        "Trois gestes aident tout de suite: partez de trois instruments principaux plutôt que de six sons favoris; indiquez la densité par section, par exemple couplet sparse et refrain medium; et réservez de la place pour la voix avec no busy lead melody, soft percussion ou low-mid space for voice. C'est plus utile que beau, épique ou premium tout seul.",
+        "Si le vocabulaire manque, Music Style Generator peut transformer des mots comme intime, sec, nerveux, lumineux ou documentaire en indications plus concrètes de texture, tempo et couleur instrumentale: https://kaivormusic.ai/fr/tools/music-style-generator. Le but n'est pas d'accumuler des adjectifs, mais de choisir ceux qui créeront une différence audible.",
+        "Testez d'abord deux versions: une sparse et une de densité moyenne, avec le même tempo et le même style de base. Écoutez sur ordinateur portable et téléphone. Si le hook, la voix ou la voix off ne passent pas au premier essai, retirez un instrument lead, allégez la percussion ou demandez des changements par section au lieu d'ajouter une couche.",
+        "Les erreurs fréquentes: lister tous les instruments que l'on aime, utiliser le nom d'un artiste réel comme raccourci, mélanger calme et agressif sans intention claire, ou placer choeur, cordes et grosses batteries sous des phrases importantes. Pour une sortie, une publicité, un projet client ou une vidéo monétisée, la musique IA n'est pas automatiquement copyright-free, royalty-free ni acceptée partout. Vérifiez les conditions et le contexte d'usage, en commençant par les conditions de kaivorMusic.AI: https://kaivormusic.ai/fr/tos.",
+        "FAQ: faut-il nommer chaque instrument? Non, seulement ceux qui ont une fonction. Sparse veut-il dire pauvre? Non, cela donne un point d'écoute clair. Un instrument peut-il entrer plus tard? Oui, les entrées progressives sont souvent plus lisibles. Quand le prompt est-il prêt? Quand chaque couche peut être expliquée en une phrase. À retenir: écrivez l'arrangement avant de demander le son."
+      ]
+    },
+    "it": {
+      "title": "Prompt di musica AI per ruolo degli strumenti, non per quantità",
+      "description": "Un workflow pratico per prompt di strumentazione AI che usano ruolo, densità, registro e contesto di ascolto per evitare arrangiamenti affollati.",
+      "summary": "Una bozza AI troppo piena non ha bisogno di più strumenti. Ha bisogno di ruoli chiari: pulse, armonia, hook, colore e spazio.",
+      "body": [
+        "Una bozza di musica AI spesso non fallisce perché mancano strumenti. Fallisce perché troppe parti vogliono stare davanti nello stesso momento. Piano, archi, 808 bass, chitarra, coro e cinematic drums sembrano forti nel prompt, ma possono diventare una massa in cui hook, voce o voice-over non hanno spazio.",
+        "Un prompt di strumentazione non è una semplice lista di suoni. Spiega cosa fa ogni strumento nell'arrangiamento: uno tiene il pulse, uno sostiene l'armonia, uno porta un hook breve e uno aggiunge colore in una transizione. Questo linguaggio di ruolo evita che ogni layer sembri sempre principale.",
+        "kaivorMusic.AI è uno strumento di creazione musicale con IA che aiuta creator e piccoli team a trasformare prompt, testi, note di mood e direzione stilistica in bozze musicali confrontabili. Per un arrangiamento più chiaro, inizia in AI Music Generator con contesto, strumenti e ruoli, non solo con il genere: https://kaivormusic.ai/it/ai-music-generator.",
+        "Prima di generare, usa una mappa a quattro ruoli. Il primo è pulse: drums morbidi, shaker, pluck ovattato o arpeggio discreto. Il secondo è harmonic bed: accordi di piano, synth pad o chitarra acustica. Il terzo è lead hook, e per il primo test ne basta uno. Il quarto è color: un breve cello, una bell, una texture o uno swell filtrato solo nei cambi di sezione.",
+        "Tre mosse funzionano subito: parti da tre strumenti centrali invece di sei suoni preferiti; scrivi la densità per sezione, per esempio strofa sparse e ritornello medium; e lascia spazio a voce o parlato con frasi come no busy lead melody, soft percussion e low-mid space for voice. Sono indicazioni più concrete di bello, epico o professionale.",
+        "Se il problema è trovare parole di stile, Music Style Generator può trasformare mood come intimo, asciutto, nervoso, luminoso o documentaristico in vocaboli più pratici su texture, tempo e colore degli strumenti: https://kaivormusic.ai/it/tools/music-style-generator. Non serve copiare tutto. Scegli le parole che puoi verificare ascoltando il take successivo.",
+        "Prova prima due versioni: una sparse e una di densità media, con lo stesso tempo e lo stesso stile base. Ascolta da laptop e telefono. Se hook, vocal o voice-over non sono chiari al primo passaggio, togli uno strumento lead, alleggerisci la percussion o chiedi cambi sezione per sezione invece di aggiungere un altro layer.",
+        "Errori comuni: nominare ogni strumento che ti piace, usare un artista reale come scorciatoia di stile, mescolare calm e aggressive senza motivo, e mettere coro, archi o drums pesanti sotto parole importanti. Per release, advertising, lavori cliente o video monetizzati, la musica generata con AI non è automaticamente copyright-free, royalty-free o valida per ogni piattaforma. Controlla termini e contesto d'uso, partendo dai termini di kaivorMusic.AI: https://kaivormusic.ai/it/tos.",
+        "FAQ: devo indicare tutti gli strumenti? No, solo quelli con un lavoro preciso. Sparse significa noioso? No, significa attenzione guidata. Uno strumento può entrare dopo? Sì, spesso è più pulito. Quando il prompt è pronto? Quando sai spiegare ogni layer in una frase. Il punto: scrivi l'arrangiamento prima di chiedere il suono."
+      ]
+    },
+    "ja": {
+      "title": "AI音楽プロンプトは楽器数ではなく役割で書く",
+      "description": "AI音楽の楽器プロンプトを、役割、密度、音域、使用場面から設計し、混みすぎた編曲を避けるための実践ワークフローです。",
+      "summary": "AI音楽の下書きが混むとき、必要なのは楽器の追加ではなく役割の整理です。pulse、harmony、hook、color、余白を先に決めます。",
+      "body": [
+        "AI music の draft が弱く聞こえる理由は、楽器が足りないことだけではありません。むしろ、全部の音が前に出ようとしていることがよくあります。piano、strings、808 bass、guitar、choir、cinematic drums を並べると、prompt 上は豪華でも、hook や vocal、voiceover の置き場がなくなります。",
+        "instrumentation prompt は、楽器名のリストではありません。各楽器が arrangement の中で何を担当するかを書くものです。pulse を作る音、harmony を支える音、短い hook を持つ音、section change だけで色を足す音。こう分けると、すべての layer が常に主役になる失敗を避けやすくなります。",
+        "kaivorMusic.AI は、creators や小さなチームが prompts、lyrics、mood notes、style direction から比較できる music drafts を作るための AI music creation tool です。編曲を整理したいときは、AI Music Generator で genre だけを書くのではなく、用途、楽器、役割まで入れて始めます: https://kaivormusic.ai/ja/ai-music-generator 。",
+        "生成前に 4 つの役割マップを作ります。1つ目は pulse で、soft drums、shaker、muted pluck、quiet arpeggio など。2つ目は harmonic bed で、piano chords、synth pad、acoustic guitar など。3つ目は lead hook で、最初のテストでは 1 つで十分です。4つ目は color で、短い cello、bell、texture、filtered swell を切り替わりだけに置きます。",
+        "すぐ使える方法は 3 つあります。好きな音を 6 つ並べる前に、中心楽器を 3 つに絞ること。verse sparse、chorus medium のように section ごとの密度を書くこと。さらに no busy lead melody、soft percussion、low-mid space for voice のように vocal や speech の余白を指定することです。beautiful や epic だけより、ずっと判断しやすくなります。",
+        "style の言葉が曖昧なら、Music Style Generator で intimate、dry、nervous、bright、documentary のような mood を、texture や tempo、instrument color に近い言葉へ変換してから、自分の用途に合わせて削ります: https://kaivormusic.ai/ja/tools/music-style-generator 。大事なのは語彙を増やすことではなく、次の take で聞き分けられる言葉を選ぶことです。",
+        "最初は 2 つだけ試します。同じ tempo と基本 style で、sparse 版と medium density 版を作ります。laptop と phone で聞き、hook、vocal、voiceover が一度でわかるか確認します。わからない場合は、楽器を足すのではなく、lead を減らす、percussion を薄くする、section ごとに入れ替える、と指示します。",
+        "よくある失敗は、好きな楽器を全部書くこと、実在アーティスト名を style の近道にすること、calm と aggressive を理由なく混ぜること、大事な言葉の下に choir や strings や heavy drums を置くことです。release、広告、client work、monetized video では、AI-generated music が自動的に copyright-free、royalty-free、または全 platform で安全になるわけではありません。現在の terms と使用文脈を確認してください。kaivorMusic.AI の条件はこちらです: https://kaivormusic.ai/ja/tos 。",
+        "FAQ：楽器を全部書くべきですか。いいえ、役割がある楽器だけで十分です。sparse は退屈ですか。いいえ、聴く場所が明確という意味です。楽器を後から入れてもよいですか。はい、常に鳴らすより自然なことが多いです。prompt が十分かどうかはどう判断しますか。各 layer の役割を 1 文で説明できることです。結論は、音を頼む前に編曲を書くことです。"
+      ]
+    },
+    "ko": {
+      "title": "AI 음악 프롬프트는 악기 수보다 역할로 쓰기",
+      "description": "AI 음악 프롬프트에서 악기를 역할, 밀도, 음역, 사용 맥락으로 정리해 복잡하고 답답한 편곡을 피하는 실무 워크플로입니다.",
+      "summary": "AI 음악 초안이 꽉 막혀 들린다면 악기를 더 넣기보다 pulse, harmony, hook, color, 여백을 먼저 나누세요.",
+      "body": [
+        "AI music draft 가 어색한 이유가 악기 부족인 경우도 있지만, 더 흔한 문제는 너무 많은 파트가 동시에 앞에 나오는 것입니다. piano, strings, 808 bass, guitar, choir, cinematic drums 를 모두 prompt 에 넣으면 화려해 보이지만, 결과에서는 hook, vocal, voiceover 가 앉을 자리가 없어질 수 있습니다.",
+        "instrumentation prompt 는 악기 이름 목록이 아닙니다. 각 악기가 arrangement 안에서 무슨 일을 하는지 설명해야 합니다. 한 파트는 pulse 를 만들고, 한 파트는 harmony 를 받치고, 한 파트는 짧은 hook 을 맡고, 한 파트는 transition 에서 색을 더합니다. 이렇게 쓰면 모든 layer 가 계속 주인공처럼 들리는 일을 줄일 수 있습니다.",
+        "kaivorMusic.AI는 creators 와 작은 팀이 prompts, lyrics, mood notes, style direction 을 비교 가능한 music drafts 로 바꾸도록 돕는 AI music creation tool 입니다. 더 선명한 편곡을 원한다면 AI Music Generator 에서 genre 만 쓰지 말고, 사용 맥락과 악기, 역할까지 같이 적어 시작하세요: https://kaivormusic.ai/ko/ai-music-generator.",
+        "생성 전에 네 가지 역할 지도를 만드세요. 첫째는 pulse 입니다. soft drums, shaker, muted pluck, quiet arpeggio 처럼 움직임을 만듭니다. 둘째는 harmonic bed 입니다. piano chords, synth pad, acoustic guitar 가 여기에 들어갑니다. 셋째는 lead hook 이며 첫 테스트에서는 하나면 충분합니다. 넷째는 color 로, 짧은 cello, bell, texture, filtered swell 을 section change 에만 넣습니다.",
+        "바로 쓸 수 있는 방법은 세 가지입니다. 좋아하는 소리 여섯 개 대신 핵심 악기 세 개로 시작하세요. verse sparse, chorus medium 처럼 section 별 density 를 적으세요. 그리고 no busy lead melody, soft percussion, low-mid space for voice 처럼 vocal 이나 speech 공간을 남기세요. beautiful, epic, professional 만 쓰는 것보다 훨씬 검토하기 쉽습니다.",
+        "스타일 언어가 막히면 Music Style Generator 로 intimate, dry, nervous, bright, documentary 같은 mood 를 texture, tempo, instrument color 에 가까운 말로 바꿔 본 뒤 직접 줄이세요: https://kaivormusic.ai/ko/tools/music-style-generator. 목표는 멋진 형용사를 모으는 것이 아니라 다음 take 에서 실제로 차이를 들을 수 있는 단어를 고르는 것입니다.",
+        "처음에는 두 버전만 테스트하세요. 같은 tempo 와 기본 style 로 sparse 버전 하나, medium density 버전 하나를 만듭니다. 노트북 스피커와 휴대폰으로 듣고 hook, vocal, voiceover 가 첫 청취에 분명한지 확인하세요. 아니라면 악기를 추가하지 말고 lead 를 줄이거나 percussion 을 얇게 하거나 section 별 변화로 다시 요청하세요.",
+        "흔한 실수는 좋아하는 악기를 전부 적는 것, 실제 artist 이름을 스타일 지름길로 쓰는 것, calm 과 aggressive 를 이유 없이 섞는 것, 중요한 말 아래 choir, strings, heavy drums 를 깔아 버리는 것입니다. release, ad, client work, monetized video 에서는 AI-generated music 이 자동으로 copyright-free, royalty-free 또는 모든 platform 에 안전한 것이 아닙니다. 현재 terms 와 사용 맥락을 확인하고 kaivorMusic.AI 약관부터 보세요: https://kaivormusic.ai/ko/tos.",
+        "FAQ: 악기를 전부 써야 하나요? 아닙니다. 역할이 있는 악기만 쓰세요. sparse 는 지루한가요? 아닙니다. 어디에 집중할지 분명하다는 뜻입니다. 악기가 나중에 들어와도 되나요? 네, 계속 켜 두는 것보다 깨끗한 경우가 많습니다. prompt 가 준비됐는지 어떻게 알까요? 각 layer 의 역할을 한 문장으로 설명할 수 있으면 됩니다. 결론은 소리를 요청하기 전에 편곡을 먼저 쓰는 것입니다."
+      ]
+    },
+    "pt": {
+      "title": "Prompts de música IA por papel do instrumento, não por quantidade",
+      "description": "Um fluxo prático para escrever prompts de instrumentação em música IA usando papel, densidade, registro e contexto sem deixar o arranjo lotado.",
+      "summary": "Quando a música IA soa cheia demais, o problema raramente é falta de sons. Organize pulso, harmonia, hook, cor e espaço antes de gerar.",
+      "body": [
+        "Um rascunho de música com IA nem sempre falha por falta de instrumentos. Muitas vezes ele falha porque camadas demais tentam ficar na frente ao mesmo tempo. Piano, cordas, 808 bass, guitarra, coro e drums cinematográficos podem parecer ótimos no prompt, mas virar uma massa onde hook, vocal ou narração não têm lugar.",
+        "Um prompt de instrumentação não é uma lista de sons. Ele explica o que cada instrumento faz no arranjo: um segura o pulso, outro sustenta a harmonia, outro carrega um hook curto e outro aparece como cor na transição. Essa linguagem de papel evita que todas as camadas pareçam importantes o tempo todo.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com IA que ajuda creators e pequenos times a transformar prompts, letras, notas de mood e direção de estilo em rascunhos musicais comparáveis. Para um arranjo mais claro, comece no AI Music Generator com contexto, instrumentos e papéis, não só com um gênero: https://kaivormusic.ai/pt/ai-music-generator.",
+        "Use um mapa de quatro papéis antes de gerar. O primeiro é pulso: drums leves, shaker, pluck abafado ou arpejo discreto. O segundo é base harmônica: acordes de piano, synth pad ou violão. O terceiro é lead hook, e no primeiro teste um só basta. O quarto é cor: um cello curto, bell, textura ou swell filtrado que entra apenas em mudanças de seção.",
+        "Três ações ajudam agora: comece com três instrumentos centrais em vez de seis sons favoritos; escreva densidade por seção, como verse sparse e chorus medium; e reserve espaço para voz ou narração com frases como no busy lead melody, soft percussion e low-mid space for voice. Isso orienta melhor do que pedir algo apenas bonito, épico ou profissional.",
+        "Se o vocabulário de estilo estiver vago, o Music Style Generator pode transformar palavras como íntimo, seco, nervoso, claro ou documental em termos mais práticos de textura, tempo e cor instrumental: https://kaivormusic.ai/pt/tools/music-style-generator. Não copie tudo. Escolha palavras que você consiga confirmar ouvindo a próxima versão.",
+        "Teste primeiro duas versões: uma sparse e uma de densidade média, com o mesmo tempo e o mesmo estilo base. Ouça em laptop e celular. Se hook, vocal ou narração não ficam claros na primeira passada, remova um instrumento líder, alivie a percussão ou peça mudanças por seção em vez de adicionar mais uma camada.",
+        "Erros comuns incluem listar todos os instrumentos de que você gosta, usar artista real como atalho de estilo, misturar calm e aggressive sem intenção, e colocar coro, cordas ou drums pesados embaixo de falas importantes. Para lançamentos, anúncios, trabalhos para clientes ou vídeos monetizados, música gerada por IA não é automaticamente copyright-free, royalty-free nem aprovada para toda plataforma. Revise termos e contexto de uso, começando pelos termos da kaivorMusic.AI: https://kaivormusic.ai/pt/tos.",
+        "FAQ: preciso citar todos os instrumentos? Não, só os que têm função. Sparse é sem graça? Não, é foco controlado. Um instrumento pode entrar depois? Sim, entradas progressivas costumam soar mais limpas. Quando o prompt está pronto? Quando você consegue explicar cada camada em uma frase. A conclusão: escreva o arranjo antes de pedir o som."
+      ]
+    },
+    "ru": {
+      "title": "Пишите AI music prompts по ролям инструментов, а не по их числу",
+      "description": "Практический workflow для prompts к AI music: как задавать инструменты через роль, плотность, регистр и контекст прослушивания, чтобы трек не был перегружен.",
+      "summary": "Если AI draft звучит слишком плотно, ему часто нужны не новые звуки, а роли: pulse, harmony, hook, color и место для голоса.",
+      "body": [
+        "AI music draft часто звучит плохо не потому, что в нем мало инструментов. Чаще проблема в том, что слишком много слоев одновременно стоят на переднем плане. Piano, strings, 808 bass, guitar, choir и cinematic drums красиво выглядят в prompt, но в результате hook, vocal или voiceover могут потерять пространство.",
+        "Instrumentation prompt - это не список звуков. Он объясняет, что каждый инструмент делает в arrangement: один держит pulse, другой поддерживает harmony, третий несет короткий hook, четвертый добавляет color на переходе. Такая логика важна, потому что длинный список инструментов может превратиться в постоянную плотную массу.",
+        "kaivorMusic.AI - инструмент AI music creation, который помогает creators и небольшим командам превращать prompts, lyrics, mood notes и style direction в музыкальные drafts для сравнения. Чтобы arrangement был яснее, начните в AI Music Generator с контекста, инструментов и ролей, а не только с жанра: https://kaivormusic.ai/ru/ai-music-generator.",
+        "Перед генерацией сделайте карту из четырех ролей. Первая роль - pulse: soft drums, shaker, muted pluck или тихое arpeggio. Вторая - harmonic bed: piano chords, synth pad или acoustic guitar. Третья - lead hook, и для первого теста одного lead достаточно. Четвертая - color: короткий cello, bell, texture или filtered swell только в местах перехода.",
+        "Три приема можно использовать сразу: начните с трех основных инструментов вместо шести любимых звуков; задавайте плотность по разделам, например sparse verse и medium chorus; оставляйте место для речи или вокала через no busy lead melody, soft percussion и low-mid space for voice. Это полезнее, чем просто beautiful, epic или professional.",
+        "Если не хватает стилевых слов, Music Style Generator поможет перевести настроение вроде intimate, dry, nervous, bright или documentary в более практичные признаки texture, tempo и instrument color: https://kaivormusic.ai/ru/tools/music-style-generator. Не копируйте все подряд. Выбирайте слова, разницу которых вы сможете услышать в следующем take.",
+        "Сначала проверьте две версии: sparse и medium-density, с тем же tempo и базовым style. Послушайте на ноутбуке и телефоне. Если hook, vocal или voiceover не понятны с первого раза, не добавляйте инструмент. Уберите lead, облегчите percussion или попросите arrangement меняться по sections, а не накладывать все слои сразу.",
+        "Частые ошибки - перечислять все любимые инструменты, использовать имя реального артиста как сокращение для стиля, смешивать calm и aggressive без замысла, класть choir, strings или heavy drums под важную речь. Для release, ads, client work или monetized videos помните: AI-generated music не становится автоматически copyright-free, royalty-free или безопасной для любой platform. Проверьте текущие terms и контекст использования, начав с условий kaivorMusic.AI: https://kaivormusic.ai/ru/tos.",
+        "FAQ: нужно ли указывать все инструменты? Нет, только те, у которых есть работа. Sparse значит скучно? Нет, это означает понятный фокус. Может ли инструмент вступить позже? Да, это часто чище, чем постоянные слои. Когда prompt готов? Когда роль каждого layer можно объяснить одним предложением. Итог: сначала напишите arrangement, потом просите sound."
+      ]
+    },
+    "zh": {
+      "title": "AI 音乐提示词按乐器角色写，而不是堆乐器数量",
+      "description": "一个实用流程，教你用角色、密度、音域和使用场景写 AI 音乐配器提示词，避免生成结果过满、混乱、抢人声。",
+      "summary": "AI 音乐草稿太挤时，通常不需要更多乐器，而需要先分清 pulse、harmony、hook、color 和留白。",
+      "body": [
+        "一段 AI music draft 听起来混乱，很多时候不是因为乐器不够，而是因为太多声部同时站在前景。piano、strings、808 bass、guitar、choir、cinematic drums 写在 prompt 里很有气势，但生成出来可能变成一团，hook、人声或 voiceover 都没有位置。",
+        "instrumentation prompt 不是乐器清单，而是说明每个乐器在 arrangement 里负责什么。一个声部负责 pulse，一个声部支撑 harmony，一个声部承担短 hook，另一个只在转场时增加 color。这样写，可以避免生成器把所有 layer 都理解成从头到尾都重要。",
+        "kaivorMusic.AI 是一款 AI 音乐创作工具，帮助 creators 和小团队把 prompts、lyrics、mood notes 和 style direction 变成可以比较的 music drafts。想要更清楚的编曲，可以在 AI Music Generator 里先写使用场景、乐器和角色，而不只是写一个风格标签: https://kaivormusic.ai/zh/ai-music-generator 。",
+        "生成前先做一个四角色地图。第一类是 pulse，例如 soft drums、shaker、muted pluck 或 quiet arpeggio。第二类是 harmonic bed，例如 piano chords、synth pad 或 acoustic guitar。第三类是 lead hook，第一次测试只保留一个就够。第四类是 color，例如短 cello、bell、texture 或 filtered swell，只在段落转换时出现。",
+        "三个方法可以马上用：先选三个核心乐器，不要一口气写六个喜欢的声音；按段落写密度，比如 verse sparse、chorus medium；再用 no busy lead melody、soft percussion、low-mid space for voice 这类短语给人声或解说留空间。这比单独写 beautiful、epic、professional 更可检查。",
+        "如果风格词很空，可以用 Music Style Generator 把 intimate、dry、nervous、bright、documentary 这类 mood 转成更接近 texture、tempo、instrument color 的表达，再自己删改: https://kaivormusic.ai/zh/tools/music-style-generator 。目的不是堆形容词，而是选择下一版里听得出差异的词。",
+        "先测试两版就好：同样 tempo 和基本 style，一版 sparse，一版 medium density。用电脑扬声器和手机听，判断 hook、vocal 或 voiceover 是否第一次就清楚。如果不清楚，不要再加乐器，先减少 lead、削薄 percussion，或要求不同 section 有不同编配，而不是全程叠满。",
+        "常见错误包括：把所有喜欢的乐器都写进去，用真实艺术家名字当风格捷径，把 calm 和 aggressive 没有理由地混在一起，在重要讲话下面放 choir、strings 或 heavy drums。用于 release、广告、客户项目或 monetized video 时，也要记住 AI-generated music 不会自动变成 copyright-free、royalty-free，或适合所有平台。请检查当前条款和使用场景，先看 kaivorMusic.AI 的条款: https://kaivormusic.ai/zh/tos 。",
+        "FAQ：需要写出所有乐器吗？不需要，只写有任务的乐器。sparse 是不是无聊？不是，它表示听觉焦点清楚。乐器可以后进来吗？可以，分段进入通常比全程铺满更干净。怎么判断 prompt 准备好了？你能用一句话解释每个 layer 的作用。结论很简单：先写编曲，再请求声音。"
+      ]
+    }
+  }
+}
