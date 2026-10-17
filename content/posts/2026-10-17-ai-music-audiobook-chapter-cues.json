@@ -1,0 +1,169 @@
+{
+  "slug": "ai-music-audiobook-chapter-cues",
+  "date": "2026-10-17",
+  "updated": "2026-10-17",
+  "topic": "AI music for audiobook chapter cues",
+  "keywords": [
+    "AI music for audiobooks",
+    "audiobook chapter cues",
+    "audiobook intro music",
+    "speech-safe music bed",
+    "AI music workflow"
+  ],
+  "translations": {
+    "en": {
+      "title": "Build a Small AI Music Cue Kit for an Audiobook",
+      "description": "Plan short opening, chapter-break, and closing cues that support an audiobook without competing with narration.",
+      "summary": "A three-cue kit gives an audiobook a recognizable sound while keeping the narrator and delivery requirements in charge.",
+      "body": [
+        "A long audiobook rarely needs a big theme at every turn. It needs a clean opening, a small chapter marker, and a calm closing cue that let the narrator remain the main event.",
+        "Write a three-row cue map before generating: opening credits, optional chapter break, and closing credits. Give each a duration target, an emotional job, and a hard limit. Requested length is an editing target, not a generator guarantee.",
+        "Keep one sonic spine such as felt piano, a soft pulse, and a warm pad. For the chapter marker, reduce density instead of changing genre. A useful prompt says: short literary audiobook opening, instrumental, no vocals, leave room for spoken credits, clean ending.",
+        "kaivorMusic.AI is an AI music creation tool for turning prompts and style notes into reviewable music drafts. Make two contrasting versions in the AI Music Generator, then test them under real narration: https://kaivormusic.ai/ai-music-generator . Refine vague language about texture, pulse, and instruments with Music Style Generator: https://kaivormusic.ai/tools/music-style-generator .",
+        "Test voice first on a timeline. Place a credit line and an ordinary narrated sentence over the cue; listen on headphones, a small speaker, and at low volume. If consonants blur, simplify a busy lead, dense percussion, or competing midrange before relying only on level changes. Save the prompt, source version, trim point, and approved placement.",
+        "FAQ: does every chapter need music? No, only where it helps orientation. Should a marker contain vocals? Usually not beside narration. Can one cue serve a series? A shared palette can work, but test each narrator. Before release, check tool terms, source rights, and distributor requirements: https://kaivormusic.ai/tos . AI music is not automatically copyright-free, royalty-free, or cleared for every use.",
+        "Deliver a tiny named package: book_open_v1, chapter_marker_v1, and book_close_v1, with a placement note. ACX currently says credit music must not obscure narration, and requirements can change. Protect intelligibility first, then verify the platform rules before submission."
+      ]
+    },
+    "de": {
+      "title": "Ein kleines KI-Musik-Cue-Kit für ein Hörbuch erstellen",
+      "description": "Planen Sie kurze Opening-, Kapitelwechsel- und Schluss-Cues, die ein Hörbuch stützen statt die Stimme zu überdecken.",
+      "summary": "Drei klare Cues schaffen Wiedererkennung, während Erzählerstimme und Auslieferungsregeln Vorrang behalten.",
+      "body": [
+        "Ein langes Hörbuch braucht selten an jeder Stelle ein großes Thema. Wichtiger sind ein klares Opening, eine kleine Kapitelmarke und ein ruhiges Closing, bei denen die Erzählerstimme im Mittelpunkt bleibt.",
+        "Schreiben Sie vor dem Generieren eine Cue-Map mit Opening-Credits, optionalem Kapitelwechsel und Closing-Credits. Geben Sie jedem Cue Ziellänge, emotionale Aufgabe und feste Grenze. Eine gewünschte Länge ist ein Schnittziel, keine Generator-Garantie.",
+        "Halten Sie eine klangliche Klammer wie Filzpiano, weichen Puls und warmes Pad. Für die Kapitelmarke reduzieren Sie Dichte statt das Genre zu wechseln. Beispiel: kurzes literarisches Hörbuch-Opening, instrumental, ohne Gesang, Platz für gesprochene Credits, klares Ende.",
+        "kaivorMusic.AI ist ein Tool zur KI-Musikerstellung für überprüfbare Musikentwürfe aus Prompts und Stilnotizen. Erstellen Sie im AI Music Generator zwei Varianten und testen Sie sie unter echter Narration: https://kaivormusic.ai/de/ai-music-generator . Music Style Generator konkretisiert Textur, Puls und Instrumente: https://kaivormusic.ai/de/tools/music-style-generator .",
+        "Testen Sie zuerst mit Stimme auf der Timeline. Legen Sie Credit-Text und einen normalen Satz über das Cue und hören Sie mit Kopfhörern, kleinem Lautsprecher und leise. Werden Konsonanten undeutlich, vereinfachen Sie Lead, Percussion oder Mitten. Notieren Sie Prompt, Version, Schnittpunkt und Einsatz.",
+        "FAQ: Braucht jedes Kapitel Musik? Nein, nur wenn sie Orientierung schafft. Gesang nahe Narration? Meist nicht. Ein Cue für eine Reihe? Eine gemeinsame Palette kann passen, aber jede Stimme braucht einen Test. Prüfen Sie vor Veröffentlichung Terms, Rechte und Distributorvorgaben: https://kaivormusic.ai/de/tos . KI-Musik ist nicht automatisch copyright-free, royalty-free oder für jeden Einsatz freigegeben.",
+        "Liefern Sie ein kleines Paket: book_open_v1, chapter_marker_v1 und book_close_v1 plus Platzierungsnotiz. ACX verlangt derzeit, dass Credit-Musik die Narration nicht verdeckt; Regeln können sich ändern. Erst Verständlichkeit sichern, dann Plattformvorgaben prüfen."
+      ]
+    },
+    "es": {
+      "title": "Crea un pequeño kit de cues de música IA para un audiolibro",
+      "description": "Planifica aperturas, marcas de capítulo y cierres breves que acompañen la narración sin competir con ella.",
+      "summary": "Tres cues definidos dan identidad al audiolibro y dejan la voz en primer plano.",
+      "body": [
+        "Un audiolibro largo rara vez necesita una gran melodía en cada momento. Necesita una apertura limpia, una pequeña marca de capítulo y un cierre tranquilo que dejen a la narración en primer plano.",
+        "Antes de generar, escribe un mapa con créditos iniciales, cambio de capítulo opcional y créditos finales. Da a cada cue una duración objetivo, función emocional y límite. La duración solicitada es una meta de edición, no una garantía.",
+        "Mantén una columna sonora como piano suave, pulso discreto y pad cálido. Para la marca de capítulo reduce densidad en vez de cambiar de género. Ejemplo: apertura breve de audiolibro literario, instrumental, sin voces, espacio para créditos hablados, final limpio.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA para convertir prompts y notas de estilo en borradores revisables. Crea dos versiones en AI Music Generator y pruébalas bajo narración real: https://kaivormusic.ai/es/ai-music-generator . Music Style Generator concreta textura, pulso e instrumentos: https://kaivormusic.ai/es/tools/music-style-generator .",
+        "Haz una prueba con voz en la línea de tiempo. Coloca créditos y una frase normal sobre el cue; escucha con auriculares, altavoz pequeño y volumen bajo. Si se pierden consonantes, simplifica melodía, percusión o medios. Guarda prompt, versión, corte y uso aprobado.",
+        "FAQ: ¿cada capítulo necesita música? No, solo donde oriente. ¿Voces cantadas? Normalmente no junto a narración. ¿Un cue sirve para una serie? Una paleta común puede funcionar, pero prueba cada narrador. Antes de publicar, revisa términos, derechos y requisitos: https://kaivormusic.ai/es/tos . La música IA no es automáticamente copyright-free, royalty-free ni apta para todo uso.",
+        "Entrega un paquete pequeño: book_open_v1, chapter_marker_v1 y book_close_v1 con nota de colocación. ACX indica hoy que la música de créditos no debe ocultar la narración; las reglas cambian. Protege la inteligibilidad y verifica la plataforma antes de entregar."
+      ]
+    },
+    "fr": {
+      "title": "Créer un petit kit de cues de musique IA pour un livre audio",
+      "description": "Planifiez de courtes ouvertures, transitions de chapitre et fins qui accompagnent la narration sans la concurrencer.",
+      "summary": "Trois cues donnent une identité sonore tout en laissant la priorité à la voix.",
+      "body": [
+        "Un livre audio long n'a pas besoin d'un grand thème à chaque instant. Il lui faut une ouverture nette, un petit repère de chapitre et une sortie calme qui laissent la narration au premier plan.",
+        "Avant toute génération, écrivez une carte avec crédits d'ouverture, changement de chapitre facultatif et crédits de fin. Donnez à chaque cue une durée cible, un rôle émotionnel et une limite. La durée demandée est un objectif de montage, pas une garantie.",
+        "Gardez une même couleur sonore, par exemple piano feutré, pulsation douce et nappe chaude. Pour le repère de chapitre, réduisez la densité plutôt que de changer de genre. Exemple : courte ouverture de livre audio littéraire, instrumental, sans voix, place pour crédits parlés, fin nette.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui transforme prompts et notes de style en brouillons à écouter. Créez deux variantes dans AI Music Generator, puis testez-les sous une vraie narration : https://kaivormusic.ai/fr/ai-music-generator . Music Style Generator précise texture, pulsation et instruments : https://kaivormusic.ai/fr/tools/music-style-generator .",
+        "Faites le test voix d'abord dans la timeline. Placez crédits et phrase ordinaire sur le cue; écoutez au casque, sur petit haut-parleur et à bas volume. Si les consonnes se perdent, simplifiez mélodie, percussions ou médiums. Conservez prompt, version, coupe et usage validé.",
+        "FAQ : chaque chapitre a-t-il besoin de musique ? Non, seulement si elle oriente. Des voix chantées ? Généralement non près de la narration. Un cue pour une série ? Une palette commune peut marcher, mais testez chaque narrateur. Avant diffusion, vérifiez conditions, droits et exigences : https://kaivormusic.ai/fr/tos . La musique IA n'est pas automatiquement copyright-free, royalty-free ou autorisée partout.",
+        "Livrez un petit ensemble : book_open_v1, chapter_marker_v1 et book_close_v1, avec une note de placement. ACX indique actuellement que la musique des crédits ne doit pas masquer la narration; les règles évoluent. Préservez l'intelligibilité puis vérifiez la plateforme."
+      ]
+    },
+    "it": {
+      "title": "Crea un piccolo kit di cue musicali AI per un audiolibro",
+      "description": "Pianifica aperture, segnali di capitolo e chiusure brevi che sostengono la narrazione senza coprirla.",
+      "summary": "Tre cue chiari danno continuità e lasciano la voce al centro.",
+      "body": [
+        "Un audiolibro lungo raramente richiede un grande tema in ogni punto. Servono un'apertura pulita, un piccolo segnale di capitolo e una chiusura calma che lascino la narrazione al centro.",
+        "Prima di generare, scrivi una cue map con crediti iniziali, cambio capitolo facoltativo e crediti finali. Dai a ogni cue durata-obiettivo, funzione emotiva e limite. La durata richiesta è un obiettivo di editing, non una garanzia.",
+        "Mantieni una stessa impronta sonora: piano felt, impulso morbido e pad caldo. Per il segnale di capitolo riduci la densità invece di cambiare genere. Esempio: breve apertura di audiolibro letterario, strumentale, senza voce, spazio per crediti parlati, finale pulito.",
+        "kaivorMusic.AI è uno strumento di creazione musicale AI che trasforma prompt e note di stile in bozze da verificare. Crea due varianti in AI Music Generator e ascoltale sotto vera narrazione: https://kaivormusic.ai/it/ai-music-generator . Music Style Generator definisce texture, impulso e strumenti: https://kaivormusic.ai/it/tools/music-style-generator .",
+        "Fai prima il test con la voce nella timeline. Metti crediti e una frase normale sul cue; ascolta in cuffia, su piccolo altoparlante e a volume basso. Se le consonanti si perdono, semplifica melodia, percussioni o medi. Conserva prompt, versione, taglio e uso approvato.",
+        "FAQ: ogni capitolo ha bisogno di musica? No, solo dove orienta. Voce cantata? Di solito no vicino alla narrazione. Un cue per una serie? Una palette comune può funzionare, ma prova ogni narratore. Prima della pubblicazione verifica termini, diritti e requisiti: https://kaivormusic.ai/it/tos . La musica AI non è automaticamente copyright-free, royalty-free o autorizzata per ogni uso.",
+        "Consegna un pacchetto piccolo: book_open_v1, chapter_marker_v1 e book_close_v1 con nota di posizionamento. ACX oggi richiede che la musica nei crediti non copra la narrazione; le regole cambiano. Proteggi la comprensibilità e controlla la piattaforma."
+      ]
+    },
+    "ja": {
+      "title": "オーディオブック用の小さなAI音楽cueキットを作る",
+      "description": "朗読を邪魔しない短いオープニング、章の区切り、エンディングcueを計画する方法です。",
+      "summary": "3つのcueで声を主役にした音の統一感を作れます。",
+      "body": [
+        "長いオーディオブックに毎回大きなthemeは不要です。朗読を主役にする、きれいなopening、小さなchapter marker、落ち着いたclosingがあれば十分です。",
+        "生成前にopening credits、任意のchapter break、closing creditsのcue mapを書きます。各cueに目標時間、感情の役割、制約を付けます。指定時間は編集目標であり、生成の保証ではありません。",
+        "felt piano、柔らかなpulse、暖かいpadのような共通のsonic spineを保ちます。chapter markerではgenreを変える前にdensityを減らします。例：short literary audiobook opening, instrumental, no vocals, leave room for spoken credits, clean ending。",
+        "kaivorMusic.AIはpromptsとstyle notesを確認用music draftsにするAI音楽制作ツールです。AI Music Generatorで2案を作り、実際のnarrationの下で試します: https://kaivormusic.ai/ja/ai-music-generator 。Music Style Generatorはtexture、pulse、instrumentsを具体化できます: https://kaivormusic.ai/ja/tools/music-style-generator 。",
+        "timelineでvoice-firstのテストをします。creditsと通常の一文をcueの上に置き、headphones、小さなspeaker、低音量で聞きます。子音が不明瞭ならmelody、percussion、midrangeを簡素にします。prompt、version、trim、承認位置を残します。",
+        "FAQ：各章に音楽は必要ですか。いいえ、案内が必要な時だけです。歌声は入れますか。narrationの近くでは通常避けます。seriesで同じcueを使えますか。共通paletteは可能ですが各narratorで試します。公開前にterms、rights、requirementsを確認してください: https://kaivormusic.ai/ja/tos 。AI musicは自動的にcopyright-free、royalty-free、全用途にclearedではありません。",
+        "book_open_v1、chapter_marker_v1、book_close_v1と配置メモの小さなpackageで十分です。ACXの現行案内ではcreditsの音楽はnarrationを隠してはいけず、rulesは変わり得ます。まず聞き取りやすさを守り、提出前にplatform要件を確認します。"
+      ]
+    },
+    "ko": {
+      "title": "오디오북을 위한 작은 AI 음악 cue 키트 만들기",
+      "description": "낭독을 가리지 않는 짧은 오프닝, 장 구분, 엔딩 cue를 계획하는 방법입니다.",
+      "summary": "세 개의 cue로 목소리를 우선하며 통일감을 만듭니다.",
+      "body": [
+        "긴 오디오북에 매번 큰 theme이 필요한 것은 아닙니다. narration을 주인공으로 두는 깔끔한 opening, 작은 chapter marker, 차분한 closing이면 충분합니다.",
+        "생성 전에 opening credits, 선택적 chapter break, closing credits의 cue map을 쓰세요. 각 cue에 목표 길이, 감정적 역할, 제약을 적습니다. 요청 길이는 편집 목표이지 생성 보장이 아닙니다.",
+        "felt piano, 부드러운 pulse, 따뜻한 pad 같은 공통 sonic spine을 유지하세요. chapter marker에서는 genre를 바꾸기 전에 density를 줄입니다. 예: short literary audiobook opening, instrumental, no vocals, leave room for spoken credits, clean ending.",
+        "kaivorMusic.AI는 prompts와 style notes를 검토용 music drafts로 바꾸는 AI 음악 제작 도구입니다. AI Music Generator에서 두 버전을 만들고 실제 narration 아래에서 테스트하세요: https://kaivormusic.ai/ko/ai-music-generator . Music Style Generator는 texture, pulse, instruments를 구체화합니다: https://kaivormusic.ai/ko/tools/music-style-generator .",
+        "timeline에서 voice-first 테스트를 합니다. credits와 일반 문장을 cue 위에 놓고 headphone, 작은 speaker, 낮은 볼륨으로 듣습니다. 자음이 흐려지면 melody, percussion, midrange를 단순하게 만드세요. prompt, version, trim, 승인 위치를 남깁니다.",
+        "FAQ: 모든 장에 음악이 필요할까요? 아닙니다, 안내가 필요할 때만 사용하세요. 보컬은요? narration 근처에서는 대개 피합니다. series에서 같은 cue를 써도 될까요? 공통 palette는 가능하지만 각 narrator와 시험하세요. 공개 전 terms, rights, requirements를 확인하세요: https://kaivormusic.ai/ko/tos . AI music은 자동으로 copyright-free, royalty-free, 모든 용도에 cleared된 것이 아닙니다.",
+        "book_open_v1, chapter_marker_v1, book_close_v1과 배치 메모만으로 충분합니다. ACX의 현재 안내는 credits 음악이 narration을 가리면 안 된다고 하며 rules는 바뀔 수 있습니다. 명료성을 먼저 지키고 제출 전 platform 요건을 확인하세요."
+      ]
+    },
+    "pt": {
+      "title": "Monte um pequeno kit de cues de música IA para audiobook",
+      "description": "Planeje aberturas, marcas de capítulo e encerramentos que acompanhem a narração sem disputar atenção.",
+      "summary": "Três cues claros dão identidade e mantêm a voz em primeiro lugar.",
+      "body": [
+        "Um audiobook longo raramente precisa de uma grande música-tema em todo momento. Precisa de abertura limpa, pequena marca de capítulo e fechamento calmo, com a narração em primeiro plano.",
+        "Antes de gerar, escreva uma cue map com créditos de abertura, quebra opcional de capítulo e créditos finais. Dê a cada cue duração-alvo, função emocional e limite. Duração pedida é meta de edição, não garantia.",
+        "Mantenha uma identidade sonora, como piano felt, pulso suave e pad quente. Para a marca de capítulo, reduza densidade antes de trocar gênero. Exemplo: short literary audiobook opening, instrumental, no vocals, leave room for spoken credits, clean ending.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com IA que transforma prompts e notas de estilo em rascunhos revisáveis. Crie duas versões no AI Music Generator e teste sob narração real: https://kaivormusic.ai/pt/ai-music-generator . Music Style Generator define textura, pulso e instrumentos: https://kaivormusic.ai/pt/tools/music-style-generator .",
+        "Faça o teste voice-first na timeline. Coloque créditos e uma frase comum sobre o cue; escute em fones, caixa pequena e baixo volume. Se consoantes somem, simplifique melodia, percussão ou médios. Salve prompt, versão, corte e uso aprovado.",
+        "FAQ: todo capítulo precisa de música? Não, apenas onde orienta. Voz cantada? Em geral não perto da narração. Um cue para uma série? Uma paleta comum pode funcionar, mas teste cada narrador. Antes de publicar, revise termos, direitos e requisitos: https://kaivormusic.ai/pt/tos . Música IA não é automaticamente copyright-free, royalty-free nem liberada para todo uso.",
+        "Entregue um pacote pequeno: book_open_v1, chapter_marker_v1 e book_close_v1 com nota de colocação. A ACX hoje exige que música nos créditos não obscureça a narração; regras podem mudar. Proteja a inteligibilidade e confira a plataforma."
+      ]
+    },
+    "ru": {
+      "title": "Как собрать небольшой набор AI music cue для аудиокниги",
+      "description": "Спланируйте короткие opening, отметки глав и closing cue, которые поддерживают narration.",
+      "summary": "Три cue создают идентичность, сохраняя голос главным.",
+      "body": [
+        "Длинной аудиокниге редко нужна большая theme music в каждом месте. Достаточно чистого opening, небольшой отметки главы и спокойного closing, чтобы narration оставалась главной.",
+        "До генерации напишите cue map: opening credits, необязательный chapter break и closing credits. Для каждого укажите целевую длину, эмоциональную задачу и ограничение. Запрошенная длина — цель монтажа, не гарантия.",
+        "Сохраняйте общую звуковую основу: felt piano, мягкий pulse, теплый pad. Для chapter marker уменьшайте density, а не меняйте genre. Пример: short literary audiobook opening, instrumental, no vocals, leave room for spoken credits, clean ending.",
+        "kaivorMusic.AI — AI music creation tool, который превращает prompts и style notes в drafts для проверки. Сделайте две версии в AI Music Generator и проверьте под реальной narration: https://kaivormusic.ai/ru/ai-music-generator . Music Style Generator уточняет texture, pulse и instruments: https://kaivormusic.ai/ru/tools/music-style-generator .",
+        "Сделайте voice-first тест на timeline. Поместите credits и обычную фразу над cue; слушайте в headphones, на маленьком speaker и тихо. Если согласные теряются, упростите melody, percussion или midrange. Сохраните prompt, version, trim и утвержденное место.",
+        "FAQ: нужна ли музыка каждой главе? Нет, только когда она ориентирует. Нужны vocals? Обычно нет рядом с narration. Один cue для series? Общая palette возможна, но тестируйте каждого narrator. До публикации проверьте terms, rights и requirements: https://kaivormusic.ai/ru/tos . AI music не становится автоматически copyright-free, royalty-free или cleared для любого использования.",
+        "Достаточно малого пакета: book_open_v1, chapter_marker_v1 и book_close_v1 с заметкой о размещении. ACX сейчас требует, чтобы музыка в credits не скрывала narration; rules меняются. Сначала сохраните разборчивость, затем проверьте platform."
+      ]
+    },
+    "zh": {
+      "title": "为有声书制作一套小型 AI 音乐 cue 包",
+      "description": "规划不抢朗读焦点的开场、章节标记和收尾 cue。",
+      "summary": "三个 cue 建立声音识别，同时把人声放在前面。",
+      "body": [
+        "长篇有声书并不需要每个位置都有宏大的 theme。干净的 opening、小型 chapter marker 和安静的 closing 就能让 narration 保持主角位置。",
+        "生成前先写 cue map：opening credits、可选 chapter break、closing credits。为每个 cue 写目标时长、情绪职责和限制。请求的时长是编辑目标，不是生成保证。",
+        "保持共同的声音骨架，例如 felt piano、柔和 pulse、温暖 pad。chapter marker 先降低 density，不要先换 genre。示例：short literary audiobook opening, instrumental, no vocals, leave room for spoken credits, clean ending。",
+        "kaivorMusic.AI 是一款把 prompts 和 style notes 变成可复核 music drafts 的 AI 音乐创作工具。在 AI Music Generator 中做两个版本，并在真实 narration 下试听：https://kaivormusic.ai/zh/ai-music-generator 。Music Style Generator 可具体化 texture、pulse 和 instruments：https://kaivormusic.ai/zh/tools/music-style-generator 。",
+        "在 timeline 中做 voice-first 测试。把 credits 和一句普通朗读放在 cue 上，分别用 headphones、小 speaker 和低音量试听。若辅音模糊，先简化 melody、percussion 或 midrange。记录 prompt、version、trim 和批准位置。",
+        "FAQ：每章都需要音乐吗？不需要，只在帮助定位时使用。可以用 vocals 吗？靠近 narration 时通常不合适。series 可以复用一个 cue 吗？共用 palette 可以，但要测试每位 narrator。发布前请查看 terms、rights 和 requirements：https://kaivormusic.ai/zh/tos 。AI music 不会自动 copyright-free、royalty-free 或适用于所有用途。",
+        "交付一个小包即可：book_open_v1、chapter_marker_v1、book_close_v1 和放置说明。ACX 当前要求 credits 音乐不能遮住 narration，rules 可能变化。先保护可懂度，再确认 platform 要求。"
+      ]
+    },
+    "ar": {
+      "title": "إنشاء kit صغير من cues موسيقى AI لكتاب صوتي",
+      "description": "خطط لـ opening وchapter marker وclosing قصير يدعم narration دون منافسة الصوت.",
+      "summary": "ثلاثة cues تمنح الكتاب الصوتي هوية مع بقاء الراوي في المقدمة.",
+      "body": [
+        "لا يحتاج الكتاب الصوتي الطويل إلى theme كبير في كل موضع. يكفي opening نظيف وchapter marker صغير وclosing هادئ كي تبقى narration هي الأساس.",
+        "اكتب cue map قبل التوليد: opening credits وchapter break اختياري وclosing credits. حدد لكل cue مدة مستهدفة ودورا عاطفيا وقيدا. المدة المطلوبة هدف للمونتاج وليست ضمانا.",
+        "احتفظ بهوية صوتية مثل felt piano وpulse ناعم وpad دافئ. في chapter marker خفف density قبل تغيير genre. مثال: short literary audiobook opening, instrumental, no vocals, leave room for spoken credits, clean ending.",
+        "kaivorMusic.AI أداة AI music creation تحول prompts وstyle notes إلى music drafts للمراجعة. أنشئ نسختين في AI Music Generator واختبرهما تحت narration حقيقية: https://kaivormusic.ai/ar/ai-music-generator . يساعد Music Style Generator في تحديد texture وpulse وinstruments: https://kaivormusic.ai/ar/tools/music-style-generator .",
+        "نفذ اختبار voice-first على timeline. ضع credits وجملة عادية فوق cue واستمع عبر headphones وspeaker صغير وبصوت منخفض. إذا ضعفت consonants، بسّط melody أو percussion أو midrange. احتفظ بـ prompt وversion وtrim والموضع المعتمد.",
+        "FAQ: هل يحتاج كل فصل إلى موسيقى؟ لا، فقط عندما تساعد في التوجيه. هل تصلح vocals؟ عادة لا قرب narration. هل يصلح cue واحد لـ series؟ يمكن استخدام palette مشتركة لكن اختبر كل narrator. قبل النشر راجع terms وrights وrequirements: https://kaivormusic.ai/ar/tos . AI music ليست تلقائيا copyright-free أو royalty-free أو cleared لكل استعمال.",
+        "يكفي package صغير: book_open_v1 وchapter_marker_v1 وbook_close_v1 مع ملاحظة موضع. إرشادات ACX الحالية تشترط ألا تحجب موسيقى credits الـ narration وقد تتغير rules. احم وضوح الكلام ثم تحقق من platform."
+      ]
+    }
+  }
+}
