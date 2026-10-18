@@ -1,0 +1,174 @@
+{
+  "slug": "ai-music-tutorial-video-beds",
+  "date": "2026-10-18",
+  "updated": "2026-10-18",
+  "topic": "AI music beds for narration-led tutorial videos",
+  "keywords": ["AI music for tutorial videos", "AI music generator", "voiceover background music", "music ducking", "tutorial video workflow"],
+  "translations": {
+    "en": {
+      "title": "Make AI Music Beds That Leave Room for a Tutorial Voiceover",
+      "description": "A practical workflow for creating short, narration-safe AI music beds for software demos, lessons, and explainers.",
+      "summary": "Treat background music as a timed layer with a job, then test it against the actual voice before publishing.",
+      "body": [
+        "A tutorial can look carefully edited and still feel tiring when its background track keeps asking to be heard. The fix is not simply turning one song down. Build a small music-bed plan around the moments when the voice needs space: the opening, a screen-only pause, and the closing.",
+        "Start with a cue sheet of three rows. Give the opener 8–12 seconds to establish tone, reserve a quieter loop for screen captures without speech, and specify a clean ending for the call to action. Write the use, length target, energy, and forbidden elements for each row. A target duration is an editing instruction, not a promise from a generator.",
+        "Write prompts as mix directions, not genre labels alone. For a calm software lesson, try: ‘minimal warm electronic bed, 92 BPM, soft plucked pulse, no vocals, no lead melody, sparse arrangement, gentle 2-second ending.’ Make a second version with one variable changed, such as replacing the pulse with brushed percussion. That gives you a real decision instead of ten vaguely different drafts.",
+        "kaivorMusic.AI is an AI music creation tool that turns prompts and style notes into music drafts you can review in an edit. Create two candidates in the AI Music Generator: https://kaivormusic.ai/ai-music-generator . If the brief still says only ‘professional’ or ‘upbeat,’ use Music Style Generator to turn that feeling into more concrete texture and instrument language: https://kaivormusic.ai/tools/music-style-generator .",
+        "Put the music under a real paragraph before judging it. Listen once on headphones and once through a small speaker, then mark every word you need to replay. Remove busy melodic hooks and sharp percussion before relying on volume alone. Many editors automate this with ducking: Adobe describes ducking as lowering music or ambience when dialogue is detected, but the generated keyframes still deserve a manual listen: https://helpx.adobe.com/premiere/desktop/add-audio-effects/adjust-volume-and-levels/automatically-duck-audio.html .",
+        "Three reusable moves help immediately. First, make a ‘voice-on’ and ‘voice-off’ edit of the same palette instead of changing songs mid-lesson. Second, leave one or two beats of low-density music before a new section title, rather than talking over a dramatic transition. Third, save the final prompt, source draft, trim point, and ducking notes as a cue card for the next episode.",
+        "FAQ: should music play under every spoken sentence? Usually no; silence can make an instruction easier to follow. Is a catchy vocal hook suitable? Not near explanatory speech. Can captions replace a clear mix? Captions remain valuable, but they do not excuse a competing soundtrack; accessibility guidance also treats captions and transcripts as meaningful support for prerecorded media: https://webaim.org/standards/wcag/WCAG2Checklist.pdf . Before publishing or monetizing, check the tool terms, the rights in every source, and the destination platform’s rules: https://kaivormusic.ai/tos . AI-generated music is not automatically cleared for every commercial use.",
+        "The useful takeaway is modest: make music serve the next instruction, not the editor’s urge to fill silence. A short, named cue kit that survives a voiceover test is more reusable than a single impressive track that fights the lesson."
+      ]
+    },
+    "de": {
+      "title": "KI-Musikbetten für Tutorials erstellen, die dem Voice-over Raum lassen",
+      "description": "Ein praktischer Ablauf für kurze KI-Musikbetten bei Software-Demos, Lernvideos und Erklärformaten.",
+      "summary": "Behandeln Sie Hintergrundmusik als zeitlich geplante Ebene und testen Sie sie vor dem Veröffentlichen mit der echten Stimme.",
+      "body": [
+        "Ein Tutorial kann sauber geschnitten sein und dennoch anstrengen, wenn die Musik ständig Aufmerksamkeit verlangt. Statt nur einen Song leiser zu drehen, planen Sie kleine Musikbetten für Opening, sprachfreie Bildschirmsequenz und Abschluss.",
+        "Beginnen Sie mit einer Cue-Liste aus drei Zeilen. Das Opening erhält 8–12 Sekunden, eine ruhige Schleife begleitet reine Bildschirmaufnahmen, und der Schluss braucht ein klares Ende. Notieren Sie Einsatz, Ziellänge, Energie und verbotene Elemente. Die Länge ist ein Schnittziel, keine Generator-Garantie.",
+        "Formulieren Sie Prompts als Mischanweisung statt nur als Genre. Für ein ruhiges Software-Tutorial: „minimales warmes elektronisches Bett, 92 BPM, sanfter Zupf-Puls, kein Gesang, keine Lead-Melodie, sparsam arrangiert, weiches Ende in zwei Sekunden“. Erstellen Sie danach eine zweite Variante mit nur einer Änderung, etwa Bürstenpercussion statt Puls.",
+        "kaivorMusic.AI ist ein Tool zur KI-Musikerstellung, das Prompts und Stilnotizen in prüfbare Musikentwürfe übersetzt. Erzeugen Sie zwei Kandidaten im AI Music Generator: https://kaivormusic.ai/de/ai-music-generator . Wenn im Brief nur „professionell“ oder „lebendig“ steht, hilft Music Style Generator bei konkreteren Angaben zu Textur und Instrumenten: https://kaivormusic.ai/de/tools/music-style-generator .",
+        "Legen Sie die Musik vor der Entscheidung unter einen echten gesprochenen Absatz. Hören Sie mit Kopfhörern und kleinem Lautsprecher und markieren Sie jedes Wort, das Sie wiederholen müssen. Entfernen Sie aufdringliche Hooks und harte Percussion, bevor Sie nur am Pegel drehen. Adobe beschreibt Ducking als Absenken von Musik bei Dialog; auch automatisch erzeugte Keyframes brauchen einen manuellen Hörtest: https://helpx.adobe.com/de/premiere/desktop/add-audio-effects/adjust-volume-and-levels/automatically-duck-audio.html .",
+        "Drei sofort nutzbare Ideen: Schneiden Sie aus derselben Klangpalette eine Version mit Stimme und eine ohne Stimme. Lassen Sie vor einem neuen Abschnitt ein oder zwei Takte mit geringer Dichte statt über einen dramatischen Übergang zu sprechen. Speichern Sie Prompt, Ausgangsentwurf, Schnittpunkt und Ducking-Notizen als Cue-Karte für die nächste Folge.",
+        "FAQ: Muss Musik unter jedem Satz liegen? Meist nein; Stille kann eine Anleitung verständlicher machen. Passt ein eingängiger Vocal-Hook? Nicht neben Erklärtext. Ersetzen Untertitel einen klaren Mix? Nein, Untertitel bleiben wichtig. Prüfen Sie vor Veröffentlichung Terms, Rechte und Plattformvorgaben: https://kaivormusic.ai/de/tos . KI-Musik ist nicht automatisch für jede kommerzielle Nutzung freigegeben.",
+        "Die Kernidee ist schlicht: Musik unterstützt die nächste Anweisung, nicht den Wunsch, jede Pause zu füllen. Ein kleines benanntes Cue-Kit, das den Voice-over-Test besteht, ist wertvoller als ein beeindruckender Track, der die Lektion stört."
+      ]
+    },
+    "es": {
+      "title": "Crea camas de música IA que dejen espacio a la voz de un tutorial",
+      "description": "Un flujo práctico para crear música IA breve y segura para la narración en demos, lecciones y videos explicativos.",
+      "summary": "Trata la música de fondo como una capa con función y tiempo, y pruébala con la voz real antes de publicar.",
+      "body": [
+        "Un tutorial puede estar muy bien editado y aun así cansar si la música de fondo pide atención todo el tiempo. No basta con bajar una canción: planifica pequeñas camas para la apertura, la pausa sin voz y el cierre.",
+        "Haz una hoja de cues con tres filas. Da 8–12 segundos a la apertura, reserva un loop tranquilo para capturas de pantalla sin explicación y pide un final limpio para la llamada a la acción. Anota uso, duración objetivo, energía y elementos prohibidos. La duración es una meta de edición, no una garantía.",
+        "Escribe prompts como instrucciones de mezcla, no solo como géneros. Para una lección de software: «cama electrónica cálida y mínima, 92 BPM, pulso punteado suave, sin voces, sin melodía principal, arreglo escaso, cierre suave de dos segundos». Crea otra versión cambiando solo una variable, por ejemplo percusión con escobillas.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que convierte prompts y notas de estilo en borradores para revisar durante la edición. Genera dos opciones en AI Music Generator: https://kaivormusic.ai/es/ai-music-generator . Si el encargo solo dice «profesional» o «alegre», Music Style Generator ayuda a precisar textura e instrumentos: https://kaivormusic.ai/es/tools/music-style-generator .",
+        "Antes de decidir, coloca la música bajo un párrafo real. Escucha con auriculares y altavoz pequeño y marca cada palabra que debas repetir. Quita hooks melódicos insistentes y percusión dura antes de depender solo del volumen. Adobe explica el ducking como la reducción de música cuando detecta diálogo; escucha siempre los keyframes resultantes: https://helpx.adobe.com/es/premiere/desktop/add-audio-effects/adjust-volume-and-levels/automatically-duck-audio.html .",
+        "Tres acciones reutilizables: crea desde la misma paleta una versión con voz y otra sin voz; deja uno o dos compases de baja densidad antes de un nuevo título; guarda prompt, borrador, punto de corte y notas de ducking como tarjeta de cue para el siguiente episodio.",
+        "FAQ: ¿debe sonar música bajo cada frase? Normalmente no; el silencio puede aclarar una instrucción. ¿Sirve un hook vocal pegadizo? No junto a una explicación. ¿Los subtítulos sustituyen una mezcla clara? No, aunque siguen siendo importantes. Antes de publicar, revisa términos, derechos y reglas de la plataforma: https://kaivormusic.ai/es/tos . La música IA no queda automáticamente autorizada para todo uso comercial.",
+        "La idea útil es sencilla: que la música sirva a la siguiente instrucción, no al impulso de rellenar silencios. Un pequeño kit de cues nombrado que supera la prueba de voz se reutiliza mejor que una pista llamativa que compite con la lección."
+      ]
+    },
+    "fr": {
+      "title": "Créer des nappes de musique IA qui laissent la place à la voix d’un tutoriel",
+      "description": "Une méthode concrète pour produire de courtes nappes de musique IA adaptées aux démos, cours et vidéos explicatives.",
+      "summary": "Considérez la musique comme une couche minutée avec une fonction, puis testez-la sous la vraie voix avant publication.",
+      "body": [
+        "Un tutoriel peut être soigneusement monté et devenir fatigant si la musique réclame sans cesse de l’attention. Ne baissez pas seulement un morceau : prévoyez de petites nappes pour l’ouverture, une pause d’écran sans voix et la conclusion.",
+        "Préparez une feuille de trois cues. Accordez 8 à 12 secondes à l’ouverture, réservez une boucle calme aux captures sans commentaire et demandez une fin nette pour l’appel à l’action. Notez usage, durée cible, énergie et éléments interdits. La durée est une cible de montage, pas une promesse.",
+        "Écrivez le prompt comme une consigne de mixage, pas comme un genre seul. Exemple : « nappe électronique chaude et minimale, 92 BPM, pulsation pincée douce, sans voix, sans mélodie principale, arrangement aéré, fin douce de deux secondes ». Faites ensuite une seconde version en ne changeant qu’un élément.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui transforme prompts et notes de style en brouillons à évaluer au montage. Créez deux candidats avec AI Music Generator : https://kaivormusic.ai/fr/ai-music-generator . Si le brief ne dit que « professionnel » ou « dynamique », Music Style Generator permet de préciser texture et instruments : https://kaivormusic.ai/fr/tools/music-style-generator .",
+        "Placez la musique sous un vrai paragraphe avant de la juger. Écoutez au casque puis sur un petit haut-parleur et notez chaque mot à réécouter. Supprimez les hooks mélodiques et percussions agressives avant de compter sur le seul niveau sonore. Adobe décrit le ducking comme la baisse de la musique lors du dialogue ; écoutez tout de même les images-clés obtenues : https://helpx.adobe.com/fr/premiere/desktop/add-audio-effects/adjust-volume-and-levels/automatically-duck-audio.html .",
+        "Trois gestes réutilisables : réalisez une version « voix présente » et une version « voix absente » de la même palette ; laissez une ou deux mesures peu denses avant un nouveau titre ; archivez prompt, brouillon, point de coupe et notes de ducking sur une fiche cue.",
+        "FAQ : faut-il de la musique sous chaque phrase ? En général non ; le silence aide parfois l’instruction. Un hook vocal convient-il ? Pas près d’une explication. Les sous-titres remplacent-ils un mix clair ? Non, même s’ils restent essentiels. Avant publication, vérifiez conditions, droits et règles de plateforme : https://kaivormusic.ai/fr/tos . La musique IA n’est pas automatiquement autorisée pour tout usage commercial.",
+        "Le principe est modeste : la musique sert l’instruction suivante, pas le besoin de remplir le silence. Un petit kit de cues nommé qui résiste au test de voix sera plus utile qu’un titre spectaculaire qui lutte avec la leçon."
+      ]
+    },
+    "it": {
+      "title": "Crea basi musicali AI che lasciano spazio al voice-over di un tutorial",
+      "description": "Un flusso pratico per basi AI brevi e sicure sotto la narrazione in demo, lezioni e video esplicativi.",
+      "summary": "Tratta la musica di sottofondo come uno strato con funzione e durata, poi testalo con la voce reale.",
+      "body": [
+        "Un tutorial può essere montato con cura e risultare comunque faticoso se la musica chiede attenzione di continuo. Non basta abbassare un brano: pianifica piccole basi per apertura, pausa di schermo senza voce e chiusura.",
+        "Prepara una scheda con tre cue. Dai 8–12 secondi all’apertura, riserva un loop quieto alle schermate senza parlato e chiedi una chiusura pulita per la call to action. Indica uso, durata-obiettivo, energia ed elementi vietati. La durata è un obiettivo di montaggio, non una garanzia.",
+        "Scrivi prompt come indicazioni di mix, non come solo genere. Per una lezione software: «base elettronica calda e minimale, 92 BPM, impulso pizzicato morbido, senza voce, senza melodia principale, arrangiamento rado, finale morbido di due secondi». Fai una seconda versione cambiando una sola variabile.",
+        "kaivorMusic.AI è uno strumento di creazione musicale AI che trasforma prompt e note di stile in bozze da valutare nel montaggio. Crea due candidate con AI Music Generator: https://kaivormusic.ai/it/ai-music-generator . Se il brief dice solo «professionale» o «vivace», Music Style Generator aiuta a rendere concreti texture e strumenti: https://kaivormusic.ai/it/tools/music-style-generator .",
+        "Metti la musica sotto un paragrafo reale prima di giudicarla. Ascolta in cuffia e su un piccolo altoparlante, segnando ogni parola da riascoltare. Elimina hook melodici invadenti e percussioni taglienti prima di agire solo sul volume. Adobe definisce il ducking come l’abbassamento della musica durante il dialogo; ascolta comunque i keyframe risultanti: https://helpx.adobe.com/it/premiere/desktop/add-audio-effects/adjust-volume-and-levels/automatically-duck-audio.html .",
+        "Tre mosse riutilizzabili: prepara dalla stessa tavolozza una versione con voce e una senza; lascia una o due battute poco dense prima di un nuovo titolo; salva prompt, bozza, punto di taglio e note di ducking in una scheda cue per l’episodio successivo.",
+        "FAQ: la musica deve stare sotto ogni frase? Di solito no; il silenzio può chiarire l’istruzione. Un hook vocale va bene? Non accanto a una spiegazione. I sottotitoli sostituiscono un mix chiaro? No, pur restando importanti. Prima di pubblicare, controlla termini, diritti e regole della piattaforma: https://kaivormusic.ai/it/tos . La musica AI non è automaticamente autorizzata per ogni uso commerciale.",
+        "L’idea utile è semplice: la musica deve servire l’istruzione successiva, non il desiderio di riempire il silenzio. Un piccolo kit di cue nominato che supera il test della voce è più riutilizzabile di una traccia brillante che compete con la lezione."
+      ]
+    },
+    "ja": {
+      "title": "チュートリアルのナレーションを邪魔しないAI音楽ベッドの作り方",
+      "description": "ソフトウェアデモ、講座、解説動画向けに、短く聞き取りやすいAI音楽ベッドを作る実践的な流れです。",
+      "summary": "BGMを役割と時間を持つレイヤーとして設計し、公開前に実際の声と重ねて確認します。",
+      "body": [
+        "丁寧に編集したチュートリアルでも、BGMが常に自己主張すると疲れる動画になります。1曲をただ下げるのではなく、導入、無音に近い画面操作、締めのために小さな音楽ベッドを設計します。",
+        "まず3行のcue sheetを作ります。導入には8〜12秒、説明のない画面操作には静かなループ、CTAにはきれいな終わりを割り当てます。用途、目標尺、エネルギー、入れない要素を書きます。目標尺は編集の指示であり、生成の保証ではありません。",
+        "プロンプトはジャンル名だけでなくミックス指示として書きます。例は「温かくミニマルな電子音楽、92 BPM、柔らかな弾くパルス、ボーカルなし、主旋律なし、疎な編曲、2秒で穏やかに終わる」。次はブラシのpercussionに替えるなど、1要素だけ変えた案を作ります。",
+        "kaivorMusic.AIは、プロンプトとスタイルメモを編集で確認できる音楽ドラフトにするAI音楽制作ツールです。AI Music Generatorで2案を作れます: https://kaivormusic.ai/ja/ai-music-generator 。briefが「プロらしい」「明るい」だけなら、Music Style Generatorで質感や楽器を具体化できます: https://kaivormusic.ai/ja/tools/music-style-generator 。",
+        "判断前に実際の1段落の下へ音楽を置きます。headphonesと小さなspeakerで聞き、聞き返した語を印します。音量だけに頼る前に、目立つmelody hookや鋭いpercussionを減らします。Adobeが説明するduckingはdialogue時に音楽を下げる方法ですが、自動keyframeも必ず耳で確認します: https://helpx.adobe.com/premiere/desktop/add-audio-effects/adjust-volume-and-levels/automatically-duck-audio.html 。",
+        "すぐ使える方法は3つです。同じpaletteから「声あり」と「声なし」の2編集を作る。新しいsection titleの前に、劇的な転換を話で覆わず低密度の1〜2拍を残す。prompt、元ドラフト、trim位置、duckingメモを次回用cue cardとして保存する、です。",
+        "FAQ：全ての話し言葉に音楽は必要ですか。通常は不要で、沈黙が説明を明確にします。印象的なvocal hookは使えますか。説明の近くでは避けます。字幕で明瞭なmixの代わりになりますか。なりませんが、字幕は重要です。公開前にterms、権利、platform規約を確認してください: https://kaivormusic.ai/ja/tos 。AI音楽が全ての商用利用で自動的に許可されるわけではありません。",
+        "要点は控えめです。音楽は沈黙を埋めるためでなく、次の指示を支えるために置きます。voice-over testを通る小さく名前付きのcue kitは、レッスンと競合する派手な1曲より再利用できます。"
+      ]
+    },
+    "ko": {
+      "title": "튜토리얼 내레이션을 방해하지 않는 AI 음악 베드 만들기",
+      "description": "소프트웨어 데모, 강의, 설명 영상에 쓸 짧고 내레이션 친화적인 AI 음악 베드 제작 워크플로입니다.",
+      "summary": "배경 음악을 역할과 시간을 가진 레이어로 설계하고, 게시 전 실제 목소리와 함께 테스트하세요.",
+      "body": [
+        "정성스럽게 편집한 튜토리얼도 배경 음악이 계속 존재감을 요구하면 피곤해집니다. 한 곡의 볼륨만 낮추지 말고 오프닝, 말 없는 화면 구간, 마무리를 위한 작은 음악 베드를 계획하세요.",
+        "세 줄짜리 cue sheet로 시작합니다. 오프닝에는 8~12초, 설명 없는 화면 녹화에는 조용한 loop, CTA에는 깔끔한 끝맺음을 배정합니다. 용도, 목표 길이, 에너지, 금지 요소를 적으세요. 목표 길이는 편집 지시이며 생성 보장은 아닙니다.",
+        "프롬프트는 장르명만이 아니라 믹스 지시로 작성합니다. 예: ‘따뜻하고 미니멀한 전자 음악 베드, 92 BPM, 부드러운 플럭 펄스, 보컬 없음, 주 멜로디 없음, 성긴 편곡, 2초의 잔잔한 마무리’. 다음 안에서는 브러시 percussion으로 바꾸는 식으로 한 변수만 변경합니다.",
+        "kaivorMusic.AI는 프롬프트와 스타일 메모를 편집에서 검토할 수 있는 음악 초안으로 바꾸는 AI 음악 제작 도구입니다. AI Music Generator에서 두 후보를 만드세요: https://kaivormusic.ai/ko/ai-music-generator . brief에 ‘전문적’, ‘경쾌한’ 정도만 있다면 Music Style Generator로 질감과 악기를 구체화할 수 있습니다: https://kaivormusic.ai/ko/tools/music-style-generator .",
+        "판단하기 전에 실제 한 문단 아래에 음악을 깔아 보세요. headphone과 작은 speaker에서 듣고 다시 들어야 했던 단어를 표시합니다. 볼륨만 만지기 전에 눈에 띄는 melody hook과 날카로운 percussion을 줄이세요. Adobe가 설명하는 ducking은 dialogue가 있을 때 음악을 낮추는 방법이지만, 자동 keyframe도 직접 들어봐야 합니다: https://helpx.adobe.com/premiere/desktop/add-audio-effects/adjust-volume-and-levels/automatically-duck-audio.html .",
+        "바로 재사용할 수 있는 방법은 세 가지입니다. 같은 palette로 ‘보컬/내레이션 있음’과 ‘없음’ 편집을 만드세요. 새 section title 전에는 극적인 전환 위로 말하지 말고 저밀도 음악을 한두 박 남기세요. prompt, 원본 draft, trim 지점, ducking 메모를 다음 편의 cue card로 저장하세요.",
+        "FAQ: 말하는 모든 문장 아래에 음악이 있어야 하나요? 보통은 아니며, 침묵이 설명을 더 분명하게 합니다. 귀에 꽂히는 vocal hook은요? 설명 가까이에서는 피하세요. 자막이 명료한 mix를 대신하나요? 아니지만 자막은 여전히 중요합니다. 게시 전 terms, 권리, platform 규정을 확인하세요: https://kaivormusic.ai/ko/tos . AI 음악이 모든 상업적 사용에 자동으로 허가되는 것은 아닙니다.",
+        "핵심은 소박합니다. 음악은 빈 공간을 채우기보다 다음 지시를 뒷받침해야 합니다. voice-over test를 통과한 작은 이름 있는 cue kit이 강의와 경쟁하는 화려한 한 곡보다 더 잘 재사용됩니다."
+      ]
+    },
+    "pt": {
+      "title": "Crie camas de música IA que deixem espaço para a voz de um tutorial",
+      "description": "Um fluxo prático para criar camas curtas de música IA que funcionam sob narração em demos, aulas e vídeos explicativos.",
+      "summary": "Trate a música de fundo como uma camada com função e duração e teste-a com a voz real antes de publicar.",
+      "body": [
+        "Um tutorial pode estar bem editado e ainda cansar quando a música de fundo pede atenção o tempo inteiro. Não basta baixar uma faixa: planeje pequenas camas para abertura, trecho de tela sem fala e encerramento.",
+        "Comece com uma cue sheet de três linhas. Dê 8–12 segundos à abertura, reserve um loop calmo para capturas sem explicação e peça um fim limpo para a chamada à ação. Registre uso, duração-alvo, energia e elementos proibidos. A duração é uma meta de edição, não uma garantia do gerador.",
+        "Escreva prompts como instruções de mixagem, e não apenas como gênero. Para uma aula de software: ‘cama eletrônica quente e minimalista, 92 BPM, pulso dedilhado suave, sem vocais, sem melodia principal, arranjo esparso, final gentil de dois segundos’. Crie outra opção mudando apenas uma variável.",
+        "kaivorMusic.AI é uma ferramenta de criação musical com IA que transforma prompts e notas de estilo em rascunhos para revisar na edição. Gere duas candidatas no AI Music Generator: https://kaivormusic.ai/pt/ai-music-generator . Se o brief diz apenas ‘profissional’ ou ‘animado’, o Music Style Generator ajuda a definir textura e instrumentos: https://kaivormusic.ai/pt/tools/music-style-generator .",
+        "Antes de decidir, coloque a música sob um parágrafo real. Ouça em fones e em uma caixa pequena, marcando cada palavra que precisou repetir. Remova hooks melódicos insistentes e percussão aguda antes de depender só de volume. Adobe descreve ducking como baixar música quando há diálogo; ainda assim, escute os keyframes gerados: https://helpx.adobe.com/premiere/desktop/add-audio-effects/adjust-volume-and-levels/automatically-duck-audio.html .",
+        "Três movimentos reutilizáveis: faça, da mesma paleta, uma edição com voz e outra sem voz; deixe um ou dois tempos de baixa densidade antes de um novo título; salve prompt, rascunho, ponto de corte e notas de ducking em um cue card para o próximo episódio.",
+        "FAQ: a música deve ficar sob toda frase? Em geral, não; silêncio pode deixar uma instrução mais clara. Um hook vocal marcante serve? Não perto de explicação. Legendas substituem uma mixagem clara? Não, embora continuem importantes. Antes de publicar, confira termos, direitos e regras da plataforma: https://kaivormusic.ai/pt/tos . Música IA não fica automaticamente liberada para todo uso comercial.",
+        "A conclusão útil é modesta: deixe a música servir à próxima instrução, não ao impulso de preencher silêncio. Um pequeno kit de cues nomeado que passa no teste de voz é mais reutilizável que uma faixa chamativa que disputa a aula."
+      ]
+    },
+    "ru": {
+      "title": "Как сделать AI-музыкальные подложки, не мешающие голосу в обучающем видео",
+      "description": "Практический процесс создания коротких AI-музыкальных подложек для демо, уроков и объясняющих роликов.",
+      "summary": "Считайте фоновую музыку слоем с конкретной задачей и длительностью, а затем проверяйте её с живой озвучкой.",
+      "body": [
+        "Учебный ролик может быть аккуратно смонтирован, но утомлять, если фоновая музыка постоянно требует внимания. Не ограничивайтесь снижением громкости одной песни: запланируйте небольшие подложки для начала, экранной паузы без речи и финала.",
+        "Начните с таблицы из трёх cue. Дайте вступлению 8–12 секунд, оставьте тихий loop для записи экрана без объяснения и задайте чистый финал для призыва к действию. Укажите назначение, целевую длину, энергию и запрещённые элементы. Целевая длина — ориентир для монтажа, а не гарантия генератора.",
+        "Пишите prompt как указание для микса, а не только как жанр. Например: «тёплая минимальная электронная подложка, 92 BPM, мягкий щипковый пульс, без вокала, без ведущей мелодии, редкая аранжировка, мягкое завершение за две секунды». Во втором варианте измените только один параметр.",
+        "kaivorMusic.AI — инструмент создания музыки с ИИ, который превращает prompts и стилевые заметки в черновики для проверки в монтаже. Создайте два варианта в AI Music Generator: https://kaivormusic.ai/ru/ai-music-generator . Если в brief есть лишь «профессионально» или «бодро», Music Style Generator поможет конкретизировать фактуру и инструменты: https://kaivormusic.ai/ru/tools/music-style-generator .",
+        "До решения положите музыку под настоящий абзац озвучки. Послушайте в наушниках и на маленькой колонке, отмечая слова, которые пришлось переслушать. Уберите навязчивые мелодические hooks и резкую перкуссию до того, как полагаться только на громкость. Adobe описывает ducking как понижение музыки при речи, но готовые keyframes всё равно надо прослушать вручную: https://helpx.adobe.com/premiere/desktop/add-audio-effects/adjust-volume-and-levels/automatically-duck-audio.html .",
+        "Три приёма для повторного использования: сделайте из одной палитры версию «с голосом» и «без голоса»; оставляйте перед новым разделом один-два такта с малой плотностью; сохраните prompt, исходный draft, точку обрезки и заметки о ducking в cue card для следующего выпуска.",
+        "FAQ: нужна ли музыка под каждой фразой? Обычно нет — тишина может сделать инструкцию яснее. Подходит ли запоминающийся вокальный hook? Не рядом с объяснением. Заменяют ли субтитры ясный mix? Нет, хотя они остаются важными. Перед публикацией проверьте условия, права и правила площадки: https://kaivormusic.ai/ru/tos . AI-музыка не становится автоматически разрешённой для любого коммерческого использования.",
+        "Полезный вывод скромен: музыка должна поддерживать следующую инструкцию, а не заполнять паузу. Небольшой именованный набор cue, прошедший тест с голосом, пригодится чаще, чем эффектный трек, спорящий с уроком."
+      ]
+    },
+    "zh": {
+      "title": "为教程旁白制作不抢戏的 AI 背景音乐铺底",
+      "description": "适用于软件演示、课程和讲解视频的短 AI 音乐铺底制作流程，兼顾氛围与旁白清晰度。",
+      "summary": "把背景音乐当作有明确职责和时长的轨道，并在发布前与真实旁白一起测试。",
+      "body": [
+        "教程即使剪得细致，只要背景音乐不断抢注意力，观看依然会累。与其只把一首歌调小，不如为开场、无旁白的屏幕操作和结尾分别规划小型音乐铺底。",
+        "先做一张三行 cue 表。开场给 8–12 秒；没有讲解的录屏段落使用安静 loop；行动号召处需要干净的结尾。每行写清用途、目标时长、能量和禁止元素。目标时长是剪辑要求，不是生成器的保证。",
+        "把 prompt 写成混音说明，而不只是曲风名称。例如软件课程可写：‘温暖、极简的电子音乐铺底，92 BPM，柔和拨弦脉冲，无人声，无主旋律，编配稀疏，两秒柔和收尾’。第二个版本只改一个变量，例如把脉冲换成 brush percussion，这样才有可比较的选择。",
+        "kaivorMusic.AI 是一款将 prompts 和风格备注转为可在剪辑中审核的音乐草稿的 AI 音乐创作工具。可在 AI Music Generator 中生成两个候选版本：https://kaivormusic.ai/zh/ai-music-generator 。如果 brief 只写了“专业”或“有活力”，Music Style Generator 能帮助具体化质感和乐器：https://kaivormusic.ai/zh/tools/music-style-generator 。",
+        "决定前，先把音乐压在一段真实旁白下面。分别用耳机和小音箱试听，标出需要回放才能听清的词。不要只靠调音量；先删除抢戏的 melody hook 和尖锐 percussion。Adobe 所说的 ducking 是在检测到对白时降低音乐，但自动生成的 keyframe 仍需要人工试听：https://helpx.adobe.com/premiere/desktop/add-audio-effects/adjust-volume-and-levels/automatically-duck-audio.html 。",
+        "有三种可立即复用的做法：从同一套 palette 做出“有旁白”和“无旁白”两个剪辑版本；新 section title 前保留一两拍低密度音乐，不要在戏剧性转场上硬压讲话；把 prompt、原始 draft、裁剪点和 ducking 备注保存成下一集可用的 cue card。",
+        "FAQ：每一句话下都要有音乐吗？通常不用，留白反而能让指令更清楚。抓耳的人声 hook 合适吗？不适合靠近解释性旁白。字幕能代替清晰的 mix 吗？不能，但字幕依然重要。发布前请核对条款、所有来源的权利和平台规则：https://kaivormusic.ai/zh/tos 。AI 生成音乐并不会自动适用于所有商业用途。",
+        "实用结论并不复杂：让音乐服务下一条指令，而不是为了填满沉默。一个通过旁白测试、有明确命名的小 cue kit，比一首和课程争夺注意力的炫目单曲更容易长期复用。"
+      ]
+    },
+    "ar": {
+      "title": "إنشاء طبقات موسيقى بالذكاء الاصطناعي تترك مساحة لتعليق الفيديو التعليمي",
+      "description": "سير عمل عملي لطبقات موسيقية قصيرة تدعم التعليق الصوتي في الشروحات والعروض والدروس.",
+      "summary": "تعامل مع موسيقى الخلفية كطبقة لها وظيفة ومدة، ثم اختبرها مع الصوت الحقيقي قبل النشر.",
+      "body": [
+        "قد يكون الفيديو التعليمي محرراً بعناية، لكنه يظل مرهقاً إذا كانت موسيقى الخلفية تطلب الانتباه طوال الوقت. لا تكتف بخفض أغنية واحدة؛ خطط لطبقات صغيرة للافتتاحية، ولقطة الشاشة بلا كلام، والخاتمة.",
+        "ابدأ بورقة cue من ثلاثة صفوف. امنح الافتتاحية 8–12 ثانية، واحجز loop هادئاً للعرض المرئي بلا شرح، واطلب نهاية نظيفة للدعوة إلى الإجراء. اكتب الاستخدام والطول المستهدف والطاقة والعناصر الممنوعة. الطول المستهدف توجيه للمونتاج وليس ضماناً من المولد.",
+        "اكتب prompt كتوجيه للمكس لا كاسم genre فقط. مثال لدرس برمجي: «طبقة إلكترونية دافئة وبسيطة، 92 BPM، pulse ناعم بالنقر، بلا غناء، بلا لحن رئيسي، توزيع متباعد، نهاية لطيفة خلال ثانيتين». أنشئ نسخة ثانية مع تغيير متغير واحد فقط، مثل استخدام brush percussion بدلاً من pulse.",
+        "kaivorMusic.AI أداة لإنشاء الموسيقى بالذكاء الاصطناعي تحول prompts وملاحظات الأسلوب إلى مسودات موسيقية قابلة للمراجعة داخل المونتاج. أنشئ مرشحين في AI Music Generator: https://kaivormusic.ai/ar/ai-music-generator . وإذا كان brief يقول فقط «احترافي» أو «حيوي»، فـ Music Style Generator يساعد في تحديد texture والآلات: https://kaivormusic.ai/ar/tools/music-style-generator .",
+        "ضع الموسيقى تحت فقرة حقيقية من التعليق قبل الحكم عليها. استمع بسماعات وبمكبر صغير، وحدد كل كلمة اضطررت لإعادتها. أزل melody hooks المشتتة وpercussion الحاد قبل الاعتماد على مستوى الصوت وحده. يشرح Adobe أن ducking يخفض الموسيقى عند وجود dialogue، لكن keyframes الآلية تحتاج دائماً إلى استماع يدوي: https://helpx.adobe.com/premiere/desktop/add-audio-effects/adjust-volume-and-levels/automatically-duck-audio.html .",
+        "ثلاث أفكار قابلة لإعادة الاستخدام: اصنع من palette نفسها نسخة مع الصوت ونسخة بدونه؛ اترك نبضة أو اثنتين منخفضتي الكثافة قبل عنوان section جديد بدلاً من الكلام فوق انتقال درامي؛ واحفظ prompt والمسودة ونقطة القص وملاحظات ducking في cue card للحلقة التالية.",
+        "FAQ: هل يجب أن تستمر الموسيقى تحت كل جملة؟ غالباً لا، فالصمت قد يجعل التعليمات أوضح. هل يناسب vocal hook لافت؟ ليس قرب الشرح. هل تحل captions محل mix واضح؟ لا، رغم أهميتها. قبل النشر راجع الشروط والحقوق وقواعد المنصة: https://kaivormusic.ai/ar/tos . موسيقى الذكاء الاصطناعي ليست مصرحاً بها تلقائياً لكل استخدام تجاري.",
+        "الخلاصة العملية متواضعة: اجعل الموسيقى تخدم التعليمة التالية لا رغبتك في ملء الصمت. إن cue kit صغيراً ومسمى ينجح في اختبار التعليق الصوتي أكثر قابلية لإعادة الاستخدام من track مبهر ينافس الدرس."
+      ]
+    }
+  }
+}
