@@ -1,0 +1,152 @@
+{
+  "slug": "ai-music-gallery-opening-cues",
+  "date": "2026-10-21",
+  "updated": "2026-10-21",
+  "topic": "A practical workflow for creating restrained AI music cue sets for gallery opening events, protecting conversation, artist talks, room acoustics, and responsible public-use review",
+  "keywords": ["AI music for gallery openings", "gallery event music", "AI music cue set", "art exhibition ambience", "artist talk music", "AI music generator", "kaivorMusic.AI"],
+  "translations": {
+    "en": {
+      "title": "Build an AI music cue set for a gallery opening",
+      "description": "A practical guide to making gallery-opening music that supports arrival, conversation, an artist talk, and a clean close without taking over the room.",
+      "summary": "Treat a gallery opening as four listening states, not one long playlist: arrival, viewing, talk, and close.",
+      "body": [
+        "A gallery opening can turn awkward quickly when a beautiful track asks guests to shout over it. People are reading labels, meeting an artist, finding a friend, and listening for a short announcement. The useful question is not what music represents the exhibition; it is what the room needs at each moment.",
+        "Make a four-row cue card before generating anything: arrival while the room is filling, quiet viewing and conversation, a no-music or near-silent artist-talk state, and a gentle close. Give each row a maximum energy, a likely duration, a fade instruction, and an owner. This is more reliable than a folder of tracks called final-final.",
+        "For arrival, test a short instrumental cue with a modest pulse and no dominant melody. For viewing, reduce the pulse and leave fewer musical events. For the talk, plan silence first; a cue can fade before the first sentence rather than trying to sit underneath it. Hard surfaces and full rooms change what feels subtle, so test in the actual space whenever possible.",
+        "kaivorMusic.AI is an AI music creation tool for turning written direction into drafts to review. In the AI Music Generator, describe the event job rather than asking for an art-gallery genre: calm opening reception, warm low-density instrumental, light texture, no vocals, no famous-artist imitation, easy fade, room for conversation: https://kaivormusic.ai/ai-music-generator .",
+        "Three reusable ideas are worth keeping: make an arrival version with a clearer first ten seconds, a quieter viewing loop with less percussion, and a 15-second closing cue with a clean ending for staff announcements. Name files by function and version, such as ARRIVE-warm-v2, VIEW-quiet-v1, and CLOSE-button-v1. A visitor should notice the work and the people before they notice your file naming or your music.",
+        "FAQ: Should every artwork have its own track? Usually no; constant switching can make the room feel like a retail demo. Should music play during an artist talk? Often silence is the better choice unless the event has a rehearsed reason for a cue. Is a generated draft automatically cleared for public use? No. Review the tool terms, venue requirements, contracts, and any local rights obligations before playback: https://kaivormusic.ai/tos . The takeaway is simple: build a small cue system that makes the exhibition easier to encounter, then let it recede."
+      ]
+    },
+    "de": {
+      "title": "Ein KI-Musik-Cue-Set für eine Galerieeröffnung erstellen",
+      "description": "Ein praktischer Leitfaden für Musik bei Galerieeröffnungen: Ankommen, Gespräche, Artist Talk und ein ruhiger Ausklang ohne den Raum zu übernehmen.",
+      "summary": "Denke in vier Hörsituationen statt in einer langen Playlist: Ankunft, Betrachtung, Gespräch und Abschluss.",
+      "body": [
+        "Eine Galerieeröffnung wird schnell anstrengend, wenn ein schöner Track Gespräche übertönt. Menschen lesen Wandtexte, treffen die Künstlerin oder den Künstler und warten auf eine Ansage. Entscheidend ist nicht, welche Musik das Werk erklärt, sondern was der Raum in jedem Moment braucht.",
+        "Lege vor dem Generieren eine Cue-Karte mit vier Zeilen an: Ankunft, ruhiges Schauen und Gespräch, fast Stille für den Artist Talk und Abschluss. Notiere pro Zeile Energie, ungefähre Dauer, Fade und zuständige Person. Das ist brauchbarer als Dateien mit dem Namen final-final.",
+        "Für die Ankunft teste ein kurzes Instrumental mit zurückhaltendem Puls und ohne dominante Melodie. Für die Betrachtung reduzierst du Puls und Ereignisse. Für den Talk planst du zuerst Stille; der Cue darf vor dem ersten Satz ausblenden. Harte Flächen und ein voller Raum verändern die Wirkung, deshalb zählt ein Test vor Ort.",
+        "kaivorMusic.AI ist ein KI-Musiktool, das schriftliche Richtung in vergleichbare Entwürfe übersetzt. Beschreibe im AI Music Generator die Aufgabe statt eines Galerie-Genres: ruhiger Empfang, warmes Instrumental mit geringer Dichte, leichte Textur, keine Vocals, keine Imitation bekannter Artists, leicht ausblendbar, Platz für Gespräche: https://kaivormusic.ai/de/ai-music-generator .",
+        "Drei Ideen lassen sich wiederverwenden: eine Ankunftsversion mit deutlicheren ersten zehn Sekunden, eine leisere Viewing-Loop mit weniger Percussion und ein 15-Sekunden-Abschlusscue mit sauberem Ende für Ansagen. Benenne Dateien nach Funktion und Version. Besucher sollen zuerst Kunst und Menschen wahrnehmen, nicht die Produktionsroutine.",
+        "FAQ: Braucht jedes Werk einen eigenen Track? Meist nicht; ständige Wechsel wirken schnell wie im Laden. Musik unter dem Artist Talk? Oft ist Stille besser. Ist ein generierter Entwurf automatisch für öffentliche Wiedergabe freigegeben? Nein. Prüfe Bedingungen, Vorgaben des Orts, Verträge und Rechte: https://kaivormusic.ai/de/tos . Ein kleines Cue-System, das der Ausstellung Platz lässt, ist die bessere Lösung."
+      ]
+    },
+    "es": {
+      "title": "Crea un set de cues de música IA para una inauguración de galería",
+      "description": "Guía práctica para música de inauguración: llegada, conversación, charla del artista y cierre, sin adueñarse de la sala.",
+      "summary": "Piensa en cuatro estados de escucha, no en una playlist larga: llegada, recorrido, charla y cierre.",
+      "body": [
+        "Una inauguración puede sentirse incómoda cuando una pista bonita obliga a levantar la voz. La gente lee cédulas, conoce al artista y espera un anuncio. La pregunta útil no es qué música representa la muestra, sino qué necesita la sala en cada momento.",
+        "Antes de generar, haz una tarjeta con cuatro cues: llegada, recorrido y conversación, casi silencio para la charla y cierre. Define energía máxima, duración probable, fundido y responsable. Eso sirve más que una carpeta llena de archivos llamados final-final.",
+        "Para la llegada, prueba un instrumental breve con pulso discreto y sin melodía dominante. Para el recorrido, reduce pulso y actividad. Para la charla, diseña primero el silencio; el cue puede desaparecer antes de la primera frase. Las superficies duras y una sala llena cambian la escucha, así que prueba en el lugar.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que convierte instrucciones escritas en borradores para comparar. En AI Music Generator, describe el trabajo del evento: recepción tranquila, instrumental cálido de baja densidad, textura ligera, sin voz, sin imitar artistas conocidos, fundido fácil, espacio para conversar: https://kaivormusic.ai/es/ai-music-generator .",
+        "Tres ideas reutilizables: una versión de llegada con diez segundos iniciales más claros, un loop de recorrido con menos percusión y un cue final de 15 segundos con cierre limpio para anuncios. Nombra archivos por función y versión. La visita debe poner primero las obras y a las personas, no la pista musical.",
+        "FAQ: ¿cada obra necesita su propia pista? Normalmente no; los cambios constantes parecen una demostración comercial. ¿Música durante la charla? A menudo el silencio funciona mejor. ¿Un borrador generado queda autorizado automáticamente para uso público? No. Revisa términos, requisitos del espacio, contratos y derechos: https://kaivormusic.ai/es/tos . Un sistema pequeño que deja respirar a la exposición es más útil."
+      ]
+    },
+    "fr": {
+      "title": "Créer un set de cues de musique IA pour un vernissage",
+      "description": "Un guide pratique pour accompagner arrivée, conversations, prise de parole et fin de vernissage sans prendre le contrôle de la salle.",
+      "summary": "Pensez en quatre états d'écoute, pas en une playlist continue : arrivée, visite, prise de parole et clôture.",
+      "body": [
+        "Un vernissage devient vite pénible lorsqu'une belle musique oblige les invités à parler plus fort. On lit un cartel, on rencontre l'artiste, on attend une annonce. La bonne question n'est pas quelle musique résume l'exposition, mais ce dont la salle a besoin à chaque instant.",
+        "Avant toute génération, faites une carte à quatre cues : arrivée, visite et conversation, quasi-silence pour la prise de parole, puis clôture. Notez énergie maximale, durée, fondu et responsable. C'est plus solide qu'un dossier de fichiers nommés final-final.",
+        "Pour l'arrivée, testez un instrumental court avec un pulsation discrète et sans mélodie dominante. Pour la visite, réduisez pulsation et activité. Pour la parole, prévoyez d'abord le silence : le cue peut disparaître avant la première phrase. Les murs durs et une salle pleine changent l'écoute ; testez donc sur place.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui transforme une direction écrite en brouillons à comparer. Dans AI Music Generator, décrivez la fonction : réception calme, instrumental chaud peu dense, texture légère, sans voix, sans imitation d'artiste connu, fondu simple, place pour les conversations : https://kaivormusic.ai/fr/ai-music-generator .",
+        "Trois idées restent utiles d'un événement à l'autre : une version d'arrivée avec dix premières secondes plus nettes, une boucle de visite moins percussive et un cue de clôture de 15 secondes avec fin franche pour les annonces. Nommez les fichiers par fonction et version. Les visiteurs doivent d'abord remarquer les œuvres et les personnes.",
+        "FAQ : faut-il une piste pour chaque œuvre ? En général non ; les changements continus font vite démonstration commerciale. De la musique sous une prise de parole ? Le silence est souvent meilleur. Un brouillon généré est-il automatiquement autorisé en public ? Non. Vérifiez conditions, règles du lieu, contrats et droits : https://kaivormusic.ai/fr/tos . Un petit système qui laisse l'exposition respirer est préférable."
+      ]
+    },
+    "it": {
+      "title": "Crea un set di cue musicali AI per un'inaugurazione in galleria",
+      "description": "Guida pratica per musica di apertura: arrivo, conversazione, intervento dell'artista e chiusura senza occupare la stanza.",
+      "summary": "Pensa a quattro stati di ascolto, non a una playlist lunga: arrivo, visita, intervento e chiusura.",
+      "body": [
+        "Un'inaugurazione diventa faticosa quando una traccia bella costringe gli ospiti ad alzare la voce. Le persone leggono i testi, incontrano l'artista e aspettano un annuncio. La domanda utile non è quale musica rappresenti la mostra, ma cosa serve alla stanza in ogni momento.",
+        "Prima di generare, prepara una scheda con quattro cue: arrivo, visita e conversazione, quasi silenzio per l'intervento, chiusura. Segna energia massima, durata, fade e responsabile. È più affidabile di una cartella piena di file chiamati final-final.",
+        "Per l'arrivo prova un breve strumentale con pulsazione discreta e senza melodia dominante. Per la visita riduci pulsazione e attività. Per l'intervento progetta prima il silenzio: il cue può svanire prima della prima frase. Superfici dure e una stanza piena cambiano l'ascolto, quindi prova sul posto.",
+        "kaivorMusic.AI è uno strumento di creazione musicale AI che trasforma una direzione scritta in draft confrontabili. In AI Music Generator descrivi il lavoro: ricevimento calmo, strumentale caldo a bassa densità, texture leggera, senza voce, senza imitare artisti noti, fade facile, spazio per conversare: https://kaivormusic.ai/it/ai-music-generator .",
+        "Tre idee riutilizzabili: una versione di arrivo con i primi dieci secondi più chiari, un loop per la visita con meno percussioni e un cue di chiusura di 15 secondi con finale pulito per gli annunci. Dai ai file un nome basato su funzione e versione. Il pubblico deve notare prima le opere e le persone.",
+        "FAQ: ogni opera ha bisogno di una traccia? Di solito no; cambi continui ricordano una demo commerciale. Musica sotto l'intervento dell'artista? Spesso è meglio il silenzio. Un draft generato è automaticamente autorizzato per uso pubblico? No. Verifica termini, regole della sede, contratti e diritti: https://kaivormusic.ai/it/tos . Un sistema piccolo che lascia respirare la mostra funziona meglio."
+      ]
+    },
+    "pt": {
+      "title": "Crie um conjunto de cues de música por IA para abertura de galeria",
+      "description": "Guia prático para música de abertura: chegada, conversa, fala do artista e encerramento, sem dominar o ambiente.",
+      "summary": "Pense em quatro momentos de escuta, não em uma playlist longa: chegada, visita, fala e encerramento.",
+      "body": [
+        "Uma abertura de galeria fica cansativa quando uma faixa bonita faz todos falarem mais alto. As pessoas leem textos, encontram o artista e aguardam um aviso. A pergunta útil não é qual música representa a exposição, mas do que o ambiente precisa em cada momento.",
+        "Antes de gerar, faça uma ficha com quatro cues: chegada, visita e conversa, quase silêncio para a fala e encerramento. Defina energia máxima, duração, fade e responsável. Isso é mais seguro do que uma pasta de arquivos chamados final-final.",
+        "Na chegada, teste um instrumental curto com pulso discreto e sem melodia dominante. Na visita, reduza pulso e atividade. Para a fala, planeje o silêncio primeiro; o cue pode sumir antes da primeira frase. Superfícies duras e sala cheia mudam a audição, então teste no local.",
+        "kaivorMusic.AI é uma ferramenta de criação musical por IA que transforma uma direção escrita em rascunhos para comparar. No AI Music Generator, descreva o trabalho do evento: recepção calma, instrumental quente de baixa densidade, textura leve, sem voz, sem imitação de artista conhecido, fade fácil, espaço para conversa: https://kaivormusic.ai/pt/ai-music-generator .",
+        "Três ideias são reutilizáveis: uma versão de chegada com os primeiros dez segundos mais claros, um loop de visita com menos percussão e um cue final de 15 segundos com término limpo para avisos. Nomeie arquivos por função e versão. A visita deve destacar obras e pessoas antes da música.",
+        "FAQ: cada obra precisa de faixa própria? Em geral, não; mudanças constantes parecem demonstração de loja. Música durante a fala do artista? Muitas vezes silêncio é melhor. Um rascunho gerado fica automaticamente liberado para uso público? Não. Confira termos, exigências do local, contratos e direitos: https://kaivormusic.ai/pt/tos . Um sistema pequeno que deixa a exposição respirar é mais útil."
+      ]
+    },
+    "ja": {
+      "title": "ギャラリーオープニング向けAI音楽cueセットの作り方",
+      "description": "来場、会話、アーティストトーク、終了を支え、会場を支配しないAI音楽の実務ガイドです。",
+      "summary": "長いplaylistではなく、来場・鑑賞・トーク・終了の四つの聴取状態で考えます。",
+      "body": [
+        "良い曲でも、来場者が声を張らないと会話できないならオープニングには合いません。人は作品解説を読み、作家に会い、案内を待っています。問うべきなのは展示を代表する曲ではなく、その瞬間に会場が必要とする音です。",
+        "生成前に四行のcueカードを作ります。来場、鑑賞と会話、アーティストトーク用のほぼ無音、終了です。各行に最大energy、長さ、fade、担当者を書きます。final-finalという名前のファイル群より運用しやすくなります。",
+        "来場用には、控えめなpulseで主張の強いmelodyがない短いinstrumentalを試します。鑑賞用はpulseと出来事をさらに減らします。トークではまずsilenceを設計し、最初の一言の前にcueを消します。硬い壁と満員の室内では印象が変わるため、現地確認が必要です。",
+        "kaivorMusic.AIは、文章の方向性を比較用の音楽draftに変えるAI音楽制作ツールです。AI Music Generatorではgallery genreではなく役割を書きます。落ち着いたreception、暖かいlow-density instrumental、軽いtexture、no vocals、著名artistの模倣なし、easy fade、会話の余白: https://kaivormusic.ai/ja/ai-music-generator 。",
+        "すぐ使える案は三つです。最初の十秒が分かりやすい来場版、percussionを減らした鑑賞loop、案内用のきれいな終わりを持つ15秒の終了cueです。ファイル名は機能とversionで付けます。来場者が先に気づくべきなのは作品と人であり、音楽ではありません。",
+        "FAQ: 作品ごとに曲が必要ですか。通常は不要で、頻繁な切替は店頭demoのように感じられます。トーク中に音楽は必要ですか。多くの場合silenceが適しています。生成draftは公衆再生に自動で許可されますか。いいえ。規約、会場の条件、契約、権利を確認します: https://kaivormusic.ai/ja/tos 。展示に余白を残す小さなcue systemが実用的です。"
+      ]
+    },
+    "ko": {
+      "title": "갤러리 오프닝을 위한 AI 음악 cue 세트 만들기",
+      "description": "입장, 대화, 작가 토크, 마무리를 돕되 공간을 장악하지 않는 AI 음악 실무 가이드입니다.",
+      "summary": "긴 playlist 대신 입장, 관람, 토크, 마무리의 네 가지 청취 상태로 설계하세요.",
+      "body": [
+        "좋은 음악도 손님이 대화를 위해 목소리를 높여야 한다면 오프닝에는 맞지 않습니다. 사람들은 작품 설명을 읽고 작가를 만나며 안내를 기다립니다. 중요한 질문은 전시를 대표할 음악이 아니라 각 순간에 공간이 필요로 하는 소리입니다.",
+        "생성 전에 네 줄 cue 카드를 만드세요. 입장, 관람과 대화, 작가 토크를 위한 거의 무음, 마무리입니다. 각 줄에 최대 energy, 예상 길이, fade, 담당자를 적습니다. final-final 파일 폴더보다 훨씬 운영하기 쉽습니다.",
+        "입장에는 절제된 pulse와 강한 melody가 없는 짧은 instrumental을 시험합니다. 관람에는 pulse와 음악적 사건을 더 줄입니다. 토크에는 silence를 먼저 계획하고 첫 문장 전에 cue를 내립니다. 단단한 벽과 가득 찬 공간은 인상을 바꾸므로 현장 테스트가 중요합니다.",
+        "kaivorMusic.AI는 글로 쓴 방향을 비교할 음악 draft로 바꾸는 AI 음악 제작 도구입니다. AI Music Generator에서는 gallery genre 대신 역할을 적으세요. 차분한 reception, 따뜻한 low-density instrumental, 가벼운 texture, no vocals, 유명 artist 모방 금지, easy fade, 대화 공간: https://kaivormusic.ai/ko/ai-music-generator .",
+        "바로 재사용할 세 가지는 입장 첫 10초가 더 또렷한 버전, percussion을 줄인 관람 loop, 안내를 위한 깨끗한 끝이 있는 15초 마감 cue입니다. 파일명은 기능과 version으로 정합니다. 방문자가 먼저 알아차릴 것은 음악이 아니라 작품과 사람입니다.",
+        "FAQ: 작품마다 다른 곡이 필요할까요? 보통은 아니며 잦은 전환은 매장 demo처럼 느껴질 수 있습니다. 작가 토크 아래에 음악이 필요할까요? 대개 silence가 낫습니다. 생성 draft는 공개 재생에 자동 허가될까요? 아닙니다. 약관, 장소 요구, 계약, 권리를 확인하세요: https://kaivormusic.ai/ko/tos . 전시에 숨 쉴 틈을 주는 작은 cue system이 더 좋습니다."
+      ]
+    },
+    "zh": {
+      "title": "为画廊开幕活动制作 AI 音乐 cue 套组",
+      "description": "一份实用指南：让音乐服务于入场、交谈、艺术家分享和收尾，而不是占满整个展厅。",
+      "summary": "不要只做一张长 playlist；应把现场拆成入场、观展、分享和收尾四种聆听状态。",
+      "body": [
+        "如果一首好听的音乐让来宾不得不提高音量交谈，它就不适合开幕活动。人们要看作品说明、与艺术家交流、等待通知。真正要问的不是哪首音乐能代表展览，而是每个时刻的空间需要什么声音。",
+        "生成前先写四行 cue 卡：入场、观展与交谈、艺术家分享时的近乎安静、收尾。每行标出最高 energy、预估时长、fade 和负责人。这比一堆叫 final-final 的文件更便于执行。",
+        "入场时可试短小的 instrumental：有克制的 pulse，没有抢戏的 melody。观展时再降低 pulse 和音乐事件。分享环节先设计 silence，让 cue 在第一句话前消失。硬质墙面和满人的房间会改变听感，因此要尽量现场测试。",
+        "kaivorMusic.AI 是把文字方向转为可比较音乐 draft 的 AI 音乐创作工具。在 AI Music Generator 中写活动任务，而不是只写 gallery genre：安静的 reception、温暖的 low-density instrumental、轻微 texture、no vocals、不模仿知名 artist、easy fade、为交谈留空间：https://kaivormusic.ai/zh/ai-music-generator 。",
+        "三个可复用做法：制作前十秒更清晰的入场版、减少 percussion 的观展 loop、以及带干净结尾、供工作人员通知使用的 15 秒收尾 cue。按功能和 version 命名文件。观众应先注意到作品和人，而不是你的音乐文件。",
+        "FAQ：每件作品都需要一首歌吗？通常不需要，频繁切换会像零售 demo。艺术家分享时要放音乐吗？多数情况 silence 更好。生成的 draft 会自动获得公开播放许可吗？不会。播放前检查条款、场地要求、合同和相关权利：https://kaivormusic.ai/zh/tos 。让展览留有呼吸空间的小型 cue system 更实用。"
+      ]
+    },
+    "ru": {
+      "title": "Как собрать набор AI-музыкальных cue для открытия галереи",
+      "description": "Практическое руководство по музыке для прихода гостей, разговора, выступления художника и завершения вечера без захвата пространства.",
+      "summary": "Думайте о четырёх состояниях слушания, а не об одном длинном плейлисте: приход, просмотр, речь и завершение.",
+      "body": [
+        "Открытие галереи быстро становится утомительным, если из-за красивого трека гостям приходится говорить громче. Люди читают подписи, знакомятся с художником и ждут объявления. Полезнее спросить не о музыке, которая представляет выставку, а о том, что нужно пространству в данный момент.",
+        "До генерации сделайте карту из четырёх cue: приход гостей, просмотр и разговор, почти тишина для речи художника, завершение. Для каждого укажите предел energy, длительность, fade и ответственного. Это надёжнее папки файлов с именем final-final.",
+        "Для прихода гостей попробуйте короткий instrumental со сдержанным pulse и без ведущей melody. Для просмотра уменьшите pulse и число событий. Для речи сначала запланируйте silence: cue должен исчезнуть до первой фразы. Твёрдые поверхности и полный зал меняют восприятие, поэтому важна проверка на месте.",
+        "kaivorMusic.AI — инструмент создания AI-музыки, который превращает текстовое направление в drafts для сравнения. В AI Music Generator опишите задачу события: спокойный reception, тёплый low-density instrumental, лёгкая texture, no vocals, без имитации известного artist, easy fade, место для разговора: https://kaivormusic.ai/ru/ai-music-generator .",
+        "Три идеи можно повторять: версия для прихода с более ясными первыми десятью секундами, viewing loop с меньшим количеством percussion и 15-секундный завершающий cue с чистой точкой для объявлений. Называйте файлы по функции и version. Посетитель должен сперва заметить работы и людей, а не музыкальную подложку.",
+        "FAQ: нужен ли отдельный трек для каждой работы? Обычно нет; частые переключения напоминают витринную демонстрацию. Нужна ли музыка под речью художника? Часто лучше silence. Draft автоматически разрешён для публичного использования? Нет. Проверьте условия, требования площадки, договоры и права: https://kaivormusic.ai/ru/tos . Небольшая система cue, оставляющая выставке воздух, полезнее."
+      ]
+    },
+    "ar": {
+      "title": "إنشاء مجموعة cues موسيقية بالذكاء الاصطناعي لافتتاح معرض",
+      "description": "دليل عملي لموسيقى الوصول والحوار وكلمة الفنان والختام من دون أن تسيطر على القاعة.",
+      "summary": "فكّر في أربع حالات استماع لا في playlist طويلة: الوصول، المشاهدة، الكلمة، والختام.",
+      "body": [
+        "قد يصبح افتتاح المعرض متعباً حين تجبر موسيقى جميلة الضيوف على رفع أصواتهم. يقرأ الناس بطاقات الأعمال، يلتقون بالفنان، وينتظرون إعلاناً. السؤال المفيد ليس أي موسيقى تمثل المعرض، بل ما الذي تحتاجه القاعة في كل لحظة.",
+        "اكتب بطاقة من أربعة cues قبل التوليد: وصول الضيوف، المشاهدة والحوار، شبه صمت لكلمة الفنان، ثم الختام. حدّد لكل سطر أقصى energy والمدة وfade والمسؤول. هذا أوثق من مجلد ملفات باسم final-final.",
+        "للوصول جرّب instrumental قصيراً بنبض هادئ ومن دون melody مسيطرة. للمشاهدة خفّض النبض والأحداث. وللكلمة خطط للـsilence أولاً؛ ينبغي أن يختفي cue قبل الجملة الأولى. الجدران الصلبة والقاعة المزدحمة تغيّران السماع، لذا اختبر في المكان.",
+        "kaivorMusic.AI أداة لإنشاء الموسيقى بالذكاء الاصطناعي تحول الاتجاه المكتوب إلى drafts للمقارنة. في AI Music Generator صف مهمة الحدث: reception هادئ، instrumental دافئ منخفض الكثافة، texture خفيف، no vocals، من دون تقليد artist معروف، easy fade، مساحة للحوار: https://kaivormusic.ai/ar/ai-music-generator .",
+        "ثلاث أفكار قابلة لإعادة الاستخدام: نسخة وصول تكون أول عشر ثوانٍ فيها أوضح، وloop للمشاهدة مع percussion أقل، وcue ختامي 15 ثانية بنهاية نظيفة للإعلانات. سمّ الملفات حسب الوظيفة والversion. يجب أن يلاحظ الزائر الأعمال والناس قبل الموسيقى.",
+        "FAQ: هل تحتاج كل قطعة فنية إلى track خاص؟ غالباً لا؛ التبديل المستمر يبدو كعرض متجر. هل توضع موسيقى تحت كلمة الفنان؟ الصمت أفضل في كثير من الحالات. هل يصبح draft المولّد مصرحاً به تلقائياً للاستخدام العام؟ لا. راجع الشروط ومتطلبات المكان والعقود والحقوق: https://kaivormusic.ai/ar/tos . مجموعة cues صغيرة تترك للمعرض مساحة للتنفس هي الأكثر فائدة."
+      ]
+    }
+  }
+}
