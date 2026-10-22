@@ -1,0 +1,152 @@
+{
+  "slug": "describe-music-style-without-artist-names",
+  "date": "2026-10-22",
+  "updated": "2026-10-22",
+  "topic": "A practical AI music prompt workflow for describing a sound palette without relying on artist, band, song, or lyric references",
+  "keywords": ["describe music style without artist names", "AI music prompts", "sound palette brief", "AI music generator", "responsible music prompting", "kaivorMusic.AI"],
+  "translations": {
+    "en": {
+      "title": "How to describe a music style without naming artists",
+      "description": "Turn a vague reference into a reusable AI music prompt by describing motion, instruments, arrangement, mix, and limits instead of naming an artist.",
+      "summary": "A good sound-palette brief gives an AI music generator musical evidence to work from without asking it to imitate a person or a recording.",
+      "body": [
+        "A client says, ‘make it like that singer,’ and suddenly the brief has no usable musical detail. The name may be a shortcut for a feeling, but it does not say whether the track needs a slow pulse, dry drums, a close vocal, or a bright chorus. Replace the shortcut with a sound palette: what moves, what leads, what stays out of the way, and where the cue will live.",
+        "Start with five fields: function, energy curve, rhythm, sound sources, and mix behavior. For example: ‘30-second product-demo opener; confident but not aggressive; 108 BPM handclap groove; muted guitar and rounded bass; sparse opening, lift at 0:12, clean button ending, no vocals.’ This is concrete enough to revise. A phrase such as ‘modern and cool’ is not.",
+        "Use three reusable swaps when an artist reference appears. Swap a name for an era or production vocabulary: ‘late-1970s disco-inspired rhythm section’ rather than a performer. Swap a song title for observable arrangement: ‘four-on-the-floor kick, octave bass, string stabs, short instrumental hook.’ Swap an emotional label for an editing instruction: ‘leave the first two seconds uncluttered for a logo.’ The result is your own brief, not a disguised request for a copy.",
+        "kaivorMusic.AI is an AI music creation tool that turns written direction into drafts to compare. In its AI Music Generator, enter the palette as a short ordered sentence, then make one change per new version: https://kaivormusic.ai/ai-music-generator . If you need vocabulary before drafting, the Music Style Generator is a useful place to turn a broad style idea into terms you can evaluate: https://kaivormusic.ai/tools/music-style-generator .",
+        "The common mistake is stacking conflicting labels: intimate but stadium-sized, minimal but constantly changing, acoustic but dense with synths. Another is asking for every instrument at once. Make a ‘must have’ line and a ‘avoid’ line instead. A practical comparison pass might keep the same rhythm and form across three drafts, then vary only the lead sound: felt piano, nylon guitar, or soft synth. Listen against the actual edit rather than judging on headphones alone.",
+        "FAQ: Can I mention a genre? Yes; genre is a useful starting point when paired with specific musical behavior. Should I name a living artist or paste lyrics? It is better to avoid that and use your own descriptive language; some music tools also restrict well-known names or copyrighted terms. Is a generated draft automatically safe to release or use commercially? No. Check the relevant tool terms, contracts, platform rules, and rights obligations for your use case: https://kaivormusic.ai/tos . The takeaway: describe the sound you need in parts someone could actually hear and edit, then iterate one decision at a time."
+      ]
+    },
+    "de": {
+      "title": "Einen Musikstil beschreiben, ohne Artists zu nennen",
+      "description": "So wird aus einer vagen Referenz ein wiederverwendbarer KI-Musikprompt: Bewegung, Instrumente, Arrangement, Mix und Grenzen statt eines Artist-Namens.",
+      "summary": "Ein gutes Sound-Palette-Briefing liefert einer KI-Musiksoftware hörbare Angaben, ohne eine Person oder Aufnahme imitieren zu lassen.",
+      "body": [
+        "Sagt ein Kunde nur „wie dieser Artist“, fehlt dem Briefing die entscheidende Information. Der Name kann ein Gefühl meinen, sagt aber nichts über Puls, trockene Drums, Nähe der Stimme oder einen hellen Refrain. Ersetze die Abkürzung durch eine Sound-Palette: Was bewegt sich, was führt, was bleibt im Hintergrund und wo läuft das Stück?",
+        "Beginne mit fünf Feldern: Funktion, Energieverlauf, Rhythmus, Klangquellen und Mix-Verhalten. Beispiel: „30-Sekunden-Opener für Produktdemo; sicher, nicht aggressiv; 108-BPM-Handclap-Groove; gedämpfte Gitarre und runder Bass; sparsamer Start, Anhebung bei 0:12, klares Ende, keine Vocals.“ Das lässt sich gezielt überarbeiten.",
+        "Drei Tauschregeln helfen sofort. Ersetze einen Namen durch Zeit- oder Produktionsvokabular: „Disco-inspirierte Rhythmusgruppe der späten 1970er“. Ersetze einen Songtitel durch Arrangement: Four-on-the-floor-Kick, Oktavbass, Streicher-Akzente, kurzer Instrumental-Hook. Ersetze ein Gefühl durch eine Schnittanweisung: „Die ersten zwei Sekunden frei für ein Logo lassen.“",
+        "kaivorMusic.AI ist ein KI-Musiktool, das geschriebene Richtung in vergleichbare Entwürfe übersetzt. Formuliere die Palette im AI Music Generator als kurzen Satz in sinnvoller Reihenfolge und ändere pro neuer Version nur eine Sache: https://kaivormusic.ai/de/ai-music-generator . Begriffe für eine breite Stilidee lassen sich im Music Style Generator prüfen: https://kaivormusic.ai/de/tools/music-style-generator .",
+        "Ein häufiger Fehler sind widersprüchliche Etiketten: intim und zugleich stadiongroß, minimal und dauernd wechselnd, akustisch und voller Synths. Schreibe stattdessen eine Muss- und eine Vermeiden-Zeile. Für einen Vergleich bleiben Rhythmus und Form in drei Entwürfen gleich; nur der Lead-Sound wechselt zwischen Filzklavier, Nylongitarre und Soft-Synth. Höre immer zum echten Schnitt.",
+        "FAQ: Darf ein Genre genannt werden? Ja, wenn hörbare Details folgen. Sollte ich lebende Artists nennen oder Lyrics einfügen? Besser nicht; nutze eigene Beschreibungen, und manche Tools beschränken bekannte Namen oder geschützte Begriffe. Ist ein Entwurf automatisch kommerziell freigegeben? Nein. Prüfe Terms, Verträge, Plattformregeln und Rechte: https://kaivormusic.ai/de/tos . Beschreibe einzelne hör- und editierbare Entscheidungen und verbessere sie nacheinander."
+      ]
+    },
+    "es": {
+      "title": "Cómo describir un estilo musical sin nombrar artistas",
+      "description": "Convierte una referencia vaga en un prompt reutilizable: movimiento, instrumentos, arreglo, mezcla y límites en vez de un nombre propio.",
+      "summary": "Un buen brief de paleta sonora da detalles audibles a un generador musical sin pedir que imite a una persona o grabación.",
+      "body": [
+        "Cuando alguien pide «que suene como tal cantante», el brief todavía no explica nada útil. Ese nombre puede resumir una sensación, pero no indica pulso, batería seca, cercanía vocal ni tipo de estribillo. Sustitúyelo por una paleta sonora: qué se mueve, qué lidera, qué queda discreto y dónde se usará la música.",
+        "Empieza con cinco campos: función, curva de energía, ritmo, fuentes sonoras y comportamiento de mezcla. Por ejemplo: «apertura de 30 segundos para demo de producto; segura, no agresiva; groove de palmas a 108 BPM; guitarra apagada y bajo redondo; inicio escaso, subida en 0:12, final limpio, sin voz». Ya se puede revisar.",
+        "Aplica tres cambios reutilizables. Cambia un nombre por época o vocabulario de producción: «sección rítmica inspirada en disco de finales de los setenta». Cambia un título por arreglo: bombo four-on-the-floor, bajo en octavas, golpes de cuerdas, hook instrumental corto. Cambia una emoción por una instrucción de edición: «deja despejados los dos primeros segundos para el logo».",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que convierte indicaciones escritas en borradores comparables. Escribe la paleta como una frase ordenada en AI Music Generator y cambia solo una decisión por versión: https://kaivormusic.ai/es/ai-music-generator . Para revisar vocabulario de estilo, consulta Music Style Generator: https://kaivormusic.ai/es/tools/music-style-generator .",
+        "El error habitual es amontonar etiquetas que chocan: íntimo pero gigantesco, minimalista pero cambiante, acústico pero lleno de sintetizadores. Escribe una línea de imprescindibles y otra de evitables. Mantén ritmo y forma en tres pruebas; cambia solo el sonido principal entre piano de fieltro, guitarra de nailon y sintetizador suave. Escucha con la edición real.",
+        "FAQ: ¿puedo nombrar un género? Sí, si añades comportamiento musical concreto. ¿Conviene nombrar artistas vivos o pegar letras? Mejor evita ambas cosas y usa descripciones propias; algunas herramientas restringen nombres conocidos o términos protegidos. ¿Un borrador generado queda automáticamente listo para publicar? No. Revisa términos, contratos, reglas de plataforma y derechos: https://kaivormusic.ai/es/tos . Describe decisiones que se puedan oír y editar, y ajusta una por vez."
+      ]
+    },
+    "fr": {
+      "title": "Décrire un style musical sans citer d'artiste",
+      "description": "Transformez une référence floue en prompt réutilisable avec mouvement, instruments, arrangement, mixage et contraintes plutôt qu'un nom d'artiste.",
+      "summary": "Une bonne palette sonore donne à un générateur de musique IA des éléments audibles sans demander l'imitation d'une personne ou d'un enregistrement.",
+      "body": [
+        "Quand un client dit « comme ce chanteur », le brief ne contient encore aucun détail exploitable. Le nom peut résumer une impression, mais pas le pulsation, les drums secs, la proximité de la voix ou le refrain. Remplacez ce raccourci par une palette sonore : ce qui bouge, ce qui mène, ce qui reste discret et l'usage du morceau.",
+        "Utilisez cinq champs : fonction, courbe d'énergie, rythme, sources sonores et comportement du mix. Exemple : « ouverture de 30 secondes pour une démo produit ; affirmée sans agressivité ; groove de handclaps à 108 BPM ; guitare étouffée et basse ronde ; début aéré, montée à 0:12, fin franche, sans voix ». On peut alors réviser précisément.",
+        "Trois substitutions sont très utiles. Remplacez un nom par une époque ou une technique : « section rythmique inspirée du disco de la fin des années 1970 ». Remplacez un titre par l'arrangement : kick four-on-the-floor, basse à l'octave, stabs de cordes, hook instrumental bref. Remplacez une émotion par une instruction de montage : « garder les deux premières secondes libres pour un logo ».",
+        "kaivorMusic.AI est un outil de création musicale par IA qui transforme une direction écrite en brouillons comparables. Saisissez la palette comme une phrase ordonnée dans AI Music Generator, puis ne modifiez qu'un choix par version : https://kaivormusic.ai/fr/ai-music-generator . Music Style Generator peut aussi aider à examiner le vocabulaire d'une idée de style : https://kaivormusic.ai/fr/tools/music-style-generator .",
+        "L'erreur classique consiste à empiler des étiquettes contradictoires : intime mais immense, minimal mais changeant sans cesse, acoustique mais saturé de synthés. Écrivez plutôt une ligne « indispensable » et une ligne « à éviter ». Gardez rythme et forme dans trois essais, puis ne changez que le son principal : piano feutré, guitare nylon ou synthé doux. Écoutez avec le montage réel.",
+        "FAQ : peut-on citer un genre ? Oui, s'il est suivi de comportements musicaux précis. Faut-il citer un artiste vivant ou coller des paroles ? Mieux vaut l'éviter et employer vos propres descriptions ; certains outils limitent noms connus et termes protégés. Un brouillon est-il automatiquement publiable ? Non. Vérifiez conditions, contrats, règles de plateforme et droits : https://kaivormusic.ai/fr/tos . Décrivez des décisions que l'on peut entendre et monter, puis itérez une décision à la fois."
+      ]
+    },
+    "it": {
+      "title": "Come descrivere uno stile musicale senza nominare artisti",
+      "description": "Trasforma un riferimento vago in un prompt riutilizzabile con movimento, strumenti, arrangiamento, mix e limiti invece del nome di un artista.",
+      "summary": "Un buon brief di palette sonora offre a un generatore musicale AI dettagli ascoltabili senza chiedere l'imitazione di una persona o registrazione.",
+      "body": [
+        "Quando un cliente dice «come quel cantante», il brief non contiene ancora dettagli utilizzabili. Il nome può indicare una sensazione, ma non dice nulla su pulse, batteria asciutta, voce ravvicinata o ritornello. Sostituiscilo con una palette sonora: cosa si muove, cosa guida, cosa resta discreto e dove verrà usato il brano.",
+        "Parti da cinque campi: funzione, curva di energia, ritmo, fonti sonore e comportamento del mix. Esempio: «apertura di 30 secondi per demo prodotto; sicura ma non aggressiva; groove di handclap a 108 BPM; chitarra smorzata e basso rotondo; inizio scarno, salita a 0:12, finale pulito, senza voce». Così puoi intervenire con precisione.",
+        "Tre sostituzioni sono subito riutilizzabili. Cambia un nome con epoca o linguaggio produttivo: «sezione ritmica ispirata alla disco di fine anni Settanta». Cambia un titolo con arrangiamento: kick four-on-the-floor, basso all'ottava, stabs d'archi, hook strumentale breve. Cambia un'emozione con istruzione di montaggio: «lascia liberi i primi due secondi per il logo».",
+        "kaivorMusic.AI è uno strumento di creazione musicale AI che trasforma una direzione scritta in bozze confrontabili. Inserisci la palette come frase ordinata in AI Music Generator e modifica una sola decisione per versione: https://kaivormusic.ai/it/ai-music-generator . Music Style Generator aiuta a controllare il vocabolario di una direzione stilistica: https://kaivormusic.ai/it/tools/music-style-generator .",
+        "L'errore più comune è accumulare etichette in conflitto: intimo ma da stadio, minimale ma sempre mutevole, acustico ma pieno di synth. Scrivi invece una riga «deve avere» e una «da evitare». Mantieni ritmo e forma in tre bozze e varia solo il suono guida: felt piano, chitarra nylon o synth morbido. Ascolta sempre con il montaggio reale.",
+        "FAQ: posso citare un genere? Sì, se aggiungi comportamenti musicali precisi. Devo nominare artisti viventi o incollare testi? Meglio di no; usa descrizioni tue, e alcuni strumenti limitano nomi noti o termini protetti. Una bozza generata è automaticamente pronta per pubblicazione? No. Verifica termini, contratti, regole di piattaforma e diritti: https://kaivormusic.ai/it/tos . Descrivi decisioni ascoltabili e modificabili, poi itera una scelta alla volta."
+      ]
+    },
+    "pt": {
+      "title": "Como descrever um estilo musical sem citar artistas",
+      "description": "Transforme uma referência vaga em um prompt reutilizável com movimento, instrumentos, arranjo, mix e limites no lugar de um nome de artista.",
+      "summary": "Uma boa paleta sonora dá a um gerador de música por IA detalhes audíveis sem pedir imitação de uma pessoa ou gravação.",
+      "body": [
+        "Quando alguém pede «como aquele cantor», o briefing ainda não traz detalhe aproveitável. O nome pode resumir uma sensação, mas não diz se a faixa pede pulse lento, bateria seca, voz próxima ou refrão claro. Troque o atalho por uma paleta sonora: o que se move, o que lidera, o que fica discreto e onde a música será usada.",
+        "Comece com cinco campos: função, curva de energia, ritmo, fontes sonoras e comportamento de mix. Exemplo: «abertura de 30 segundos para demo de produto; segura, sem agressividade; groove de palmas a 108 BPM; guitarra abafada e baixo redondo; início esparso, subida em 0:12, final limpo, sem voz». Isso permite revisão objetiva.",
+        "Use três trocas reutilizáveis. Troque o nome por época ou vocabulário de produção: «seção rítmica inspirada na disco do fim dos anos 1970». Troque título por arranjo: bumbo four-on-the-floor, baixo em oitavas, ataques de cordas, hook instrumental curto. Troque emoção por instrução de edição: «deixe os dois primeiros segundos livres para o logo».",
+        "kaivorMusic.AI é uma ferramenta de criação musical por IA que transforma direção escrita em rascunhos comparáveis. Escreva a paleta como frase ordenada no AI Music Generator e mude somente uma decisão em cada versão: https://kaivormusic.ai/pt/ai-music-generator . Para conferir vocabulário, use Music Style Generator: https://kaivormusic.ai/pt/tools/music-style-generator .",
+        "O erro comum é empilhar rótulos conflitantes: íntimo e de estádio, minimalista e sempre mutável, acústico e cheio de synths. Em vez disso, escreva uma linha de obrigatórios e outra de evitar. Mantenha ritmo e forma em três testes; troque só o som principal entre piano de feltro, violão de nylon e synth suave. Ouça junto da edição real.",
+        "FAQ: posso citar um gênero? Sim, se vier acompanhado de comportamento musical concreto. Devo citar artista vivo ou colar letras? É melhor evitar e usar descrição própria; algumas ferramentas restringem nomes conhecidos ou termos protegidos. Um rascunho gerado já está liberado para publicar? Não. Verifique termos, contratos, regras de plataforma e direitos: https://kaivormusic.ai/pt/tos . Descreva decisões que se ouvem e se editam, depois ajuste uma por vez."
+      ]
+    },
+    "ja": {
+      "title": "アーティスト名を出さずに音楽スタイルを説明する方法",
+      "description": "固有名詞の代わりに、動き、楽器、アレンジ、ミックス、制約を書いて再利用できるAI音楽promptにします。",
+      "summary": "良いsound palette briefは、人物や録音の模倣を求めず、AI音楽生成に聴き取れる手がかりを渡します。",
+      "body": [
+        "「あの歌手のように」という依頼だけでは、実務に必要な情報が足りません。名前は雰囲気の近道にはなっても、遅いpulse、dryなdrums、近いvocal、明るいchorusのどれが必要かは分かりません。名前の代わりにsound paletteを作ります。何が動き、何が主役で、何を控えめにし、どこで使う音かを書きます。",
+        "五つの欄から始めます。用途、energyの変化、rhythm、音源、mixの振る舞いです。例は「商品demo用30秒opener、強いが攻撃的でない、108 BPMのhandclap groove、muted guitarと丸いbass、まばらに開始し0:12で上げる、明確な終わり、no vocals」。これなら修正できます。",
+        "すぐ使える置き換えは三つです。名前を時代やproduction vocabularyに置く。「1970年代後半disco風のrhythm section」。曲名をarrangementに置く。「four-on-the-floor kick、octave bass、string stabs、短いinstrumental hook」。感情語を編集指示に置く。「logo用に最初の2秒を空ける」。",
+        "kaivorMusic.AIは、文章の方向性を比較用draftに変えるAI音楽制作ツールです。AI Music Generatorにはpaletteを順序立てた短い文で入れ、versionごとに一つだけ変えます: https://kaivormusic.ai/ja/ai-music-generator 。広いstyle ideaの語彙を検討するならMusic Style Generatorも使えます: https://kaivormusic.ai/ja/tools/music-style-generator 。",
+        "よくある失敗は矛盾するlabelの積み上げです。intimateなのにstadium-sized、minimalなのに絶えず変化、acousticなのにsynthだらけ。must haveとavoidの一行を分けてください。三つのdraftではrhythmとformを固定し、lead soundだけをfelt piano、nylon guitar、soft synthで替えます。必ず実際のeditと一緒に聴きます。",
+        "FAQ: genreは書けますか。はい、具体的な音の振る舞いを添えるなら有用です。存命artist名やlyricsを貼るべきですか。避けて自分の言葉で記述する方がよく、既知の名前や保護語を制限するtoolもあります。生成draftは自動的に公開・商用利用できますか。いいえ。terms、契約、platform rules、権利を確認してください: https://kaivormusic.ai/ja/tos 。耳で確認し編集できる判断を一つずつ書き、順番に試すことが要点です。"
+      ]
+    },
+    "ko": {
+      "title": "아티스트 이름 없이 음악 스타일을 설명하는 법",
+      "description": "고유명사 대신 움직임, 악기, 편곡, 믹스, 제약을 적어 재사용 가능한 AI 음악 프롬프트로 바꾸는 방법입니다.",
+      "summary": "좋은 사운드 팔레트 브리프는 사람이나 특정 녹음을 모방하라고 하지 않고도 AI 음악 생성에 들을 수 있는 단서를 줍니다.",
+      "body": [
+        "‘그 가수처럼’이라는 요청만으로는 쓸 수 있는 브리프가 되지 않습니다. 이름은 느낌의 지름길일 뿐, 느린 pulse, dry drums, 가까운 vocal, 밝은 chorus 중 무엇이 필요한지는 알려주지 않습니다. 이름 대신 sound palette를 만드세요. 무엇이 움직이고, 무엇이 주도하며, 무엇을 비워 두고, 어디에서 쓸 음악인지 적습니다.",
+        "다섯 칸으로 시작하세요: 기능, energy 곡선, rhythm, 음원, mix 동작입니다. 예: ‘제품 demo용 30초 opener; 자신감 있지만 공격적이지 않음; 108 BPM handclap groove; muted guitar와 둥근 bass; 성기게 시작해 0:12에 상승, 깨끗한 끝, no vocals’. 이 정도면 정확히 고칠 수 있습니다.",
+        "세 가지 교체법을 쓰면 됩니다. 이름은 시대나 production vocabulary로 바꿉니다. ‘1970년대 후반 disco에서 영감을 얻은 rhythm section’. 곡 제목은 arrangement로 바꿉니다. ‘four-on-the-floor kick, octave bass, string stabs, 짧은 instrumental hook’. 감정어는 편집 지시로 바꿉니다. ‘logo를 위해 첫 2초를 비워 둔다’. ",
+        "kaivorMusic.AI는 글로 쓴 방향을 비교 가능한 draft로 바꾸는 AI 음악 제작 도구입니다. AI Music Generator에 팔레트를 순서 있는 짧은 문장으로 입력하고, version마다 한 가지 결정만 바꾸세요: https://kaivormusic.ai/ko/ai-music-generator . 넓은 style idea의 용어를 검토하려면 Music Style Generator도 도움이 됩니다: https://kaivormusic.ai/ko/tools/music-style-generator .",
+        "흔한 실수는 충돌하는 label을 쌓는 것입니다. intimate하면서 stadium-sized, minimal하면서 계속 변하는 것, acoustic인데 synth가 가득한 것처럼요. must have 한 줄과 avoid 한 줄을 따로 쓰세요. 세 draft에서 rhythm과 form은 유지하고 lead sound만 felt piano, nylon guitar, soft synth로 바꿉니다. 실제 edit와 함께 들어야 합니다.",
+        "FAQ: genre를 적어도 될까요? 구체적인 음악 동작을 덧붙인다면 좋습니다. 살아 있는 artist 이름이나 lyrics를 붙여야 할까요? 피하고 자신의 설명을 쓰는 편이 낫습니다. 알려진 이름이나 보호 용어를 제한하는 tool도 있습니다. 생성 draft가 자동으로 공개나 상업 사용에 안전한가요? 아닙니다. terms, 계약, platform rules, 권리를 확인하세요: https://kaivormusic.ai/ko/tos . 들을 수 있고 편집할 수 있는 결정을 적고 한 번에 하나씩 반복하세요."
+      ]
+    },
+    "zh": {
+      "title": "不提艺术家名字，如何准确描述你需要的音乐风格",
+      "description": "用动势、乐器、编曲、混音和限制条件替代艺人名字，把模糊参考变成可复用的 AI 音乐提示词。",
+      "summary": "好的声音调色板 brief 会给 AI 音乐生成器可听见的线索，而不是要求模仿某个人或某段录音。",
+      "body": [
+        "客户说“做得像那位歌手”时，brief 其实还没有可执行的信息。名字也许是感觉的捷径，却没有说明需要慢 pulse、干净 drums、贴耳 vocal，还是明亮 chorus。把这个捷径换成声音调色板：什么在推动、什么领奏、什么要让位，以及音乐将在哪里使用。",
+        "先写五个字段：功能、energy 曲线、rhythm、声音来源和 mix 行为。例如：“30 秒产品 demo opener；自信但不攻击；108 BPM handclap groove；muted guitar 和圆润 bass；开头稀疏，0:12 抬升，干净结束，no vocals。”这样才可以有针对性地修改。",
+        "有三种可复用替换。把名字换成时代或 production vocabulary：“受 1970 年代末 disco 启发的 rhythm section”。把歌名换成 arrangement：“four-on-the-floor kick、octave bass、string stabs、短 instrumental hook”。把情绪词换成剪辑指令：“为 logo 留出前两秒空白”。这样得到的是自己的 brief，不是变相索要复制品。",
+        "kaivorMusic.AI 是把文字方向转成可比较 draft 的 AI 音乐创作工具。可在 AI Music Generator 中按顺序写成短句，每个 version 只改一个决定：https://kaivormusic.ai/zh/ai-music-generator 。如果需要整理宽泛风格的词汇，可用 Music Style Generator 检查：https://kaivormusic.ai/zh/tools/music-style-generator 。",
+        "常见错误是堆叠互相打架的 label：intimate 却 stadium-sized，minimal 却不断变化，acoustic 却塞满 synth。改为分别写一行 must have 和一行 avoid。三个 draft 保持 rhythm 与 form 不变，只换 lead sound：felt piano、nylon guitar 或 soft synth。务必放进实际 edit 中试听，而不是只戴耳机判断。",
+        "FAQ：可以写 genre 吗？可以，但要跟上具体的音乐行为。该不该写在世 artist 名字或粘贴 lyrics？最好避免，改用自己的描述；有些 tool 也会限制知名名字或受保护术语。生成 draft 是否自动可发布或商业使用？不是。请核对 terms、合同、platform rules 和相关权利：https://kaivormusic.ai/zh/tos 。关键是描述能够听见、能够剪辑的决定，然后一次只迭代一个变量。"
+      ]
+    },
+    "ru": {
+      "title": "Как описать музыкальный стиль без имён артистов",
+      "description": "Превратите расплывчатую референцию в повторно используемый AI-промпт: движение, инструменты, аранжировка, микс и ограничения вместо имени артиста.",
+      "summary": "Хороший brief звуковой палитры даёт AI-генератору слышимые ориентиры, не предлагая имитировать человека или запись.",
+      "body": [
+        "Фраза клиента «как у того певца» ещё не является рабочим brief. Имя может быть сокращением для ощущения, но не говорит о медленном pulse, сухих drums, близком vocal или ярком chorus. Замените сокращение звуковой палитрой: что движется, что ведёт, чему остаться незаметным и где будет звучать музыка.",
+        "Начните с пяти полей: функция, кривая energy, rhythm, источники звука и поведение mix. Например: «30-секундный opener для product demo; уверенно, но не агрессивно; handclap groove 108 BPM; muted guitar и круглый bass; редкое начало, подъём на 0:12, чистая точка, no vocals». Такой текст можно точно исправлять.",
+        "Есть три полезные замены. Меняйте имя на эпоху или production vocabulary: «rhythm section, вдохновлённая disco конца 1970-х». Меняйте название песни на arrangement: four-on-the-floor kick, octave bass, string stabs, короткий instrumental hook. Меняйте эмоцию на монтажную инструкцию: «оставить первые две секунды свободными для logo». ",
+        "kaivorMusic.AI — инструмент создания AI-музыки, превращающий текстовое направление в drafts для сравнения. В AI Music Generator внесите палитру короткой упорядоченной фразой и в каждой version меняйте только одно решение: https://kaivormusic.ai/ru/ai-music-generator . Music Style Generator помогает проверить лексику для широкой идеи стиля: https://kaivormusic.ai/ru/tools/music-style-generator .",
+        "Типичная ошибка — сложить конфликтующие labels: intimate, но stadium-sized; minimal, но постоянно меняющийся; acoustic, но переполненный synths. Лучше написать строку must have и строку avoid. В трёх drafts оставьте rhythm и form одинаковыми, меняя лишь lead sound: felt piano, nylon guitar или soft synth. Слушайте вместе с настоящим edit.",
+        "FAQ: можно ли назвать genre? Да, если дальше есть конкретное музыкальное поведение. Стоит ли называть живых artists или вставлять lyrics? Лучше избегать и писать своими словами; некоторые tools ограничивают известные имена и защищённые термины. Generated draft автоматически годится для публикации? Нет. Проверьте terms, договоры, правила platform и права: https://kaivormusic.ai/ru/tos . Описывайте слышимые и редактируемые решения, затем меняйте по одному."
+      ]
+    },
+    "ar": {
+      "title": "كيف تصف أسلوباً موسيقياً من دون ذكر أسماء فنانين",
+      "description": "حوّل المرجع الغامض إلى prompt قابل لإعادة الاستخدام عبر وصف الحركة والآلات والتوزيع والمزج والقيود بدلاً من اسم فنان.",
+      "summary": "تمنح لوحة الصوت الجيدة مولّد الموسيقى بالذكاء الاصطناعي دلائل مسموعة من دون طلب تقليد شخص أو تسجيل.",
+      "body": [
+        "حين يقول العميل «اجعلها مثل ذلك المغني»، لا يحتوي brief بعد على تفصيل قابل للتنفيذ. قد يكون الاسم اختصاراً لشعور، لكنه لا يحدد pulse بطيئاً أو drums جافة أو vocal قريباً أو chorus مشرقاً. استبدل الاختصار بلوحة صوت: ما الذي يتحرك، وما الذي يقود، وما الذي يبقى هادئاً، وأين ستُستخدم الموسيقى.",
+        "ابدأ بخمسة حقول: الوظيفة، منحنى energy، rhythm، مصادر الصوت، وسلوك mix. مثال: «opener مدته 30 ثانية لعرض product demo؛ واثق لا عدواني؛ handclap groove بسرعة 108 BPM؛ muted guitar وbass مستدير؛ بداية قليلة، ارتفاع عند 0:12، نهاية نظيفة، no vocals». عندها يصبح التعديل محدداً.",
+        "استخدم ثلاث بدائل قابلة للتكرار. بدّل الاسم بعصر أو production vocabulary: «rhythm section مستلهم من disco أواخر السبعينيات». بدّل عنوان الأغنية بـarrangement: four-on-the-floor kick وoctave bass وstring stabs وinstrumental hook قصير. بدّل كلمة شعور بتعليمات تحرير: «اترك أول ثانيتين فارغتين لـlogo». ",
+        "kaivorMusic.AI أداة لإنشاء الموسيقى بالذكاء الاصطناعي تحول الاتجاه المكتوب إلى drafts للمقارنة. أدخل اللوحة كجملة قصيرة مرتبة في AI Music Generator، وغيّر قراراً واحداً فقط في كل version: https://kaivormusic.ai/ar/ai-music-generator . ويمكن لـMusic Style Generator أن يساعد في فحص مفردات فكرة style واسعة: https://kaivormusic.ai/ar/tools/music-style-generator .",
+        "الخطأ المعتاد هو تكديس labels متعارضة: intimate لكنه stadium-sized، minimal لكنه يتغير باستمرار، acoustic لكنه ممتلئ بـsynths. اكتب بدلاً من ذلك سطراً لـmust have وآخر لـavoid. ثبّت rhythm وform في ثلاث drafts، وغيّر lead sound فقط بين felt piano وnylon guitar وsoft synth. استمع دائماً مع edit الحقيقي.",
+        "FAQ: هل يمكن ذكر genre؟ نعم إذا تبعته سلوكيات موسيقية محددة. هل ينبغي ذكر فنان حي أو لصق lyrics؟ الأفضل تجنب ذلك والكتابة بلغتك الخاصة؛ فبعض tools تقيد الأسماء المعروفة أو المصطلحات المحمية. هل يصبح draft المولّد صالحاً للنشر أو الاستخدام التجاري تلقائياً؟ لا. راجع terms والعقود وقواعد platform والحقوق: https://kaivormusic.ai/ar/tos . صف قرارات يمكن سماعها وتحريرها، ثم عدّل قراراً واحداً كل مرة."
+      ]
+    }
+  }
+}
