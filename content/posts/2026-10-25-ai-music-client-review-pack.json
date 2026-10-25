@@ -1,0 +1,152 @@
+{
+  "slug": "ai-music-client-review-pack",
+  "date": "2026-10-25",
+  "updated": "2026-10-25",
+  "topic": "A practical client-review workflow for presenting focused AI music options, collecting usable feedback, and preserving a clear decision record",
+  "keywords": ["AI music client review", "AI music workflow", "music feedback brief", "AI music generator", "creative approval", "kaivorMusic.AI"],
+  "translations": {
+    "en": {
+      "title": "How to send AI music options for a client review",
+      "description": "A small, disciplined review pack helps clients choose between AI music directions without creating a maze of vague notes and unnamed files.",
+      "summary": "Present two distinct music directions, ask for decisions at timestamps, and treat each approved review round as a record—not a pile of audio files.",
+      "body": [
+        "A client opens three files called final-new, final-newer, and use-this-one, then replies that they like ‘the first bit of the other one.’ The musical problem is often not taste; it is an unclear review package. Before generating more music, decide what single job the cue must do: introduce a product, carry a montage, support a voice, or end a short film.",
+        "Build only two purposeful directions for the first review. Direction A might be a steady 100 BPM muted-guitar bed with a clean 20-second ending; Direction B might use soft marimba and a lighter lift at 0:12. Keep duration, edit point, and intended use identical. The comparison then asks one useful question—which emotional and rhythmic direction fits?—instead of asking a client to judge unrelated tracks.",
+        "kaivorMusic.AI is an AI music creation tool for turning written music direction into drafts you can compare. In the AI Music Generator, write the job, energy curve, sound sources, timing, and exclusions in that order: https://kaivormusic.ai/ai-music-generator . A working prompt could read: ‘25-second app-demo bed, warm and precise, 100 BPM, muted guitar and rounded bass, small lift at 0:12, button ending, no vocals.’",
+        "Name the exports so a reply can point to one exact file: `Northstar_demo_A_v01_20261025` and `Northstar_demo_B_v01_20261025`. Add a one-page note with the cue purpose, duration, version, and three questions: Which direction should continue? Where does energy feel wrong? Is the ending usable at the edit point? Ask for one consolidated set of timestamped notes from a single reviewer rather than collecting scattered reactions.",
+        "Three habits make the next pass faster. First, label the musical difference in plain language: A is ‘grounded and steady’; B is ‘lighter and more animated.’ Second, change one major variable per revision—rhythm density, lead sound, or energy curve—not all three. Third, keep a short changelog: v01 B, 0:12 lift reduced, ending shortened to 1.5 seconds. A focused review round is a creative milestone, not every private experiment.",
+        "FAQ: Should a client hear five options? Usually two is enough for an early direction choice; a third should answer a specific unresolved question. Can feedback say ‘make it more premium’? Yes, but follow up with an observable choice such as slower motion, fewer percussion hits, or more open space. Is a client approval a rights clearance? No. Review the applicable terms, contracts, platform rules, and intended use before release: https://kaivormusic.ai/tos . The takeaway is simple: make a comparison that names the decision, then preserve what changed after that decision."
+      ]
+    },
+    "de": {
+      "title": "KI-Musikoptionen klar zur Kundenfreigabe senden",
+      "description": "Ein kleines Review-Paket hilft Kunden, zwischen KI-Musikrichtungen zu entscheiden, ohne dass vage Notizen und unbenannte Dateien entstehen.",
+      "summary": "Zwei klar unterschiedliche Richtungen, Feedback mit Timecodes und ein kurzes Änderungsprotokoll machen eine Musikfreigabe nachvollziehbar.",
+      "body": [
+        "Ein Kunde öffnet Dateien namens final-neu und final-neuer und schreibt dann, ihm gefalle „der Anfang von der anderen“. Meist ist nicht der Geschmack das Problem, sondern das Review-Paket. Definiere vor weiteren Entwürfen die eine Aufgabe des Cues: Produkt einführen, Montage tragen, Sprache stützen oder einen Kurzfilm schließen.",
+        "Baue für die erste Runde nur zwei absichtliche Richtungen. A kann ein gleichmäßiges 100-BPM-Bett aus gedämpfter Gitarre mit sauberem Ende bei 20 Sekunden sein; B nutzt weiche Marimba und einen kleinen Anstieg bei 0:12. Länge, Schnittpunkt und Einsatz bleiben gleich. So entscheidet der Kunde über Gefühl und Rhythmus statt über beliebige Stücke.",
+        "kaivorMusic.AI ist ein KI-Musiktool, das geschriebene musikalische Richtung in vergleichbare Entwürfe überträgt. Im AI Music Generator stehen Aufgabe, Energieverlauf, Klangquellen, Timing und Ausschlüsse in dieser Reihenfolge: https://kaivormusic.ai/de/ai-music-generator . Ein brauchbarer Prompt nennt etwa ein 25-Sekunden-App-Demo-Bett, 100 BPM, Instrumente, Anstieg und Ende.",
+        "Benenne Exporte eindeutig, etwa `Northstar_demo_A_v01_20261025` und `Northstar_demo_B_v01_20261025`. Lege eine kurze Notiz mit Zweck, Länge und drei Fragen bei: Welche Richtung weiterführen? Wo stimmt die Energie nicht? Funktioniert das Ende am Schnitt? Bitte um gebündelte Timecode-Notizen von einer verantwortlichen Person statt verstreuter Reaktionen.",
+        "Drei Gewohnheiten sparen Zeit. Benenne den Unterschied: A ist bodenständig und ruhig, B leichter und bewegter. Ändere pro Revision nur eine große Variable—Rhythmusdichte, Lead-Sound oder Energieverlauf. Halte außerdem fest: v01 B, Anstieg bei 0:12 reduziert, Ende auf 1,5 Sekunden gekürzt. Eine Review-Runde ist ein kreativer Meilenstein, kein Protokoll jedes Tests.",
+        "FAQ: Sollten Kunden fünf Optionen hören? Für die erste Richtungswahl reichen meist zwei; eine dritte beantwortet nur eine konkrete offene Frage. Darf Feedback „hochwertiger“ lauten? Ja, aber frage nach hörbaren Entscheidungen wie weniger Percussion oder mehr Raum. Ist eine Freigabe schon Rechteklärung? Nein. Prüfe Bedingungen, Verträge, Plattformregeln und Zweck: https://kaivormusic.ai/de/tos . Gute Reviews benennen die Entscheidung und dokumentieren die Änderung danach."
+      ]
+    },
+    "es": {
+      "title": "Cómo enviar opciones de música IA para revisión de cliente",
+      "description": "Un paquete pequeño y ordenado permite elegir una dirección musical sin perderse entre archivos ambiguos y comentarios dispersos.",
+      "summary": "Presenta dos direcciones, pide decisiones con marcas de tiempo y registra cada ronda de revisión de forma clara.",
+      "body": [
+        "Un cliente abre archivos llamados final-nuevo y final-nuevo-2 y responde que le gusta «el inicio del otro». El problema no suele ser el gusto, sino un paquete de revisión poco claro. Antes de generar más, decide una sola función para el cue: presentar un producto, sostener un montaje, acompañar una voz o cerrar un vídeo corto.",
+        "Prepara solo dos direcciones intencionales en la primera ronda. La A puede ser una base de guitarra apagada a 100 BPM con cierre limpio a los 20 segundos; la B, marimba suave y una subida ligera en 0:12. Mantén igual duración, punto de edición y uso previsto. Así la comparación pregunta por emoción y ritmo, no por pistas sin relación.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que convierte una dirección escrita en borradores comparables. En AI Music Generator, ordena función, curva de energía, fuentes sonoras, tiempo y exclusiones: https://kaivormusic.ai/es/ai-music-generator . Un prompt útil puede especificar una base de 25 segundos para demo, 100 BPM, instrumentos, subida y final sin voz.",
+        "Nombra las exportaciones para que una respuesta señale un archivo exacto: `Northstar_demo_A_v01_20261025` y `Northstar_demo_B_v01_20261025`. Añade una nota con propósito, duración y tres preguntas: ¿qué dirección seguimos?, ¿dónde falla la energía?, ¿sirve el final en el corte? Pide una sola tanda consolidada de notas con marcas de tiempo a una persona responsable.",
+        "Tres hábitos aceleran la siguiente versión. Explica la diferencia: A es estable y sobria; B es ligera y más animada. Cambia solo una variable principal—densidad rítmica, sonido líder o curva de energía—por revisión. Y anota: v01 B, subida de 0:12 reducida, final a 1,5 segundos. Una ronda de revisión es un hito creativo, no cada prueba privada.",
+        "FAQ: ¿debe escuchar cinco opciones el cliente? Dos suelen bastar para escoger dirección; una tercera debe resolver una duda concreta. ¿Puede decir «más premium»? Sí, pero pide una decisión audible: menos percusión o más espacio. ¿La aprobación resuelve derechos? No. Revisa términos, contratos, reglas de plataforma y uso previsto: https://kaivormusic.ai/es/tos . Una buena revisión nombra la decisión y conserva qué cambió después."
+      ]
+    },
+    "fr": {
+      "title": "Envoyer des options de musique IA pour validation client",
+      "description": "Un petit dossier de validation structuré aide un client à choisir une direction musicale sans notes floues ni fichiers impossibles à identifier.",
+      "summary": "Présentez deux directions, demandez des décisions horodatées et gardez la trace de chaque modification importante.",
+      "body": [
+        "Un client ouvre final-nouveau et final-nouveau-2, puis dit préférer « le début de l'autre ». Le problème n'est souvent pas le goût mais le dossier de validation. Avant de générer davantage, choisissez la fonction unique du cue : introduire un produit, porter un montage, soutenir une voix ou conclure un film court.",
+        "Pour le premier envoi, créez seulement deux directions voulues. A peut être une nappe de guitare étouffée à 100 BPM, avec une fin nette à 20 secondes ; B une marimba douce et une montée à 0:12. Gardez durée, point de montage et usage identiques. Le client compare alors une sensation et un rythme, pas des pistes sans rapport.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui transforme une direction écrite en brouillons comparables. Dans AI Music Generator, indiquez dans l'ordre la fonction, la courbe d'énergie, les sources sonores, le timing et les exclusions : https://kaivormusic.ai/fr/ai-music-generator . Un prompt utile précise une base de démo de 25 secondes, le tempo, les instruments, la montée et la fin.",
+        "Nommez les exports pour qu'une réponse désigne un fichier précis : `Northstar_demo_A_v01_20261025` et `Northstar_demo_B_v01_20261025`. Joignez une note avec objectif, durée et trois questions : quelle direction poursuivre, où l'énergie gêne-t-elle, la fin marche-t-elle au montage ? Demandez un seul lot de retours horodatés à un interlocuteur responsable.",
+        "Trois réflexes accélèrent la suite. Dites la différence : A est stable et sobre, B plus légère et animée. Ne modifiez qu'une grande variable—densité rythmique, son principal ou énergie—par version. Tenez aussi un journal : v01 B, montée à 0:12 réduite, fin ramenée à 1,5 seconde. Une validation est un jalon créatif, pas la trace de chaque essai privé.",
+        "FAQ : faut-il cinq options ? Deux suffisent généralement pour choisir une direction ; une troisième répond à une question précise. Un client peut-il demander « plus premium » ? Oui, puis demandez un choix audible : moins de percussions, plus d'espace. Une validation règle-t-elle les droits ? Non. Vérifiez conditions, contrats, règles de plateforme et usage : https://kaivormusic.ai/fr/tos . Une bonne revue nomme la décision et garde la mémoire du changement."
+      ]
+    },
+    "it": {
+      "title": "Come inviare opzioni di musica AI per la revisione del cliente",
+      "description": "Un piccolo pacchetto di revisione ordinato aiuta il cliente a scegliere una direzione senza perdersi tra file vaghi e commenti sparsi.",
+      "summary": "Presenta due direzioni, chiedi decisioni con timecode e conserva un registro essenziale delle modifiche.",
+      "body": [
+        "Un cliente apre file chiamati finale-nuovo e finale-nuovo-2 e dice di preferire «l'inizio dell'altro». Spesso non è un problema di gusto ma di revisione poco chiara. Prima di generare altro, stabilisci il solo compito del cue: presentare un prodotto, sostenere un montaggio, accompagnare una voce o chiudere un video breve.",
+        "Per il primo invio prepara soltanto due direzioni intenzionali. A può essere una base di chitarra smorzata a 100 BPM con chiusura netta a 20 secondi; B marimba morbida e una piccola salita a 0:12. Durata, punto di montaggio e uso restano uguali. Il cliente sceglie così tra emozione e ritmo, non tra brani scollegati.",
+        "kaivorMusic.AI è uno strumento di creazione musicale AI che trasforma una direzione scritta in bozze confrontabili. In AI Music Generator scrivi nell'ordine funzione, curva di energia, fonti sonore, timing ed esclusioni: https://kaivormusic.ai/it/ai-music-generator . Un prompt utile specifica una base demo di 25 secondi, tempo, strumenti, salita e finale senza voce.",
+        "Dai agli export nomi che rendano una risposta inequivocabile: `Northstar_demo_A_v01_20261025` e `Northstar_demo_B_v01_20261025`. Aggiungi una nota con scopo, durata e tre domande: quale direzione proseguire, dove l'energia non funziona, il finale è utile al taglio? Chiedi un unico blocco di note con timecode a un referente.",
+        "Tre abitudini rendono rapida la versione successiva. Spiega la differenza: A è stabile e sobria, B più leggera e mobile. Cambia una sola variabile grande—densità ritmica, suono guida o curva d'energia—per revisione. Registra anche: v01 B, salita a 0:12 ridotta, finale a 1,5 secondi. Una revisione è una tappa creativa, non ogni esperimento interno.",
+        "FAQ: il cliente deve sentire cinque opzioni? Di solito due bastano per scegliere direzione; una terza risolve un dubbio preciso. Può chiedere «più premium»? Sì, ma chiedi una scelta ascoltabile: meno percussioni o più spazio. L'approvazione chiarisce i diritti? No. Controlla termini, contratti, regole di piattaforma e uso previsto: https://kaivormusic.ai/it/tos . Una buona review nomina la decisione e conserva cosa è cambiato dopo."
+      ]
+    },
+    "ja": {
+      "title": "クライアント確認用にAI音楽の選択肢を送る方法",
+      "description": "小さく整理したレビュー用パックなら、曖昧なファイル名や散らばった感想に振り回されず、音楽の方向性を選べます。",
+      "summary": "異なる2案を提示し、タイムコード付きの判断を求め、変更記録を残すための実務的な手順です。",
+      "body": [
+        "クライアントが final-new と final-new-2 を開き、「もう一方の最初が好き」と返してくることがあります。問題は好みよりも、確認パックが曖昧なことです。生成を増やす前に、cue の役割を一つに決めます。製品紹介、montage、ナレーションの支え、短編の締めのどれなのかです。",
+        "最初の確認では意図のある2方向だけを作ります。A は100 BPMの muted guitar による安定したベッドと20秒の明確な終わり、B は soft marimba と0:12での小さな高まりにできます。長さ、edit point、用途は同じにします。比較は無関係な曲ではなく、感情とrhythmの選択になります。",
+        "kaivorMusic.AIは、文章で書いた音楽の方向性を比較用のdraftに変えるAI音楽制作ツールです。AI Music Generatorでは、用途、energy curve、音源、timing、避ける要素の順に書きます: https://kaivormusic.ai/ja/ai-music-generator 。25秒のapp demo用、100 BPM、楽器、0:12の変化、no vocalsまで指定すると確認しやすくなります。",
+        "返信が一つのファイルを指せる名前にします。`Northstar_demo_A_v01_20261025` と `Northstar_demo_B_v01_20261025` のようにします。目的、長さ、versionと、「どちらを続けるか」「energyが合わない場所」「endingはcutで使えるか」の三問を添えます。感想は一人の窓口から、timecode付きでまとめてもらいます。",
+        "次の版を速くする習慣は三つです。Aは安定して控えめ、Bは軽く動きがある、と違いを言葉にします。一回のrevisionで変える大きな要素はrhythm density、lead sound、energy curveの一つだけです。そして「v01 B、0:12のliftを弱め、endingを1.5秒へ」と短く残します。review roundは創作上の節目で、すべての試作ではありません。",
+        "FAQ：5案を聞かせるべきですか？最初の方向選びには通常2案で足ります。3案目は具体的な未解決点のためだけに使います。「もっと高級に」は使えますか？はい。ただし percussionを減らす、spaceを増やすなど聴ける選択にします。承認は権利確認ですか？いいえ。利用前に規約、契約、platform rulesを確認してください: https://kaivormusic.ai/ja/tos 。判断を名前にし、その後の変更を残すことが要点です。"
+      ]
+    },
+    "ko": {
+      "title": "클라이언트 검토용 AI 음악 옵션 보내는 법",
+      "description": "작고 정돈된 검토 패키지는 모호한 파일명과 흩어진 의견 대신, 클라이언트가 음악 방향을 분명히 고르게 합니다.",
+      "summary": "서로 다른 두 방향을 제시하고 타임코드 의견을 받은 뒤, 중요한 변경을 기록하는 실무 흐름입니다.",
+      "body": [
+        "클라이언트가 final-new와 final-new-2를 열고 ‘다른 파일의 첫 부분이 좋다’고 답하는 일이 있습니다. 대개 취향보다 검토 패키지가 불분명한 것이 문제입니다. 더 생성하기 전에 cue의 역할 하나를 정하세요. 제품 소개, 몽타주, 내레이션 보조, 짧은 영상의 마무리 중 무엇인지입니다.",
+        "첫 검토에는 의도가 다른 두 방향만 준비합니다. A는 100 BPM muted guitar 베드와 20초의 분명한 끝, B는 soft marimba와 0:12의 작은 상승으로 할 수 있습니다. 길이, edit point, 용도는 같습니다. 그러면 클라이언트는 무관한 곡이 아니라 감정과 리듬의 방향을 비교하게 됩니다.",
+        "kaivorMusic.AI는 글로 쓴 음악 방향을 비교 가능한 draft로 바꾸는 AI 음악 제작 도구입니다. AI Music Generator에는 용도, energy curve, 소리 재료, timing, 제외 요소 순서로 적습니다: https://kaivormusic.ai/ko/ai-music-generator . 25초 app demo용, 100 BPM, 악기, 0:12 변화, no vocals처럼 구체적으로 쓰면 검토가 쉬워집니다.",
+        "답변이 정확한 파일을 가리키도록 `Northstar_demo_A_v01_20261025`, `Northstar_demo_B_v01_20261025`처럼 이름을 붙이세요. 목적, 길이, version과 함께 어느 방향을 이어갈지, energy가 어색한 곳은 어디인지, ending이 cut에서 쓸 수 있는지를 묻습니다. 한 명의 담당자에게 timecode가 있는 의견을 한 번에 받는 편이 좋습니다.",
+        "다음 버전을 빠르게 하는 습관은 세 가지입니다. A는 안정적이고 절제됨, B는 가볍고 더 움직임이 있다고 차이를 말합니다. revision마다 rhythm density, lead sound, energy curve 중 큰 변수 하나만 바꿉니다. 그리고 ‘v01 B, 0:12 lift 축소, ending 1.5초’처럼 남깁니다. 검토 라운드는 모든 개인 실험이 아니라 창작의 이정표입니다.",
+        "FAQ: 다섯 옵션을 들려줘야 하나요? 초반 방향 선택에는 보통 두 개면 충분하며, 세 번째는 구체적 미해결 질문에만 씁니다. ‘더 고급스럽게’라는 의견도 가능한가요? 네. 다만 percussion을 줄이거나 space를 늘리는 식의 들리는 선택으로 바꾸세요. 승인만으로 권리가 해결되나요? 아닙니다. 이용 전 약관, 계약, 플랫폼 규칙을 확인하세요: https://kaivormusic.ai/ko/tos . 판단의 이름과 그 뒤 변경을 남기는 것이 핵심입니다."
+      ]
+    },
+    "pt": {
+      "title": "Como enviar opções de música por IA para revisão do cliente",
+      "description": "Um pacote de revisão pequeno e organizado ajuda o cliente a escolher uma direção musical sem se perder em arquivos vagos e comentários espalhados.",
+      "summary": "Mostre duas direções, peça decisões com marcação de tempo e guarde um registro simples de cada mudança importante.",
+      "body": [
+        "O cliente abre arquivos chamados final-novo e final-novo-2 e responde que gostou ‘do começo do outro’. Muitas vezes não é gosto: é um pacote de revisão confuso. Antes de gerar mais música, defina uma única função para o cue: apresentar um produto, sustentar uma montagem, apoiar uma voz ou fechar um vídeo curto.",
+        "Na primeira rodada, apresente apenas duas direções intencionais. A pode ser uma cama de guitarra abafada a 100 BPM, com final limpo aos 20 segundos; B pode ter marimba suave e pequena subida em 0:12. Mantenha duração, ponto de edição e uso iguais. A comparação passa a ser sobre emoção e ritmo, não faixas sem relação.",
+        "kaivorMusic.AI é uma ferramenta de criação musical por IA que transforma direção escrita em rascunhos comparáveis. No AI Music Generator, escreva função, curva de energia, fontes sonoras, timing e exclusões nessa ordem: https://kaivormusic.ai/pt/ai-music-generator . Um prompt útil define uma cama de 25 segundos para demo, 100 BPM, instrumentos, subida e final sem voz.",
+        "Nomeie os exports para que a resposta aponte um arquivo exato: `Northstar_demo_A_v01_20261025` e `Northstar_demo_B_v01_20261025`. Inclua propósito, duração e três perguntas: qual direção seguir, onde a energia falha, o final serve no corte? Peça um conjunto único de observações com timecode a uma pessoa responsável, em vez de reações espalhadas.",
+        "Três hábitos aceleram a próxima versão. Diga a diferença: A é firme e sóbria; B é leve e mais animada. Mude só uma variável grande—densidade rítmica, som principal ou curva de energia—por revisão. Registre também: v01 B, subida de 0:12 reduzida, final para 1,5 segundo. Uma rodada de revisão é marco criativo, não cada teste privado.",
+        "FAQ: o cliente deve ouvir cinco opções? Duas normalmente bastam para escolher direção; uma terceira resolve uma dúvida específica. Pode dizer ‘mais premium’? Pode, mas peça uma decisão audível, como menos percussão ou mais espaço. A aprovação resolve direitos? Não. Confira termos, contratos, regras da plataforma e uso pretendido: https://kaivormusic.ai/pt/tos . Uma boa revisão nomeia a decisão e preserva o que mudou depois."
+      ]
+    },
+    "ru": {
+      "title": "Как отправить варианты AI-музыки на согласование клиенту",
+      "description": "Небольшой понятный пакет для ревью помогает выбрать направление AI-музыки без путаницы из файлов и расплывчатых комментариев.",
+      "summary": "Покажите два осмысленных варианта, запросите замечания с таймкодами и сохраните короткую историю изменений.",
+      "body": [
+        "Клиент открывает файлы final-new и final-new-2, а потом пишет, что ему нравится «начало другого». Обычно проблема не во вкусе, а в неясном пакете для ревью. Прежде чем генерировать ещё, определите одну задачу cue: представить продукт, поддержать монтаж, оставить место для голоса или завершить короткое видео.",
+        "В первой отправке подготовьте только два намеренно разных направления. A может быть ровной подложкой из muted guitar на 100 BPM с чётким окончанием на 20-й секунде; B — мягкой marimba и небольшим подъёмом на 0:12. Длина, точка монтажа и применение одинаковы. Тогда выбирают настроение и ритм, а не случайные треки.",
+        "kaivorMusic.AI — это инструмент создания музыки с AI, который превращает письменное музыкальное направление в сопоставимые черновики. В AI Music Generator последовательно укажите задачу, energy curve, источники звука, timing и исключения: https://kaivormusic.ai/ru/ai-music-generator . Полезный prompt задаёт 25-секундную подложку для demo, темп, инструменты, подъём и финал без вокала.",
+        "Называйте exports так, чтобы ответ указывал на один файл: `Northstar_demo_A_v01_20261025` и `Northstar_demo_B_v01_20261025`. Добавьте цель, длительность и три вопроса: какое направление продолжать, где неверна энергия, годится ли финал для склейки? Попросите одного ответственного собрать замечания с таймкодами, а не собирать разрозненные реакции.",
+        "Три привычки ускоряют следующую версию. Объясняйте разницу: A устойчивый и сдержанный, B легче и подвижнее. В одной revision меняйте только одну большую переменную — плотность ритма, ведущий звук или energy curve. И фиксируйте: v01 B, подъём на 0:12 уменьшен, финал сокращён до 1,5 секунды. Раунд ревью — творческая веха, а не каждый внутренний тест.",
+        "FAQ: нужно ли давать пять вариантов? Для первого выбора обычно достаточно двух; третий нужен лишь для конкретного вопроса. Допустим комментарий «более премиально»? Да, но уточните наблюдаемый выбор: меньше percussion или больше пространства. Согласование означает очистку прав? Нет. До использования проверьте условия, договоры, правила платформы и задачу: https://kaivormusic.ai/ru/tos . Хорошее ревью называет решение и сохраняет изменения после него."
+      ]
+    },
+    "zh": {
+      "title": "如何把两套 AI 音乐方案清楚地发给客户审核",
+      "description": "一个小而清晰的审核包，能让客户选择 AI 音乐方向，而不是在含糊文件名和零散意见中迷路。",
+      "summary": "提供两个有明确差异的方向，收集带时间码的反馈，并为每轮修改留下简短记录。",
+      "body": [
+        "客户打开 final-new 和 final-new-2，随后说「我喜欢另一个的开头」。问题往往不是审美，而是审核包不清楚。继续生成前，先给 cue 定一个唯一任务：介绍产品、托住 montage、给旁白让位，或结束一条短片。",
+        "第一轮只准备两个有意图的方向。A 可以是 100 BPM 的 muted guitar 铺底，在20秒处干净结束；B 可以用 soft marimba，并在0:12有轻微上扬。长度、edit point和用途保持一致。这样客户比较的是情绪和节奏方向，不是互不相干的曲子。",
+        "kaivorMusic.AI 是把文字音乐方向转为可比较草稿的 AI 音乐创作工具。在 AI Music Generator 中，按用途、energy curve、声音来源、timing、排除项的顺序写： https://kaivormusic.ai/zh/ai-music-generator 。例如写明25秒 app demo 铺底、100 BPM、乐器、0:12变化和 no vocals，审核会更具体。",
+        "给导出文件取能让回复准确指向它的名字：`Northstar_demo_A_v01_20261025` 和 `Northstar_demo_B_v01_20261025`。附上一页说明，写明目的、时长和三个问题：继续哪个方向？哪里能量不对？结尾能否卡在剪辑点？请一位负责人汇总带 timecode 的意见，不要收集分散反应。",
+        "三个习惯会让下一版更快。先用自然语言说明区别：A 稳定克制，B 更轻盈、更有动感。每次 revision 只改一个大变量——rhythm density、lead sound 或 energy curve。再记录「v01 B，降低0:12 lift，结尾缩至1.5秒」。审核轮次是创作节点，不是每次内部试验。",
+        "FAQ：要给客户听五个方案吗？早期选方向通常两个足够；第三个只应用来回答一个具体未决问题。客户能说「更高级」吗？可以，但要追问成可听见的选择，例如减少 percussion 或留出更多 space。客户批准等于权利已解决吗？不等于。使用前应查看适用条款、合同、平台规则和用途： https://kaivormusic.ai/zh/tos 。关键是把要做的决定说清楚，并保留决定后的改动。"
+      ]
+    },
+    "ar": {
+      "title": "كيف ترسل خيارات موسيقى AI لمراجعة العميل",
+      "description": "حزمة مراجعة صغيرة ومنظمة تساعد العميل على اختيار اتجاه موسيقي بالذكاء الاصطناعي من دون ملفات مبهمة وملاحظات متفرقة.",
+      "summary": "اعرض اتجاهين واضحين، واطلب قرارات مرتبطة بوقت محدد، واحتفظ بسجل مختصر لكل تغيير مهم.",
+      "body": [
+        "يفتح العميل ملفين باسم final-new وfinal-new-2 ثم يقول إنه يحب «بداية الآخر». المشكلة غالباً ليست في الذوق بل في حزمة مراجعة غير واضحة. قبل إنشاء موسيقى إضافية، حدد وظيفة واحدة للـcue: تقديم منتج، حمل montage، ترك مساحة للصوت، أو إنهاء فيديو قصير.",
+        "في المراجعة الأولى حضّر اتجاهين مقصودين فقط. يمكن أن يكون A طبقة muted guitar ثابتة عند 100 BPM ونهاية واضحة عند 20 ثانية، ويستخدم B soft marimba وارتفاعاً خفيفاً عند 0:12. أبق المدة ونقطة التحرير والاستخدام متطابقة. عندها يقارن العميل الإحساس والإيقاع لا ملفات لا علاقة بينها.",
+        "kaivorMusic.AI أداة لإنشاء الموسيقى بالذكاء الاصطناعي تحول التوجيه المكتوب إلى مسودات قابلة للمقارنة. في AI Music Generator اكتب الوظيفة ثم منحنى الطاقة ومصادر الصوت والتوقيت وما تريد تجنبه: https://kaivormusic.ai/ar/ai-music-generator . يفيد أن يحدد prompt طبقة demo لمدة 25 ثانية، و100 BPM، والآلات، والتغير، ونهاية بلا غناء.",
+        "سمِّ الملفات كي تشير الإجابة إلى ملف واحد بدقة: `Northstar_demo_A_v01_20261025` و`Northstar_demo_B_v01_20261025`. أرفق الهدف والمدة وثلاثة أسئلة: أي اتجاه نتابع؟ أين لا تناسب الطاقة؟ هل تعمل النهاية عند القطع؟ اطلب من شخص مسؤول مجموعة واحدة من الملاحظات مع timecode بدلاً من ردود متفرقة.",
+        "ثلاث عادات تسرع النسخة التالية. سمِّ الفرق بلغة عادية: A ثابت ومتحفظ، وB أخف وأكثر حركة. غيّر متغيراً كبيراً واحداً في كل revision، مثل كثافة الإيقاع أو الصوت الرئيسي أو منحنى الطاقة. وسجل: v01 B، خفّض lift عند 0:12، قصّر النهاية إلى 1.5 ثانية. جولة المراجعة علامة إبداعية وليست كل تجربة داخلية.",
+        "FAQ: هل يجب أن يسمع العميل خمسة خيارات؟ يكفي اتجاهان غالباً للاختيار الأول، والثالث لسؤال محدد فقط. هل تقبل ملاحظة «أكثر فخامة»؟ نعم، ثم اطلب اختياراً مسموعاً مثل إيقاعات أقل أو مساحة أكثر. هل الموافقة تحل الحقوق؟ لا. راجع الشروط والعقود وقواعد المنصة والاستخدام المقصود قبل النشر: https://kaivormusic.ai/ar/tos . الفكرة هي تسمية القرار وحفظ ما تغيّر بعده."
+      ]
+    }
+  }
+}
