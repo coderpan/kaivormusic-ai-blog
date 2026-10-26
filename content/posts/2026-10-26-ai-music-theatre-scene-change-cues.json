@@ -1,0 +1,152 @@
+{
+  "slug": "ai-music-theatre-scene-change-cues",
+  "date": "2026-10-26",
+  "updated": "2026-10-26",
+  "topic": "A practical workflow for making AI music scene-change cues for small theatre productions, rehearsals, and student shows",
+  "keywords": ["AI music for theatre", "scene change music cues", "theatre sound cue workflow", "AI music generator", "stage management music", "kaivorMusic.AI"],
+  "translations": {
+    "en": {
+      "title": "Make AI music cues for theatre scene changes that crews can call",
+      "description": "A practical cue-sheet workflow for creating short AI music scene-change cues with clear starts, usable durations, rehearsal notes, and careful public-use checks.",
+      "summary": "Design each transition around a visible job, then test it with the people moving scenery—not only on headphones.",
+      "body": [
+        "A scene change can feel longer than it is when a crew is moving a table in silence and the next actor is waiting in the wing. Music can give that gap a shape, but a beautiful track is not automatically a usable cue. It needs a clear purpose: cover a shift, carry a blackout, reset the room, or lead the audience into the next location.",
+        "Start a cue sheet before you make sound. Give every transition a label such as SQ 4, its script page or visual trigger, a target duration, a start instruction, and an exit plan. Theatre sound paperwork commonly records the cue number, action, timing, and notes; that discipline is more useful than trying to make one long score fit every scene change.",
+        "kaivorMusic.AI is an AI music creation tool for turning a written direction into drafts you can audition and compare. For a transition, write the dramatic job first, then duration, pulse, instruments, energy movement, and what to avoid in the AI Music Generator: https://kaivormusic.ai/ai-music-generator . For example: ‘18-second scene-change cue, late-night street, brushed percussion and distant electric piano, small rise, clean button ending, no vocals.’",
+        "Make three small cue families rather than one overloaded track. A 12-second blackout cue needs an immediate identity and a firm ending. A 30-second furniture shift needs a steady middle that can tolerate a few extra seconds. A preshow-to-opening cue needs a controllable fade. Give them different names, and do not assume a looping version can replace a cue with a known end.",
+        "Run each draft in the room with the people who move the scenery. Watch whether the first sound arrives early enough to cover the first movement, whether an accent distracts from a spoken line, and whether the ending leaves the stage in the right emotional state. Record actual timings after rehearsal, not imagined ones from an editing timeline. Keep one backup version with no last-second flourish when the change is variable.",
+        "FAQ: Must every scene change have music? No; silence can be the stronger choice. Should a cue follow dialogue or an action? Use the trigger that the caller and operator can reliably recognize, and write it down. Can an AI draft be used in a public production without further thought? No. Check the tool terms, venue or school policy, contracts, platform rules, and the intended use before release: https://kaivormusic.ai/tos . The useful cue is the one a crew can call, hear, and finish consistently."
+      ]
+    },
+    "de": {
+      "title": "KI-Musik-Cues für Theaterumbauten erstellen, die das Team sicher fahren kann",
+      "description": "Ein praktischer Ablauf für kurze KI-Musik-Cues bei Szenenumbauten: mit klaren Einsätzen, passenden Längen, Probenotizen und sorgfältiger Nutzungsprüfung.",
+      "summary": "Jeder Übergang bekommt eine konkrete Aufgabe und wird mit dem Umbau-Team im Raum getestet, nicht nur mit Kopfhörern.",
+      "body": [
+        "Ein Umbau wirkt länger, wenn ein Tisch im Schweigen bewegt wird und der nächste Darsteller im Flügel wartet. Musik kann dieser Lücke Form geben, doch ein schöner Track ist nicht automatisch ein spielbarer Cue. Er braucht eine Aufgabe: einen Umbau decken, einen Blackout tragen, den Raum neu setzen oder in den nächsten Ort führen.",
+        "Beginne mit einer Cue-Liste, bevor du Klang erzeugst. Notiere für jeden Übergang etwa SQ 4, Skriptseite oder sichtbaren Auslöser, Ziellänge, Startanweisung und Ausstieg. In Sound-Unterlagen stehen üblicherweise Nummer, Aktion, Timing und Notiz. Diese Klarheit hilft mehr als eine lange Musik, die jeden Umbau irgendwie abdecken soll.",
+        "kaivorMusic.AI ist ein Tool für KI-Musikerstellung, das geschriebene Richtung in hörbare Entwürfe übersetzt. Beschreibe im AI Music Generator zuerst die dramaturgische Aufgabe, dann Dauer, Puls, Instrumente, Energieverlauf und Ausschlüsse: https://kaivormusic.ai/de/ai-music-generator . Ein Beispiel: „18-Sekunden-Umbau, nächtliche Straße, Besenrhythmus und fernes E-Piano, kleiner Anstieg, klares Ende, kein Gesang.“",
+        "Erstelle drei kleine Cue-Familien statt eines überladenen Tracks. Ein 12-Sekunden-Blackout braucht sofortige Identität und ein festes Ende. Ein 30-Sekunden-Möbelumbau braucht eine stabile Mitte für ein paar zusätzliche Sekunden. Ein Opening-Cue braucht einen kontrollierbaren Fade. Benenne sie getrennt; ein Loop ersetzt keinen Cue mit bekanntem Ende.",
+        "Teste jeden Entwurf mit den Personen, die das Bühnenbild bewegen. Prüfe, ob der erste Ton die erste Bewegung rechtzeitig deckt, ob ein Akzent eine Textzeile stört und ob das Ende den richtigen Zustand lässt. Übernimm reale Probenzeiten statt geschätzter Schnittzeiten. Bei variablem Umbau hilft eine Backup-Version ohne Effekt in letzter Sekunde.",
+        "FAQ: Braucht jeder Umbau Musik? Nein, Schweigen kann stärker sein. Folgt der Cue einem Text oder einer Aktion? Nimm den Auslöser, den Calling und Sound zuverlässig erkennen, und notiere ihn. Darf ein KI-Entwurf ohne weitere Prüfung öffentlich laufen? Nein. Prüfe Bedingungen, Haus- oder Schulregeln, Verträge, Plattformvorgaben und Zweck: https://kaivormusic.ai/de/tos . Gut ist ein Cue, den das Team zuverlässig starten und beenden kann."
+      ]
+    },
+    "es": {
+      "title": "Crea cues de música IA para cambios de escena que el equipo pueda ejecutar",
+      "description": "Un flujo práctico de cues breves para transiciones teatrales con entradas claras, duración útil, notas de ensayo y revisión cuidadosa de uso público.",
+      "summary": "Da a cada transición un trabajo visible y pruébala con quienes mueven la escenografía, no solo con auriculares.",
+      "body": [
+        "Un cambio de escena parece eterno cuando el equipo mueve una mesa en silencio y el siguiente actor espera entre bastidores. La música puede dar forma a ese espacio, pero una pista bonita no es automáticamente un cue utilizable. Debe tener un trabajo: cubrir un cambio, sostener un apagón, reiniciar el ambiente o llevar al público al siguiente lugar.",
+        "Haz una hoja de cues antes de crear sonido. Para cada transición anota algo como SQ 4, página de guion o disparador visible, duración objetivo, instrucción de inicio y salida. Las listas de sonido suelen registrar número, acción, tiempo y notas. Ese orden vale más que intentar que una música larga sirva para todos los cambios.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que convierte una dirección escrita en borradores para audicionar y comparar. En AI Music Generator, escribe primero el trabajo dramático y luego duración, pulso, instrumentos, energía y exclusiones: https://kaivormusic.ai/es/ai-music-generator . Por ejemplo: «cue de 18 segundos para cambio, calle nocturna, percusión con escobillas y piano eléctrico lejano, pequeña subida, final limpio, sin voz».",
+        "Crea tres familias pequeñas en lugar de una pista saturada. Un apagón de 12 segundos necesita identidad inmediata y un final firme. Un cambio de muebles de 30 segundos necesita un centro estable que soporte unos segundos extra. Un cue de apertura necesita un fade controlable. Nómbralos por separado: un loop no sustituye a un cue con final conocido.",
+        "Prueba cada borrador en la sala con quienes desplazan la escenografía. Observa si el primer sonido cubre el primer movimiento, si un acento distrae de una frase y si el final deja el estado emocional correcto. Registra tiempos reales tras el ensayo, no tiempos imaginados en la línea de edición. Guarda una versión de respaldo sin remate final para cambios variables.",
+        "FAQ: ¿cada cambio necesita música? No; el silencio puede ser más fuerte. ¿El cue debe seguir una frase o una acción? Elige el disparador que quien llama y quien opera puedan reconocer con fiabilidad y escríbelo. ¿Un borrador IA puede usarse públicamente sin más? No. Revisa términos, políticas del recinto o escuela, contratos, reglas de plataforma y uso previsto: https://kaivormusic.ai/es/tos . El buen cue es el que el equipo puede llamar, escuchar y terminar siempre igual."
+      ]
+    },
+    "fr": {
+      "title": "Créer des cues de musique IA pour les changements de scène au théâtre",
+      "description": "Une méthode concrète pour des cues IA courts, appelables et répétés : départs nets, durée exploitable, notes de plateau et vérification d'usage public.",
+      "summary": "Donnez une fonction précise à chaque transition et testez-la avec l'équipe qui déplace le décor.",
+      "body": [
+        "Un changement de décor paraît plus long quand une table avance dans le silence et que l'acteur suivant attend en coulisse. La musique peut donner une forme à cet intervalle, mais une belle piste n'est pas automatiquement un cue jouable. Elle doit servir à couvrir un déplacement, porter un noir, réinstaller l'espace ou annoncer le lieu suivant.",
+        "Préparez une feuille de cues avant de créer le son. Pour chaque transition, notez par exemple SQ 4, la page ou le déclencheur visible, la durée visée, le départ et la sortie. Les documents son consignent habituellement numéro, action, timing et note. Cette discipline aide davantage qu'une longue musique censée convenir à tous les changements.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui transforme une intention écrite en brouillons à écouter et comparer. Dans AI Music Generator, indiquez d'abord la fonction dramatique, puis durée, pulsation, instruments, mouvement d'énergie et exclusions : https://kaivormusic.ai/fr/ai-music-generator . Exemple : « cue de 18 secondes, rue nocturne, balais et piano électrique lointain, légère montée, fin nette, sans voix ».",
+        "Constituez trois petites familles de cues plutôt qu'une piste trop chargée. Un noir de 12 secondes demande une identité immédiate et une fin franche. Un déplacement de mobilier de 30 secondes demande un milieu stable qui supporte quelques secondes de plus. Un cue d'ouverture demande un fondu contrôlable. Nommez-les séparément : une boucle ne remplace pas une fin connue.",
+        "Faites passer chaque brouillon dans la salle avec les personnes qui déplacent le décor. Vérifiez que le premier son couvre le premier geste, qu'un accent ne gêne pas une réplique et que la fin laisse le bon état émotionnel. Notez les durées réelles après la répétition, pas celles imaginées au montage. Gardez une version de secours sans effet final si le changement varie.",
+        "FAQ : faut-il de la musique à chaque changement ? Non, le silence peut être plus juste. Le cue suit-il une réplique ou une action ? Prenez le repère que régie et son reconnaissent de façon fiable et écrivez-le. Un brouillon IA est-il libre d'usage public ? Non. Vérifiez conditions, règles du lieu ou de l'école, contrats, plateformes et usage : https://kaivormusic.ai/fr/tos . Un bon cue est celui que l'équipe peut appeler, entendre et finir régulièrement."
+      ]
+    },
+    "it": {
+      "title": "Creare cue di musica AI per i cambi scena teatrali",
+      "description": "Un flusso pratico per cue AI brevi e richiamabili nei cambi scena: ingressi chiari, durate utili, note di prova e verifica dell'uso pubblico.",
+      "summary": "Dai a ogni transizione un compito concreto e provala con chi sposta la scena, non solo in cuffia.",
+      "body": [
+        "Un cambio scena sembra più lungo quando una squadra sposta un tavolo nel silenzio e il prossimo attore aspetta in quinta. La musica può dare forma a quel vuoto, ma una bella traccia non è automaticamente un cue utilizzabile. Deve avere un compito: coprire uno spostamento, sostenere un blackout, reimpostare la sala o accompagnare nel luogo successivo.",
+        "Prepara un foglio cue prima di creare il suono. Per ogni transizione indica SQ 4, pagina o trigger visivo, durata prevista, istruzione di start e uscita. La documentazione sonora registra normalmente numero, azione, timing e note. Questa disciplina serve più di una musica lunga che cerca di adattarsi a tutti i cambi.",
+        "kaivorMusic.AI è uno strumento di creazione musicale AI che trasforma una direzione scritta in bozze da ascoltare e confrontare. In AI Music Generator scrivi prima il compito drammaturgico, poi durata, pulsazione, strumenti, curva d'energia ed esclusioni: https://kaivormusic.ai/it/ai-music-generator . Per esempio: «cue cambio scena di 18 secondi, strada notturna, spazzole e piano elettrico lontano, piccola salita, finale netto, senza voce».",
+        "Crea tre piccole famiglie di cue invece di una traccia sovraccarica. Un blackout di 12 secondi richiede identità immediata e fine ferma. Un cambio mobili di 30 secondi richiede una parte centrale stabile che regga qualche secondo extra. Un cue di apertura richiede un fade controllabile. Dai nomi distinti: un loop non sostituisce un cue con finale noto.",
+        "Prova ogni bozza in sala con chi sposta la scenografia. Guarda se il primo suono copre il primo movimento, se un accento distrae da una battuta e se il finale lascia lo stato emotivo giusto. Registra tempi reali dopo le prove, non tempi immaginati in montaggio. Tieni una versione di backup senza colpo finale per cambi variabili.",
+        "FAQ: ogni cambio richiede musica? No, il silenzio può essere più efficace. Il cue deve seguire una battuta o un'azione? Scegli il trigger che regia e fonico riconoscono con affidabilità e scrivilo. Una bozza AI può andare in pubblico senza altro? No. Controlla termini, regole del teatro o della scuola, contratti, piattaforme e uso previsto: https://kaivormusic.ai/it/tos . Un cue utile è quello che la squadra può chiamare, ascoltare e chiudere sempre allo stesso modo."
+      ]
+    },
+    "ja": {
+      "title": "舞台転換で呼び出せるAI音楽キューの作り方",
+      "description": "明確な開始、使える長さ、稽古メモ、公開利用の確認を備えた、短いAI音楽の舞台転換キューを作る実務手順です。",
+      "summary": "各転換の役割を先に決め、ヘッドホンだけでなく転換を行うスタッフと会場で試します。",
+      "body": [
+        "机を動かす間に無音が続き、次の俳優が袖で待っていると、舞台転換は実際より長く感じられます。音楽はその間に形を与えられますが、良い曲がそのまま使えるキューになるわけではありません。転換を覆う、暗転を支える、空気を切り替える、次の場所へ導く、という一つの役割が必要です。",
+        "音を作る前にキューシートを書きます。各転換に SQ 4 のような番号、台本ページまたは見える合図、目標秒数、開始指示、終わり方を記録します。舞台の音響書類では番号、動作、タイミング、メモを残すのが一般的です。すべての転換に長い一曲を当てはめるより確実です。",
+        "kaivorMusic.AI は、書いた音楽の方向性を試聴・比較できる下書きにするAI音楽制作ツールです。AI Music Generatorでは、まず演出的な役割を書き、次に長さ、pulse、楽器、energyの動き、避ける要素を指定します: https://kaivormusic.ai/ja/ai-music-generator 。例は「18秒の転換、夜の街、brush percussionと遠いelectric piano、小さな上昇、明確な終止、歌なし」です。",
+        "一つの詰め込みすぎた曲ではなく、小さな三種類のキューを作ります。12秒の暗転には即座に分かる音色と確実な終わりが必要です。30秒の大道具転換には、数秒延びても破綻しない安定した中間部が必要です。開演用には操作しやすいfadeが必要です。名前を分け、loopが既知の終止を置き換えると考えないでください。",
+        "各draftは、実際に大道具を動かす人と会場で試します。最初の音が最初の動きを覆えるか、accentが台詞を邪魔しないか、終わりが正しい感情を残すかを見ます。編集画面の想定ではなく稽古後の実測時間を記録します。転換が毎回変わるなら、最後の効果を外したbackupも用意します。",
+        "FAQ：すべての転換に音楽が必要ですか？いいえ、無音の方が強い場合があります。台詞と動作のどちらを合図にしますか？呼び出す人とoperatorが確実に認識できる方を選び、書き残します。AIのdraftはそのまま公開利用できますか？いいえ。利用前に規約、会場や学校の方針、契約、platform rules、用途を確認してください: https://kaivormusic.ai/ja/tos 。よいキューは、チームが毎回同じように呼び、聞き、終えられるものです。"
+      ]
+    },
+    "ko": {
+      "title": "무대 전환에서 호출하기 쉬운 AI 음악 큐 만들기",
+      "description": "명확한 시작, 실제로 쓸 수 있는 길이, 리허설 메모와 공개 사용 확인을 갖춘 짧은 AI 음악 무대 전환 큐 제작 흐름입니다.",
+      "summary": "각 전환의 역할을 먼저 정하고, 헤드폰뿐 아니라 무대를 옮기는 팀과 현장에서 시험하세요.",
+      "body": [
+        "팀이 조용히 테이블을 옮기고 다음 배우가 무대 뒤에서 기다리면 장면 전환은 실제보다 길게 느껴집니다. 음악은 그 빈틈에 형태를 줄 수 있지만, 좋은 트랙이 곧 사용할 수 있는 큐는 아닙니다. 전환을 덮기, blackout을 지지하기, 공간을 새로 설정하기, 다음 장소로 이끌기처럼 한 가지 역할이 있어야 합니다.",
+        "소리를 만들기 전에 큐 시트를 만드세요. 전환마다 SQ 4 같은 번호, 대본 페이지나 눈에 보이는 trigger, 목표 길이, 시작 지시와 종료 방식을 적습니다. 공연 음향 문서는 보통 번호, 동작, timing, 메모를 기록합니다. 모든 전환에 긴 음악 한 곡을 억지로 맞추는 것보다 이 방식이 낫습니다.",
+        "kaivorMusic.AI는 글로 쓴 음악 방향을 듣고 비교할 수 있는 초안으로 바꾸는 AI 음악 제작 도구입니다. AI Music Generator에는 먼저 극적 역할을 쓰고 길이, pulse, 악기, energy 변화, 제외 요소를 적습니다: https://kaivormusic.ai/ko/ai-music-generator . 예를 들면 ‘18초 장면 전환, 밤거리, brush percussion과 먼 electric piano, 작은 상승, 분명한 끝, 보컬 없음’입니다.",
+        "과하게 많은 요소를 넣은 트랙 하나 대신 작은 큐 세 가족을 만드세요. 12초 blackout은 바로 알아들을 정체성과 확실한 끝이 필요합니다. 30초 소품 이동은 몇 초 더 길어져도 견디는 안정적인 중간이 필요합니다. 공연 시작 큐에는 조절 가능한 fade가 필요합니다. 이름을 분리하세요. loop가 끝을 아는 큐를 대체하지는 않습니다.",
+        "각 draft는 실제로 세트를 옮기는 사람들과 공연장에서 돌려 보세요. 첫 소리가 첫 동작을 제때 덮는지, accent가 대사를 방해하지 않는지, 끝이 맞는 감정을 남기는지 확인합니다. 편집 화면의 예상 시간이 아니라 리허설 뒤 실제 시간을 기록하세요. 전환이 매번 달라진다면 마지막 효과가 없는 backup 버전도 둡니다.",
+        "FAQ: 모든 장면 전환에 음악이 필요한가요? 아닙니다. 침묵이 더 강할 수 있습니다. 대사와 동작 중 무엇을 trigger로 하나요? 호출자와 operator가 안정적으로 알아볼 수 있는 것을 택해 적어 두세요. AI draft를 바로 공개 공연에 써도 되나요? 아닙니다. 이용 전 약관, 공연장 또는 학교 정책, 계약, 플랫폼 규칙과 용도를 확인하세요: https://kaivormusic.ai/ko/tos . 좋은 큐는 팀이 매번 같은 방식으로 호출하고 듣고 끝낼 수 있는 큐입니다."
+      ]
+    },
+    "pt": {
+      "title": "Crie cues de música por IA para mudanças de cena no teatro",
+      "description": "Um fluxo prático para cues curtos de IA em transições teatrais: entradas claras, duração útil, notas de ensaio e checagem cuidadosa para uso público.",
+      "summary": "Dê uma função visível a cada transição e teste com quem move o cenário, não apenas nos fones.",
+      "body": [
+        "Uma mudança de cena parece mais longa quando a equipe move uma mesa em silêncio e o próximo ator espera na coxia. A música pode dar forma a esse intervalo, mas uma faixa bonita não vira automaticamente um cue utilizável. Ela precisa de uma função: cobrir a troca, sustentar um blackout, redefinir o ambiente ou levar o público ao próximo lugar.",
+        "Faça uma folha de cues antes de criar som. Para cada transição, registre algo como SQ 4, página do texto ou gatilho visível, duração desejada, instrução de início e saída. A documentação de som costuma guardar número, ação, timing e notas. Essa disciplina é mais útil do que tentar fazer uma música longa atender a toda troca de cena.",
+        "kaivorMusic.AI é uma ferramenta de criação musical por IA que transforma direção escrita em rascunhos para ouvir e comparar. No AI Music Generator, escreva primeiro a função dramática e depois duração, pulso, instrumentos, movimento de energia e exclusões: https://kaivormusic.ai/pt/ai-music-generator . Exemplo: ‘cue de 18 segundos para mudança, rua noturna, percussão com escovas e piano elétrico distante, pequena subida, final marcado, sem voz’.",
+        "Crie três famílias pequenas de cues, em vez de uma faixa carregada. Um blackout de 12 segundos pede identidade imediata e final firme. Uma troca de móveis de 30 segundos pede um meio estável que aguente alguns segundos a mais. Um cue de abertura pede fade controlável. Dê nomes diferentes: um loop não substitui um cue com fim conhecido.",
+        "Teste cada rascunho na sala com quem move o cenário. Veja se o primeiro som cobre o primeiro movimento, se um acento distrai de uma fala e se o fim deixa o estado emocional correto. Anote tempos reais após o ensaio, não tempos imaginados no editor. Mantenha uma versão de backup sem efeito final quando a mudança for variável.",
+        "FAQ: toda mudança precisa de música? Não; o silêncio pode ser mais forte. O cue deve seguir fala ou ação? Escolha o gatilho que quem chama e quem opera reconhecem de modo confiável e escreva-o. Um rascunho por IA pode ir ao público sem mais nada? Não. Confira termos, políticas do teatro ou escola, contratos, regras de plataforma e uso previsto: https://kaivormusic.ai/pt/tos . O cue útil é aquele que a equipe consegue chamar, ouvir e encerrar da mesma maneira."
+      ]
+    },
+    "ru": {
+      "title": "Как сделать AI-музыкальные кью для театральных перестановок",
+      "description": "Практический процесс для коротких AI-кью на сменах сцен: ясный старт, рабочая длина, заметки с репетиций и осторожная проверка публичного использования.",
+      "summary": "Сначала задайте каждой смене конкретную задачу, затем проверьте её в зале вместе с командой сцены.",
+      "body": [
+        "Смена сцены кажется длиннее, когда команда молча передвигает стол, а следующий актёр ждёт за кулисами. Музыка может придать этому промежутку форму, но красивая дорожка ещё не является рабочим кью. Ей нужна одна задача: прикрыть перестановку, поддержать затемнение, сменить атмосферу или привести зрителя к следующему месту.",
+        "До создания звука составьте cue sheet. Для каждого перехода запишите, например, SQ 4, страницу текста или видимый trigger, целевую длину, инструкцию старта и выход. В звуковой документации обычно есть номер, действие, timing и примечания. Такая точность полезнее, чем одна длинная музыка, которую пытаются применить ко всем сменам.",
+        "kaivorMusic.AI — это инструмент создания музыки с AI, который превращает письменное направление в черновики для прослушивания и сравнения. В AI Music Generator сначала укажите драматическую задачу, затем длину, пульс, инструменты, движение energy и исключения: https://kaivormusic.ai/ru/ai-music-generator . Например: «18-секундное кью для смены, ночная улица, щётки и далёкое electric piano, небольшой подъём, чёткий конец, без вокала».",
+        "Сделайте три небольших семейства кью вместо одной перегруженной дорожки. Для 12-секундного blackout нужны мгновенно узнаваемый характер и твёрдый конец. Для 30-секундной перестановки мебели нужна стабильная середина, выдерживающая несколько лишних секунд. Для открытия нужен управляемый fade. Дайте разные имена: loop не заменяет кью с известным окончанием.",
+        "Проверьте каждый draft в зале с людьми, которые двигают декорации. Посмотрите, успевает ли первый звук прикрыть первое движение, не мешает ли акцент реплике и оставляет ли конец нужное настроение. Записывайте реальные времена после репетиции, а не предполагаемые на монтажной шкале. Для нестабильной смены держите backup без эффекта в последнюю секунду.",
+        "FAQ: нужна ли музыка для каждой смены? Нет, тишина может быть сильнее. Привязывать кью к реплике или действию? Выберите trigger, который вызывающий и оператор уверенно узнают, и запишите его. Можно ли сразу публично использовать AI-черновик? Нет. Проверьте условия, правила площадки или школы, договоры, правила платформ и задачу: https://kaivormusic.ai/ru/tos . Хорошее кью команда может одинаково вызвать, услышать и завершить каждый раз."
+      ]
+    },
+    "zh": {
+      "title": "如何制作舞台换景时可被准确调用的 AI 音乐提示",
+      "description": "为戏剧换景制作短 AI 音乐提示的实用流程：清晰起点、可用时长、排练记录，以及谨慎的公开使用核查。",
+      "summary": "先为每次转场定义一个可见任务，再和实际搬动布景的团队一起在现场测试。",
+      "body": [
+        "当工作人员在安静中搬一张桌子、下一位演员在侧台等待时，换景会显得比实际更长。音乐能给这段空白一个形状，但好听的曲子不等于可用的 cue。它需要一个明确任务：遮住转场、托住 blackout、重置空间气氛，或带观众进入下一个地点。",
+        "在做声音前先写 cue sheet。每个转场记录 SQ 4 这样的编号、剧本页或可见的 trigger、目标时长、开始指令和退出方式。舞台音响文档通常会记下编号、动作、timing和备注。这种清楚的记录比让一首长音乐勉强适配所有换景更有用。",
+        "kaivorMusic.AI 是把文字音乐方向转为可试听、可比较草稿的 AI 音乐创作工具。在 AI Music Generator 中，先写戏剧任务，再写时长、pulse、乐器、energy变化和排除项： https://kaivormusic.ai/zh/ai-music-generator 。例如：‘18秒换景 cue，夜晚街道，brush percussion和遥远的 electric piano，小幅上扬，明确收尾，无人声。’",
+        "不要只做一首塞满元素的曲子，而是做三组小 cue。12秒 blackout需要立刻可辨认的声音身份和坚定结尾；30秒搬家具需要稳定的中段，允许多出几秒；开场 cue 需要可控的 fade。给它们不同的名字，不要以为 loop 能替代有已知终点的 cue。",
+        "每个 draft 都要在现场和搬布景的人一起测试。看第一个声音是否及时覆盖第一个动作，accent是否分散台词注意力，结尾是否留下正确的情绪。排练后记录真实时长，而不是编辑时间线里的想象时长。若换景不稳定，准备一个没有最后一击效果的 backup 版本。",
+        "FAQ：每次换景都需要音乐吗？不需要，安静有时更有力量。cue 应跟随台词还是动作？选择调用者和 operator 都能可靠识别的 trigger，并写下来。AI draft 可以不经其他检查就公开演出吗？不可以。使用前查看条款、剧场或学校政策、合同、平台规则和实际用途： https://kaivormusic.ai/zh/tos 。真正有用的 cue，是团队每次都能一致调用、听见并结束的 cue。"
+      ]
+    },
+    "ar": {
+      "title": "إنشاء إشارات موسيقى AI لتبديل مشاهد المسرح يمكن للفريق تنفيذها",
+      "description": "مسار عملي لإشارات موسيقى AI قصيرة لتبديل المشاهد: بداية واضحة ومدة نافعة وملاحظات بروفة وفحص متأنٍ للاستخدام العلني.",
+      "summary": "امنح كل انتقال وظيفة واضحة ثم اختبره في القاعة مع من ينقلون الديكور، لا عبر السماعات فقط.",
+      "body": [
+        "قد يبدو تبديل المشهد أطول مما هو عليه حين ينقل الفريق طاولة في صمت وينتظر الممثل التالي في الكواليس. تستطيع الموسيقى أن تمنح هذه الفجوة شكلاً، لكن المسار الجميل ليس إشارة قابلة للاستخدام تلقائياً. يحتاج إلى وظيفة واحدة: تغطية النقل، حمل blackout، إعادة ضبط المكان، أو قيادة الجمهور إلى الموقع التالي.",
+        "اكتب cue sheet قبل إنشاء الصوت. لكل انتقال دوّن رقماً مثل SQ 4، وصفحة النص أو trigger مرئياً، والمدة المستهدفة، وتعليمات البدء والخروج. تسجل وثائق الصوت المسرحية عادة الرقم والفعل والتوقيت والملاحظات. هذا الانضباط أنفع من محاولة جعل موسيقى طويلة تناسب كل تبديل.",
+        "kaivorMusic.AI أداة لإنشاء الموسيقى بالذكاء الاصطناعي تحول التوجيه المكتوب إلى مسودات يمكن سماعها ومقارنتها. في AI Music Generator اكتب أولاً الوظيفة الدرامية، ثم المدة والنبض والآلات وحركة الطاقة وما تريد تجنبه: https://kaivormusic.ai/ar/ai-music-generator . مثال: «إشارة تبديل 18 ثانية، شارع ليلي، brush percussion وelectric piano بعيد، ارتفاع صغير، نهاية واضحة، بلا غناء».",
+        "اصنع ثلاث عائلات صغيرة من الإشارات بدلاً من مسار واحد مزدحم. يحتاج blackout لمدة 12 ثانية إلى هوية فورية ونهاية حاسمة. يحتاج نقل الأثاث لمدة 30 ثانية إلى وسط ثابت يتحمل ثواني إضافية. تحتاج إشارة الافتتاح إلى fade يمكن التحكم به. سمِّها بأسماء مختلفة؛ لا يحل loop محل إشارة ذات نهاية معلومة.",
+        "شغّل كل draft في القاعة مع الأشخاص الذين ينقلون الديكور. راقب هل يصل الصوت الأول في وقت يغطي الحركة الأولى، وهل يشتت accent سطراً من الحوار، وهل تترك النهاية الحالة العاطفية المناسبة. سجل الأوقات الفعلية بعد البروفة لا الأوقات المتخيلة في التحرير. احتفظ بنسخة backup بلا مؤثر أخير عندما يكون التبديل متغيراً.",
+        "FAQ: هل يحتاج كل تبديل إلى موسيقى؟ لا، فقد يكون الصمت أقوى. هل تتبع الإشارة كلاماً أم حركة؟ اختر trigger يستطيع منادي الإشارات وoperator التعرف إليه بثبات واكتبه. هل يمكن استخدام مسودة AI علناً بلا تفكير إضافي؟ لا. راجع الشروط وسياسة المسرح أو المدرسة والعقود وقواعد المنصة والاستخدام المقصود: https://kaivormusic.ai/ar/tos . الإشارة المفيدة هي التي يستطيع الفريق نداءها وسماعها وإنهاءها باستمرار."
+      ]
+    }
+  }
+}
