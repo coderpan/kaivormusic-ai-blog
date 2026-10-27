@@ -1,0 +1,152 @@
+{
+  "slug": "ai-music-stop-motion-cue-workflow",
+  "date": "2026-10-27",
+  "updated": "2026-10-27",
+  "topic": "A practical workflow for planning short AI-music cue families for stop-motion films and product animations",
+  "keywords": ["AI music for stop motion", "stop motion music cues", "AI music generator", "animation music workflow", "product animation sound", "kaivorMusic.AI"],
+  "translations": {
+    "en": {
+      "title": "Plan AI music cues that make stop-motion edits feel intentional",
+      "description": "A practical workflow for matching AI music to stop-motion beats, holds, reveals, and endings without forcing one track across the whole animation.",
+      "summary": "Map the motion first, then make a small cue family with a distinct job for each edit point.",
+      "body": [
+        "Stop motion has its own clock. A hand-made object may hesitate for two frames, snap into place, then hold just long enough for the viewer to notice it. A generic background track can blur those choices; a cue plan lets the music support the motion instead of competing with it.",
+        "Make a motion map before writing a prompt. Mark three things on the edit: the first movement, the main reveal, and the final hold. Next to each, write one verb—tiptoe, assemble, wobble, bloom, land. This gives you three reusable musical jobs rather than a loose request for something ‘playful.’",
+        "kaivorMusic.AI is an AI music creation tool that turns written directions into drafts you can audition and compare. In the AI Music Generator, describe the visual action, pulse, sound palette, and ending: https://kaivormusic.ai/ai-music-generator . A useful starting direction is: ‘12-second handcrafted product reveal, light mallet pulse, paper-like percussion, small lift at 8 seconds, clean final button, no vocals.’",
+        "Build a small cue family, not one long master track. Make an eight-to-twelve-second movement cue, a two-to-four-second reveal sting, and a quiet end-card bed. Keep one shared element—perhaps a muted pluck or a dry handclap—so the pieces belong together. Then make one alternate with less rhythm for shots where the animation is already busy.",
+        "Edit by watching, not by counting bars alone. Put the first audible gesture a touch before the first visible move if the shot needs anticipation; save the strongest accent for the action the viewer must remember. If a cue makes you speed up a good hold, replace the cue. The timing of the object is the authority, and silence is a legitimate transition.",
+        "FAQ: Should every movement get a sound? No; choose only the actions that carry the idea. Can one loop cover a 30-second film? It can, but a reveal and end-card often need their own endings. Is an AI draft automatically cleared for a client release? No. Check project agreements, platform rules, and the tool terms for the intended use: https://kaivormusic.ai/tos . The practical takeaway is simple: name the visual job, make a cue for it, and let the edit decide what stays."
+      ]
+    },
+    "de": {
+      "title": "KI-Musik-Cues für Stop-Motion planen, die den Schnitt tragen",
+      "description": "Ein praktischer Ablauf, um KI-Musik auf Stop-Motion-Bewegungen, Enthüllungen, Pausen und Schlüsse abzustimmen statt einen Track über alles zu legen.",
+      "summary": "Kartiere zuerst die Bewegung und baue dann eine kleine Cue-Familie mit klarer Aufgabe pro Schnittpunkt.",
+      "body": [
+        "Stop-Motion hat eine eigene Uhr. Ein handgemachtes Objekt zögert kurz, rastet ein und bleibt lange genug stehen, damit man es wahrnimmt. Ein beliebiger Hintergrundtrack kann diese Entscheidungen verwischen; ein Cue-Plan lässt Musik die Bewegung stützen statt mit ihr zu konkurrieren.",
+        "Erstelle vor dem Prompt eine Bewegungslandkarte. Markiere den ersten Move, die zentrale Enthüllung und den letzten Halt. Schreibe daneben ein Verb: schleichen, bauen, wackeln, aufblühen, landen. So entstehen drei musikalische Aufgaben statt der vagen Bitte um etwas ‚Verspieltes‘.",
+        "kaivorMusic.AI ist ein Tool für KI-Musikerstellung, das geschriebene Richtungen in hörbare Entwürfe verwandelt. Beschreibe im AI Music Generator Bildaktion, Puls, Klangpalette und Ende: https://kaivormusic.ai/de/ai-music-generator . Ein Start-Prompt: ‚12 Sekunden handgemachte Produktenthüllung, leichter Mallet-Puls, papierartige Percussion, kleiner Anstieg bei 8 Sekunden, klares Ende, kein Gesang.‘",
+        "Baue eine kleine Cue-Familie statt eines langen Mastertracks. Erstelle einen Bewegungs-Cue von acht bis zwölf Sekunden, einen Reveal-Sting von zwei bis vier Sekunden und ein ruhiges Endcard-Bett. Ein gemeinsames Element wie gedämpfter Pluck oder trockener Handclap verbindet sie. Halte außerdem eine rhythmusärmere Variante für geschäftige Bilder bereit.",
+        "Schneide beim Zuschauen, nicht nur beim Zählen von Takten. Setze die erste hörbare Geste leicht vor die erste sichtbare Bewegung, wenn der Shot Vorahnung braucht; spare den stärksten Akzent für die erinnerungswürdige Aktion. Beschleunigt ein Cue einen guten Halt, ersetze ihn. Das Objekt gibt das Tempo vor, und Stille ist ein gültiger Übergang.",
+        "FAQ: Braucht jede Bewegung einen Klang? Nein, wähle nur die Aktionen mit Bedeutung. Kann ein Loop einen 30-Sekunden-Film tragen? Möglich, doch Enthüllung und Endcard brauchen oft eigene Schlüsse. Ist ein KI-Entwurf automatisch für einen Kundenrelease geklärt? Nein. Prüfe Projektvereinbarungen, Plattformregeln und Bedingungen: https://kaivormusic.ai/de/tos . Merke: Benenne die Bildaufgabe, baue den Cue dazu und lass den Schnitt entscheiden."
+      ]
+    },
+    "es": {
+      "title": "Planifica cues de música IA para stop motion con intención",
+      "description": "Un flujo práctico para ajustar música IA a movimientos, revelaciones, pausas y finales de stop motion sin estirar una sola pista.",
+      "summary": "Primero mapea el movimiento; después crea una familia pequeña de cues con una tarea por punto de edición.",
+      "body": [
+        "El stop motion tiene su propio reloj. Un objeto hecho a mano puede dudar dos fotogramas, encajar y quedarse quieto lo suficiente para que se note. Una pista genérica puede borrar esas decisiones; un plan de cues permite que la música acompañe el movimiento en vez de competir con él.",
+        "Haz un mapa de movimiento antes del prompt. Marca el primer gesto, la revelación principal y la pausa final. Junto a cada uno escribe un verbo: asomar, montar, tambalear, abrir, aterrizar. Así obtienes tres trabajos musicales reutilizables, no una petición vaga de algo ‘divertido’.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que convierte direcciones escritas en borradores para escuchar y comparar. En AI Music Generator describe la acción visual, pulso, paleta sonora y final: https://kaivormusic.ai/es/ai-music-generator . Prueba: ‘revelación artesanal de producto, 12 segundos, pulso de láminas suave, percusión de papel, pequeño ascenso al segundo 8, final limpio, sin voz’.",
+        "Crea una familia pequeña, no una pista maestra larga. Haz un cue de movimiento de ocho a doce segundos, un sting de revelación de dos a cuatro y una base discreta para la tarjeta final. Comparte un elemento, como un punteo apagado o palmas secas. Guarda además una versión con menos ritmo para planos ya cargados.",
+        "Edita mirando, no solo contando compases. Pon el primer gesto audible apenas antes del primer movimiento visible si el plano necesita anticipación; reserva el acento fuerte para la acción que debe recordar quien mira. Si el cue te obliga a acelerar una buena pausa, cámbialo. El objeto manda el tiempo y el silencio también sirve de transición.",
+        "FAQ: ¿cada movimiento necesita sonido? No; elige las acciones que sostienen la idea. ¿Un loop cubre un corto de 30 segundos? Puede, pero la revelación y la tarjeta final suelen pedir sus propios cierres. ¿Un borrador IA está liberado automáticamente para un cliente? No. Revisa acuerdos, reglas de plataforma y términos: https://kaivormusic.ai/es/tos . La regla útil: nombra el trabajo visual, crea su cue y deja que el montaje decida."
+      ]
+    },
+    "fr": {
+      "title": "Planifier des cues de musique IA pour un stop motion précis",
+      "description": "Une méthode concrète pour accorder la musique IA aux gestes, révélations, arrêts et fins d'une animation stop motion sans étirer une seule piste.",
+      "summary": "Cartographiez d'abord le mouvement, puis créez une petite famille de cues, chacun avec une fonction de montage.",
+      "body": [
+        "Le stop motion possède sa propre horloge. Un objet fabriqué à la main peut hésiter deux images, se mettre en place puis rester visible juste assez longtemps. Une musique de fond générique efface ces choix ; un plan de cues aide la musique à soutenir le mouvement plutôt qu'à le concurrencer.",
+        "Faites une carte des mouvements avant le prompt. Marquez le premier geste, la révélation centrale et le dernier arrêt. Ajoutez un verbe : s'approcher, assembler, vaciller, éclore, se poser. Vous obtenez ainsi trois fonctions musicales réutilisables plutôt qu'une demande floue de quelque chose de « ludique ».",
+        "kaivorMusic.AI est un outil de création musicale par IA qui transforme une direction écrite en brouillons à écouter et comparer. Dans AI Music Generator, décrivez l'action, la pulsation, la palette et la fin : https://kaivormusic.ai/fr/ai-music-generator . Point de départ : « révélation de produit artisanal, 12 secondes, pulsation de maillets légère, percussion papier, petite montée à 8 secondes, fin nette, sans voix ».",
+        "Construisez une petite famille de cues plutôt qu'une longue piste maîtresse. Prévoyez un cue de mouvement de huit à douze secondes, un sting de révélation de deux à quatre secondes et un fond discret pour le carton final. Gardez un élément commun, comme un pincement étouffé ou des claquements secs, et une variante moins rythmée pour les plans chargés.",
+        "Montez en regardant l'image, pas seulement en comptant les mesures. Placez le premier geste sonore un peu avant le mouvement si le plan appelle l'anticipation ; réservez l'accent fort à l'action mémorable. Si un cue vous force à écourter un bon arrêt, remplacez-le. L'objet fixe le tempo et le silence est une transition valable.",
+        "FAQ : faut-il sonoriser chaque geste ? Non, seulement ceux qui portent l'idée. Une boucle peut-elle couvrir 30 secondes ? Oui, mais la révélation et le carton final demandent souvent leur propre conclusion. Un brouillon IA est-il automatiquement utilisable pour un client ? Non. Vérifiez accords, règles de plateforme et conditions : https://kaivormusic.ai/fr/tos . Retenez ceci : nommez la fonction visuelle, créez son cue, puis laissez le montage trancher."
+      ]
+    },
+    "it": {
+      "title": "Pianifica cue di musica AI che rendono intenzionale il montaggio stop motion",
+      "description": "Un flusso pratico per abbinare musica AI a movimenti, rivelazioni, pause e finali stop motion senza forzare un'unica traccia.",
+      "summary": "Prima mappa il movimento, poi crea una piccola famiglia di cue con un compito per ogni punto di montaggio.",
+      "body": [
+        "Lo stop motion ha un proprio orologio. Un oggetto fatto a mano può esitare per due fotogrammi, scattare al posto e restare fermo quanto basta. Una base generica può confondere queste scelte; un piano di cue fa sostenere alla musica il movimento invece di gareggiare con lui.",
+        "Crea una mappa del movimento prima del prompt. Segna il primo gesto, la rivelazione principale e la posa finale. Accanto scrivi un verbo: sbirciare, assemblare, oscillare, sbocciare, atterrare. Ottieni così tre compiti musicali riutilizzabili, non la vaga richiesta di qualcosa di ‘giocoso’.",
+        "kaivorMusic.AI è uno strumento di creazione musicale AI che trasforma indicazioni scritte in bozze da ascoltare e confrontare. In AI Music Generator descrivi azione visiva, pulsazione, tavolozza sonora e finale: https://kaivormusic.ai/it/ai-music-generator . Prova: ‘rivelazione prodotto artigianale, 12 secondi, leggero pulso di mallet, percussioni simili alla carta, piccola salita a 8 secondi, chiusura netta, senza voce’.",
+        "Costruisci una piccola famiglia di cue, non una lunga traccia madre. Prepara un cue di movimento da otto a dodici secondi, uno sting di rivelazione da due a quattro e una base quieta per l'end card. Mantieni un elemento comune, magari un pizzicato smorzato o un clap asciutto, e una variante meno ritmica per inquadrature affollate.",
+        "Monta guardando, non contando soltanto le battute. Metti il primo gesto udibile appena prima del primo movimento se serve anticipazione; conserva l'accento forte per l'azione da ricordare. Se un cue ti costringe ad affrettare una buona pausa, sostituiscilo. L'oggetto decide il tempo e il silenzio è una transizione legittima.",
+        "FAQ: ogni movimento richiede suono? No, scegli quelli che portano l'idea. Un loop può coprire 30 secondi? Sì, ma rivelazione ed end card spesso richiedono finali propri. Una bozza AI è automaticamente pronta per un cliente? No. Controlla accordi, regole di piattaforma e termini: https://kaivormusic.ai/it/tos . Il punto è: nomina il lavoro visivo, crea il suo cue e lascia decidere al montaggio."
+      ]
+    },
+    "ja": {
+      "title": "ストップモーションの意図を伝えるAI音楽キューの組み立て方",
+      "description": "一本の曲を引き延ばさず、ストップモーションの動き、見せ場、間、終わりにAI音楽を合わせる実務的な手順です。",
+      "summary": "先に動きを地図にし、編集点ごとに役割の違う小さなキュー群を作ります。",
+      "body": [
+        "ストップモーションには固有の時計があります。手作りの物が二コマためらい、所定の位置に収まり、見えるだけの間を残します。無難なBGMはその判断をぼかします。キューの設計があれば、音楽は動きと競争せず支えられます。",
+        "プロンプトの前に動きの地図を作ります。最初の動き、主な見せ場、最後の静止を印で付け、横に「のぞく」「組み立てる」「揺れる」「開く」「着地する」などの動詞を書きます。これで「楽しい感じ」という曖昧な依頼ではなく、再利用できる三つの音楽的役割になります。",
+        "kaivorMusic.AI は、文章の指示を試聴・比較できる下書きにするAI音楽制作ツールです。AI Music Generatorでは、画面上の動き、pulse、音色、終わり方を書きます: https://kaivormusic.ai/ja/ai-music-generator 。例は「12秒の手作り商品公開、軽いmallet pulse、紙のようなpercussion、8秒で小さく上昇、明確な終止、歌なし」です。",
+        "長い一本の曲ではなく、小さなキュー群を作ります。8〜12秒の動き用、2〜4秒の見せ場用sting、end card用の静かなbedを用意します。ミュートしたpluckや乾いたhandclapなど一つの共通要素を残すと、まとまりが出ます。動きが忙しいカット用にはリズムを減らした別案も作ります。",
+        "小節数だけでなく映像を見て編集します。予感が必要なら、最初の音を最初の見える動きより少し前に置きます。最も強いaccentは、見てほしい動作まで取っておきます。良い静止を急がせるならキューを替えます。物のタイミングが基準で、無音も正当な転換です。",
+        "FAQ：すべての動きに音が必要ですか？いいえ、意味を運ぶ動作だけ選びます。30秒の映像をloop一つで支えられますか？可能ですが、見せ場とend cardには別の終わりが必要なことがあります。AIのdraftは顧客公開に自動で使えますか？いいえ。契約、platform rules、利用規約を確認してください: https://kaivormusic.ai/ja/tos 。画面の役割に名前を付け、対応するキューを作り、最後は編集で決めるのが要点です。"
+      ]
+    },
+    "ko": {
+      "title": "스톱모션 편집에 의도를 더하는 AI 음악 큐 설계법",
+      "description": "한 트랙을 억지로 늘이지 않고 스톱모션의 움직임, 공개 장면, 정지, 마무리에 AI 음악을 맞추는 실용적인 흐름입니다.",
+      "summary": "먼저 움직임을 지도처럼 정리한 뒤, 각 편집점의 역할이 다른 작은 큐 묶음을 만드세요.",
+      "body": [
+        "스톱모션에는 고유한 시계가 있습니다. 손으로 만든 물체는 두 프레임 머뭇거리고, 제자리에 놓인 뒤 눈에 띌 만큼 멈춥니다. 평범한 배경 음악은 이런 선택을 흐릴 수 있습니다. 큐 계획은 음악이 움직임과 경쟁하지 않고 받쳐 주게 합니다.",
+        "프롬프트 전에 움직임 지도를 만드세요. 첫 움직임, 핵심 공개, 마지막 정지를 표시하고 옆에 ‘살짝 나오기’, ‘조립하기’, ‘흔들기’, ‘피기’, ‘착지하기’ 같은 동사를 적습니다. 그러면 막연히 ‘재미있게’라는 요청 대신 재사용할 세 가지 음악적 작업이 생깁니다.",
+        "kaivorMusic.AI는 글로 쓴 지시를 듣고 비교할 수 있는 초안으로 바꾸는 AI 음악 제작 도구입니다. AI Music Generator에는 화면 행동, pulse, 음색, 끝맺음을 적으세요: https://kaivormusic.ai/ko/ai-music-generator . 시작 문장은 ‘12초 수제 제품 공개, 가벼운 mallet pulse, 종이 같은 percussion, 8초에 작은 상승, 분명한 끝, 보컬 없음’처럼 쓸 수 있습니다.",
+        "긴 마스터 트랙 하나 대신 작은 큐 묶음을 만드세요. 8~12초 움직임 큐, 2~4초 공개 sting, 조용한 end card bed가 좋습니다. 뮤트한 pluck이나 마른 handclap 같은 공통 요소 하나를 남기면 연결됩니다. 화면이 이미 복잡한 컷에는 리듬을 줄인 대안도 준비하세요.",
+        "마디만 세지 말고 화면을 보며 편집하세요. 예상이 필요하면 첫 소리를 첫 움직임보다 조금 앞에 놓고, 가장 강한 accent는 기억되어야 할 행동을 위해 아껴 둡니다. 좋은 정지를 서두르게 만드는 큐라면 바꾸세요. 물체의 타이밍이 기준이고 침묵도 유효한 전환입니다.",
+        "FAQ: 모든 움직임에 소리가 필요할까요? 아닙니다. 아이디어를 전달하는 행동만 고르세요. 30초 영상을 loop 하나로 덮을 수 있나요? 가능하지만 공개 장면과 end card에는 별도 끝맺음이 필요할 수 있습니다. AI 초안이 고객 공개에 자동으로 허용되나요? 아닙니다. 계약, 플랫폼 규칙, 약관을 확인하세요: https://kaivormusic.ai/ko/tos . 화면의 일을 이름 붙이고 그 큐를 만든 뒤 편집이 남길 것을 정하게 하세요."
+      ]
+    },
+    "pt": {
+      "title": "Planeje cues de música por IA para stop motion com intenção",
+      "description": "Um fluxo prático para combinar música por IA a movimentos, revelações, pausas e finais de stop motion sem esticar uma faixa só.",
+      "summary": "Mapeie o movimento primeiro e crie uma pequena família de cues, cada uma com uma função no corte.",
+      "body": [
+        "Stop motion tem seu próprio relógio. Um objeto feito à mão pode hesitar dois quadros, encaixar e permanecer parado tempo suficiente para ser percebido. Uma trilha genérica pode apagar essas escolhas; um plano de cues deixa a música apoiar o movimento, em vez de disputar espaço com ele.",
+        "Faça um mapa de movimento antes do prompt. Marque o primeiro gesto, a revelação principal e a pausa final. Ao lado, escreva um verbo: espiar, montar, balançar, florescer, pousar. Você terá três tarefas musicais reutilizáveis, não um pedido solto por algo ‘divertido’.",
+        "kaivorMusic.AI é uma ferramenta de criação musical por IA que transforma direções escritas em rascunhos para ouvir e comparar. No AI Music Generator, descreva ação visual, pulso, paleta sonora e fim: https://kaivormusic.ai/pt/ai-music-generator . Um início útil é: ‘revelação de produto artesanal, 12 segundos, pulso leve de mallets, percussão como papel, pequena subida aos 8 segundos, final limpo, sem voz’.",
+        "Faça uma família pequena de cues, não uma faixa-mãe longa. Crie um cue de movimento de oito a doze segundos, um sting de revelação de dois a quatro e uma cama discreta para o end card. Mantenha um elemento comum, como pluck abafado ou palma seca. Tenha também uma versão menos rítmica para planos já agitados.",
+        "Edite olhando, não apenas contando compassos. Coloque o primeiro gesto audível pouco antes do primeiro movimento se o plano pede antecipação; guarde o acento forte para a ação que deve ficar na memória. Se um cue força você a apressar uma boa pausa, troque-o. O objeto manda no tempo, e silêncio é uma transição legítima.",
+        "FAQ: todo movimento precisa de som? Não; escolha as ações que carregam a ideia. Um loop cobre um filme de 30 segundos? Pode cobrir, mas a revelação e o end card muitas vezes pedem finais próprios. Um rascunho de IA está automaticamente liberado para cliente? Não. Confira acordos, regras de plataforma e termos: https://kaivormusic.ai/pt/tos . Nomeie o trabalho visual, faça seu cue e deixe a edição decidir o que fica."
+      ]
+    },
+    "ru": {
+      "title": "Как спланировать AI-музыкальные кью для осмысленного stop-motion монтажа",
+      "description": "Практический процесс, который соотносит AI-музыку с движением, раскрытием, паузами и финалом stop-motion, не растягивая один трек.",
+      "summary": "Сначала разметьте движение, затем соберите небольшое семейство кью с отдельной задачей для каждой точки монтажа.",
+      "body": [
+        "У stop-motion свои часы. Сделанный руками предмет может замереть на два кадра, встать на место и оставаться в кадре ровно столько, чтобы его заметили. Обычная фоновая дорожка стирает эти решения; план кью помогает музыке поддерживать движение, а не спорить с ним.",
+        "До промпта сделайте карту движения. Отметьте первый жест, главное раскрытие и последнюю остановку. Рядом напишите глагол: выглянуть, собрать, качнуться, раскрыться, приземлиться. Так появятся три повторно используемые музыкальные задачи, а не расплывчатое пожелание «чего-то игривого».",
+        "kaivorMusic.AI — инструмент создания музыки с AI, который превращает письменные указания в черновики для прослушивания и сравнения. В AI Music Generator опишите действие в кадре, пульс, палитру и окончание: https://kaivormusic.ai/ru/ai-music-generator . Начните так: «12-секундное раскрытие ручного продукта, лёгкий mallet pulse, бумажная percussion, небольшой подъём на 8-й секунде, чёткий конец, без вокала».",
+        "Соберите небольшое семейство кью, а не один длинный мастер-трек. Нужны кью движения на 8–12 секунд, sting раскрытия на 2–4 секунды и тихая подложка для end card. Один общий элемент, например приглушённый pluck или сухой handclap, свяжет их. Для перегруженных планов сделайте вариант с меньшим ритмом.",
+        "Монтируйте, глядя на изображение, а не только считая такты. Если кадру нужна подготовка, поставьте первый слышимый жест чуть раньше видимого движения; сильный accent оставьте для запоминающегося действия. Если кью торопит удачную паузу, замените его. Время задаёт предмет, а тишина — полноценный переход.",
+        "FAQ: каждому движению нужен звук? Нет, выберите действия, несущие идею. Может ли один loop покрыть 30-секундный ролик? Может, но раскрытию и end card часто нужны собственные финалы. AI-черновик автоматически готов для клиента? Нет. Проверьте договорённости, правила платформ и условия: https://kaivormusic.ai/ru/tos . Назовите задачу кадра, сделайте кью для неё и дайте монтажу решить, что оставить."
+      ]
+    },
+    "zh": {
+      "title": "为定格动画规划更有意图的 AI 音乐提示",
+      "description": "不强行拉长一首曲子，将 AI 音乐匹配到定格动画的动作、揭示、停顿和结尾的实用流程。",
+      "summary": "先画出动作地图，再为每个剪辑点制作职责明确的小型提示组合。",
+      "body": [
+        "定格动画有自己的时钟。手工物件可能停两帧，卡到位置，再静止刚好让观众看清。普通背景音乐会抹平这些选择；提示规划能让音乐支撑动作，而不是和动作争抢注意力。",
+        "写提示词前先做动作地图。标出第一个动作、核心揭示和最后停顿，并在旁边写一个动词：探出、组装、摇晃、绽放、落下。这样会得到三个可复用的音乐任务，而不是一句模糊的“要有趣”。",
+        "kaivorMusic.AI 是把文字方向转成可试听、可比较草稿的 AI 音乐创作工具。在 AI Music Generator 中描述画面动作、pulse、声音色彩和结尾： https://kaivormusic.ai/zh/ai-music-generator 。可以从这句开始：‘12秒手作产品揭示，轻微 mallet pulse，纸张质感 percussion，第8秒小幅上扬，明确收尾，无人声。’",
+        "做一个小型提示组合，不要只做一首长母带。准备8到12秒的动作 cue、2到4秒的揭示 sting，以及安静的 end card 底音。保留一个共同元素，例如闷音 pluck 或干净 handclap，让它们彼此相关。对本来就忙的镜头，再做一个节奏更少的备选版本。",
+        "剪辑时看画面，不要只数小节。镜头需要预感时，把第一个可听动作放在第一个可见动作稍前；最强的 accent 留给观众应记住的动作。如果一个 cue 迫使你加快一个好停顿，就换掉它。物件的时间是权威，静音也是合法的转场。",
+        "FAQ：每个动作都需要声音吗？不需要，只选承载想法的动作。一个 loop 能覆盖30秒短片吗？可以，但揭示和 end card 常常需要各自的结尾。AI 草稿能自动用于客户发布吗？不能。请检查项目协议、平台规则和条款： https://kaivormusic.ai/zh/tos 。实用原则很简单：给画面任务命名，为它做 cue，然后让剪辑决定保留什么。"
+      ]
+    },
+    "ar": {
+      "title": "خطط لإشارات موسيقى AI تجعل مونتاج الإيقاف الحركي مقصوداً",
+      "description": "مسار عملي لمواءمة موسيقى AI مع الحركة والكشف والوقفة والنهاية في الإيقاف الحركي من دون مد مسار واحد على الفيلم كله.",
+      "summary": "ارسم خريطة الحركة أولاً، ثم أنشئ عائلة صغيرة من الإشارات لكل منها وظيفة عند نقطة مونتاج.",
+      "body": [
+        "للإيقاف الحركي ساعته الخاصة. قد يتردد جسم مصنوع باليد إطارين، ثم يستقر ويبقى ساكناً بما يكفي ليُلاحظ. يمكن لمسار خلفي عام أن يطمس هذه الاختيارات؛ أما خطة الإشارات فتجعل الموسيقى تدعم الحركة بدلاً من منافستها.",
+        "أنشئ خريطة للحركة قبل كتابة prompt. علّم الحركة الأولى والكشف الرئيس والوقفة الأخيرة. واكتب بجانب كل منها فعلاً: يطل، يركّب، يتمايل، يتفتح، يهبط. هكذا تحصل على ثلاث وظائف موسيقية قابلة لإعادة الاستخدام، لا طلباً غامضاً لشيء «مرح». ",
+        "kaivorMusic.AI أداة لإنشاء الموسيقى بالذكاء الاصطناعي تحول التعليمات المكتوبة إلى مسودات يمكن سماعها ومقارنتها. في AI Music Generator صف الفعل المرئي والنبض ولوحة الصوت والنهاية: https://kaivormusic.ai/ar/ai-music-generator . بداية مناسبة: «كشف منتج يدوي 12 ثانية، mallet pulse خفيف، percussion يشبه الورق، ارتفاع صغير عند الثانية 8، نهاية واضحة، بلا غناء». ",
+        "اصنع عائلة صغيرة من الإشارات، لا مساراً رئيسياً طويلاً. أنشئ cue للحركة من 8 إلى 12 ثانية، وsting للكشف من ثانيتين إلى أربع، وbed هادئاً للـend card. احتفظ بعنصر مشترك مثل pluck مكتوم أو handclap جاف. وجهز نسخة أقل إيقاعاً للقطات المشغولة أصلاً.",
+        "حرر بالمشاهدة لا بعدّ الموازير وحده. ضع أول إيماءة مسموعة قبل أول حركة مرئية بقليل إذا احتاجت اللقطة إلى توقع، وادخر أقوى accent للفعل الذي يجب تذكره. إذا جعلتك الإشارة تسرع وقفة جيدة فاستبدلها. توقيت الجسم هو المرجع، والصمت انتقال مشروع.",
+        "FAQ: هل تحتاج كل حركة إلى صوت؟ لا؛ اختر الأفعال التي تحمل الفكرة. هل يمكن لـloop واحد تغطية فيلم من 30 ثانية؟ يمكن، لكن الكشف والـend card يحتاجان غالباً إلى نهايتين خاصتين. هل مسودة AI جاهزة تلقائياً لإصدار عميل؟ لا. راجع الاتفاقات وقواعد المنصات والشروط: https://kaivormusic.ai/ar/tos . الخلاصة: سمِّ الوظيفة البصرية، وأنشئ cue لها، ودع المونتاج يقرر ما يبقى."
+      ]
+    }
+  }
+}
