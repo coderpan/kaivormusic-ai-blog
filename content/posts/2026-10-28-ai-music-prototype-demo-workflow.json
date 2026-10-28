@@ -1,0 +1,152 @@
+{
+  "slug": "ai-music-prototype-demo-workflow",
+  "date": "2026-10-28",
+  "updated": "2026-10-28",
+  "topic": "A practical AI-music workflow for product prototype demos that preserves useful usability feedback",
+  "keywords": ["AI music for product prototypes", "prototype demo music", "AI music generator", "usability test soundtrack", "app demo audio", "kaivorMusic.AI"],
+  "translations": {
+    "en": {
+      "title": "Use AI music in a product prototype demo without steering the feedback",
+      "description": "A practical way for indie teams to sketch music for a product demo, compare it against silence, and keep usability feedback about the product rather than the soundtrack.",
+      "summary": "Give each short cue a job, test the silent cut first, and never let a polished bed disguise a confusing flow.",
+      "body": [
+        "A prototype can look more finished the moment a soft track starts, which is exactly why music needs care in a product demo. If a viewer feels momentum because of a rising pad, it is easy to mistake that feeling for confidence in the onboarding or checkout flow. The useful question is not ‘what music is cool?’ but ‘what does this cue help the viewer notice?’",
+        "Begin with a silent reference cut. Screen-record the complete task, then mark only three moments where sound could have a job: the opening context, one successful transition, and the final handoff. Watch the silent version with a colleague first. If the task is unclear without music, fix the interface or narration before writing a music prompt.",
+        "kaivorMusic.AI is an AI music creation tool for turning written directions into music drafts to audition and compare. In the AI Music Generator, give the cue a narrow brief rather than asking for ‘startup music’: https://kaivormusic.ai/ai-music-generator . For example: ‘18-second instrumental product walkthrough, restrained pulse, warm electric piano, no vocals, leave space for spoken labels, gentle lift at 12 seconds, clean ending.’",
+        "Make two deliberately different sketches, plus silence. One can be a light rhythmic bed and the other almost texture-only; keep the same length and edit points. Label them A, B, and silent rather than ‘exciting’ or ‘premium.’ During an internal review, ask what people understood, where they hesitated, and whether any cue pulled attention from a control. That comparison is more useful than voting on personal taste.",
+        "Treat prototype music as a removable layer. Avoid a dramatic rise just before a weak result, a click sound that implies success when the interface has not confirmed it, or a loop that masks a long wait. Apple’s interface guidance cautions against communicating important information only through sound, and W3C guidance on foreground speech is a good reminder to keep background audio low or switchable when speech carries the explanation. Keep captions, visible status, and the actual interaction doing the important work.",
+        "FAQ: Should music play during a usability test? Usually test the silent version first, then use sound only if audio is part of the intended experience. Does every screen need a cue? No; one opening bed and one transition often communicate more than constant audio. Can an AI draft go straight into a launch video? Not automatically—review the project agreement, distribution platform rules, and the tool terms for the intended use: https://kaivormusic.ai/tos . The takeaway: use music to frame a clear product story, not to make an unclear prototype feel solved."
+      ]
+    },
+    "de": {
+      "title": "KI-Musik in Produktprototypen einsetzen, ohne Feedback zu lenken",
+      "description": "Ein praktischer Ablauf für Indie-Teams: Musik für ein Produktdemo skizzieren, mit Stille vergleichen und Feedback beim Produkt statt beim Soundtrack halten.",
+      "summary": "Jeder kurze Cue braucht eine Aufgabe; teste zuerst die stille Fassung und lass kein Musikbett einen unklaren Ablauf verdecken.",
+      "body": [
+        "Ein Prototyp wirkt oft sofort fertiger, wenn ein sanfter Track beginnt. Genau deshalb braucht Musik im Produktdemo Zurückhaltung. Erzeugt ein ansteigendes Pad Momentum, wird dieses Gefühl leicht mit Vertrauen in Onboarding oder Checkout verwechselt. Die bessere Frage lautet nicht „Welche Musik ist cool?“, sondern „Was soll dieser Cue sichtbar machen?“",
+        "Beginne mit einer stillen Referenzfassung. Nimm den kompletten Ablauf auf und markiere nur drei Stellen: Einstieg, einen gelungenen Übergang und die Übergabe am Ende. Sieh die stille Fassung zuerst mit einer Kollegin oder einem Kollegen. Ist die Aufgabe ohne Musik unklar, verbessere Oberfläche oder Sprechertext, bevor du einen Prompt schreibst.",
+        "kaivorMusic.AI ist ein Tool für KI-Musikerstellung, das geschriebene Anweisungen in hörbare Entwürfe zum Vergleichen übersetzt. Gib im AI Music Generator dem Cue einen engen Auftrag statt nur „Startup-Musik“: https://kaivormusic.ai/de/ai-music-generator . Ein Beispiel: „18 Sekunden instrumentaler Produkt-Rundgang, zurückhaltender Puls, warmes E-Piano, kein Gesang, Platz für gesprochene Labels, leichte Steigerung bei 12 Sekunden, klares Ende.“",
+        "Erstelle zwei bewusst unterschiedliche Skizzen plus Stille. Eine darf ein leichter rhythmischer Teppich sein, die andere fast nur Textur; Länge und Schnittpunkte bleiben gleich. Nenne sie A, B und Stille, nicht „spannend“ oder „hochwertig“. Frage im internen Review, was verstanden wurde, wo Unsicherheit entstand und ob ein Cue von einem Bedienelement ablenkte.",
+        "Behandle Prototyp-Musik als abnehmbares Layer. Vermeide einen dramatischen Anstieg vor einem schwachen Ergebnis, einen Klick, der Erfolg behauptet, obwohl die Oberfläche ihn nicht bestätigt, oder einen Loop, der Wartezeit kaschiert. Apples Interface-Hinweise raten davon ab, wichtige Information nur über Ton zu vermitteln; W3C erinnert bei Sprache daran, Hintergrundaudio niedrig oder abschaltbar zu halten. Status, Untertitel und Interaktion müssen die entscheidende Arbeit leisten.",
+        "FAQ: Soll bei einem Usability-Test Musik laufen? Meist zuerst die stille Fassung testen; Ton nur einsetzen, wenn er zum vorgesehenen Erlebnis gehört. Braucht jeder Screen einen Cue? Nein, ein Einstieg und ein Übergang reichen oft. Kann ein KI-Entwurf direkt in ein Launch-Video? Nicht automatisch. Prüfe Vereinbarungen, Plattformregeln und die Bedingungen: https://kaivormusic.ai/de/tos . Musik soll eine klare Produktgeschichte rahmen, keinen unklaren Prototypen retten."
+      ]
+    },
+    "es": {
+      "title": "Usa música IA en una demo de prototipo sin sesgar el feedback",
+      "description": "Un método práctico para que equipos pequeños bosquejen música para una demo, la comparen con silencio y mantengan la evaluación centrada en el producto.",
+      "summary": "Da una función a cada cue, prueba primero el corte silencioso y no dejes que una base atractiva disimule un flujo confuso.",
+      "body": [
+        "Un prototipo puede parecer terminado en cuanto empieza una pista suave; justamente por eso la música exige cuidado. Si un pad ascendente crea sensación de avance, es fácil confundirla con confianza en el onboarding o el pago. La pregunta útil no es «¿qué música queda bien?», sino «¿qué ayuda a notar este cue?».",
+        "Empieza por una versión de referencia sin sonido. Graba la tarea completa y marca solo tres momentos donde el audio pueda tener un trabajo: contexto inicial, una transición lograda y el cierre. Mira primero la versión silenciosa con otra persona. Si la tarea no se entiende sin música, arregla interfaz o narración antes de escribir un prompt.",
+        "kaivorMusic.AI es una herramienta de creación musical con IA que convierte indicaciones escritas en borradores para escuchar y comparar. En AI Music Generator da al cue un encargo preciso, no solo «música startup»: https://kaivormusic.ai/es/ai-music-generator . Por ejemplo: «recorrido instrumental de producto de 18 segundos, pulso discreto, piano eléctrico cálido, sin voz, espacio para etiquetas habladas, leve subida en el segundo 12, final limpio».",
+        "Haz dos bocetos deliberadamente distintos, además del silencio. Uno puede tener ritmo ligero y otro ser casi solo textura; conserva duración y puntos de corte. Llámalos A, B y silencio, no «emocionante» o «premium». En la revisión interna pregunta qué entendieron, dónde dudaron y si algún cue apartó la atención de un control.",
+        "Trata la música de prototipo como una capa removible. Evita una subida dramática antes de un resultado débil, un clic que sugiera éxito si la interfaz no lo confirma o un loop que tape una espera larga. La guía de Apple aconseja no comunicar información importante solo con sonido; la orientación de W3C sobre voz en primer plano recuerda mantener bajo o desconectable el fondo. Los estados visibles, subtítulos e interacción deben hacer el trabajo importante.",
+        "FAQ: ¿debería sonar música en una prueba de usabilidad? Normalmente prueba primero en silencio y añade audio solo si forma parte de la experiencia prevista. ¿Cada pantalla necesita un cue? No; una entrada y una transición suelen bastar. ¿Un borrador IA puede ir directo a un vídeo de lanzamiento? No automáticamente: revisa acuerdos, normas de plataforma y términos: https://kaivormusic.ai/es/tos . La música debe enmarcar una historia clara, no hacer que un prototipo confuso parezca resuelto."
+      ]
+    },
+    "fr": {
+      "title": "Utiliser la musique IA dans une démo de prototype sans orienter les retours",
+      "description": "Une méthode pratique pour esquisser la musique d'une démo produit, la comparer au silence et garder les retours centrés sur le produit.",
+      "summary": "Donnez une fonction à chaque cue, testez d'abord le montage silencieux et ne masquez pas un parcours confus avec une belle nappe.",
+      "body": [
+        "Un prototype paraît parfois terminé dès qu'une musique douce démarre ; c'est précisément pourquoi il faut être prudent. Un pad montant peut donner un sentiment d'élan que l'on attribue à tort à l'onboarding ou au paiement. La bonne question n'est pas « quelle musique est sympa ? », mais « qu'aide à remarquer ce cue ? ».",
+        "Commencez par une version de référence silencieuse. Enregistrez la tâche complète, puis ne marquez que trois moments où le son peut servir : le contexte initial, une transition réussie et la conclusion. Regardez d'abord cette version avec un collègue. Si la tâche reste floue sans musique, corrigez l'interface ou la narration avant le prompt.",
+        "kaivorMusic.AI est un outil de création musicale par IA qui transforme des indications écrites en brouillons à écouter et comparer. Dans AI Music Generator, donnez au cue un rôle précis plutôt que de demander simplement « de la musique de startup » : https://kaivormusic.ai/fr/ai-music-generator . Exemple : « visite produit instrumentale de 18 secondes, pulsation discrète, piano électrique chaud, sans voix, espace pour libellés parlés, légère montée à 12 secondes, fin nette ».",
+        "Créez deux esquisses volontairement différentes, plus le silence. L'une peut avoir un léger rythme, l'autre être presque une texture ; gardez même durée et mêmes points de coupe. Appelez-les A, B et silence, pas « dynamique » ou « premium ». En revue interne, demandez ce qui a été compris, où l'on hésite et si un cue détourne d'un contrôle.",
+        "Considérez la musique du prototype comme une couche retirable. Évitez une montée dramatique avant un résultat faible, un clic qui suggère une réussite que l'interface ne confirme pas, ou une boucle qui masque une attente. Apple déconseille de communiquer une information importante par le seul son ; W3C rappelle, pour la parole au premier plan, de garder le fond faible ou désactivable. États visibles, sous-titres et interaction restent essentiels.",
+        "FAQ : faut-il de la musique pendant un test d'utilisabilité ? Testez généralement d'abord le silence et n'ajoutez le son que s'il fait partie de l'expérience prévue. Chaque écran a-t-il besoin d'un cue ? Non ; une entrée et une transition suffisent souvent. Un brouillon IA peut-il aller directement dans une vidéo de lancement ? Pas automatiquement : vérifiez accords, règles de plateforme et conditions : https://kaivormusic.ai/fr/tos . La musique doit cadrer une histoire produit claire, non sauver un prototype confus."
+      ]
+    },
+    "it": {
+      "title": "Usa musica AI in una demo di prototipo senza condizionare il feedback",
+      "description": "Un metodo pratico per piccoli team: abbozzare musica per una demo prodotto, confrontarla col silenzio e tenere il feedback sul prodotto.",
+      "summary": "Dai a ogni cue un compito, prova prima il montaggio silenzioso e non lasciare che una base gradevole nasconda un flusso confuso.",
+      "body": [
+        "Un prototipo può sembrare finito appena parte una base morbida; proprio per questo la musica va usata con attenzione. Se un pad in crescita crea slancio, si rischia di scambiarlo per fiducia nell'onboarding o nel checkout. La domanda utile non è «quale musica funziona?», ma «cosa aiuta a notare questo cue?».",
+        "Parti da una versione di riferimento senza suono. Registra l'intero compito e segna solo tre punti in cui l'audio può avere un lavoro: contesto iniziale, una transizione riuscita e chiusura. Guarda prima la versione silenziosa con un collega. Se il compito non è chiaro senza musica, correggi interfaccia o voce prima del prompt.",
+        "kaivorMusic.AI è uno strumento di creazione musicale AI che trasforma indicazioni scritte in bozze da ascoltare e confrontare. In AI Music Generator assegna al cue un incarico preciso invece di chiedere soltanto «musica da startup»: https://kaivormusic.ai/it/ai-music-generator . Per esempio: «tour prodotto strumentale di 18 secondi, pulso discreto, piano elettrico caldo, senza voce, spazio per etichette parlate, lieve salita a 12 secondi, finale netto».",
+        "Crea due bozze volutamente diverse, più il silenzio. Una può avere un ritmo leggero e l'altra essere quasi solo texture; mantieni durata e punti di taglio. Chiamale A, B e silenzio, non «coinvolgente» o «premium». Nella revisione interna chiedi cosa è stato capito, dove sono emersi dubbi e se un cue ha distolto da un controllo.",
+        "Tratta la musica del prototipo come un livello rimovibile. Evita una salita drammatica prima di un risultato debole, un clic che suggerisce successo quando l'interfaccia non lo conferma, o un loop che nasconde una lunga attesa. Apple sconsiglia di comunicare informazioni importanti solo col suono; W3C ricorda di mantenere basso o disattivabile il fondo quando c'è parlato. Stati visibili, sottotitoli e interazione devono fare il lavoro essenziale.",
+        "FAQ: la musica deve suonare in un test di usabilità? Di solito prova prima il silenzio e aggiungi audio solo se fa parte dell'esperienza prevista. Ogni schermata richiede un cue? No; spesso bastano apertura e transizione. Una bozza AI può finire subito in un video di lancio? Non automaticamente: controlla accordi, regole della piattaforma e termini: https://kaivormusic.ai/it/tos . La musica deve incorniciare una storia prodotto chiara, non far sembrare risolto un prototipo confuso."
+      ]
+    },
+    "ja": {
+      "title": "プロトタイプのデモにAI音楽を使い、フィードバックを誘導しない方法",
+      "description": "小さなチームが製品デモ用の音楽を試作し、無音版と比較して、評価をサウンドトラックではなく製品に向ける実務的な方法です。",
+      "summary": "短いキューごとに役割を決め、まず無音版を試し、分かりにくい導線を音楽で覆わないことが大切です。",
+      "body": [
+        "柔らかな音楽が始まるだけで、プロトタイプは完成に近く見えます。だからこそ製品デモでは扱いに注意が必要です。上昇するpadが勢いを生むと、その感覚をオンボーディングや決済導線への信頼と取り違えがちです。「格好いい音楽は何か」ではなく、「このキューで何に気付いてほしいか」を考えます。",
+        "無音の基準版から始めます。タスク全体を画面録画し、音に役割を与えられる場所を三つだけ印します。開始時の文脈、成功した遷移、最後の引き渡しです。まず同僚と無音版を見ます。音楽なしでタスクが伝わらないなら、promptの前にUIかナレーションを直します。",
+        "kaivorMusic.AI は、文章の指示を試聴・比較できる音楽の下書きにするAI音楽制作ツールです。AI Music Generatorでは「スタートアップ風」のような曖昧な依頼ではなく、キューの仕事を絞ります: https://kaivormusic.ai/ja/ai-music-generator 。例は「18秒の製品ウォークスルー用インスト、控えめなpulse、暖かいエレピ、歌なし、話すラベルの余白、12秒で小さく上昇、明確な終止」です。",
+        "意図的に違う二案と無音版を作ります。一方は軽いリズム、もう一方はほぼtextureにし、長さと編集点は同じにします。「高級」「わくわく」ではなくA、B、無音と呼びます。社内レビューでは、何を理解したか、どこで迷ったか、キューが操作要素から注意を逸らしたかを聞きます。好みの投票より役立つ比較です。",
+        "プロトタイプの音楽は外せるlayerとして扱います。弱い結果の直前に劇的な盛り上がりを置く、UIが確認していない成功をclick音で示す、長い待ち時間をloopで隠す、といった使い方は避けます。Appleの指針は重要情報を音だけで伝えないよう促しています。W3Cの音声ガイダンスも、説明を話すなら背景音を低く、または切れるようにする参考になります。表示、字幕、実際の操作が重要な役割を担います。",
+        "FAQ：ユーザビリティテスト中に音楽を流すべきですか？通常は無音版を先に試し、音が本来の体験の一部である場合だけ追加します。画面ごとにキューは必要ですか？いいえ、開始と一つの遷移で十分なことが多いです。AIの下書きをそのまま公開動画に使えますか？自動的には使えません。用途に対して契約、配信先のルール、利用規約を確認してください: https://kaivormusic.ai/ja/tos 。音楽は明確な製品ストーリーを支えるもので、曖昧なプロトタイプを解決済みに見せるものではありません。"
+      ]
+    },
+    "ko": {
+      "title": "피드백을 유도하지 않는 제품 프로토타입 데모용 AI 음악 활용법",
+      "description": "작은 팀이 제품 데모용 음악을 스케치하고 무음 버전과 비교해, 평가가 사운드트랙이 아닌 제품에 머물도록 하는 실용적인 방법입니다.",
+      "summary": "짧은 큐마다 역할을 정하고 무음 편집본부터 테스트하며, 좋은 배경 음악으로 혼란스러운 흐름을 가리지 마세요.",
+      "body": [
+        "부드러운 음악이 시작되는 순간 프로토타입은 더 완성되어 보일 수 있습니다. 그래서 제품 데모의 음악은 신중해야 합니다. 올라가는 pad가 추진감을 만들면, 그 느낌을 온보딩이나 결제 흐름에 대한 신뢰로 오해하기 쉽습니다. ‘멋진 음악이 무엇인가’보다 ‘이 큐가 무엇을 알아차리게 하는가’를 묻는 편이 낫습니다.",
+        "무음 기준본으로 시작하세요. 전체 작업을 화면 녹화한 뒤 소리에 역할을 줄 곳을 세 군데만 표시합니다. 시작 맥락, 성공한 전환, 마지막 전달입니다. 동료와 먼저 무음 버전을 보세요. 음악 없이 작업이 명확하지 않다면 프롬프트 전에 인터페이스나 내레이션을 고쳐야 합니다.",
+        "kaivorMusic.AI는 글로 쓴 지시를 듣고 비교할 수 있는 음악 초안으로 바꾸는 AI 음악 제작 도구입니다. AI Music Generator에서는 ‘스타트업 음악’처럼 넓게 요청하지 말고 큐의 일을 좁혀 적으세요: https://kaivormusic.ai/ko/ai-music-generator . 예시는 ‘18초 제품 워크스루용 인스트루멘털, 절제된 pulse, 따뜻한 일렉트릭 피아노, 보컬 없음, 말하는 라벨을 위한 여백, 12초에 가벼운 상승, 분명한 마무리’입니다.",
+        "의도적으로 다른 두 스케치와 무음 버전을 만드세요. 하나는 가벼운 리듬, 다른 하나는 거의 texture만 사용하되 길이와 편집점은 같습니다. ‘고급스러운’, ‘흥미로운’ 대신 A, B, 무음으로 부르세요. 내부 리뷰에서는 무엇을 이해했는지, 어디서 망설였는지, 어떤 큐가 컨트롤에서 시선을 빼앗았는지를 묻습니다. 취향 투표보다 유용합니다.",
+        "프로토타입 음악은 언제든 뺄 수 있는 layer로 다루세요. 약한 결과 직전에 극적인 상승을 넣거나, UI가 확인하지 않은 성공을 click 소리로 암시하거나, 긴 대기 시간을 loop로 가리는 일은 피하세요. Apple 지침은 중요한 정보를 소리만으로 전달하지 말라고 합니다. W3C의 음성 안내도 설명이 중심일 때 배경음을 낮추거나 끌 수 있게 하라는 좋은 기준입니다. 보이는 상태, 자막, 실제 상호작용이 중요한 일을 해야 합니다.",
+        "FAQ: 사용성 테스트 중 음악을 틀어야 하나요? 보통은 무음 버전을 먼저 테스트하고, 소리가 의도된 경험의 일부일 때만 추가합니다. 모든 화면에 큐가 필요한가요? 아닙니다. 시작과 한 번의 전환이면 충분한 경우가 많습니다. AI 초안을 바로 출시 영상에 써도 되나요? 자동으로 가능하지 않습니다. 용도에 맞춰 계약, 플랫폼 규칙, 약관을 확인하세요: https://kaivormusic.ai/ko/tos . 음악은 명확한 제품 이야기를 받쳐야지, 혼란스러운 프로토타입을 해결된 것처럼 보이게 해서는 안 됩니다."
+      ]
+    },
+    "pt": {
+      "title": "Use música por IA em uma demo de protótipo sem induzir o feedback",
+      "description": "Um método prático para equipes pequenas esboçarem música para uma demo, compararem com silêncio e manterem a avaliação no produto.",
+      "summary": "Dê uma função a cada cue, teste primeiro o corte silencioso e não deixe uma boa base esconder um fluxo confuso.",
+      "body": [
+        "Um protótipo pode parecer mais pronto assim que uma faixa suave começa; justamente por isso a música pede cuidado em uma demo. Se um pad crescente cria impulso, é fácil confundir essa sensação com confiança no onboarding ou no checkout. A pergunta útil não é ‘qual música é legal?’, mas ‘o que este cue ajuda a pessoa a perceber?’.",
+        "Comece por uma versão de referência em silêncio. Grave a tarefa completa e marque apenas três pontos onde o áudio pode ter uma função: o contexto inicial, uma transição bem-sucedida e o encerramento. Veja primeiro a versão silenciosa com alguém da equipe. Se a tarefa não fica clara sem música, conserte interface ou narração antes do prompt.",
+        "kaivorMusic.AI é uma ferramenta de criação musical por IA que transforma direções escritas em rascunhos para ouvir e comparar. No AI Music Generator, dê ao cue uma tarefa estreita em vez de pedir apenas ‘música de startup’: https://kaivormusic.ai/pt/ai-music-generator . Por exemplo: ‘walkthrough instrumental de produto, 18 segundos, pulso contido, piano elétrico quente, sem voz, espaço para rótulos falados, pequena subida aos 12 segundos, final limpo’.",
+        "Faça dois esboços deliberadamente diferentes, além do silêncio. Um pode ter ritmo leve e o outro ser quase só textura; mantenha duração e pontos de corte. Chame-os de A, B e silêncio, não de ‘empolgante’ ou ‘premium’. Na revisão interna, pergunte o que as pessoas entenderam, onde hesitaram e se algum cue tirou atenção de um controle.",
+        "Trate a música do protótipo como uma camada removível. Evite uma subida dramática antes de um resultado fraco, um clique que sugira sucesso quando a interface não confirmou, ou um loop que esconda uma espera longa. A orientação da Apple recomenda não comunicar informação importante apenas pelo som; a orientação do W3C sobre fala em primeiro plano lembra manter o fundo baixo ou desligável. Estados visíveis, legendas e a interação devem fazer o trabalho importante.",
+        "FAQ: música deve tocar em um teste de usabilidade? Em geral, teste primeiro a versão silenciosa e acrescente áudio só se ele fizer parte da experiência pretendida. Toda tela precisa de cue? Não; uma abertura e uma transição bastam muitas vezes. Um rascunho de IA pode ir direto para um vídeo de lançamento? Não automaticamente: verifique acordos, regras da plataforma e termos: https://kaivormusic.ai/pt/tos . A música deve enquadrar uma história clara do produto, não fazer um protótipo confuso parecer resolvido."
+      ]
+    },
+    "ru": {
+      "title": "Как использовать AI-музыку в демо прототипа, не направляя отзывы",
+      "description": "Практический подход для небольших команд: набросать музыку к демо, сравнить её с тишиной и сохранить фокус оценки на продукте.",
+      "summary": "Дайте каждому кью задачу, сначала проверьте немой монтаж и не позволяйте приятной подложке скрыть неясный сценарий.",
+      "body": [
+        "Прототип может казаться готовее, как только начинается мягкая музыка; именно поэтому в продуктовой демонстрации с ней нужно осторожно обращаться. Нарастающий pad создаёт ощущение движения, которое легко принять за уверенность в онбординге или оплате. Полезнее спрашивать не «какая музыка классная?», а «что это кью помогает заметить?».",
+        "Начните с немой эталонной версии. Запишите весь сценарий и отметьте лишь три места, где у звука может быть задача: начальный контекст, удачный переход и финальная передача. Сначала посмотрите немую версию с коллегой. Если задача неясна без музыки, исправьте интерфейс или дикторский текст до работы с промптом.",
+        "kaivorMusic.AI — инструмент создания музыки с AI, который превращает письменные указания в черновики для прослушивания и сравнения. В AI Music Generator задайте кью узкую функцию, а не просто «музыку для стартапа»: https://kaivormusic.ai/ru/ai-music-generator . Например: «18-секундный инструментальный walkthrough продукта, сдержанный pulse, тёплое электрическое пианино, без вокала, место для голосовых подписей, небольшой подъём на 12-й секунде, чёткий финал».",
+        "Сделайте два намеренно разных наброска и версию без звука. В одном может быть лёгкий ритм, второй может быть почти одной texture; длительность и точки монтажа сохраняйте одинаковыми. Называйте их A, B и «тишина», а не «захватывающий» или «премиальный». На внутреннем просмотре спросите, что поняли люди, где они замешкались и отвлекало ли кью от элемента управления.",
+        "Считайте музыку прототипа съёмным слоем. Не ставьте драматический подъём перед слабым результатом, не обозначайте click-звуком успех, который интерфейс не подтвердил, и не прячьте долгую загрузку loop'ом. Рекомендации Apple советуют не передавать важную информацию только звуком; руководство W3C о речи напоминает держать фон тихим или отключаемым. Видимые статусы, субтитры и само взаимодействие должны выполнять главную роль.",
+        "FAQ: должна ли музыка играть на usability-тесте? Обычно сначала тестируют немую версию, а звук добавляют только если он часть задуманного опыта. Нужен ли кью на каждом экране? Нет, часто достаточно вступления и одного перехода. Можно ли сразу использовать AI-черновик в ролике запуска? Не автоматически: проверьте договорённости, правила платформы и условия: https://kaivormusic.ai/ru/tos . Музыка должна обрамлять ясную историю продукта, а не делать неясный прототип похожим на готовый."
+      ]
+    },
+    "zh": {
+      "title": "在产品原型演示中使用 AI 音乐，又不引导反馈",
+      "description": "面向小团队的实用方法：为产品演示试做音乐、与静音版对照，让评估仍聚焦产品而不是配乐。",
+      "summary": "为每段短 cue 设定任务，先测试静音剪辑，不要让好听的底音掩盖混乱的流程。",
+      "body": [
+        "柔和的音乐一响，原型往往立刻显得更完整；也正因如此，产品演示里的音乐需要格外克制。上扬的 pad 会制造推进感，人们很容易把这种感觉误认为对引导流程或支付流程的信心。更有用的问题不是“什么音乐更酷”，而是“这段 cue 帮观众注意到什么”。",
+        "先做一个静音的基准版本。录下完整任务流程，只标出三个声音可能有职责的时刻：开场语境、一次成功的转换和最后的交接。先和同事一起看静音版。如果没有音乐任务就讲不清楚，应先修界面或旁白，再写提示词。",
+        "kaivorMusic.AI 是把文字方向转成可试听、可比较音乐草稿的 AI 音乐创作工具。在 AI Music Generator 中，应给 cue 一个窄而明确的任务，不要只写“创业公司音乐”：https://kaivormusic.ai/zh/ai-music-generator 。例如：“18秒产品 walkthrough 配乐，克制的 pulse，温暖电钢琴，无人声，为口头标签留出空间，第12秒轻微上扬，明确收尾。”",
+        "制作两版有意不同的草稿，再加一个静音版。一版可以有轻微节奏，另一版几乎只保留 texture；长度和剪辑点保持相同。把它们称为 A、B、静音，不要叫“更高级”或“更激动人心”。内部评审时，询问大家理解了什么、在哪里犹豫、哪一段 cue 是否让注意力离开了控件。这比投票选个人喜好更有价值。",
+        "把原型音乐看成可移除的一层。不要在一个薄弱结果前加入戏剧性上扬，不要在界面未确认成功时用 click 音暗示成功，也不要用 loop 遮掩漫长等待。Apple 的界面指导建议不要只用声音传达重要信息；W3C 对前景语音的说明也提醒我们，应让背景音足够低，或可被关闭。可见状态、字幕和实际交互必须承担关键工作。",
+        "FAQ：可用性测试时应播放音乐吗？通常先测试静音版，只有音频本来就是预期体验的一部分时才加入。每个页面都需要 cue 吗？不需要，开场和一次转场通常已足够。AI 草稿能直接用于发布视频吗？不能自动视为可用；请针对用途检查项目协议、平台规则和条款：https://kaivormusic.ai/zh/tos 。音乐应当框定清晰的产品故事，而不是让混乱的原型看上去已经解决。"
+      ]
+    },
+    "ar": {
+      "title": "استخدم موسيقى AI في عرض النموذج الأولي من دون توجيه الملاحظات",
+      "description": "طريقة عملية للفرق الصغيرة لرسم موسيقى عرض المنتج ومقارنتها بالصمت، كي يبقى التقييم موجهاً إلى المنتج لا إلى الموسيقى.",
+      "summary": "امنح كل cue وظيفة، واختبر النسخة الصامتة أولاً، ولا تدع طبقة جميلة تخفي مساراً مربكاً.",
+      "body": [
+        "قد يبدو النموذج الأولي أكثر اكتمالاً فور بدء مقطع هادئ، ولهذا بالذات تحتاج الموسيقى في عرض المنتج إلى حذر. إذا صنع pad صاعد إحساساً بالتقدم، فمن السهل الخلط بينه وبين الثقة في مسار البدء أو الدفع. السؤال المفيد ليس «ما الموسيقى الرائعة؟» بل «ما الذي يساعد هذا الـcue المشاهد على ملاحظته؟».",
+        "ابدأ بنسخة مرجعية صامتة. سجّل المهمة كاملة، ثم علّم ثلاثة مواضع فقط يمكن للصوت أن يؤدي فيها وظيفة: سياق البداية، انتقال ناجح، وتسليم النهاية. شاهد النسخة الصامتة أولاً مع زميل. إذا لم تكن المهمة واضحة من دون موسيقى، فأصلح الواجهة أو السرد قبل كتابة prompt.",
+        "kaivorMusic.AI أداة لإنشاء الموسيقى بالذكاء الاصطناعي تحول التعليمات المكتوبة إلى مسودات موسيقية يمكن سماعها ومقارنتها. في AI Music Generator امنح الـcue مهمة محددة بدلاً من طلب «موسيقى لشركة ناشئة» فقط: https://kaivormusic.ai/ar/ai-music-generator . مثال: «موسيقى instrumentals لمدة 18 ثانية لجولة منتج، pulse متحفظ، electric piano دافئ، بلا غناء، مساحة للتسميات المنطوقة، ارتفاع خفيف عند الثانية 12، نهاية واضحة».",
+        "أنشئ مسودتين مختلفتين عمداً، إضافة إلى الصمت. يمكن أن تحتوي الأولى على إيقاع خفيف وأن تكون الثانية texture في معظمها؛ أبقِ المدة ونقاط المونتاج متماثلة. سمّها A وB والصمت، لا «مثير» أو «فاخر». في المراجعة الداخلية اسأل ما الذي فُهم، وأين حدث التردد، وهل سحب cue الانتباه من عنصر تحكم.",
+        "تعامل مع موسيقى النموذج الأولي كطبقة قابلة للإزالة. تجنب تصاعداً درامياً قبل نتيجة ضعيفة، أو صوت click يوحي بالنجاح حين لا تؤكده الواجهة، أو loop يخفي انتظاراً طويلاً. تنصح إرشادات Apple بعدم نقل المعلومات المهمة بالصوت وحده، كما يذكّر توجيه W3C الخاص بالكلام في المقدمة بإبقاء الخلفية منخفضة أو قابلة للإيقاف. يجب أن تحمل الحالات المرئية والترجمة والتفاعل الفعلي العمل المهم.",
+        "FAQ: هل ينبغي تشغيل الموسيقى أثناء اختبار قابلية الاستخدام؟ اختبر النسخة الصامتة عادة أولاً، وأضف الصوت فقط إذا كان جزءاً من التجربة المقصودة. هل يحتاج كلّ شاشة إلى cue؟ لا؛ تكفي البداية وانتقال واحد في كثير من الأحيان. هل يمكن وضع مسودة AI مباشرة في فيديو الإطلاق؟ ليس تلقائياً؛ راجع الاتفاقات وقواعد المنصة والشروط للاستخدام المقصود: https://kaivormusic.ai/ar/tos . على الموسيقى أن تؤطّر قصة منتج واضحة، لا أن تجعل نموذجاً مربكاً يبدو محلولاً."
+      ]
+    }
+  }
+}
